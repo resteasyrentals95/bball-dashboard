@@ -3,77 +3,109 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
+<meta name="theme-color" content="#012169">
 <title>Duke MBB + NBA Dashboard</title>
 <style>
   :root{
-    --duke:#003087; --duke-light:#0a4bd0; --bg:#0d1117; --panel:#161b22;
-    --panel2:#1c2330; --border:#2a3340; --text:#e6edf3; --muted:#8b97a6;
-    --accent:#f5a623; --win:#3fb950; --live:#f85149;
+    --bg:#0b0e14; --panel:#141922; --panel2:#1b2330; --border:#28323f;
+    --text:#eef3f9; --muted:#93a0b1; --win:#3fb950; --live:#ff4d4d;
+    /* theme vars (overridden per tab) */
+    --primary:#012169; --primary2:#0736A4; --accent:#5b9bff; --chip:#0736A4;
   }
+  body.theme-duke{ --primary:#001A57; --primary2:#0a4bd8; --accent:#5b9bff; --chip:#0a4bd8; }
+  body.theme-nba{  --primary:#1d428a; --primary2:#c8102e; --accent:#ff6b7d; --chip:#c8102e; }
   *{box-sizing:border-box}
-  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-    background:var(--bg);color:var(--text);line-height:1.45}
-  header{background:linear-gradient(135deg,var(--duke),var(--duke-light));padding:18px 22px;
-    display:flex;align-items:center;justify-content:space-between;flex-wrap:wrap;gap:10px;
-    box-shadow:0 2px 12px rgba(0,0,0,.4)}
-  header h1{margin:0;font-size:20px;letter-spacing:.3px}
-  header .meta{font-size:12px;opacity:.85}
-  .wrap{max-width:1100px;margin:0 auto;padding:18px}
-  .tabs{display:flex;gap:8px;margin:6px 0 18px}
-  .tab{background:var(--panel);border:1px solid var(--border);color:var(--text);
-    padding:9px 18px;border-radius:999px;cursor:pointer;font-size:14px;font-weight:600}
-  .tab.active{background:var(--duke-light);border-color:var(--duke-light)}
+  html,body{margin:0}
+  body{font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+    background:var(--bg);color:var(--text);line-height:1.45;-webkit-font-smoothing:antialiased;
+    transition:background .3s}
+  /* ---------- header ---------- */
+  header{position:sticky;top:0;z-index:20;
+    background:linear-gradient(135deg,var(--primary) 0%,var(--primary2) 100%);
+    padding:16px 20px;display:flex;align-items:center;gap:14px;flex-wrap:wrap;
+    box-shadow:0 4px 18px rgba(0,0,0,.45);transition:background .3s}
+  .logo-badge{width:52px;height:52px;border-radius:50%;background:#fff;flex:0 0 auto;
+    display:flex;align-items:center;justify-content:center;box-shadow:0 2px 8px rgba(0,0,0,.35)}
+  .logo-badge img{width:40px;height:40px;object-fit:contain}
+  .htext{flex:1;min-width:0}
+  .htext h1{margin:0;font-size:19px;letter-spacing:.2px;line-height:1.15}
+  .htext .sub{font-size:12px;opacity:.9;margin-top:2px}
+  .updated{font-size:11px;opacity:.85;white-space:nowrap}
+  /* ---------- tabs ---------- */
+  .tabbar{position:sticky;top:84px;z-index:15;background:var(--bg);padding:12px 20px 4px;
+    display:flex;gap:10px;border-bottom:1px solid var(--border)}
+  .tab{display:flex;align-items:center;gap:8px;background:var(--panel);border:1px solid var(--border);
+    color:var(--text);padding:8px 16px;border-radius:999px;cursor:pointer;font-size:14px;font-weight:700}
+  .tab img{width:20px;height:20px;object-fit:contain;background:#fff;border-radius:50%;padding:2px}
+  .tab.active{background:linear-gradient(135deg,var(--primary),var(--primary2));border-color:transparent}
+  /* ---------- layout ---------- */
+  .wrap{max-width:1120px;margin:0 auto;padding:18px 20px 40px}
   .grid{display:grid;grid-template-columns:1fr;gap:18px}
-  @media(min-width:820px){.grid{grid-template-columns:1.1fr .9fr}}
-  .card{background:var(--panel);border:1px solid var(--border);border-radius:12px;overflow:hidden}
-  .card h2{margin:0;padding:13px 16px;font-size:14px;text-transform:uppercase;letter-spacing:.6px;
-    color:var(--muted);border-bottom:1px solid var(--border);background:var(--panel2)}
-  .card .body{padding:6px 0}
-  /* news */
-  .news{display:block;padding:12px 16px;border-bottom:1px solid var(--border);text-decoration:none;color:inherit}
+  @media(min-width:860px){.grid{grid-template-columns:1.1fr .9fr}}
+  .card{background:var(--panel);border:1px solid var(--border);border-radius:14px;overflow:hidden;
+    box-shadow:0 1px 0 rgba(255,255,255,.02)}
+  .card h2{margin:0;padding:13px 16px;font-size:13px;text-transform:uppercase;letter-spacing:.7px;
+    color:#fff;border-bottom:1px solid var(--border);
+    background:linear-gradient(135deg,var(--primary),var(--primary2));
+    display:flex;align-items:center;gap:8px}
+  .card h2 .dot{width:8px;height:8px;border-radius:50%;background:var(--accent)}
+  .card .body{padding:4px 0}
+  /* ---------- news ---------- */
+  .news{display:flex;gap:12px;padding:13px 16px;border-bottom:1px solid var(--border);
+    text-decoration:none;color:inherit}
   .news:last-child{border-bottom:none}
   .news:hover{background:var(--panel2)}
-  .news .hl{font-weight:600;font-size:14.5px}
-  .news .desc{color:var(--muted);font-size:13px;margin-top:3px}
-  .news .row{display:flex;align-items:center;gap:8px;margin-top:6px;font-size:11.5px;color:var(--muted)}
-  .badge{font-size:10px;font-weight:700;text-transform:uppercase;letter-spacing:.5px;
-    padding:2px 7px;border-radius:5px;background:var(--accent);color:#1a1100}
-  /* games */
-  .game{padding:12px 16px;border-bottom:1px solid var(--border)}
+  .news .thumb{width:64px;height:64px;border-radius:9px;object-fit:cover;flex:0 0 auto;background:var(--panel2)}
+  .news .txt{min-width:0}
+  .news .hl{font-weight:650;font-size:14.5px}
+  .news .desc{color:var(--muted);font-size:12.5px;margin-top:3px;
+    display:-webkit-box;-webkit-line-clamp:2;-webkit-box-orient:vertical;overflow:hidden}
+  .news .row{display:flex;align-items:center;gap:8px;margin-top:6px;font-size:11px;color:var(--muted)}
+  .badge{font-size:10px;font-weight:800;text-transform:uppercase;letter-spacing:.5px;
+    padding:2px 8px;border-radius:6px;background:var(--accent);color:#06121f}
+  /* ---------- games ---------- */
+  .game{padding:14px 16px;border-bottom:1px solid var(--border)}
   .game:last-child{border-bottom:none}
-  .gstatus{font-size:11px;text-transform:uppercase;letter-spacing:.5px;color:var(--muted);margin-bottom:7px;
-    display:flex;justify-content:space-between}
-  .gstatus .live{color:var(--live);font-weight:700}
-  .gstatus .final{color:var(--win);font-weight:700}
-  .team{display:flex;align-items:center;gap:10px;padding:3px 0}
-  .team img{width:24px;height:24px;object-fit:contain}
-  .team .tn{flex:1;font-weight:600;font-size:14px}
+  .gstatus{font-size:11px;text-transform:uppercase;letter-spacing:.5px;color:var(--muted);
+    margin-bottom:9px;display:flex;justify-content:space-between}
+  .gstatus .live{color:var(--live);font-weight:800}
+  .gstatus .final{color:var(--win);font-weight:800}
+  .team{display:flex;align-items:center;gap:11px;padding:4px 0}
+  .team img{width:28px;height:28px;object-fit:contain}
+  .team .tn{flex:1;font-weight:650;font-size:14.5px}
   .team .rec{color:var(--muted);font-size:11.5px;font-weight:400}
-  .team .sc{font-variant-numeric:tabular-nums;font-weight:700;font-size:16px;min-width:34px;text-align:right}
+  .team .sc{font-variant-numeric:tabular-nums;font-weight:800;font-size:18px;min-width:36px;text-align:right}
   .team.w .tn,.team.w .sc{color:var(--win)}
-  .leaders{margin-top:9px;border-top:1px dashed var(--border);padding-top:8px}
-  .leaders .lt{font-size:11px;color:var(--muted);text-transform:uppercase;letter-spacing:.5px}
-  .leaders ul{margin:4px 0 0;padding-left:0;list-style:none}
-  .leaders li{font-size:12.5px;padding:1px 0;color:var(--text)}
-  .leaders li b{color:var(--accent);font-weight:600}
-  .empty{padding:22px 16px;color:var(--muted);font-size:13px;text-align:center}
-  .pane{display:none}
-  .pane.active{display:block}
-  footer{max-width:1100px;margin:8px auto 30px;padding:0 18px;color:var(--muted);font-size:11.5px}
+  .leaders{margin-top:11px;border-top:1px dashed var(--border);padding-top:9px}
+  .leaders .lt{font-size:10.5px;color:var(--muted);text-transform:uppercase;letter-spacing:.6px;margin-bottom:4px}
+  .leaders ul{margin:0;padding-left:0;list-style:none}
+  .leaders li{font-size:12.5px;padding:2px 0}
+  .leaders li b{color:var(--accent);font-weight:800}
+  .empty{padding:24px 16px;color:var(--muted);font-size:13px;text-align:center}
+  .pane{display:none}.pane.active{display:block}
+  footer{max-width:1120px;margin:0 auto;padding:0 20px 36px;color:var(--muted);font-size:11.5px}
   .err{background:#3d1d1d;border:1px solid #5c2626;color:#f7b5b5;padding:8px 12px;border-radius:8px;
-    margin-bottom:14px;font-size:12.5px}
+    margin:0 0 14px;font-size:12.5px}
 </style>
 </head>
-<body>
+<body class="theme-duke">
 <header>
-  <h1>🏀 Duke MBB &amp; NBA — Daily Dashboard</h1>
-  <div class="meta" id="meta"></div>
-</header>
-<div class="wrap">
-  <div class="tabs">
-    <button class="tab active" data-pane="duke">Duke Blue Devils</button>
-    <button class="tab" data-pane="nba">NBA</button>
+  <div class="logo-badge"><img id="hlogo" alt="logo"></div>
+  <div class="htext">
+    <h1 id="htitle">Duke Blue Devils</h1>
+    <div class="sub" id="hsub">Men's Basketball</div>
   </div>
+  <div class="updated" id="updated"></div>
+</header>
+<div class="tabbar">
+  <button class="tab active" data-pane="duke" id="tab-duke">
+    <img src="https://a.espncdn.com/i/teamlogos/ncaa/500/150.png" alt="">Duke
+  </button>
+  <button class="tab" data-pane="nba" id="tab-nba">
+    <img src="https://a.espncdn.com/i/teamlogos/leagues/500/nba.png" alt="">NBA
+  </button>
+</div>
+<div class="wrap">
   <div id="errbox"></div>
   <div class="pane active" id="pane-duke"></div>
   <div class="pane" id="pane-nba"></div>
@@ -81,103 +113,102 @@
 <footer id="footer"></footer>
 
 <script>
-const DATA = {"generated_at": "2026-05-30T03:37:17.449700+00:00", "duke": {"news": [{"headline": "2026 NBA draft big board rankings: Top 100 prospects", "description": "After the college withdrawal deadline, a wave of returners reshapes ESPN's latest 2026 NBA draft top 100.", "published": "2026-05-29T15:18:31Z", "link": "https://www.espn.com/nba/story/_/id/46886245/2026-nba-draft-big-board-rankings-top-100-prospects-players", "image": "https://a.espncdn.com/photo/2026/0524/100_days_1296x729.png", "recruiting": true}, {"headline": "College teams that won -- or lost -- at the NBA draft withdrawal deadline", "description": "Vanderbilt stays in the national conversation with Tyler Tanner's return. Here are more high-impact decisions.", "published": "2026-05-28T14:35:43Z", "link": "https://www.espn.com/mens-college-basketball/story/_/id/48899197/nba-draft-withdrawal-deadline-winners-losers-st-johns-vanderbilt-2026", "image": "https://a.espncdn.com/photo/2026/0108/r1597946_1296x729_16-9.jpg", "recruiting": false}, {"headline": "Boys' basketball recruiting: The 2027, 2028, 2029 race for No. 1", "description": "Are Marcus Spears Jr. (2027), A.J. Williams (2028) and JJ Crawford (2029) secure at No. 1?", "published": "2026-05-27T13:33:30Z", "link": "https://www.espn.com/mens-college-basketball/story/_/id/48884981/boys-high-school-basketball-recruiting-meet-no-1-sc-next-class-2027-2028-2029-challengers", "image": "https://a.espncdn.com/photo/2026/0527/r1664383_1296x729_16-9.png", "recruiting": true}, {"headline": "Ex-Wisconsin guard John Blackwell withdraws from NBA draft, heads to Duke", "description": "Former Wisconsin guard John Blackwell is withdrawing from the NBA draft and will play at Duke next season.", "published": "2026-05-22T20:56:53Z", "link": "https://www.espn.com/mens-college-basketball/story/_/id/48846604/ex-wisconsin-guard-john-blackwell-withdraws-nba-draft-heads-duke", "image": "https://a.espncdn.com/photo/2025/0829/r1538505_600x400_3-2.jpg", "recruiting": false}, {"headline": "2026 NBA mock draft: Projecting all 60 picks post-combine", "description": "Jeremy Woo's updated mock draft and predicting all 60 picks after an exciting week at the 2026 NBA combine.", "published": "2026-05-20T13:10:00Z", "link": "https://www.espn.com/nba/story/_/id/48790115/2026-nba-mock-draft-projecting-60-picks-post-combine-peterson-dybantsa-boozer", "image": "https://a.espncdn.com/photo/2026/0516/nba_mock_draft_post_combine_cr_16x9.jpg", "recruiting": false}, {"headline": "Transfers, recruits and roster moves for key men's NCAA basketball teams", "description": "We're tracking all the player movement across key programs during the offseason ahead of 2026-27.", "published": "2026-05-19T17:29:45Z", "link": "https://www.espn.com/mens-college-basketball/story/_/id/48676027/mens-college-basketball-rosters-transfers-recruits-freshmen-2026-2027", "image": "https://a.espncdn.com/photo/2026/0407/r1639666_1296x729_16-9.jpg", "recruiting": true}], "games": [{"id": "401820778", "name": "Duke Blue Devils at NC State Wolfpack", "date": "2026-03-03T00:00Z", "state": "post", "completed": true, "status": "Final", "competitors": [{"abbr": "NCSU", "name": "NC State", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png", "score": {"value": 64.0, "displayValue": "64"}, "homeAway": "home", "record": "", "winner": false}, {"abbr": "DUKE", "name": "Duke", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png", "score": {"value": 93.0, "displayValue": "93"}, "homeAway": "away", "record": "", "winner": true}], "league": "mens-college-basketball", "leaders": {"DUKE": ["Cameron Boozer \u2014 26 PTS, 9 REB, 6 AST", "Dame Sarr \u2014 16 PTS, 9 REB, 1 AST"], "NCSU": ["Darrion Williams \u2014 17 PTS, 1 REB, 0 AST", "Quadir Copeland \u2014 11 PTS, 2 REB, 5 AST"]}}, {"id": "401820788", "name": "North Carolina Tar Heels at Duke Blue Devils", "date": "2026-03-07T23:30Z", "state": "post", "completed": true, "status": "Final", "competitors": [{"abbr": "DUKE", "name": "Duke", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png", "score": {"value": 76.0, "displayValue": "76"}, "homeAway": "home", "record": "", "winner": true}, {"abbr": "UNC", "name": "North Carolina", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png", "score": {"value": 61.0, "displayValue": "61"}, "homeAway": "away", "record": "", "winner": false}], "league": "mens-college-basketball", "leaders": {"UNC": ["Derek Dixon \u2014 17 PTS, 1 REB, 3 AST", "Henri Veesaar \u2014 11 PTS, 9 REB, 3 AST"], "DUKE": ["Cameron Boozer \u2014 26 PTS, 15 REB, 5 AST", "Maliq Brown \u2014 15 PTS, 10 REB, 2 AST"]}}, {"id": "401851179", "name": "Florida State Seminoles at Duke Blue Devils", "date": "2026-03-12T23:00Z", "state": "post", "completed": true, "status": "Final", "competitors": [{"abbr": "DUKE", "name": "Duke", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png", "score": {"value": 80.0, "displayValue": "80"}, "homeAway": "home", "record": "", "winner": true}, {"abbr": "FSU", "name": "Florida St", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png", "score": {"value": 79.0, "displayValue": "79"}, "homeAway": "away", "record": "", "winner": false}], "league": "mens-college-basketball", "leaders": {"FSU": ["Lajae Jones \u2014 28 PTS, 5 REB, 1 AST", "Robert McCray V \u2014 25 PTS, 5 REB, 4 AST"], "DUKE": ["Isaiah Evans \u2014 32 PTS, 6 REB, 3 AST", "Cameron Boozer \u2014 23 PTS, 10 REB, 4 AST"]}}, {"id": "401851182", "name": "Clemson Tigers at Duke Blue Devils", "date": "2026-03-14T01:35Z", "state": "post", "completed": true, "status": "Final", "competitors": [{"abbr": "DUKE", "name": "Duke", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png", "score": {"value": 73.0, "displayValue": "73"}, "homeAway": "home", "record": "", "winner": true}, {"abbr": "CLEM", "name": "Clemson", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png", "score": {"value": 61.0, "displayValue": "61"}, "homeAway": "away", "record": "", "winner": false}], "league": "mens-college-basketball", "leaders": {"CLEM": ["RJ Godfrey \u2014 18 PTS, 6 REB, 1 AST", "Jestin Porter \u2014 12 PTS, 2 REB, 1 AST"], "DUKE": ["Cameron Boozer \u2014 24 PTS, 14 REB, 5 AST", "Cayden Boozer \u2014 16 PTS, 3 REB, 1 AST"]}}, {"id": "401851183", "name": "Virginia Cavaliers at Duke Blue Devils", "date": "2026-03-15T00:40Z", "state": "post", "completed": true, "status": "Final", "competitors": [{"abbr": "DUKE", "name": "Duke", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png", "score": {"value": 74.0, "displayValue": "74"}, "homeAway": "home", "record": "", "winner": true}, {"abbr": "UVA", "name": "Virginia", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png", "score": {"value": 70.0, "displayValue": "70"}, "homeAway": "away", "record": "", "winner": false}], "league": "mens-college-basketball", "leaders": {"UVA": ["Malik Thomas \u2014 18 PTS, 2 REB, 0 AST", "Sam Lewis \u2014 17 PTS, 4 REB, 1 AST"], "DUKE": ["Isaiah Evans \u2014 20 PTS, 2 REB, 1 AST", "Cayden Boozer \u2014 16 PTS, 5 REB, 4 AST"]}}]}, "nba": {"news": [{"headline": "2026 NBA playoffs: Spurs-Thunder Game 7 preview, picks, X factors", "description": "Spurs-Thunder is headed to Game 7. What was most surprising about San Antonio's Game 6 win? And who is the biggest X factor for Saturday's game?", "published": "2026-05-30T01:43:17Z", "link": "https://www.espn.com/nba/story/_/id/48902205/2026-nba-playoffs-san-antonio-spurs-oklahoma-city-thunder-game-6-recap-game-7-preview", "image": "https://a.espncdn.com/photo/2026/0530/r1665610_608x342_16-9.jpg", "recruiting": false}, {"headline": "2026 NBA buzz: Latest news, injuries, league intel, updates", "description": "Here's what our NBA insiders are hearing, including the latest on moves the Cavs could make this offseason.", "published": "2026-05-30T01:18:41Z", "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason", "image": "https://a.espncdn.com/photo/2026/0502/r1652551_608x342_16-9.jpg", "recruiting": false}, {"headline": "76ers tab Cavs GM Mike Gansey to lead basketball operations", "description": "Cleveland Cavaliers general manager Mike Gansey finalized a multiyear deal to become the new president of basketball operations for the Philadelphia 76ers, his agent, Bret Just of WME Basketball, told ESPN on Friday.", "published": "2026-05-30T00:36:21Z", "link": "https://www.espn.com/nba/story/_/id/48913578/76ers-tab-cavs-gm-mike-gansey-lead-basketball-operations", "image": "https://a.espncdn.com/photo/2014/0303/nba_g_76ers_logo_600x400.jpg", "recruiting": false}, {"headline": "Thunder to be without injured Jalen Williams for Game 7", "description": "Thunder wing Jalen Williams, who has been hampered by injuries all season, will not play in Saturday's Game 7 against the Spurs.", "published": "2026-05-29T23:30:02Z", "link": "https://www.espn.com/nba/story/_/id/48914043/thunder-injured-jalen-williams-game-7", "image": "https://a.espncdn.com/photo/2026/0521/r1661286_600x400_3-2.jpg", "recruiting": false}, {"headline": "NBA championship and Finals MVP odds: Thunder remain title favorites heading into Game 7 vs. Spurs", "description": "Game 7 is set for Saturday in Oklahoma City, with the Thunder-Spurs winner playing the Eastern Conference champion Knicks in the NBA Finals.", "published": "2026-05-29T18:52:13Z", "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting", "image": "https://a.espncdn.com/photo/2026/0529/r1665451_1296x729_16-9.jpg", "recruiting": false}], "games": [{"id": "401873203", "name": "San Antonio Spurs at Oklahoma City Thunder", "date": "2026-05-31T00:00Z", "state": "pre", "completed": false, "status": "5/30 - 8:00 PM EDT", "competitors": [{"abbr": "OKC", "name": "Thunder", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png", "score": "0", "homeAway": "home", "record": "64-18", "winner": false}, {"abbr": "SA", "name": "Spurs", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png", "score": "0", "homeAway": "away", "record": "62-20", "winner": false}], "league": "nba", "leaders": {"OKC": ["Shai Gilgeous-Alexander \u2014 31.1 PPG", "Chet Holmgren \u2014 8.9 RPG", "Shai Gilgeous-Alexander \u2014 6.6 APG"], "SA": ["Victor Wembanyama \u2014 25.0 PPG", "Victor Wembanyama \u2014 11.5 RPG", "Stephon Castle \u2014 7.4 APG"]}}]}, "errors": []};
+const DATA = {"generated_at": "2026-05-30T03:50:09.686912+00:00", "duke": {"news": [{"headline": "2026 NBA draft big board rankings: Top 100 prospects", "description": "After the college withdrawal deadline, a wave of returners reshapes ESPN's latest 2026 NBA draft top 100.", "published": "2026-05-29T15:18:31Z", "link": "https://www.espn.com/nba/story/_/id/46886245/2026-nba-draft-big-board-rankings-top-100-prospects-players", "image": "https://a.espncdn.com/photo/2026/0524/100_days_1296x729.png", "recruiting": true}, {"headline": "College teams that won -- or lost -- at the NBA draft withdrawal deadline", "description": "Vanderbilt stays in the national conversation with Tyler Tanner's return. Here are more high-impact decisions.", "published": "2026-05-28T14:35:43Z", "link": "https://www.espn.com/mens-college-basketball/story/_/id/48899197/nba-draft-withdrawal-deadline-winners-losers-st-johns-vanderbilt-2026", "image": "https://a.espncdn.com/photo/2026/0108/r1597946_1296x729_16-9.jpg", "recruiting": false}, {"headline": "Boys' basketball recruiting: The 2027, 2028, 2029 race for No. 1", "description": "Are Marcus Spears Jr. (2027), A.J. Williams (2028) and JJ Crawford (2029) secure at No. 1?", "published": "2026-05-27T13:33:30Z", "link": "https://www.espn.com/mens-college-basketball/story/_/id/48884981/boys-high-school-basketball-recruiting-meet-no-1-sc-next-class-2027-2028-2029-challengers", "image": "https://a.espncdn.com/photo/2026/0527/r1664383_1296x729_16-9.png", "recruiting": true}, {"headline": "Ex-Wisconsin guard John Blackwell withdraws from NBA draft, heads to Duke", "description": "Former Wisconsin guard John Blackwell is withdrawing from the NBA draft and will play at Duke next season.", "published": "2026-05-22T20:56:53Z", "link": "https://www.espn.com/mens-college-basketball/story/_/id/48846604/ex-wisconsin-guard-john-blackwell-withdraws-nba-draft-heads-duke", "image": "https://a.espncdn.com/photo/2025/0829/r1538505_600x400_3-2.jpg", "recruiting": false}, {"headline": "2026 NBA mock draft: Projecting all 60 picks post-combine", "description": "Jeremy Woo's updated mock draft and predicting all 60 picks after an exciting week at the 2026 NBA combine.", "published": "2026-05-20T13:10:00Z", "link": "https://www.espn.com/nba/story/_/id/48790115/2026-nba-mock-draft-projecting-60-picks-post-combine-peterson-dybantsa-boozer", "image": "https://a.espncdn.com/photo/2026/0516/nba_mock_draft_post_combine_cr_16x9.jpg", "recruiting": false}, {"headline": "Transfers, recruits and roster moves for key men's NCAA basketball teams", "description": "We're tracking all the player movement across key programs during the offseason ahead of 2026-27.", "published": "2026-05-19T17:29:45Z", "link": "https://www.espn.com/mens-college-basketball/story/_/id/48676027/mens-college-basketball-rosters-transfers-recruits-freshmen-2026-2027", "image": "https://a.espncdn.com/photo/2026/0407/r1639666_1296x729_16-9.jpg", "recruiting": true}], "games": [{"id": "401820778", "name": "Duke Blue Devils at NC State Wolfpack", "date": "2026-03-03T00:00Z", "state": "post", "completed": true, "status": "Final", "competitors": [{"abbr": "NCSU", "name": "NC State", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png", "score": {"value": 64.0, "displayValue": "64"}, "homeAway": "home", "record": "", "winner": false}, {"abbr": "DUKE", "name": "Duke", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png", "score": {"value": 93.0, "displayValue": "93"}, "homeAway": "away", "record": "", "winner": true}], "league": "mens-college-basketball", "leaders": {"DUKE": ["Cameron Boozer \u2014 26 PTS, 9 REB, 6 AST", "Dame Sarr \u2014 16 PTS, 9 REB, 1 AST"], "NCSU": ["Darrion Williams \u2014 17 PTS, 1 REB, 0 AST", "Quadir Copeland \u2014 11 PTS, 2 REB, 5 AST"]}}, {"id": "401820788", "name": "North Carolina Tar Heels at Duke Blue Devils", "date": "2026-03-07T23:30Z", "state": "post", "completed": true, "status": "Final", "competitors": [{"abbr": "DUKE", "name": "Duke", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png", "score": {"value": 76.0, "displayValue": "76"}, "homeAway": "home", "record": "", "winner": true}, {"abbr": "UNC", "name": "North Carolina", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png", "score": {"value": 61.0, "displayValue": "61"}, "homeAway": "away", "record": "", "winner": false}], "league": "mens-college-basketball", "leaders": {"UNC": ["Derek Dixon \u2014 17 PTS, 1 REB, 3 AST", "Henri Veesaar \u2014 11 PTS, 9 REB, 3 AST"], "DUKE": ["Cameron Boozer \u2014 26 PTS, 15 REB, 5 AST", "Maliq Brown \u2014 15 PTS, 10 REB, 2 AST"]}}, {"id": "401851179", "name": "Florida State Seminoles at Duke Blue Devils", "date": "2026-03-12T23:00Z", "state": "post", "completed": true, "status": "Final", "competitors": [{"abbr": "DUKE", "name": "Duke", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png", "score": {"value": 80.0, "displayValue": "80"}, "homeAway": "home", "record": "", "winner": true}, {"abbr": "FSU", "name": "Florida St", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png", "score": {"value": 79.0, "displayValue": "79"}, "homeAway": "away", "record": "", "winner": false}], "league": "mens-college-basketball", "leaders": {"FSU": ["Lajae Jones \u2014 28 PTS, 5 REB, 1 AST", "Robert McCray V \u2014 25 PTS, 5 REB, 4 AST"], "DUKE": ["Isaiah Evans \u2014 32 PTS, 6 REB, 3 AST", "Cameron Boozer \u2014 23 PTS, 10 REB, 4 AST"]}}, {"id": "401851182", "name": "Clemson Tigers at Duke Blue Devils", "date": "2026-03-14T01:35Z", "state": "post", "completed": true, "status": "Final", "competitors": [{"abbr": "DUKE", "name": "Duke", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png", "score": {"value": 73.0, "displayValue": "73"}, "homeAway": "home", "record": "", "winner": true}, {"abbr": "CLEM", "name": "Clemson", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png", "score": {"value": 61.0, "displayValue": "61"}, "homeAway": "away", "record": "", "winner": false}], "league": "mens-college-basketball", "leaders": {"CLEM": ["RJ Godfrey \u2014 18 PTS, 6 REB, 1 AST", "Jestin Porter \u2014 12 PTS, 2 REB, 1 AST"], "DUKE": ["Cameron Boozer \u2014 24 PTS, 14 REB, 5 AST", "Cayden Boozer \u2014 16 PTS, 3 REB, 1 AST"]}}, {"id": "401851183", "name": "Virginia Cavaliers at Duke Blue Devils", "date": "2026-03-15T00:40Z", "state": "post", "completed": true, "status": "Final", "competitors": [{"abbr": "DUKE", "name": "Duke", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png", "score": {"value": 74.0, "displayValue": "74"}, "homeAway": "home", "record": "", "winner": true}, {"abbr": "UVA", "name": "Virginia", "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png", "score": {"value": 70.0, "displayValue": "70"}, "homeAway": "away", "record": "", "winner": false}], "league": "mens-college-basketball", "leaders": {"UVA": ["Malik Thomas \u2014 18 PTS, 2 REB, 0 AST", "Sam Lewis \u2014 17 PTS, 4 REB, 1 AST"], "DUKE": ["Isaiah Evans \u2014 20 PTS, 2 REB, 1 AST", "Cayden Boozer \u2014 16 PTS, 5 REB, 4 AST"]}}]}, "nba": {"news": [{"headline": "2026 NBA playoffs: Spurs-Thunder Game 7 preview, picks, X factors", "description": "Spurs-Thunder is headed to Game 7. What was most surprising about San Antonio's Game 6 win? And who is the biggest X factor for Saturday's game?", "published": "2026-05-30T01:43:17Z", "link": "https://www.espn.com/nba/story/_/id/48902205/2026-nba-playoffs-san-antonio-spurs-oklahoma-city-thunder-game-6-recap-game-7-preview", "image": "https://a.espncdn.com/photo/2026/0530/r1665610_608x342_16-9.jpg", "recruiting": false}, {"headline": "2026 NBA buzz: Latest news, injuries, league intel, updates", "description": "Here's what our NBA insiders are hearing, including the latest on moves the Cavs could make this offseason.", "published": "2026-05-30T01:18:41Z", "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason", "image": "https://a.espncdn.com/photo/2026/0502/r1652551_608x342_16-9.jpg", "recruiting": false}, {"headline": "76ers tab Cavs GM Mike Gansey to lead basketball operations", "description": "Cleveland Cavaliers general manager Mike Gansey finalized a multiyear deal to become the new president of basketball operations for the Philadelphia 76ers, his agent, Bret Just of WME Basketball, told ESPN on Friday.", "published": "2026-05-30T00:36:21Z", "link": "https://www.espn.com/nba/story/_/id/48913578/76ers-tab-cavs-gm-mike-gansey-lead-basketball-operations", "image": "https://a.espncdn.com/photo/2014/0303/nba_g_76ers_logo_600x400.jpg", "recruiting": false}, {"headline": "Thunder to be without injured Jalen Williams for Game 7", "description": "Thunder wing Jalen Williams, who has been hampered by injuries all season, will not play in Saturday's Game 7 against the Spurs.", "published": "2026-05-29T23:30:02Z", "link": "https://www.espn.com/nba/story/_/id/48914043/thunder-injured-jalen-williams-game-7", "image": "https://a.espncdn.com/photo/2026/0521/r1661286_600x400_3-2.jpg", "recruiting": false}, {"headline": "NBA championship and Finals MVP odds: Thunder remain title favorites heading into Game 7 vs. Spurs", "description": "Game 7 is set for Saturday in Oklahoma City, with the Thunder-Spurs winner playing the Eastern Conference champion Knicks in the NBA Finals.", "published": "2026-05-29T18:52:13Z", "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting", "image": "https://a.espncdn.com/photo/2026/0529/r1665451_1296x729_16-9.jpg", "recruiting": false}], "games": [{"id": "401873203", "name": "San Antonio Spurs at Oklahoma City Thunder", "date": "2026-05-31T00:00Z", "state": "pre", "completed": false, "status": "5/30 - 8:00 PM EDT", "competitors": [{"abbr": "OKC", "name": "Thunder", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png", "score": "0", "homeAway": "home", "record": "64-18", "winner": false}, {"abbr": "SA", "name": "Spurs", "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png", "score": "0", "homeAway": "away", "record": "62-20", "winner": false}], "league": "nba", "leaders": {"OKC": ["Shai Gilgeous-Alexander \u2014 31.1 PPG", "Chet Holmgren \u2014 8.9 RPG", "Shai Gilgeous-Alexander \u2014 6.6 APG"], "SA": ["Victor Wembanyama \u2014 25.0 PPG", "Victor Wembanyama \u2014 11.5 RPG", "Stephon Castle \u2014 7.4 APG"]}}]}, "errors": []};
+const THEME = {
+  duke:{cls:"theme-duke", logo:"https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+        title:"Duke Blue Devils", sub:"Men's Basketball", color:"#012169",
+        newsTitle:"News & Recruiting"},
+  nba:{cls:"theme-nba", logo:"https://a.espncdn.com/i/teamlogos/leagues/500/nba.png",
+        title:"NBA", sub:"Around the league", color:"#1d428a",
+        newsTitle:"Latest Headlines"},
+};
 
-function fmtTime(iso){
-  if(!iso) return "";
-  const d = new Date(iso);
-  if(isNaN(d)) return "";
-  return d.toLocaleString(undefined,{month:"short",day:"numeric",hour:"numeric",minute:"2-digit"});
-}
-function timeAgo(iso){
-  if(!iso) return "";
-  const d = new Date(iso); if(isNaN(d)) return "";
-  const s = (Date.now()-d.getTime())/1000;
-  if(s<3600) return Math.max(1,Math.round(s/60))+"m ago";
-  if(s<86400) return Math.round(s/3600)+"h ago";
-  return Math.round(s/86400)+"d ago";
-}
+function fmtTime(iso){if(!iso)return"";const d=new Date(iso);if(isNaN(d))return"";
+  return d.toLocaleString(undefined,{month:"short",day:"numeric",hour:"numeric",minute:"2-digit"});}
+function timeAgo(iso){if(!iso)return"";const d=new Date(iso);if(isNaN(d))return"";
+  const s=(Date.now()-d.getTime())/1000;
+  if(s<3600)return Math.max(1,Math.round(s/60))+"m ago";
+  if(s<86400)return Math.round(s/3600)+"h ago";return Math.round(s/86400)+"d ago";}
 function esc(t){const e=document.createElement("div");e.textContent=t==null?"":t;return e.innerHTML;}
 
-function newsCard(title, articles){
-  let inner = "";
-  if(!articles || !articles.length){
-    inner = `<div class="empty">No headlines available right now.</div>`;
-  } else {
-    inner = articles.map(a=>`
+function newsCard(title,articles){
+  let inner = (!articles||!articles.length)
+    ? `<div class="empty">No headlines available right now.</div>`
+    : articles.map(a=>`
       <a class="news" href="${esc(a.link)}" target="_blank" rel="noopener">
-        <div class="hl">${esc(a.headline)}</div>
-        ${a.description?`<div class="desc">${esc(a.description)}</div>`:""}
-        <div class="row">
-          ${a.recruiting?`<span class="badge">Recruiting</span>`:""}
-          <span>${esc(timeAgo(a.published))}</span>
+        ${a.image?`<img class="thumb" src="${esc(a.image)}" alt="" loading="lazy">`:""}
+        <div class="txt">
+          <div class="hl">${esc(a.headline)}</div>
+          ${a.description?`<div class="desc">${esc(a.description)}</div>`:""}
+          <div class="row">
+            ${a.recruiting?`<span class="badge">Recruiting</span>`:""}
+            <span>${esc(timeAgo(a.published))}</span>
+          </div>
         </div>
       </a>`).join("");
-  }
-  return `<div class="card"><h2>${esc(title)}</h2><div class="body">${inner}</div></div>`;
+  return `<div class="card"><h2><span class="dot"></span>${esc(title)}</h2><div class="body">${inner}</div></div>`;
 }
 
 function gameBlock(g){
-  const statusCls = g.state==="in" ? "live" : (g.completed ? "final" : "");
-  const teams = (g.competitors||[]).map(c=>`
+  const cls = g.state==="in"?"live":(g.completed?"final":"");
+  const teams=(g.competitors||[]).map(c=>`
     <div class="team ${c.winner?'w':''}">
-      ${c.logo?`<img src="${esc(c.logo)}" alt="">`:`<span style="width:24px"></span>`}
+      ${c.logo?`<img src="${esc(c.logo)}" alt="">`:`<span style="width:28px"></span>`}
       <span class="tn">${esc(c.name)} ${c.record?`<span class="rec">(${esc(c.record)})</span>`:""}</span>
       <span class="sc">${esc(c.score)}</span>
     </div>`).join("");
-  let leaders = "";
-  const lk = Object.keys(g.leaders||{});
+  let leaders="";
+  const lk=Object.keys(g.leaders||{});
   if(lk.length){
-    const items = lk.flatMap(team =>
-      (g.leaders[team]||[]).map(l=>`<li><b>${esc(team)}</b> · ${esc(l)}</li>`)
-    ).join("");
-    if(items){
-      leaders = `<div class="leaders"><div class="lt">Top stat lines</div><ul>${items}</ul></div>`;
-    }
+    const items=lk.flatMap(t=>(g.leaders[t]||[]).map(l=>`<li><b>${esc(t)}</b> · ${esc(l)}</li>`)).join("");
+    if(items)leaders=`<div class="leaders"><div class="lt">Top stat lines</div><ul>${items}</ul></div>`;
   }
   return `<div class="game">
-    <div class="gstatus"><span class="${statusCls}">${esc(g.status||"")}</span><span>${esc(fmtTime(g.date))}</span></div>
-    ${teams}${leaders}
-  </div>`;
+    <div class="gstatus"><span class="${cls}">${esc(g.status||"")}</span><span>${esc(fmtTime(g.date))}</span></div>
+    ${teams}${leaders}</div>`;
 }
 
-function gamesCard(title, games){
-  let inner;
-  if(!games || !games.length){
-    inner = `<div class="empty">No games scheduled or recently played.</div>`;
-  } else {
-    inner = games.map(gameBlock).join("");
-  }
-  return `<div class="card"><h2>${esc(title)}</h2><div class="body">${inner}</div></div>`;
+function gamesCard(title,games){
+  const inner=(!games||!games.length)
+    ? `<div class="empty">No games scheduled or recently played.</div>`
+    : games.map(gameBlock).join("");
+  return `<div class="card"><h2><span class="dot"></span>${esc(title)}</h2><div class="body">${inner}</div></div>`;
 }
 
-function renderPane(id, league, newsTitle){
-  const d = DATA[league] || {news:[],games:[]};
-  document.getElementById("pane-"+id).innerHTML = `
+function renderPane(league){
+  const d=DATA[league]||{news:[],games:[]};
+  document.getElementById("pane-"+league).innerHTML=`
     <div class="grid">
-      ${newsCard(newsTitle, d.news)}
-      ${gamesCard("Scores & Top Stat Lines", d.games)}
+      ${newsCard(THEME[league].newsTitle,d.news)}
+      ${gamesCard("Scores & Top Stat Lines",d.games)}
     </div>`;
 }
 
+function applyTheme(league){
+  const t=THEME[league];
+  document.body.className=t.cls;
+  document.getElementById("hlogo").src=t.logo;
+  document.getElementById("htitle").textContent=t.title;
+  document.getElementById("hsub").textContent=t.sub;
+  const meta=document.querySelector('meta[name=theme-color]');if(meta)meta.content=t.color;
+}
+
 function init(){
-  if(!DATA){document.getElementById("errbox").innerHTML =
-    `<div class="err">No data loaded yet. Run <code>fetch_data.py</code> to populate the dashboard.</div>`;return;}
-  document.getElementById("meta").textContent = "Updated " + fmtTime(DATA.generated_at) +
-    " · auto-refreshes 8 AM & 8 PM";
-  if(DATA.errors && DATA.errors.length){
-    document.getElementById("errbox").innerHTML =
-      `<div class="err">Some sources failed this run: ${esc(DATA.errors.join("; "))}</div>`;
-  }
-  renderPane("duke","duke","Duke Men's Basketball — News & Recruiting");
-  renderPane("nba","nba","NBA — Latest Headlines");
-  document.getElementById("footer").innerHTML =
-    "Data: ESPN public endpoints · Times shown in your local timezone · Open this file anytime for the latest saved update.";
-  document.querySelectorAll(".tab").forEach(t=>t.addEventListener("click",()=>{
+  if(!DATA){document.getElementById("errbox").innerHTML=
+    `<div class="err">No data yet. Run <code>fetch_data.py</code> to populate.</div>`;return;}
+  document.getElementById("updated").textContent="Updated "+fmtTime(DATA.generated_at)+" · 8 AM & 8 PM";
+  if(DATA.errors&&DATA.errors.length)
+    document.getElementById("errbox").innerHTML=`<div class="err">Some sources failed: ${esc(DATA.errors.join("; "))}</div>`;
+  renderPane("duke");renderPane("nba");applyTheme("duke");
+  document.getElementById("footer").innerHTML=
+    "Data &amp; logos: ESPN · Times in your local timezone · Personal fan dashboard.";
+  document.querySelectorAll(".tab").forEach(tab=>tab.addEventListener("click",()=>{
     document.querySelectorAll(".tab").forEach(x=>x.classList.remove("active"));
     document.querySelectorAll(".pane").forEach(x=>x.classList.remove("active"));
-    t.classList.add("active");
-    document.getElementById("pane-"+t.dataset.pane).classList.add("active");
+    tab.classList.add("active");
+    const league=tab.dataset.pane;
+    document.getElementById("pane-"+league).classList.add("active");
+    applyTheme(league);
   }));
 }
 init();
