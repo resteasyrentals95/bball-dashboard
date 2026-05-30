@@ -1,0 +1,370 @@
+{
+  "generated_at": "2026-05-30T03:37:17.449700+00:00",
+  "duke": {
+    "news": [
+      {
+        "headline": "2026 NBA draft big board rankings: Top 100 prospects",
+        "description": "After the college withdrawal deadline, a wave of returners reshapes ESPN's latest 2026 NBA draft top 100.",
+        "published": "2026-05-29T15:18:31Z",
+        "link": "https://www.espn.com/nba/story/_/id/46886245/2026-nba-draft-big-board-rankings-top-100-prospects-players",
+        "image": "https://a.espncdn.com/photo/2026/0524/100_days_1296x729.png",
+        "recruiting": true
+      },
+      {
+        "headline": "College teams that won -- or lost -- at the NBA draft withdrawal deadline",
+        "description": "Vanderbilt stays in the national conversation with Tyler Tanner's return. Here are more high-impact decisions.",
+        "published": "2026-05-28T14:35:43Z",
+        "link": "https://www.espn.com/mens-college-basketball/story/_/id/48899197/nba-draft-withdrawal-deadline-winners-losers-st-johns-vanderbilt-2026",
+        "image": "https://a.espncdn.com/photo/2026/0108/r1597946_1296x729_16-9.jpg",
+        "recruiting": false
+      },
+      {
+        "headline": "Boys' basketball recruiting: The 2027, 2028, 2029 race for No. 1",
+        "description": "Are Marcus Spears Jr. (2027), A.J. Williams (2028) and JJ Crawford (2029) secure at No. 1?",
+        "published": "2026-05-27T13:33:30Z",
+        "link": "https://www.espn.com/mens-college-basketball/story/_/id/48884981/boys-high-school-basketball-recruiting-meet-no-1-sc-next-class-2027-2028-2029-challengers",
+        "image": "https://a.espncdn.com/photo/2026/0527/r1664383_1296x729_16-9.png",
+        "recruiting": true
+      },
+      {
+        "headline": "Ex-Wisconsin guard John Blackwell withdraws from NBA draft, heads to Duke",
+        "description": "Former Wisconsin guard John Blackwell is withdrawing from the NBA draft and will play at Duke next season.",
+        "published": "2026-05-22T20:56:53Z",
+        "link": "https://www.espn.com/mens-college-basketball/story/_/id/48846604/ex-wisconsin-guard-john-blackwell-withdraws-nba-draft-heads-duke",
+        "image": "https://a.espncdn.com/photo/2025/0829/r1538505_600x400_3-2.jpg",
+        "recruiting": false
+      },
+      {
+        "headline": "2026 NBA mock draft: Projecting all 60 picks post-combine",
+        "description": "Jeremy Woo's updated mock draft and predicting all 60 picks after an exciting week at the 2026 NBA combine.",
+        "published": "2026-05-20T13:10:00Z",
+        "link": "https://www.espn.com/nba/story/_/id/48790115/2026-nba-mock-draft-projecting-60-picks-post-combine-peterson-dybantsa-boozer",
+        "image": "https://a.espncdn.com/photo/2026/0516/nba_mock_draft_post_combine_cr_16x9.jpg",
+        "recruiting": false
+      },
+      {
+        "headline": "Transfers, recruits and roster moves for key men's NCAA basketball teams",
+        "description": "We're tracking all the player movement across key programs during the offseason ahead of 2026-27.",
+        "published": "2026-05-19T17:29:45Z",
+        "link": "https://www.espn.com/mens-college-basketball/story/_/id/48676027/mens-college-basketball-rosters-transfers-recruits-freshmen-2026-2027",
+        "image": "https://a.espncdn.com/photo/2026/0407/r1639666_1296x729_16-9.jpg",
+        "recruiting": true
+      }
+    ],
+    "games": [
+      {
+        "id": "401820778",
+        "name": "Duke Blue Devils at NC State Wolfpack",
+        "date": "2026-03-03T00:00Z",
+        "state": "post",
+        "completed": true,
+        "status": "Final",
+        "competitors": [
+          {
+            "abbr": "NCSU",
+            "name": "NC State",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
+            "score": {
+              "value": 64.0,
+              "displayValue": "64"
+            },
+            "homeAway": "home",
+            "record": "",
+            "winner": false
+          },
+          {
+            "abbr": "DUKE",
+            "name": "Duke",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+            "score": {
+              "value": 93.0,
+              "displayValue": "93"
+            },
+            "homeAway": "away",
+            "record": "",
+            "winner": true
+          }
+        ],
+        "league": "mens-college-basketball",
+        "leaders": {
+          "DUKE": [
+            "Cameron Boozer \u2014 26 PTS, 9 REB, 6 AST",
+            "Dame Sarr \u2014 16 PTS, 9 REB, 1 AST"
+          ],
+          "NCSU": [
+            "Darrion Williams \u2014 17 PTS, 1 REB, 0 AST",
+            "Quadir Copeland \u2014 11 PTS, 2 REB, 5 AST"
+          ]
+        }
+      },
+      {
+        "id": "401820788",
+        "name": "North Carolina Tar Heels at Duke Blue Devils",
+        "date": "2026-03-07T23:30Z",
+        "state": "post",
+        "completed": true,
+        "status": "Final",
+        "competitors": [
+          {
+            "abbr": "DUKE",
+            "name": "Duke",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+            "score": {
+              "value": 76.0,
+              "displayValue": "76"
+            },
+            "homeAway": "home",
+            "record": "",
+            "winner": true
+          },
+          {
+            "abbr": "UNC",
+            "name": "North Carolina",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+            "score": {
+              "value": 61.0,
+              "displayValue": "61"
+            },
+            "homeAway": "away",
+            "record": "",
+            "winner": false
+          }
+        ],
+        "league": "mens-college-basketball",
+        "leaders": {
+          "UNC": [
+            "Derek Dixon \u2014 17 PTS, 1 REB, 3 AST",
+            "Henri Veesaar \u2014 11 PTS, 9 REB, 3 AST"
+          ],
+          "DUKE": [
+            "Cameron Boozer \u2014 26 PTS, 15 REB, 5 AST",
+            "Maliq Brown \u2014 15 PTS, 10 REB, 2 AST"
+          ]
+        }
+      },
+      {
+        "id": "401851179",
+        "name": "Florida State Seminoles at Duke Blue Devils",
+        "date": "2026-03-12T23:00Z",
+        "state": "post",
+        "completed": true,
+        "status": "Final",
+        "competitors": [
+          {
+            "abbr": "DUKE",
+            "name": "Duke",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+            "score": {
+              "value": 80.0,
+              "displayValue": "80"
+            },
+            "homeAway": "home",
+            "record": "",
+            "winner": true
+          },
+          {
+            "abbr": "FSU",
+            "name": "Florida St",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+            "score": {
+              "value": 79.0,
+              "displayValue": "79"
+            },
+            "homeAway": "away",
+            "record": "",
+            "winner": false
+          }
+        ],
+        "league": "mens-college-basketball",
+        "leaders": {
+          "FSU": [
+            "Lajae Jones \u2014 28 PTS, 5 REB, 1 AST",
+            "Robert McCray V \u2014 25 PTS, 5 REB, 4 AST"
+          ],
+          "DUKE": [
+            "Isaiah Evans \u2014 32 PTS, 6 REB, 3 AST",
+            "Cameron Boozer \u2014 23 PTS, 10 REB, 4 AST"
+          ]
+        }
+      },
+      {
+        "id": "401851182",
+        "name": "Clemson Tigers at Duke Blue Devils",
+        "date": "2026-03-14T01:35Z",
+        "state": "post",
+        "completed": true,
+        "status": "Final",
+        "competitors": [
+          {
+            "abbr": "DUKE",
+            "name": "Duke",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+            "score": {
+              "value": 73.0,
+              "displayValue": "73"
+            },
+            "homeAway": "home",
+            "record": "",
+            "winner": true
+          },
+          {
+            "abbr": "CLEM",
+            "name": "Clemson",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
+            "score": {
+              "value": 61.0,
+              "displayValue": "61"
+            },
+            "homeAway": "away",
+            "record": "",
+            "winner": false
+          }
+        ],
+        "league": "mens-college-basketball",
+        "leaders": {
+          "CLEM": [
+            "RJ Godfrey \u2014 18 PTS, 6 REB, 1 AST",
+            "Jestin Porter \u2014 12 PTS, 2 REB, 1 AST"
+          ],
+          "DUKE": [
+            "Cameron Boozer \u2014 24 PTS, 14 REB, 5 AST",
+            "Cayden Boozer \u2014 16 PTS, 3 REB, 1 AST"
+          ]
+        }
+      },
+      {
+        "id": "401851183",
+        "name": "Virginia Cavaliers at Duke Blue Devils",
+        "date": "2026-03-15T00:40Z",
+        "state": "post",
+        "completed": true,
+        "status": "Final",
+        "competitors": [
+          {
+            "abbr": "DUKE",
+            "name": "Duke",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+            "score": {
+              "value": 74.0,
+              "displayValue": "74"
+            },
+            "homeAway": "home",
+            "record": "",
+            "winner": true
+          },
+          {
+            "abbr": "UVA",
+            "name": "Virginia",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
+            "score": {
+              "value": 70.0,
+              "displayValue": "70"
+            },
+            "homeAway": "away",
+            "record": "",
+            "winner": false
+          }
+        ],
+        "league": "mens-college-basketball",
+        "leaders": {
+          "UVA": [
+            "Malik Thomas \u2014 18 PTS, 2 REB, 0 AST",
+            "Sam Lewis \u2014 17 PTS, 4 REB, 1 AST"
+          ],
+          "DUKE": [
+            "Isaiah Evans \u2014 20 PTS, 2 REB, 1 AST",
+            "Cayden Boozer \u2014 16 PTS, 5 REB, 4 AST"
+          ]
+        }
+      }
+    ]
+  },
+  "nba": {
+    "news": [
+      {
+        "headline": "2026 NBA playoffs: Spurs-Thunder Game 7 preview, picks, X factors",
+        "description": "Spurs-Thunder is headed to Game 7. What was most surprising about San Antonio's Game 6 win? And who is the biggest X factor for Saturday's game?",
+        "published": "2026-05-30T01:43:17Z",
+        "link": "https://www.espn.com/nba/story/_/id/48902205/2026-nba-playoffs-san-antonio-spurs-oklahoma-city-thunder-game-6-recap-game-7-preview",
+        "image": "https://a.espncdn.com/photo/2026/0530/r1665610_608x342_16-9.jpg",
+        "recruiting": false
+      },
+      {
+        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
+        "description": "Here's what our NBA insiders are hearing, including the latest on moves the Cavs could make this offseason.",
+        "published": "2026-05-30T01:18:41Z",
+        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+        "image": "https://a.espncdn.com/photo/2026/0502/r1652551_608x342_16-9.jpg",
+        "recruiting": false
+      },
+      {
+        "headline": "76ers tab Cavs GM Mike Gansey to lead basketball operations",
+        "description": "Cleveland Cavaliers general manager Mike Gansey finalized a multiyear deal to become the new president of basketball operations for the Philadelphia 76ers, his agent, Bret Just of WME Basketball, told ESPN on Friday.",
+        "published": "2026-05-30T00:36:21Z",
+        "link": "https://www.espn.com/nba/story/_/id/48913578/76ers-tab-cavs-gm-mike-gansey-lead-basketball-operations",
+        "image": "https://a.espncdn.com/photo/2014/0303/nba_g_76ers_logo_600x400.jpg",
+        "recruiting": false
+      },
+      {
+        "headline": "Thunder to be without injured Jalen Williams for Game 7",
+        "description": "Thunder wing Jalen Williams, who has been hampered by injuries all season, will not play in Saturday's Game 7 against the Spurs.",
+        "published": "2026-05-29T23:30:02Z",
+        "link": "https://www.espn.com/nba/story/_/id/48914043/thunder-injured-jalen-williams-game-7",
+        "image": "https://a.espncdn.com/photo/2026/0521/r1661286_600x400_3-2.jpg",
+        "recruiting": false
+      },
+      {
+        "headline": "NBA championship and Finals MVP odds: Thunder remain title favorites heading into Game 7 vs. Spurs",
+        "description": "Game 7 is set for Saturday in Oklahoma City, with the Thunder-Spurs winner playing the Eastern Conference champion Knicks in the NBA Finals.",
+        "published": "2026-05-29T18:52:13Z",
+        "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
+        "image": "https://a.espncdn.com/photo/2026/0529/r1665451_1296x729_16-9.jpg",
+        "recruiting": false
+      }
+    ],
+    "games": [
+      {
+        "id": "401873203",
+        "name": "San Antonio Spurs at Oklahoma City Thunder",
+        "date": "2026-05-31T00:00Z",
+        "state": "pre",
+        "completed": false,
+        "status": "5/30 - 8:00 PM EDT",
+        "competitors": [
+          {
+            "abbr": "OKC",
+            "name": "Thunder",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
+            "score": "0",
+            "homeAway": "home",
+            "record": "64-18",
+            "winner": false
+          },
+          {
+            "abbr": "SA",
+            "name": "Spurs",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
+            "score": "0",
+            "homeAway": "away",
+            "record": "62-20",
+            "winner": false
+          }
+        ],
+        "league": "nba",
+        "leaders": {
+          "OKC": [
+            "Shai Gilgeous-Alexander \u2014 31.1 PPG",
+            "Chet Holmgren \u2014 8.9 RPG",
+            "Shai Gilgeous-Alexander \u2014 6.6 APG"
+          ],
+          "SA": [
+            "Victor Wembanyama \u2014 25.0 PPG",
+            "Victor Wembanyama \u2014 11.5 RPG",
+            "Stephon Castle \u2014 7.4 APG"
+          ]
+        }
+      }
+    ]
+  },
+  "errors": []
+}
