@@ -6,6 +6,9 @@ cd "$(dirname "$0")" || exit 1
 
 /usr/bin/python3 fetch_data.py
 
+# Push phone notifications for new Duke recruiting / major NBA news.
+/usr/bin/python3 notify.py
+
 # Publish only if there are changes and a git remote is configured.
 if git rev-parse --git-dir >/dev/null 2>&1 && git remote get-url origin >/dev/null 2>&1; then
   git add index.html dashboard.json
