@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T17:03:07.950064+00:00",
+  "generated_at": "2026-06-01T17:18:13.273366+00:00",
   "duke": {
     "news": [
       {
@@ -486,19 +486,19 @@
   "nba": {
     "news": [
       {
+        "headline": "Odell Beckham Jr. is the latest star to return to old stomping grounds",
+        "description": "Beckham Jr. joins the likes of LeBron James, Ken Griffey Jr. and Zdeno Chara in his return to a former team.",
+        "published": "2026-06-01T17:03:43Z",
+        "link": "https://www.espn.com/nba/story/_/id/45766203/nba-mlb-nfl-wnba-nhl-stars-returned-team-prominence",
+        "image": "https://a.espncdn.com/photo/2026/0421/r1646991_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "NBA Finals dates. NBA FInals schedule. Knicks vs. Spurs prediction",
         "description": "",
         "published": "2026-06-01T16:21:20+00:00",
         "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNSy1scFhLT3FzdTI0VEk3NG9KU1Nhd3NJLTJtNjhYcm5tTmFVQlNOQW5zd2dUcDA3V3EtT3BJaE8zd29tUVdwbzY4dDVyYUprSUxNVUg1LXVhVElZcHVZZTlrV1BMNlJ1SHdTTlFlX0Vqb05ZZmw2QU9wZEFPbTdFeDN3?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
-        "headline": "NBA Finals jerseys to feature USA 250 patch that will be used for special reason",
-        "description": "",
-        "published": "2026-06-01T16:03:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNY0JKZVF1dVhDeHhsTHJxdXY1TU1tYWt0Z1JMNzlHR0dFd0tBdXAteV9YdFlmYkRXNnFkRWZvNDNfdjQ1X3pDSm1XNmZiOUpWcWRQTDJxRFBmNWRhZzRfNy1YYl9iSFp6bl90Z0xMbXNxM0pOTnBwUVdmUndmOXVCTkhVaWJ3Zw?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
@@ -522,6 +522,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "Knicks vs. Spurs Game 1 Livestream: How to Watch the NBA Finals",
+        "description": "",
+        "published": "2026-06-01T15:33:34+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONUpwNm9RVG55NmtTQ2liVG5GbWZZOUN4dnBueU5zUVNEOU9LcHJ0NVFya202ZjE5a0ZTaFREbUs1eE1QRHd4M1ZBSlp5MTRTdjF5ZFA5OVJZLUkzeHBlZnJMQUFTMUtmZ09mR0ZhcTUzN3BmTTk3UGQ2RU96RUhKQzVoTWc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "PCMag"
+      },
+      {
         "headline": "'The Hoop Collective': Episodes of Brian Windhorst's NBA podcast",
         "description": "From breaking news to the latest intel from around the NBA, here are the top highlights from Brian Windhorst's \"The Hoop Collective\" podcast.",
         "published": "2026-06-01T14:52:23Z",
@@ -529,15 +538,6 @@
         "image": "https://a.espncdn.com/photo/2025/1112/r1574751_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Trophy decals are coming back to NBA Finals courts. Why did they ever leave?",
-        "description": "",
-        "published": "2026-06-01T13:40:39+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM215YlkyN2UtYWRUcFZFMWEyRU04dF9pN1RsX0diSWRRb3k2SHhoakRvZTBMZTVadTk2eWM0N2hNNk1uT01BM2lRYW5vQkItRjdrTTVXSk1vQnFsUF8wVzlNV09VMUJVN2FzLVRrR2lvSEpJYkR3bWoxZl9uMVY2RVgyam1YZ1pMZy1BVVlB0gGOAUFVX3lxTFAzbXliWTI3ZS1hZFRwVkUxYTJFTTh0X2k3VGxfR2JJZFFveTZIeGhqRG9lMExlNVp1OTZ5YzQ3aE02TW5PTUEzaVFhbm9CQi1GN2tNNVdKTW9CcWxQXzBXOU1XT1UxQlU3YXMtVGtHaW9ISkliRHdtajFmX24xVjZFWDJqbVhnWkxnLUFVWUE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBC 5 Chicago"
       },
       {
         "headline": "IU basketball in No. 20-30 range in 2026-27 post-NBA Draft withdrawal top-25s",
@@ -558,15 +558,6 @@
         "source": "Larry Brown Sports"
       },
       {
-        "headline": "2026 NBA draft: Player comps for 12 projected lottery picks",
-        "description": "From best-case ceilings to realistic floors, which NBA players do the top 12 prospects in the 2026 draft most resemble?",
-        "published": "2026-06-01T12:19:37Z",
-        "link": "https://www.espn.com/nba/story/_/id/48902375/nba-draft-2026-player-comps-12-projected-lottery-picks-dybantsa-boozer-acuff-peterson",
-        "image": "https://a.espncdn.com/photo/2026/0528/r1664955_608x342_16-9.jpg",
-        "recruiting": true,
-        "source": "ESPN"
-      },
-      {
         "headline": "Spurs-Knicks NBA Finals court designs unveiled, include return of center court trophy",
         "description": "",
         "published": "2026-06-01T11:40:00+00:00",
@@ -574,6 +565,15 @@
         "image": null,
         "recruiting": true,
         "source": "The New York Times"
+      },
+      {
+        "headline": "2026 NBA draft: Player comps for 12 projected lottery picks",
+        "description": "",
+        "published": "2026-06-01T11:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUVNQckQtekZlazctcnVsbzFVb2xibk1haGJkTDBGa2VvSEtGX3BESFhTcjlrY2NnN3FjVTRTRFVXamRWSFJRSlowVDZxYmZxMmwwOGhkZENfMzNQMndrT3RrU2dhdW0wZDU0UHQzYmdGZ0ZEaE9wdUl3ZHYwZ3N1Ui1nak53UTJVTHJMLWQyQlhZc0pJVHllaVhwV1RkQVB3TjJISjU4aF91WG9SNDlXdzF4Nk5TUDJtY0FvSzBUU2FsU1RDcEF5X3ln?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
       },
       {
         "headline": "NBA Heavyweight Contender Could Be Trade-Up Candidate for Duke's Boozer",
@@ -585,13 +585,13 @@
         "source": "Sports Illustrated"
       },
       {
-        "headline": "Dylan Harper brings North Jersey basketball to the NBA Finals stage",
+        "headline": "Trophy decals are coming back to NBA Finals courts. Why did they ever leave?",
         "description": "",
-        "published": "2026-06-01T08:41:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOanREVHpveXQ4T1pQMGpKUlVOQjlpVjRmbkQ5OVN0M2R2RHdtSXJLbFlUcDRMRWhuZVozRnBkNlk2MXliZFJOTURQQmFQeG5XNTFLcXNSdTlzMEM2WUFveDZNeGZFZ2ZBQWl0YW5BbXdfeTllRVkwdURsdWlPLTZXNk1WU3p6amxXR1NkOGxtMlFrenRDdUtpRlhjam40ZkdEOGdLNFV1Uk9PbDBNN0NDNzA5ZzZPTHlTeExMdEs1V29pUQ?oc=5",
+        "published": "2026-06-01T09:40:39+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWdVV01oRDVSN1FQWF9mT01uNHRaU0t0eDlGUjN2ZllKdGF2ZHVnVldKY3d6OGpyb3VpRjluSlhhczFEUUkzelhtSjJTdjhpdU1kbUtsYk1pUEJIZTUzaUNsaHFHcm5uRFBiSkZKUGpZV0Q0cDczSlMzLThvMHdsSHBTT0o?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Bergen Record"
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Larry O\u2019Brien Trophy, Script \u201cFinals\u201d Return To Courts For 2026 NBA Finals",
@@ -684,6 +684,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "4 takeaways: Victor Wembanyama guides young Spurs to the NBA Finals",
+        "description": "",
+        "published": "2026-05-31T06:48:42+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ESzRPWUMtWXNuT1ZZOW1QX0xRaWkzdk9rakYzcHFoRGlmR1lHUVRrYWZILVVEQXRwYlBNR3I2VGpYLTlxUUFmTDk2dzJjTUJYbld4WlBWc2h2bTlVT010RlNYOUdXYVVF?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
+      },
+      {
         "headline": "NBA Playoffs: Finals schedule, scores",
         "description": "",
         "published": "2026-05-31T05:44:00+00:00",
@@ -706,15 +715,6 @@
         "description": "",
         "published": "2026-05-31T03:42:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQTFpLVNSZktFa0JjWk5oeWFBM2J4R1owZDlkckI3LU0ydmZFOXR6d2p5ekgzS1Z6M3d1Y2M3c1NFZE1PZTg1VlBpMkhMVWcwaW1xOU9MNE9aYVFTclladVFiSWl6WVFYZHhFNkV3WXp2dVFadnRjeWVLQ1g0UTB1cWlXdGZPQVhkbUZtaExaNlNQTUF6RllnQjljaWlwdXhzT0J3RHVBLXZFSno4Z1NfV3lBcnNOcFFRNDk4T3ZuOU1mSTl1S1RTQXZCZW96enR0?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "Manu Ginobili, Jaylen Brown top reactions to Spurs reaching NBA Finals",
-        "description": "",
-        "published": "2026-05-31T03:42:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZWJ6OHdNa1JQWDhoTTJhaDA4OTdXd2Q0QUI5NEFYdWRQd3RZRlUtQmFITGRQY3JhaVB2d092T2JhQlJQVmZuZmRpUVlSWUc5VXJtM01qYTFNZjlnNGhoRmd2QzB2ODluU2Zwa3VJTnk2Wnd5Q250cmVFcEFsWmRsOVpFRXJCSUx4c2lRbUhXRUZnRWJodVgxWGFmM3Eybno0MXJGVnVpLV9EUm85Zk5rdmItTkRzWFoxYXVsVl9nbXE0OFpwMGUtYWJ3dXNkVXNpODFPRU44cUU2aEViTWpz?oc=5",
         "image": null,
         "recruiting": false,
         "source": "ESPN"
