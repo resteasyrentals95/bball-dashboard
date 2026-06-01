@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-06-01T18:44:30.847358+00:00",
+  "generated_at": "2026-06-01T19:28:30.874387+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "Early MBB Top 25: Florida, Illinois, Duke on top after NBA Draft deadline",
+        "description": "",
+        "published": "2026-06-01T17:59:50+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOa29FRWcxWHVoTlJiWVVseDgxOTNGUU1YaW5GLS13ZEtpMGlJVkhwdFpRcHY1MEpZS0Nud3AyMUVKTGZFQk1mbFZwa3ByZ0I5cU9tbnhLUHJGa0x5MHhUb1R4NHFSbGt0QmhYVGRRM2hhSGNGY25SZXMwYTcyNWhCS3NzbDNSMVEyeTlHd0ZhSGpseDU2VktqeA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Mercury News"
+      },
       {
         "headline": "Between Duke and UNC, only one team will be swimming in CBB's deep end this season",
         "description": "",
@@ -122,11 +131,11 @@
       {
         "headline": "How New NCAA Guidelines Affect Duke Basketball's Sarr, Boumtje Boumtje",
         "description": "",
-        "published": "2026-06-01T10:00:02+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUVBzdXgwRnVrNXZRUUJIcndBRHgyOVdsbVYxbjNqd2pGR1M2ZmNua3JRbm9DLWs3cHpsZVJ5SWp1UmZRMjZhUkp1UmpxU0lGUDVWeTktdzNRM24wSVVhOFZQSFBCNmhVZENuTUVWSnp0Z3luMGZlQUJoRGQteUo1MFNfUkRBVmVWWDU4SjJWMXVVX2xhUFhrOVJlRXdaSS1uM2xFdUhjV3NTUQ?oc=5",
+        "published": "2026-06-01T10:00:06+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOYTFadFNpelJNdnlzMGUwd2hLaG0wOWFrdS01RGxZVFZhcVl4cjhfM0tpR3JSOVVFazlVRVNCMWdISGpKT3Z1ZlFoMzdJLTJNMWNkeHlHTWxXSG85cW1HdU1iZXRDMGpzSk5OenZPaE5JOFJTMjIzb1NIbjNvVDZMdzdNZ2MtQjJxbU5BQWhvZC1WQQ?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Sports Illustrated"
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Duke's Deron Rippey Jr. Reveals What he Wants to Learn With Blue Devils",
@@ -244,15 +253,6 @@
         "image": null,
         "recruiting": false,
         "source": "Duke Wire"
-      },
-      {
-        "headline": "Isaiah Evans\u2019 Duke exit looks even more questionable after NBA Draft deadline",
-        "description": "",
-        "published": "2026-05-29T17:31:38+00:00",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOHNHN2xub1VTRzl6VzBSaGlvZjFiQ3JwSkFrekJsSzhLdjA2WHpNc1lrSHBVMTJmMGVIcW9xd1NwZHVUWkw5NGlFRnA4dC1wLVVYQ0VwVTlBTlFjNE9kZ3pCM2JBdmthRDJMc0hFX2oteXFvZ0dhLWlEOGd6V3IwaHpTc1pNdmVjMlprNE1OcjhCUlJkNkM2cTZreU1rX0Rh?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Ball Durham"
       }
     ],
     "games": [
@@ -486,6 +486,42 @@
   "nba": {
     "news": [
       {
+        "headline": "ESPN's College Basketball Way-Too-Early Top 25 Rankings - Post-NBA Withdrawal Deadline",
+        "description": "",
+        "published": "2026-06-01T19:20:07+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1pcXVQYUpzcVlKYTQ5dlZHZHQ1ZDJPakxjckxFdVlhYzJZRElzMFBzNl9GZGphNVRhclNUZ0lJUlB2RmZmRkhWQ2wwNXM1LWdUU2lPcjgwdk4wNFk?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Tar Heel Times"
+      },
+      {
+        "headline": "Looking back at the NBA Finals trophy logo courts of the past",
+        "description": "The NBA will have the Larry O'Brien Trophy on center court once again. Here's a look back at the previous series that had this look.",
+        "published": "2026-06-01T19:14:28Z",
+        "link": "https://www.espn.com/nba/story/_/id/48935771/nba-finals-trophy-logo-looking-back-revisiting",
+        "image": "https://a.espncdn.com/photo/2026/0601/r1666478_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Big market, small market, same NBA Finals stage: How the Knicks and Spurs got here so differently",
+        "description": "",
+        "published": "2026-06-01T19:12:53+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMjdVS0VqckxjWldyUFBWeTdLazNqdVA3WmdGR2NVajBlZk5TejcxNGlMbGYyeDhpVkdaWkRuc3NFbzBRamwxUFAxSVBmLVdKUVljYUpxRGdrLVZSOUNiU3NRQjBzZFl5OVlDN1dqRFFVUC1vVjBONlROOGRwcEh4VE16c0lvNlhJcWhDbnZRTm5CRjRXWVA4d2J0Mzd0TXdSMmhuM0k2SWVHNFJ5M3hxVl9NVkVHRDVNRXc5RU5KeWl0eTNLUkRJQUVR?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "WRAL"
+      },
+      {
+        "headline": "NBA coaching carousel: Firings, hirings, what's next for each job",
+        "description": "Dallas and Chicago are still looking for long-term fits, while Orlando, New Orleans and Milwaukee have found their next coaches. Here's what lies ahead for each franchise.",
+        "published": "2026-06-01T18:45:22Z",
+        "link": "https://www.espn.com/nba/story/_/id/48413861/nba-coaching-carousel-firings-hirings-next-job",
+        "image": "https://a.espncdn.com/photo/2026/0111/r1599063_2_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "Why Knicks coach Mike Brown was rooting for the Spurs to reach the NBA Finals",
         "description": "",
         "published": "2026-06-01T18:27:18+00:00",
@@ -493,6 +529,15 @@
         "image": null,
         "recruiting": false,
         "source": "San Antonio Express-News"
+      },
+      {
+        "headline": "NBA Finals: Knicks vs Spurs Series Props",
+        "description": "",
+        "published": "2026-06-01T18:26:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPWDJOcTJTMzEyX0dMV3VYSzVhMFBfeGtZQzU1WXNzUHBmekNTQ2g2VGh4WFJ2ZXQ2R1ZfNVVoeU4wdVlzdkdfU0ozdWE3NWNLZTVDRDBWbWdHdkZBajBINS1tMTNoQVE4ZEVRSVF1b3h2WHRiR0xka0NFRGJyMS1xaQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "2026 NBA Finals betting: Bets to make on the series, Wemby and Brunson",
@@ -513,13 +558,40 @@
         "source": "Sportico.com"
       },
       {
+        "headline": "Wembanyama Vs. Knicks Finals Preview NBA\u2019s Future, No Matter Who Wins",
+        "description": "",
+        "published": "2026-06-01T18:08:24+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQXzVXSGFJVDNTZUJuWkxuM2hJVjFoeGxMak9ER2xqbEVMcm1kd2JWcTN1all6Q1BvdF9NZk00RlgtTXlGLXlKMEZyNU1VMjJPM0V6VGY5Qm9NWTdqMlgzbXVmdXVORWRBQy1VS25rUGlaZXlLcVBKWGMxREN3WGVBajczaG45NWt4eW1nVFpvNDdlbWgwb1lZaHdzcXFhaEFDOGRpQzNVUFVSLTkwR2w2QjY0UzkyNnUyUmFCUw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Forbes"
+      },
+      {
+        "headline": "New York Knicks vs. San Antonio Spurs NBA Finals preview: Can Wembanyama slow Knicks roll?",
+        "description": "",
+        "published": "2026-06-01T18:02:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNQ0hOV2UwcHFGS1hKQnhpcHE5MWxORXMzbENhZTY4OG1sclpOaURVeHJIMVlhcTFlSTdJMzNOSTI2aC15MkFjYXpxcWd1TnJZWTNLdWhza1V6REpQNEVpUjd4RUdzRXpMRm4xQ2ZiZm1UemhUR1lXbkotM2JTUkJLMg?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "Where the latest mocks have Michigan Basketball trio going in NBA Draft",
         "description": "",
         "published": "2026-06-01T18:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX2Foa3hWckZyQ01tRGdRUWw1VGQ2c0ZrSFJUeGNLWXdybm5OSlJtcVlxTFNiNHBEb0FPUy1fWHhydnM3bjRTcmtIbFo3NU0xOC1BcWZ1VUZjQlR4VGM1MjNRTm5keWJQY3VrV1NHd3pZN3hYSTdNbDJXTkN3Yk1HbUozWUxXUGk5N25vLXpDdzRlUmhxaDQ4elExLWZHeGVMNHo3bGs3eEJmOFk1bTNwTnROeUU5cF82TmJpY19YSWhpTEtYeTNjQkpqN1lLSzljUFE?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPLWh6WEU4b001Q2xwaWtNS090NHpRTUZSajhjMlRROG1XUEFCcDhaM1A1YW5NaVhydkpPV1owV3VjT0tqNUZJSXgzLXNlcnJHbVZwRENMbU5ZeHRhTkhocGtWaG5JdEN5WDBjN1hGUThMamVkVjhHbWpmSUwtSnNUbUNzN3VJbEc0bkd5REVORG8?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Maize n Brew"
+        "source": "Yahoo Sports"
+      },
+      {
+        "headline": "Six Celtics-related thoughts on Knicks-Spurs NBA Finals",
+        "description": "",
+        "published": "2026-06-01T17:20:57+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSHc3OTFyakxIci13dlY4XzRfanJyTEJseEtEWEF1RVRSeExIcE1tT3RJYUpEblBOWTg5NWFkMWU4Xy1zXzlvUld3QU5wajdvZFRVcF9nZ0JDNGlTdXRxZWlZa2JYVnl6VDNJcFB0ZHFFbVFYa0FMallDVkxzdmRlQ2Z0UmtLaTZmNGczSzI4UU1vRUVnbnFtSnQtdFU?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Boston Herald"
       },
       {
         "headline": "Odell Beckham Jr. is the latest star to return to old stomping grounds",
@@ -603,15 +675,6 @@
         "source": "The Daily Hoosier"
       },
       {
-        "headline": "Magic Johnson raises 1 concern about Victor Wembanyama in the NBA Finals",
-        "description": "",
-        "published": "2026-06-01T13:02:40+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeFdNSGdVYjg4Y3VNZlNpNldfN1c3cVROZ2hQb0RkWjVYQ1YzVS1MME1QNzdlSUc1Yl9XSEp3bDZmaWdHd3FROXZTOUJ2alc2bFFpenE3bC1lQ3VkSDhUOWx1WGlBaGg1c1I2MUJ1amk1Y3Qtd25QRmxrVl9ndGFQX2hyU0l6QXAwejBJdGNjX3NTT05fR1I0ZW1yUXcwbkxMc0M2QkZLSXJzUQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Larry Brown Sports"
-      },
-      {
         "headline": "ABC\u2019s exclusive coverage of the 2026 NBA Finals begins June 3: New York Knicks vs. San Antonio Spurs",
         "description": "",
         "published": "2026-06-01T12:21:42+00:00",
@@ -673,69 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "NBA.com"
-      },
-      {
-        "headline": "Knicks beat the Spurs for the NBA Cup, but need to do it in the NBA Finals for the title they crave",
-        "description": "",
-        "published": "2026-05-31T21:35:10+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPemJtMDBwbEZsOEM1VWRTelppcElvRVhVYTBhSHdhYmRsN3JOMVZTUFRPQXlUZVhHWFUzRmRZSmViOXZCcEp2WWZjMFkxREtQZEt6bEU5RE4zTEQxdUg5QkdiMGFLcXFNRUc5bUczNFR1ZVdkMy1jZnBwcnl6OExOelFzTEFnVmtYT0hYcVJnX2JMX1U0dXVqb0M1OV9iWXp5VjZYZGZGX3ZvWHJ6NDljckh0NHBaQ0RpOHFiRE13U0VGdUc5Y2NDSTNaSktCUVRSTDVtTE9OdHljb3JacGw2aQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Click2Houston"
-      },
-      {
-        "headline": "San Antonio Spurs in the 2026 NBA Finals: Top March Madness highlights",
-        "description": "",
-        "published": "2026-05-31T21:01:13+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc0t6TjJ2V0JTeF9OUmpvVW9Eby1uenZGQjJudUlQcFJWVDNMWUVmSzNZaUNSdkJHcS16aEZldXRrbzBIZUVDUEg5SGl6Z2JzM2VUMjlPY1RNZHI0d2lkZkViR0RTYXZMUUdmNlhkZE1iVkVXZnhVb0psbFZFWjRidlNzMS05S1FhMWdqTDdVNTVielNkQnVOMHBxSWNUbTlSRmd6ZWRyel93YzZGWGpCV2RTWnpnUQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NCAA.com"
-      },
-      {
-        "headline": "Iowa Basketball Ranked No. 14 in The Athletic's Preseason Top-25 Following NBA Draft Withdrawal Deadline",
-        "description": "",
-        "published": "2026-05-31T20:31:37+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOc1V2OW1YbElNT2NtanBvRGZDS0E1VFRvR2FwVzIxV0F1Y3JPSkZJUmYwOXJpS0xOeFVSbnlrU0t2OU9RVEd5WUdvZVRIa0dBWXdtczMyTVFuQW4wMEFrZnMzLTA2UWZRb3gxT3pzVlQ3NHlIa3JxMGtQMHlUX2NnM0IwMTA3UFhTZC1qY0NnQmx3NXl4ajlfc0lpdWZmazV4VFpySE9lRHJXb0dDSm0zckd1aV9Ndw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "247Sports"
-      },
-      {
-        "headline": "San Antonio Spurs win the West, beating Oklahoma City Thunder to head to NBA Finals",
-        "description": "",
-        "published": "2026-05-31T08:24:50+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYmFKaFkzamdIWFZid19CYzVhV3I2cEc1ZmhxOHd5Zk1QT01jV1dxRGI0eVM0Q0w3cHNvY1Eyb1Ffbmo0bjBSSFpOaHRHOWpoQ0ZXcjlNR184NU1oQ1hMZXRBVDI4WVRDUzdQZ29uUFJZLWNOb2ZJZno2U0ZmdjNKdWhNTXpGbF9rLTY4SGV3bHpEM0JOMzNxZ18tMS1aLXlRMWZV?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NPR"
-      },
-      {
-        "headline": "NBA Playoffs: Finals schedule, scores",
-        "description": "",
-        "published": "2026-05-31T05:44:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8wVnc4ZFkwQTQ0eG03Q2F3bS1KRHFiQ2VzWGFsN1NLR0ZRTEo1QkQxazBoUUZHZzV5bE9wN2llVWhZYU1DUkZvdDg3MGR5TGREZkpzSXBQcHVCRHBRelE5ZWpTYjJrX2wxOUtUUDRCSEtaLUpPd1U1TGNMU09DZw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sportsnet"
-      },
-      {
-        "headline": "Emotional Victor Wembanyama leads Spurs back to NBA Finals",
-        "description": "",
-        "published": "2026-05-31T05:17:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd2J1SnN2aWlfejdsb3l3M1ctS1JWbW5jSDJJVWVlUGljYW5PTXNacm5oWW1YWUlTZGtDU0M5aWt5b01YYldyQUZPRzV5Q2tNYXNVZmtyaWJjekZUcFYwOFEwQzlIbF9MaEhMWjJCWGhHYVRvVUNHd3JHa1ZEMHpOVEgweWJyV05ydUQwTTIxZ296XzFnRTd2U25yaVRuZWxGYkE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "2026 NBA playoffs: Schedule, scores, news and highlights",
-        "description": "",
-        "published": "2026-05-31T02:47:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRDc5Y1Q4UktuVDNVQllONDVTRWI0OVZMc21KbnB0RmRDVW90QUpISHdKTktWazBCUTEzWWZYYlE3XzlNQ0M0WDJqSHVrX0ZUUlpQbEpJNmJ1aGp6R1hmdXpyYUE4YVktMUl5LXpUTjctQjJHanZXOTRNX25QTnhHVkFvQ1A4dEE2VTZyTGd4UEJURzRHbElDQzF6RHJ2Wlp6Zy1JY0d3Mlg5d2xkZ00xU0s2el9NSGc4VzZzbg?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
       }
     ],
     "games": []
