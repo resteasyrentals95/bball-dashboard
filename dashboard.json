@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-01T17:33:18.951878+00:00",
+  "generated_at": "2026-06-01T17:48:25.023233+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "Between Duke and UNC, only one team will be swimming in CBB's deep end this season",
+        "description": "",
+        "published": "2026-06-01T17:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTG1HaE9kdGpIdW10MF9fXy1mX1lzSlJpa3hRZUF3ajJZd2JPM3h4OVF6MzBMVTNDN1Q3QzRmakN3VUd0d3doekJKTkJSYzN3bUJkQ2NsdVNob3RuNmZabmNubTd0WFVHQXB2T2plcFVXRGNnZS1EV3laV3FQVWpnYlBnNEFIRlhoUmpUQUtoZ19MMlBxNVFGOUZBeXlfSkwwWW1VV002MA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Ball Durham"
+      },
+      {
+        "headline": "Duke's biggest threat in ACC play next season is only one late transfer addition away",
+        "description": "",
+        "published": "2026-06-01T16:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNa3Rpc19CN1BfeC12ellmc3JNclZnRERSeXR2VllqU1lLZEFhcGN1Ykl3cFdnWmM5azZrOEZBNEFDQnhoS09naHhma002YzhqVXRYd2h5Z2V4WkRUVlJVNVRMbGtWd25MbHNrZkRjMDBlMXpHeDRtUFRVUEdBWU9UaVFkQzVQNkNLNUROTlpaSmZSV0pkTGp4VWtOR25wTGVaRGhpd2RlZTBXZw?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Ball Durham"
+      },
       {
         "headline": "Top college basketball analyst praises Duke head coach Jon Scheyer",
         "description": "",
@@ -176,7 +194,7 @@
       {
         "headline": "With UNC already on the schedule, UGA basketball adds Duke to next year\u2019s opponents",
         "description": "",
-        "published": "2026-05-30T01:06:28+00:00",
+        "published": "2026-05-30T01:24:12+00:00",
         "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcWYtWUc3RllrcUEzU1prRWIxaVpnOFVLSVcxOWdXNnFTRWdtQThKT2xzY1dqTHV4SjRUNUV1Zy1JNHBQd2V2ZmV6T3VMcU9GS29haXIxS1p6T2lQSWdLdHFLSTJNN3pOakxrRGVaZTZ6YkJLdzR3REtYVFR0ODhocFU3NkxoTTJzRXlRNzRtQnh1eVZocms1YXZOUzlLSU5yNXptNlNucjMzYjVCRzdBaG1NTzNhUUJFV0VRNnFwTmxWYTZENEE?oc=5",
         "image": null,
         "recruiting": false,
@@ -235,24 +253,6 @@
         "image": null,
         "recruiting": false,
         "source": "Ball Durham"
-      },
-      {
-        "headline": "Duke basketball reveals jersey numbers for the upcoming 2026-27 season",
-        "description": "",
-        "published": "2026-05-29T16:01:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQQTZndHBOR3JfZkJMcTR2LUdNU1AteWlQenFDSEF2Yjl6NFRGUmZtR1dtazRiS1F2TTZ4MVpvRUlSbWdWbXRscnd0ODVEMU1yaXM1YWc0d0lIdVdzNlFnWThHWGY2Z19kaGpCYko3YUtnb2JwcVFPVEtKc1RXejYyZHN2VDVZR0pINFo3dFBxd3kzcS1HLWZhYVpTamFRd25na0NRckNjQWx0Skc4ckh6Uk05R0txaVlFLWZqX2tRQW40TXhsaVpJZEVJbG0wSVVaM0VqdlhmSWhZRFNKUkxkQVVNa1RsME1S?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Duke Wire"
-      },
-      {
-        "headline": "2026 NBA draft big board rankings: Top 100 prospects",
-        "description": "After the college withdrawal deadline, a wave of returners reshapes ESPN's latest 2026 NBA draft top 100.",
-        "published": "2026-05-29T15:18:31Z",
-        "link": "https://www.espn.com/nba/story/_/id/46886245/2026-nba-draft-big-board-rankings-top-100-prospects-players",
-        "image": "https://a.espncdn.com/photo/2026/0524/100_days_1296x729.png",
-        "recruiting": true,
-        "source": "ESPN"
       }
     ],
     "games": [
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "2026 NBA Finals betting: Bets to make on the series, Wemby and Brunson",
+        "description": "Can the Knicks pull off the upset? Will the Spurs and Wemby coast? These are our best bets before the NBA finals begin.",
+        "published": "2026-06-01T17:42:56Z",
+        "link": "https://www.espn.com/espn/betting/story/_/id/48939165/2026-nba-finals-betting-how-bet-nba-finals",
+        "image": "https://a.espncdn.com/photo/2026/0528/r1664896_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "Odell Beckham Jr. is the latest star to return to old stomping grounds",
         "description": "Odell Beckham Jr. joins the likes of LeBron James, Ken Griffey Jr. and Zdeno Chara in return to a former team.",
         "published": "2026-06-01T17:17:34Z",
@@ -493,6 +502,15 @@
         "image": "https://a.espncdn.com/photo/2026/0421/r1646991_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "NBA Finals Preview Ahead of Game 1 Stream of National Basketball Association",
+        "description": "",
+        "published": "2026-06-01T17:11:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQZzQ5X0J4aUtOamE2MVpsZ3RxYzAybWtCUE5PWlZFMUJTdUdQM1h1MnVyZUoyZVBlM3ZpVWRTcVB5YXRsU1RWRHJKNlRGS2Zzb2dnTWI1VjFrcWU1QWRwdEQwZTNzTFpvaE5jYThYdHZzMGszSUVYU0VLdmhucnIxd1RR?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CBS Sports"
       },
       {
         "headline": "NBA Finals dates. NBA FInals schedule. Knicks vs. Spurs prediction",
@@ -511,15 +529,6 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
-      },
-      {
-        "headline": "2026 NBA Finals: Storylines, matchups that will define Knicks-Spurs",
-        "description": "How can the Knicks slow Wemby on both ends? Can Jalen Brunson defy the logic about small guards? Here's what Knicks-Spurs will tell us about these teams and the league.",
-        "published": "2026-06-01T15:43:40Z",
-        "link": "https://www.espn.com/nba/story/_/id/48929293/the-storylines-matchups-define-2026-nba-finals-spurs-knicks-wembanyama-brunson",
-        "image": "https://a.espncdn.com/photo/2026/0531/r1666219_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
       },
       {
         "headline": "Knicks vs. Spurs Game 1 Livestream: How to Watch the NBA Finals",
@@ -612,6 +621,15 @@
         "source": "Sports Illustrated"
       },
       {
+        "headline": "NBA releases images of how San Antonio Spurs court will look during Finals against New York Knicks",
+        "description": "",
+        "published": "2026-06-01T09:31:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQSXd4Y244bGNUS0pJbFVNTEVhNmdrVEpJb3poaTd4RGxwWU83N3RWRGE4blVxdkxlSVVDVnVuVE5fSUF0bWVSUVBDUi1ucnJhQ3Vwb1huQUdVeDdTaWhrSTVaMXU1WWw4XzYyalJmVHZxYVN6andqRWZnNTE2N1FUajJ5ZGNaekxiTzFJOFJfbWlUVHBEU2lCQk0tUEoyaUlnRDRHXzRFMno2aHBFaUNMU0xiSUx2QkczVFpEb1duZ2pMNUYyQk5RcEJrak1ic0xLc3J1QQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "KSAT"
+      },
+      {
         "headline": "Larry O\u2019Brien Trophy, Script \u201cFinals\u201d Return To Courts For 2026 NBA Finals",
         "description": "",
         "published": "2026-06-01T05:20:21+00:00",
@@ -621,19 +639,19 @@
         "source": "SportsLogos.Net News"
       },
       {
-        "headline": "NBA brings back trophy image, script logo for Finals courts",
-        "description": "",
-        "published": "2026-06-01T02:26:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOThvNXlrbnJKTG9hU2k0OFBQenJuRmZwSjVNYXlLZlJETzAwU2kxcGhzTUcta3VvSFpNM2dPT2xub0Z4VGUzam5tWW5fcG5Fbm5qQldXUkdLamhIcWdwUFYzYTdacGZIMklPMjZUNVlldTFUbDR0c0x1N3NYN1dBTWtFNHNCQ0JsanZVZzRPWFdya2ZMdG13UlZKOF9mSHlo?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "Rematch of 1999: Spurs, Knicks meet again in NBA Finals",
         "description": "",
         "published": "2026-05-31T23:44:01+00:00",
         "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaTNDUW93V2hNOThXTGhyVEd1enJqRzh4Y1lyX2d3c0VDMlNJaUNSNkVmeFBFWE1rN3g0dXJOcEZUWjdBUFpVVndqYzlaM1ZWU0FLR056ZElILURza0FsOG5MZ0I3OXdhLVdqWGQxMXBRRUpHTEpkc0loU3pPSDgydHdOLXk?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
+      },
+      {
+        "headline": "Gregg Popovich still making outsized influence felt as Spurs head to 2026 NBA Finals",
+        "description": "",
+        "published": "2026-05-31T23:29:53+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQXQ1TFZRcnJHSzhMSTNCUzdETUdLMEgwekJrVGV6QzlQOWRlTTRJbUNibVFIRG9HNm5ZaFVIcTAzTFpiQnhmd0tEYjhoTjhOWUY3TzFnM1ZraVlSQ3E2RjNpcnJwRG5yQW1TRWxDM0NvRXFxUEJ5VVFIUmFZQzhSQnVNVjBPRUNSOEdPNTdEc2RxczdUYVByNU5xQjk4OUNQaWROTEVoQjhpaXl3SVE?oc=5",
         "image": null,
         "recruiting": false,
         "source": "NBA.com"
@@ -702,15 +720,6 @@
         "source": "NPR"
       },
       {
-        "headline": "4 takeaways: Victor Wembanyama guides young Spurs to the NBA Finals",
-        "description": "",
-        "published": "2026-05-31T06:48:42+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5ESzRPWUMtWXNuT1ZZOW1QX0xRaWkzdk9rakYzcHFoRGlmR1lHUVRrYWZILVVEQXRwYlBNR3I2VGpYLTlxUUFmTDk2dzJjTUJYbld4WlBWc2h2bTlVT010RlNYOUdXYVVF?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBA.com"
-      },
-      {
         "headline": "NBA Playoffs: Finals schedule, scores",
         "description": "",
         "published": "2026-05-31T05:44:00+00:00",
@@ -724,15 +733,6 @@
         "description": "",
         "published": "2026-05-31T05:17:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQd2J1SnN2aWlfejdsb3l3M1ctS1JWbW5jSDJJVWVlUGljYW5PTXNacm5oWW1YWUlTZGtDU0M5aWt5b01YYldyQUZPRzV5Q2tNYXNVZmtyaWJjekZUcFYwOFEwQzlIbF9MaEhMWjJCWGhHYVRvVUNHd3JHa1ZEMHpOVEgweWJyV05ydUQwTTIxZ296XzFnRTd2U25yaVRuZWxGYkE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "2026 NBA playoffs: Schedule, scores, news and highlights",
-        "description": "",
-        "published": "2026-05-31T02:47:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRDc5Y1Q4UktuVDNVQllONDVTRWI0OVZMc21KbnB0RmRDVW90QUpISHdKTktWazBCUTEzWWZYYlE3XzlNQ0M0WDJqSHVrX0ZUUlpQbEpJNmJ1aGp6R1hmdXpyYUE4YVktMUl5LXpUTjctQjJHanZXOTRNX25QTnhHVkFvQ1A4dEE2VTZyTGd4UEJURzRHbElDQzF6RHJ2Wlp6Zy1JY0d3Mlg5d2xkZ00xU0s2el9NSGc4VzZzbg?oc=5",
         "image": null,
         "recruiting": false,
         "source": "ESPN"
