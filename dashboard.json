@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-31T13:06:48.155299+00:00",
+  "generated_at": "2026-06-01T01:07:01.732550+00:00",
   "duke": {
     "news": [
       {
@@ -282,19 +282,27 @@
   "nba": {
     "news": [
       {
+        "headline": "Gilgeous-Alexander calls MVP year a failure after Game 7 loss",
+        "description": "Despite claiming his second straight MVP, Shai Gilgeous-Alexander called his season a failure after the Thunder were eliminated before getting a chance to defend their title in the NBA Finals.",
+        "published": "2026-05-31T19:54:18Z",
+        "link": "https://www.espn.com/nba/story/_/id/48931315/gilgeous-alexander-calls-mvp-year-failure-game-7-loss",
+        "image": "https://a.espncdn.com/photo/2026/0531/r1666306_600x400_3-2.jpg",
+        "recruiting": false
+      },
+      {
+        "headline": "Bettors heavily invested in Knicks to win NBA Finals",
+        "description": "At DraftKings Sportsbook in New York, the Knicks have attracted nearly half of all money wagered on the NBA Finals winner this season -- almost as much as every other team combined.",
+        "published": "2026-05-31T17:16:52Z",
+        "link": "https://www.espn.com/nba/story/_/id/48929879/bettors-heavily-invested-knicks-win-nba-finals",
+        "image": "https://a.espncdn.com/photo/2026/0526/r1663759_600x400_3-2.jpg",
+        "recruiting": false
+      },
+      {
         "headline": "Thunder say no excuses, just 'get better' as title reign ends",
         "description": "The Thunder tipped their cap to the Spurs after a disappointing Game 7 loss and set out to \"try to get over the hump\" against a team that looms as a long-term roadblock.",
         "published": "2026-05-31T12:30:43Z",
         "link": "https://www.espn.com/nba/story/_/id/48926926/thunder-say-no-excuses-just-get-better-title-reign-ends",
         "image": "https://a.espncdn.com/photo/2026/0531/r1666137_2_600x400_3-2.jpg",
-        "recruiting": false
-      },
-      {
-        "headline": "Emotional Victor Wembanyama leads Spurs back to NBA Finals",
-        "description": "The Spurs eliminated the defending champion Thunder in Game 7 of the Western Conference finals, a 111-103 victory fueled by center Victor Wembanyama's 22 points and seven rebounds.",
-        "published": "2026-05-31T12:23:26Z",
-        "link": "https://www.espn.com/nba/story/_/id/48926783/emotional-victor-wembanyama-leads-spurs-back-nba-finals",
-        "image": "https://a.espncdn.com/photo/2026/0531/r1666132_600x600_1-1.jpg",
         "recruiting": false
       },
       {
@@ -304,57 +312,9 @@
         "link": "http://www.espn.com/nba/recap?gameId=401873203",
         "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401873203.png?templateId=espn.applewatch.awayhome.1",
         "recruiting": false
-      },
-      {
-        "headline": "NBA Finals preview: Everything that will decide Knicks-Spurs",
-        "description": "The red-hot Knicks face the rising young Spurs. Our experts examine everything to know ahead of Wednesday's Game 1 (8:30 ET, ABC)",
-        "published": "2026-05-31T12:08:49Z",
-        "link": "https://www.espn.com/nba/story/_/id/48906595/nba-finals-2026-preview-knicks-spurs-wemby-brunson-towns-castle-stats-schedule-predictions",
-        "image": "https://a.espncdn.com/photo/2026/0530/nba_finals_mega_preview_spurs_16x9.jpg",
-        "recruiting": false
       }
     ],
-    "games": [
-      {
-        "id": "401873203",
-        "name": "San Antonio Spurs at Oklahoma City Thunder",
-        "date": "2026-05-31T00:00Z",
-        "state": "post",
-        "completed": true,
-        "status": "Final",
-        "competitors": [
-          {
-            "abbr": "OKC",
-            "name": "Thunder",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/okc.png",
-            "score": "103",
-            "homeAway": "home",
-            "record": "64-18",
-            "winner": false
-          },
-          {
-            "abbr": "SA",
-            "name": "Spurs",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-            "score": "111",
-            "homeAway": "away",
-            "record": "62-20",
-            "winner": true
-          }
-        ],
-        "league": "nba",
-        "leaders": {
-          "SA": [
-            "Victor Wembanyama \u2014 22 PTS, 7 REB, 2 AST",
-            "Julian Champagnie \u2014 20 PTS, 6 REB, 1 AST"
-          ],
-          "OKC": [
-            "Shai Gilgeous-Alexander \u2014 35 PTS, 4 REB, 9 AST",
-            "Cason Wallace \u2014 17 PTS, 7 REB, 4 AST"
-          ]
-        }
-      }
-    ]
+    "games": []
   },
   "errors": []
 }
