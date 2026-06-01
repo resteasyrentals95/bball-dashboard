@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-01T15:02:22.143532+00:00",
+  "generated_at": "2026-06-01T15:17:27.687395+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "Why Duke's Evans Made Right Call Remaining in NBA Draft",
+        "description": "",
+        "published": "2026-06-01T15:00:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ2ItSW9vYzhmZ3FTblhFaURLXzc1bUJCeGhsWlVIM3BiUHNONFhuTVoxR1UzM3BJSVZza1pDbWliWkpwMzBaQXp5bGFHczhBTFpzaC0xa1p0cl9JNU5QNE1CdlU1alQ0S1lhVWxmZWVaaEpRYVJKOGpPWjZadDh4MXRyYUt4ZVhkZUdOLTdzQkRtcFk?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Louisville learns what the gap between Cardinals and Duke is after huge offseason",
+        "description": "",
+        "published": "2026-06-01T14:55:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWXo5RC1xTlV0UDBQekN5a1djWTk2MlNlQ2o2ZlJxN2toYV9MSnAxTkNXR0lrV3JSTzJBXzBUeTNDWEYxSktQcTJXZEM0Q2VDeWhFeml6Q2JWTVRQaVlHS19DMmk3NWJ4QjBheUhsdm1fUGU5b0k3aDRjZHhRMlhRRkxTSzNkZWxxcUpHNnBKWnhfcUp4cGc0YzhfaHRxZEw4QlRmTjhaNkQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Big Red Louie"
+      },
       {
         "headline": "Transfers, recruits and roster moves for key men's NCAA basketball teams",
         "description": "We're tracking all the player movement across key programs during the offseason ahead of 2026-27.",
@@ -235,24 +253,6 @@
         "image": "https://a.espncdn.com/photo/2026/0524/100_days_1296x729.png",
         "recruiting": true,
         "source": "ESPN"
-      },
-      {
-        "headline": "Duke Basketball's ACC Slate Features Awesome Homecoming Game",
-        "description": "",
-        "published": "2026-05-29T14:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQ2lnNkVuVEk2YVNzS1M5clBua3h6dTh4N3Y3bjExWGw0LVVTOFItRG9uOFVrRmlCUHpKalBqa0dqSFRlbW43OGMtc3U0bmp3eVNkeXAxcUFVLWlXRklHX3U2SnQ0U1o2SUFjb01zbmpDS2F4ZmVGZ2Y5Y3JWeGl4SmVsOXlvVXBiOUlGWXZsY2FNX21BOXZKRV9ESVJnQQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "One ACC Road Game That Could Trip Duke Basketball Up",
-        "description": "",
-        "published": "2026-05-29T10:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQYTJzNG9oSDdxUE5rQzMzSVNRbUVwTV9pRUd6djhUSGlvcWlENXozZ2R2U0NMcHVIMFA4WUxDdV9NeUJpazdaUmtPSGdaOTBqWGhSMDJ5UjItZV9iSlJJT1lxaWkxOFFrdkZEUVA4OVVQanhRVlpTMW44TFdqczVFdTk4SFB1ZDNCU2ZMczRnSzhfc21pNFE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
       }
     ],
     "games": [
@@ -486,6 +486,24 @@
   "nba": {
     "news": [
       {
+        "headline": "2026 NBA Finals: Storylines, matchups that will define Knicks-Spurs",
+        "description": "How can the Knicks slow Wemby on both ends? Can Jalen Brunson defy the logic about small guards? Here's what Knicks-Spurs will tell us about these teams and the league.",
+        "published": "2026-06-01T15:07:39Z",
+        "link": "https://www.espn.com/nba/story/_/id/48929293/the-storylines-matchups-define-2026-nba-finals-spurs-knicks-wembanyama-brunson",
+        "image": "https://a.espncdn.com/photo/2026/0531/r1666219_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Josh Hart Embraces Challenge of Facing Victor Wembanyama in NBA Finals",
+        "description": "",
+        "published": "2026-06-01T14:55:17+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPU3RuRXlTX0hNb3dWak9EVVE1ZjVxaWJKa19hRWdxMzQwOEY3VUxSUld6ejZRc0ZVd3I5WThXMFBoR255MGFRcDN5b1ViVTRSRTZBRUZTZmwzcUxFRHp6OGNEbWpwRHBNTTMwQ2QzZ013a2tXREp6MUJCbU5Dc0ZwblpLMm5DUGdVQ2J6bw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "'The Hoop Collective': Episodes of Brian Windhorst's NBA podcast",
         "description": "From breaking news to the latest intel from around the NBA, here are the top highlights from Brian Windhorst's \"The Hoop Collective\" podcast.",
         "published": "2026-06-01T14:52:23Z",
@@ -493,6 +511,24 @@
         "image": "https://a.espncdn.com/photo/2025/1112/r1574751_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Fans Calling for 1 Change to Knicks, Spurs NBA Finals Courts",
+        "description": "",
+        "published": "2026-06-01T14:27:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZzFmTVFHX2p5Mll1aXRDRk43bUpFdjFrOEVIUXd4YWhaNGxlUU85YUhvbVZ6WjBMQzhJRW9NRVc1ZHlzbjZlcXl2NkZnUVpuNTJKNXQ0eVF0TWtUWE5nTF9vR1JZd2JqRkwwZm50MFYxUGstWXdXSGdSNmxRckhCZXU1WQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
+        "headline": "Magic Johnson Raises Concern for Knicks Ahead of NBA Finals",
+        "description": "",
+        "published": "2026-06-01T14:25:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVF9jcGdDTk5ZMFQ3Tk5YN2EyWF9hOHFNaGtsajRJYzVmNDBuazdpenV6M1ZJN2hjODd4UGdSNDRaTVNCa3NKNVNTQ2xJRnJFTk1CZHRLMERISnp5MDJiRTM4TEtoQkxuei12MENuQ2F0Tnd4bmQtSFp6M1FDWmNoQVl3eVlrUVZYd0I2Yg?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Trophy decals are coming back to NBA Finals courts. Why did they ever leave?",
@@ -520,15 +556,6 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
-      },
-      {
-        "headline": "2026 NBA Finals: Storylines, matchups that will define Knicks-Spurs",
-        "description": "How can the Knicks slow Wemby on both ends? Can Jalen Brunson defy the logic about small guards? Here's what Knicks-Spurs will tell us about these teams and the league.",
-        "published": "2026-06-01T12:42:13Z",
-        "link": "https://www.espn.com/nba/story/_/id/48929293/the-storylines-matchups-define-2026-nba-finals-spurs-knicks-wembanyama-brunson",
-        "image": "https://a.espncdn.com/photo/2026/0531/r1666219_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
       },
       {
         "headline": "Magic Johnson raises 1 concern about Victor Wembanyama in the NBA Finals",
@@ -585,15 +612,6 @@
         "source": "Bergen Record"
       },
       {
-        "headline": "NBA brings back trophy image, script logo for Finals courts",
-        "description": "The NBA revealed Sunday that the image of the Larry O'Brien Trophy will be painted at midcourt and the script logo for \"The Finals\" will be on either side of the court.",
-        "published": "2026-06-01T06:12:36Z",
-        "link": "https://www.espn.com/nba/story/_/id/48935292/nba-brings-back-trophy-image-script-logo-finals-courts",
-        "image": "https://a.espncdn.com/photo/2017/0412/r199292_600x400_3-2.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "Larry O\u2019Brien Trophy, Script \u201cFinals\u201d Return To Courts For 2026 NBA Finals",
         "description": "",
         "published": "2026-06-01T05:20:21+00:00",
@@ -601,6 +619,15 @@
         "image": null,
         "recruiting": false,
         "source": "SportsLogos.Net News"
+      },
+      {
+        "headline": "NBA brings back trophy image, script logo for Finals courts",
+        "description": "",
+        "published": "2026-06-01T02:26:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOThvNXlrbnJKTG9hU2k0OFBQenJuRmZwSjVNYXlLZlJETzAwU2kxcGhzTUcta3VvSFpNM2dPT2xub0Z4VGUzam5tWW5fcG5Fbm5qQldXUkdLamhIcWdwUFYzYTdacGZIMklPMjZUNVlldTFUbDR0c0x1N3NYN1dBTWtFNHNCQ0JsanZVZzRPWFdya2ZMdG13UlZKOF9mSHlo?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
       },
       {
         "headline": "Rematch of 1999: Spurs, Knicks meet again in NBA Finals",
@@ -646,15 +673,6 @@
         "image": null,
         "recruiting": false,
         "source": "247Sports"
-      },
-      {
-        "headline": "NBA Finals schedule: Dates, times, how to watch Spurs vs. Knicks on KSAT 12",
-        "description": "",
-        "published": "2026-05-31T20:30:50+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbGNMQjlGVzh5cV9vNEhpb3lGUmVmQ05BTUJ6VGRKYjR2WnJCNUtKMHBjZ2VLTXlpVkt0ZW5WeFlEcDItbFRyQzRIZmhQX29Da2p2RmpmVkFEUkk5RjhNWTZ4RUNIb1BSdG05Rmc1ZzlRYVptSTNvM3NiZWNMS1BBcGRwY0JWcGxsaGdTSUVYaG9FWjc1X2RRb055c004WFhuYU8yOUZidFpfX1ZtclE1VjFSallMdw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "KSAT"
       },
       {
         "headline": "2026 NBA Finals odds: Spurs open as clear favorites despite Knicks\u2019 win streak",
@@ -715,24 +733,6 @@
         "description": "",
         "published": "2026-05-31T03:42:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQTFpLVNSZktFa0JjWk5oeWFBM2J4R1owZDlkckI3LU0ydmZFOXR6d2p5ekgzS1Z6M3d1Y2M3c1NFZE1PZTg1VlBpMkhMVWcwaW1xOU9MNE9aYVFTclladVFiSWl6WVFYZHhFNkV3WXp2dVFadnRjeWVLQ1g0UTB1cWlXdGZPQVhkbUZtaExaNlNQTUF6RllnQjljaWlwdXhzT0J3RHVBLXZFSno4Z1NfV3lBcnNOcFFRNDk4T3ZuOU1mSTl1S1RTQXZCZW96enR0?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "Manu Ginobili, Jaylen Brown top reactions to Spurs reaching NBA Finals",
-        "description": "",
-        "published": "2026-05-31T03:42:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPZWJ6OHdNa1JQWDhoTTJhaDA4OTdXd2Q0QUI5NEFYdWRQd3RZRlUtQmFITGRQY3JhaVB2d092T2JhQlJQVmZuZmRpUVlSWUc5VXJtM01qYTFNZjlnNGhoRmd2QzB2ODluU2Zwa3VJTnk2Wnd5Q250cmVFcEFsWmRsOVpFRXJCSUx4c2lRbUhXRUZnRWJodVgxWGFmM3Eybno0MXJGVnVpLV9EUm85Zk5rdmItTkRzWFoxYXVsVl9nbXE0OFpwMGUtYWJ3dXNkVXNpODFPRU44cUU2aEViTWpz?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "2026 NBA playoffs: Schedule, scores, news and highlights",
-        "description": "",
-        "published": "2026-05-31T02:47:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRDc5Y1Q4UktuVDNVQllONDVTRWI0OVZMc21KbnB0RmRDVW90QUpISHdKTktWazBCUTEzWWZYYlE3XzlNQ0M0WDJqSHVrX0ZUUlpQbEpJNmJ1aGp6R1hmdXpyYUE4YVktMUl5LXpUTjctQjJHanZXOTRNX25QTnhHVkFvQ1A4dEE2VTZyTGd4UEJURzRHbElDQzF6RHJ2Wlp6Zy1JY0d3Mlg5d2xkZ00xU0s2el9NSGc4VzZzbg?oc=5",
         "image": null,
         "recruiting": false,
         "source": "ESPN"
