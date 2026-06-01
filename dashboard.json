@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T17:18:13.273366+00:00",
+  "generated_at": "2026-06-01T17:33:18.951878+00:00",
   "duke": {
     "news": [
       {
@@ -88,15 +88,6 @@
         "description": "",
         "published": "2026-06-01T12:00:01+00:00",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYm1OZlVFNjV0elJiVXBYeG0xb0FWNGtGZ2MzNnBpVWtmLTRHNTRUTGtVZV9MNFRRZEtyWl9JWjE4c2szandZTXFjSTYzSWZIX1d5SnNtajlNSVBKTTdsc2ZWM0NGNUdOX2JNajlObWtHWUlQRkM4Um16S01oRVo0dENEeE5zQkZNX2tMUU5veDR1T3c?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "NBA Heavyweight Contender Could Be Trade-Up Candidate for Duke's Boozer",
-        "description": "",
-        "published": "2026-06-01T11:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORUFsdWREX2xhU1ZzVjhEcWZPYjFXU0pPWWMzYi05RElOa1hZQTl0Ykg0ZmlYc0NYaVRkbjlwS25VblZxSlQtX2JtOE9ZSmtXa056OVBkMnNBSEsyeVZOSUR1ZlVhdmdUQnY3MUFmYXpzTjdsX2w5ejFFMGRHWnlzaXZ3UzBjQVJZaldDVWE1RHJnVHJpaVllU1JXVTl4dkEyRlFvb2FiWQ?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
@@ -253,6 +244,15 @@
         "image": null,
         "recruiting": false,
         "source": "Duke Wire"
+      },
+      {
+        "headline": "2026 NBA draft big board rankings: Top 100 prospects",
+        "description": "After the college withdrawal deadline, a wave of returners reshapes ESPN's latest 2026 NBA draft top 100.",
+        "published": "2026-05-29T15:18:31Z",
+        "link": "https://www.espn.com/nba/story/_/id/46886245/2026-nba-draft-big-board-rankings-top-100-prospects-players",
+        "image": "https://a.espncdn.com/photo/2026/0524/100_days_1296x729.png",
+        "recruiting": true,
+        "source": "ESPN"
       }
     ],
     "games": [
@@ -487,8 +487,8 @@
     "news": [
       {
         "headline": "Odell Beckham Jr. is the latest star to return to old stomping grounds",
-        "description": "Beckham Jr. joins the likes of LeBron James, Ken Griffey Jr. and Zdeno Chara in his return to a former team.",
-        "published": "2026-06-01T17:03:43Z",
+        "description": "Odell Beckham Jr. joins the likes of LeBron James, Ken Griffey Jr. and Zdeno Chara in return to a former team.",
+        "published": "2026-06-01T17:17:34Z",
         "link": "https://www.espn.com/nba/story/_/id/45766203/nba-mlb-nfl-wnba-nhl-stars-returned-team-prominence",
         "image": "https://a.espncdn.com/photo/2026/0421/r1646991_1296x729_16-9.jpg",
         "recruiting": false,
@@ -540,6 +540,33 @@
         "source": "ESPN"
       },
       {
+        "headline": "Magic hire Sean Sweeney as team\u2019s coach. He\u2019ll stay with Spurs through the NBA Finals",
+        "description": "",
+        "published": "2026-06-01T14:30:52+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNR2E2RjJCdmtlTm53RFJBZHFLN0Rwb3ZzOVh3N1M3R2hmVjVfZFd1VUV2VHlMLW0zakZabkJwaTZTbmZkd0FpZkN2d21lNXdKbW5XLVluNFpuYTJaYnlMRzV1MDVzVWd5RnpqVF9qUnNRTmdydi1mRlFTTXBuMkFpTkNDV01KNU1qMEFQRmtCWHVHYk16YWxPWnItaHM3bG1Sc3pzVy1RN3JqWFJCX1ZWWExIRUU0VkpaQThjQ9IBwgFBVV95cUxPTm92My1JZVptMFZHeGJtT016Q3BTdkFkQ0loU25xTXRuQ0ZqZ3FIYjh5N0NvNVRMZXZnZGFWWV9EWTZ0b3NLS2RGM01PeVl2d05NZDRPTUpBS3FtajFvVWJBMW1rb1VNUmx3dEVzS2tiV2hmUi1HdkVscEtvVjMxTEpHYTE0NVlkMWM5eUJIZmlaVkU2MENnVk5UR0ZMLTdSalZRNFAwckpqN0VPZlQ2ZlNRc3IwOTJlc1RTWW9xVXF1dw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "KTLA"
+      },
+      {
+        "headline": "Mainer breaks record for most NBA 3-pointers made in 24 hours",
+        "description": "",
+        "published": "2026-06-01T13:54:37+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihwJBVV95cUxNX3ZOaDgwMnFpejJuNUhaRW1WNWZiZ3otUGZUMTgydzctNDh4dFI1MWtfWkpnWFVYWEdTRHBxS2tRaWs4ZnY5UHZsWDdwdjZaampCUkxQdnZIVHRhNzJFNTl4Ni1oVWFIcnBBQkItR1hRSFl6WHVFRkhRMzRjN0Z3eExiV2lRRjlfb3lkYjIxTjVYMXFRZjVlZ3NuaVBEUHZQejY5U2g4WHdjYldpQzVQb3prMVZqYWNGR1VMaGtsY1RITUJ5bXpudExudENoYjNkcFRZZnZSZzBoeU9WWHpNTHJvUGluaW5ranoxSERlX0JPU0xBX1EwckdaRWhCNmFMYUxacW51MA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "WGME"
+      },
+      {
+        "headline": "Trophy decals are coming back to NBA Finals courts. Why did they ever leave?",
+        "description": "",
+        "published": "2026-06-01T13:40:39+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQM215YlkyN2UtYWRUcFZFMWEyRU04dF9pN1RsX0diSWRRb3k2SHhoakRvZTBMZTVadTk2eWM0N2hNNk1uT01BM2lRYW5vQkItRjdrTTVXSk1vQnFsUF8wVzlNV09VMUJVN2FzLVRrR2lvSEpJYkR3bWoxZl9uMVY2RVgyam1YZ1pMZy1BVVlB0gGOAUFVX3lxTFAzbXliWTI3ZS1hZFRwVkUxYTJFTTh0X2k3VGxfR2JJZFFveTZIeGhqRG9lMExlNVp1OTZ5YzQ3aE02TW5PTUEzaVFhbm9CQi1GN2tNNVdKTW9CcWxQXzBXOU1XT1UxQlU3YXMtVGtHaW9ISkliRHdtajFmX24xVjZFWDJqbVhnWkxnLUFVWUE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBC 5 Chicago"
+      },
+      {
         "headline": "IU basketball in No. 20-30 range in 2026-27 post-NBA Draft withdrawal top-25s",
         "description": "",
         "published": "2026-06-01T13:20:56+00:00",
@@ -558,13 +585,13 @@
         "source": "Larry Brown Sports"
       },
       {
-        "headline": "Spurs-Knicks NBA Finals court designs unveiled, include return of center court trophy",
+        "headline": "ABC\u2019s exclusive coverage of the 2026 NBA Finals begins June 3: New York Knicks vs. San Antonio Spurs",
         "description": "",
-        "published": "2026-06-01T11:40:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNLWM2QllyelNqOVI4ZGRTcUdLSUxLSndqREd1d3RYcC1BMHJYU3RrUmNEWmFhRy02Rk9rZzh5czdBLXIwVEh2LVprdHpUZGQzTTcyampRSXBHYW9JNjRjMkFZWUJWLWdsb1dLUFFabVYzWnRucnBmZUZISVlwVWVnQVhOVEVlV3NRcDNOY0Rhc1VBaHduckJHOWtrdmlFM29mamw1RA?oc=5",
+        "published": "2026-06-01T12:21:42+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYm1wQ1NjNlZzUGZvQ2swVkR3U0FUSW9BSWstWmxacFVQWmUxNy1COFBSYnNkcTJiRlF2Q0FpZjdha0huZjZKOUZSd2pUcTlXLWtMSEcyVGV1U3VJMVRvZ3RFdFprVnp5aFppTEtqMlJTbGxlT0pyNEFZeWV4VEc3Y1NWWm9VRllvMGh1N2RXUFNoUEhvRUNGTXVjZk5pNEpDMHhHS2tXbEhTWl8zUkhWUXNsTXg4d29ONmcwOGxUT2VYd0VLX2IyTlVCZF9HaFQyaVgtekxoNmo5NTBxZXItbEhFWWQ?oc=5",
         "image": null,
-        "recruiting": true,
-        "source": "The New York Times"
+        "recruiting": false,
+        "source": "ESPN Press Room"
       },
       {
         "headline": "2026 NBA draft: Player comps for 12 projected lottery picks",
@@ -583,15 +610,6 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Trophy decals are coming back to NBA Finals courts. Why did they ever leave?",
-        "description": "",
-        "published": "2026-06-01T09:40:39+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONWdVV01oRDVSN1FQWF9mT01uNHRaU0t0eDlGUjN2ZllKdGF2ZHVnVldKY3d6OGpyb3VpRjluSlhhczFEUUkzelhtSjJTdjhpdU1kbUtsYk1pUEJIZTUzaUNsaHFHcm5uRFBiSkZKUGpZV0Q0cDczSlMzLThvMHdsSHBTT0o?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "Larry O\u2019Brien Trophy, Script \u201cFinals\u201d Return To Courts For 2026 NBA Finals",
@@ -648,15 +666,6 @@
         "source": "247Sports"
       },
       {
-        "headline": "2026 NBA Finals odds: Spurs open as clear favorites despite Knicks\u2019 win streak",
-        "description": "",
-        "published": "2026-05-31T19:02:43+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWWVHdkNDVVZ2MHNFYWRGSmJEb01ScGZDS2NHN0R5UW9pdV9Hek9jdGJROURSQUtsbFdmc04xTnQ1UXRMa2pVamdPUk5rWFBiVEV2clNXdF81YmhJTE9KMmNqUWdjT0FwNEo3WWR0clJLWVplTXNqb084c21pYjEwajJFb3RoQ0FU?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The New York Times"
-      },
-      {
         "headline": "Mike Schmitz wants to crash party with Spurs, Thunder, but the NBA just made his job harder",
         "description": "",
         "published": "2026-05-31T17:15:03+00:00",
@@ -682,6 +691,15 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "San Antonio Spurs win the West, beating Oklahoma City Thunder to head to NBA Finals",
+        "description": "",
+        "published": "2026-05-31T08:24:50+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYmFKaFkzamdIWFZid19CYzVhV3I2cEc1ZmhxOHd5Zk1QT01jV1dxRGI0eVM0Q0w3cHNvY1Eyb1Ffbmo0bjBSSFpOaHRHOWpoQ0ZXcjlNR184NU1oQ1hMZXRBVDI4WVRDUzdQZ29uUFJZLWNOb2ZJZno2U0ZmdjNKdWhNTXpGbF9rLTY4SGV3bHpEM0JOMzNxZ18tMS1aLXlRMWZV?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NPR"
       },
       {
         "headline": "4 takeaways: Victor Wembanyama guides young Spurs to the NBA Finals",
@@ -711,15 +729,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "NBA Finals preview: Everything that will decide Knicks-Spurs",
-        "description": "",
-        "published": "2026-05-31T03:42:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQTFpLVNSZktFa0JjWk5oeWFBM2J4R1owZDlkckI3LU0ydmZFOXR6d2p5ekgzS1Z6M3d1Y2M3c1NFZE1PZTg1VlBpMkhMVWcwaW1xOU9MNE9aYVFTclladVFiSWl6WVFYZHhFNkV3WXp2dVFadnRjeWVLQ1g0UTB1cWlXdGZPQVhkbUZtaExaNlNQTUF6RllnQjljaWlwdXhzT0J3RHVBLXZFSno4Z1NfV3lBcnNOcFFRNDk4T3ZuOU1mSTl1S1RTQXZCZW96enR0?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "2026 NBA playoffs: Schedule, scores, news and highlights",
         "description": "",
         "published": "2026-05-31T02:47:00+00:00",
@@ -727,15 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "From pregame invocations to cheering nuns, how NBA playoff teams embrace faith",
-        "description": "",
-        "published": "2026-05-29T19:38:28+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT3FRNkJXRllVWkM5UXVNdnN1NEQ4QkJyTHZ5UVIzX0gzUUozaTAtV0t4V3JLQjVrV0lnbDFwb19vUHJDRmhnTGd1M1BrV19WdGF6YkdoUGVQUUxINjdxbVlBejJlTlVYYTVhUlF6WnJHWGliRmlSdjNNZVF3UFVHYU8xWnNpUWVJUnBGVTYtVGh5Z2ZjNHM5NGc3SXhsZ2hIVW5jVWdabU5RUWE3MTlTZnhNZHA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Religion News Service"
       }
     ],
     "games": []
