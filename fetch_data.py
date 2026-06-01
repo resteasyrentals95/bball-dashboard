@@ -10,9 +10,13 @@ Run on a schedule (8 AM / 8 PM) via the launchd agent in this folder.
 """
 
 import json
+import re
 import sys
 import urllib.request
 import urllib.error
+import urllib.parse
+import xml.etree.ElementTree as ET
+from email.utils import parsedate_to_datetime
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
@@ -40,6 +44,66 @@ def get_json(url, timeout=15, retries=2):
             last_err = e
     log(f"FAILED {url} -> {last_err}")
     return None
+
+
+def get_text(url, timeout=15, retries=2):
+    last_err = None
+    for _ in range(retries + 1):
+        try:
+            req = urllib.request.Request(url, headers=UA)
+            with urllib.request.urlopen(req, timeout=timeout) as resp:
+                return resp.read().decode("utf-8", "replace")
+        except (urllib.error.URLError, urllib.error.HTTPError, TimeoutError) as e:
+            last_err = e
+    log(f"FAILED {url} -> {last_err}")
+    return None
+
+
+GOOGLE_NEWS = "https://news.google.com/rss/search?q={q}&hl=en-US&gl=US&ceid=US:en"
+
+
+def fetch_google_news(query, must_contain=None, limit=40):
+    """Parse Google News RSS for a query. must_contain: keep only titles with this word."""
+    xml = get_text(GOOGLE_NEWS.format(q=urllib.parse.quote(query)))
+    if not xml:
+        return []
+    try:
+        root = ET.fromstring(xml)
+    except ET.ParseError as e:
+        log(f"google news parse error: {e}")
+        return []
+    out = []
+    for item in root.findall(".//item")[:limit]:
+        title = (item.findtext("title") or "").strip()
+        link = (item.findtext("link") or "").strip()
+        if not title or not link:
+            continue
+        src_el = item.find("{*}source")
+        source = (src_el.text if src_el is not None else None) or ""
+        # Google appends " - Source" to titles; strip it when it matches the source.
+        if source and title.endswith(f" - {source}"):
+            title = title[: -(len(source) + 3)].strip()
+        elif " - " in title:
+            head, tail = title.rsplit(" - ", 1)
+            if not source and 2 <= len(tail) <= 40:
+                source, title = tail.strip(), head.strip()
+        pub = item.findtext("pubDate") or ""
+        try:
+            pub = parsedate_to_datetime(pub).astimezone(timezone.utc).isoformat()
+        except (TypeError, ValueError):
+            pub = ""
+        if must_contain and must_contain.lower() not in title.lower():
+            continue
+        out.append({
+            "headline": title,
+            "description": "",
+            "published": pub,
+            "link": link,
+            "image": None,
+            "recruiting": is_recruiting({"headline": title}),
+            "source": source or "Google News",
+        })
+    return out
 
 
 RECRUIT_WORDS = (
@@ -80,18 +144,29 @@ def parse_articles(payload, duke_filter=False):
             "link": link,
             "image": img,
             "recruiting": is_recruiting(a),
+            "source": "ESPN",
         })
     return out
 
 
-def dedupe_articles(articles):
-    seen, out = set(), []
-    for a in sorted(articles, key=lambda x: x.get("published", ""), reverse=True):
-        if a["link"] in seen:
-            continue
-        seen.add(a["link"])
-        out.append(a)
-    return out
+def _title_key(headline):
+    return re.sub(r"[^a-z0-9]", "", (headline or "").lower())[:60]
+
+
+def merge_articles(*lists, limit=24):
+    """Merge article lists, de-dupe by title (preferring entries with an image,
+    i.e. ESPN), and return newest-first."""
+    best = {}
+    for lst in lists:
+        for a in lst or []:
+            key = _title_key(a.get("headline"))
+            if not key:
+                continue
+            cur = best.get(key)
+            if cur is None or (not cur.get("image") and a.get("image")):
+                best[key] = a
+    merged = sorted(best.values(), key=lambda x: x.get("published", ""), reverse=True)
+    return merged[:limit]
 
 
 def stat_line(athlete_entry, name_index):
@@ -227,8 +302,10 @@ def date_str(days_offset):
 
 
 def fetch_nba(box_budget):
-    log("Fetching NBA news...")
-    news = dedupe_articles(parse_articles(get_json(f"{BASE}/nba/news")))
+    log("Fetching NBA news (ESPN + Google News)...")
+    espn = parse_articles(get_json(f"{BASE}/nba/news"))
+    gnews = fetch_google_news("NBA basketball", must_contain="NBA")
+    news = merge_articles(espn, gnews, limit=28)
 
     log("Fetching NBA scores (yesterday/today/tomorrow)...")
     events = []
@@ -245,11 +322,14 @@ def fetch_nba(box_budget):
 
 
 def fetch_duke(box_budget):
-    log("Fetching Duke news...")
+    log("Fetching Duke news (ESPN + Google News)...")
     team_news = parse_articles(get_json(f"{BASE}/mens-college-basketball/news?team={DUKE_TEAM_ID}"))
     # Broaden recruiting/news coverage by scanning the general CBB feed for Duke mentions.
     general = parse_articles(get_json(f"{BASE}/mens-college-basketball/news"), duke_filter=True)
-    news = dedupe_articles(team_news + general)
+    # Aggregate many outlets via Google News; keep only Duke-relevant titles.
+    g_general = fetch_google_news("Duke basketball", must_contain="Duke")
+    g_recruit = fetch_google_news("Duke basketball recruiting commit transfer", must_contain="Duke")
+    news = merge_articles(team_news, general, g_general, g_recruit, limit=28)
 
     log("Fetching Duke schedule/scores...")
     sched = get_json(f"{BASE}/mens-college-basketball/teams/{DUKE_TEAM_ID}/schedule")
