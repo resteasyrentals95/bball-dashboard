@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-01T14:47:16.374092+00:00",
+  "generated_at": "2026-06-01T15:02:22.143532+00:00",
   "duke": {
     "news": [
       {
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "'The Hoop Collective': Episodes of Brian Windhorst's NBA podcast",
+        "description": "From breaking news to the latest intel from around the NBA, here are the top highlights from Brian Windhorst's \"The Hoop Collective\" podcast.",
+        "published": "2026-06-01T14:52:23Z",
+        "link": "https://www.espn.com/nba/story/_/id/47168192/the-hoop-collective-latest-episodes-brian-windhorst-nba-podcast-archive-best-quotes",
+        "image": "https://a.espncdn.com/photo/2025/1112/r1574751_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "Trophy decals are coming back to NBA Finals courts. Why did they ever leave?",
         "description": "",
         "published": "2026-06-01T13:40:39+00:00",
@@ -639,6 +648,24 @@
         "source": "247Sports"
       },
       {
+        "headline": "NBA Finals schedule: Dates, times, how to watch Spurs vs. Knicks on KSAT 12",
+        "description": "",
+        "published": "2026-05-31T20:30:50+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQbGNMQjlGVzh5cV9vNEhpb3lGUmVmQ05BTUJ6VGRKYjR2WnJCNUtKMHBjZ2VLTXlpVkt0ZW5WeFlEcDItbFRyQzRIZmhQX29Da2p2RmpmVkFEUkk5RjhNWTZ4RUNIb1BSdG05Rmc1ZzlRYVptSTNvM3NiZWNMS1BBcGRwY0JWcGxsaGdTSUVYaG9FWjc1X2RRb055c004WFhuYU8yOUZidFpfX1ZtclE1VjFSallMdw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "KSAT"
+      },
+      {
+        "headline": "2026 NBA Finals odds: Spurs open as clear favorites despite Knicks\u2019 win streak",
+        "description": "",
+        "published": "2026-05-31T19:02:43+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWWVHdkNDVVZ2MHNFYWRGSmJEb01ScGZDS2NHN0R5UW9pdV9Hek9jdGJROURSQUtsbFdmc04xTnQ1UXRMa2pVamdPUk5rWFBiVEV2clNXdF81YmhJTE9KMmNqUWdjT0FwNEo3WWR0clJLWVplTXNqb084c21pYjEwajJFb3RoQ0FU?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The New York Times"
+      },
+      {
         "headline": "Mike Schmitz wants to crash party with Spurs, Thunder, but the NBA just made his job harder",
         "description": "",
         "published": "2026-05-31T17:15:03+00:00",
@@ -706,24 +733,6 @@
         "description": "",
         "published": "2026-05-31T02:47:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRDc5Y1Q4UktuVDNVQllONDVTRWI0OVZMc21KbnB0RmRDVW90QUpISHdKTktWazBCUTEzWWZYYlE3XzlNQ0M0WDJqSHVrX0ZUUlpQbEpJNmJ1aGp6R1hmdXpyYUE4YVktMUl5LXpUTjctQjJHanZXOTRNX25QTnhHVkFvQ1A4dEE2VTZyTGd4UEJURzRHbElDQzF6RHJ2Wlp6Zy1JY0d3Mlg5d2xkZ00xU0s2el9NSGc4VzZzbg?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "From pregame invocations to cheering nuns, how NBA playoff teams embrace faith",
-        "description": "",
-        "published": "2026-05-29T19:38:28+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNT3FRNkJXRllVWkM5UXVNdnN1NEQ4QkJyTHZ5UVIzX0gzUUozaTAtV0t4V3JLQjVrV0lnbDFwb19vUHJDRmhnTGd1M1BrV19WdGF6YkdoUGVQUUxINjdxbVlBejJlTlVYYTVhUlF6WnJHWGliRmlSdjNNZVF3UFVHYU8xWnNpUWVJUnBGVTYtVGh5Z2ZjNHM5NGc3SXhsZ2hIVW5jVWdabU5RUWE3MTlTZnhNZHA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Religion News Service"
-      },
-      {
-        "headline": "Luka Don\u010di\u0107 invests in Italian team with NBA Europe hopes",
-        "description": "",
-        "published": "2026-05-29T16:54:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWFktNVZ4dHNXSy1raTRoc0V5MUNyVlI3YXN3ZG1HVTVINExlcGI2NlY2TnVncjZLRHRYQ3EwaE9GYXV0X21LX00tZ0NLMkN3Mk1UVFR6QzJ0SEpSU3FYcFZnVnBFWXhCOWRLYmZWb2NQekJtaE5XaHRSZEU0S1ZhZGl4NWFhdjRZa2luazM4V0wwOHZRY0Q5b0ZibmprektoMkFyd0xXRQ?oc=5",
         "image": null,
         "recruiting": false,
         "source": "ESPN"
