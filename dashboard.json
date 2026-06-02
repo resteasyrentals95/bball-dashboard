@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T13:39:18.520223+00:00",
+  "generated_at": "2026-06-02T13:54:25.188561+00:00",
   "duke": {
     "news": [
       {
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Where Do Purdue's Seniors Rank on 2026 NBA Draft Board After Withdrawal Deadline?",
+        "description": "",
+        "published": "2026-06-02T13:42:11+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQeTdNUXVsa0RNY2dPSGJJSjBBVFJMd1lOcG1GZUhuME5ucEpUTnZ5czBMUTktQThMSkN3VjF6VFlfQlo0b0dSTnhlanp5cm5rY0VyTE11UWJiWVZzQUJ6V18tYlJ5OFVYTE5ValJ5ckkwY1h4TEJ2MWNJcVBJUHFuT1Voa0FpRmowSEhYM0tGczNfa3R6eWFBVXFHb3lJeXVaM214R2FyVkpIRm9kYjlMUmFXUy1tV05Fc0JnVA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
         "headline": "NBA Finals 2026: Experts' picks for Knicks-Spurs, Finals MVP",
         "description": "Who will raise the Larry O'Brien Trophy: the Knicks or Spurs? Our experts make their picks.",
         "published": "2026-06-02T13:10:23Z",
@@ -621,15 +630,6 @@
         "source": "Fox News"
       },
       {
-        "headline": "NBA's Stephen Curry signs long-term deal with China's Li Ning",
-        "description": "",
-        "published": "2026-06-02T00:45:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNYXNCVnRScjZMNWRHZ1VPNzhJV2hzRHBiRl8tZ05LVlFrd2ZQQXZmRjJKZFVxX0xOUnRpdVV1c0dGS3A1TVpsMmVkbkRkZGJrN2dtREVTd1d1bFM4blAyaEVIMWcyVU44aWtyUEJMUmNVQlRONEY4b1p0dzhRQTJYZkFSY3NkNFFJTzN0S2owdlpJcDFObmNPUkN3dktGNHBEQUJqVQ?oc=5",
-        "image": null,
-        "recruiting": true,
-        "source": "Reuters"
-      },
-      {
         "headline": "\u2018I know quite a lot\u2019: Knicks\u2019 Jeremy Sochan touts knowledge of Spurs in interview ahead of NBA Finals",
         "description": "",
         "published": "2026-06-01T23:01:05+00:00",
@@ -637,6 +637,15 @@
         "image": null,
         "recruiting": false,
         "source": "KSAT"
+      },
+      {
+        "headline": "Knicks, Spurs NBA Finals jerseys to feature 'USA 250' patches to honor America\u2019s 250th birthday",
+        "description": "",
+        "published": "2026-06-01T22:54:43+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9fMjIzUExiTzZnUVpPWGhmVkl5TExKYXpaNG1NZ3lZcHJUZGFNcS1McjJrZGswVTA5Xy1jaXV0TGtpODcwcENHSlEtRS1yc0xDYWRYcUhXVHRaT0lmTk4yWURSRVdDWUJZY3c?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
       },
       {
         "headline": "Q & A: Former IU basketball guard Lamar Wilkerson addresses the media following NBA workout",
@@ -727,15 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "NCAA.com"
-      },
-      {
-        "headline": "Trending Topics: Who will win the NBA Finals & Finals MVP?",
-        "description": "",
-        "published": "2026-05-31T16:35:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SUWstNFRyQTBzYlBGMmVfa0dFUFRXN1AyUWtKcjlid3NvZGxDVjJZVzUxRXI2ZGx3bVBWdXA5VVNhSldTdFA4T1JWWldHRVJYb1MyUWJCVHVsWGQ0cDdxYWlrUkRVc0RNd2J0aEdtS1ZuMDJTUWg0?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBA.com"
       }
     ],
     "games": [
