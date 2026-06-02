@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T20:18:45.416269+00:00",
+  "generated_at": "2026-06-02T21:37:53.873377+00:00",
   "duke": {
     "news": [
       {
@@ -37,6 +37,15 @@
         "image": null,
         "recruiting": false,
         "source": "The Duke Chronicle"
+      },
+      {
+        "headline": "Scheyer adds Conklin and Powell to Duke Basketball Staff",
+        "description": "",
+        "published": "2026-06-02T17:35:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlRkUVJISlRhOERNUlllUE9pYm9zOGhVaDcyYWRmS1FHU0p5b25zQjlfVEhvUG81MFB1MWlxOGxPZ3kyZGdqSWdCaE1XcEFNeGJLaWhxZG12RmRmYWU5ZHRTelB1Nm9oQjNfNjVLNjdpLTdWNlg1US1YMVkwV2FVQzVvRWo?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "HoopDirt"
       },
       {
         "headline": "Two New Hires For Duke Basketball, And They\u2019re Both Interesting",
@@ -241,15 +250,6 @@
         "description": "",
         "published": "2026-06-01T12:00:01+00:00",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYm1OZlVFNjV0elJiVXBYeG0xb0FWNGtGZ2MzNnBpVWtmLTRHNTRUTGtVZV9MNFRRZEtyWl9JWjE4c2szandZTXFjSTYzSWZIX1d5SnNtajlNSVBKTTdsc2ZWM0NGNUdOX2JNajlObWtHWUlQRkM4Um16S01oRVo0dENEeE5zQkZNX2tMUU5veDR1T3c?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "How New NCAA Guidelines Affect Duke Basketball's Sarr, Boumtje Boumtje",
-        "description": "",
-        "published": "2026-06-01T10:00:02+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUVBzdXgwRnVrNXZRUUJIcndBRHgyOVdsbVYxbjNqd2pGR1M2ZmNua3JRbm9DLWs3cHpsZVJ5SWp1UmZRMjZhUkp1UmpxU0lGUDVWeTktdzNRM24wSVVhOFZQSFBCNmhVZENuTUVWSnp0Z3luMGZlQUJoRGQteUo1MFNfUkRBVmVWWDU4SjJWMXVVX2xhUFhrOVJlRXdaSS1uM2xFdUhjV3NTUQ?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
@@ -486,13 +486,40 @@
   "nba": {
     "news": [
       {
-        "headline": "Enjoy the NBA Trivia Show: NBA Finals Edition",
+        "headline": "Gregg Popovich a welcome resource for Finals-bound Spurs",
+        "description": "Gregg Popovich remains a trusted resource for the Spurs as they prepare for their first Finals without the legendary coach on the sideline.",
+        "published": "2026-06-02T21:33:52Z",
+        "link": "https://www.espn.com/nba/story/_/id/48950639/gregg-popovich-welcome-resource-finals-bound-spurs",
+        "image": "https://a.espncdn.com/photo/2026/0602/r1667387_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "NBA Mailbag: What will be the deciding factor in the Finals?",
         "description": "",
-        "published": "2026-06-02T20:00:10+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQVDE2NXduYTNSYzhSRTA4SWtwRkdQeXZEWmRLUEdIMXE5N0JCZEc0WTJzRkhBcnNYSTlPRWtTV3Z4ZnhXS1B6YUQ1U3YtYmpfNnNfTXZnWEtscXloVlFmVENyWkNQU056YW5hTlRtSG1UT1pUdWwzMmNLaURkbmxQT1Fn?oc=5",
+        "published": "2026-06-02T21:25:38+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fWWljdEFBUEhFdGVBbXQzTUdEMDkxaEkxWXpsY09qTU5xX2ttMmtfSTdkSEtGMWJqdFpDUGh3bDd3Ymp0MzNZcVJHb2IwUnA4bmljSUx6VFdRX2xu?oc=5",
         "image": null,
         "recruiting": false,
         "source": "NBA.com"
+      },
+      {
+        "headline": "Knicks mum on status of Mitchell Robinson (finger) for Game 1",
+        "description": "The Knicks declined to reveal whether Mitchell Robinson will play in Game 1 of the NBA Finals due to his broken finger, though the center participated in individual drills during practice on Tuesday.",
+        "published": "2026-06-02T20:48:45Z",
+        "link": "https://www.espn.com/nba/story/_/id/48950555/knicks-mum-status-mitchell-robinson-finger-game-1",
+        "image": "https://a.espncdn.com/photo/2025/1223/r1593084_600x400_3-2.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "2026 NBA draft profiles: Philadelphia 76ers prospect Dailyn Swain",
+        "description": "",
+        "published": "2026-06-02T20:17:21+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOYVd3Tzg0ZEpyQzhETmlwaUdMN2E1TkMxWEczYlhEdWJKdS1nelhPbUp5WUJDZ1RWZE5TdFpKbGhod0h2ZEZwQWF2ai1ROFNNS19qZElpMzlraVF1NUxxbHF3ODlUZXRkN20zaV8tTXIwMTMxZG5aM2cxZk9jdm1CeVgtdnFnOW1WMGh1MlNR?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "NBA championship and Finals MVP odds: Spurs favored vs. Knicks entering Finals",
@@ -504,13 +531,40 @@
         "source": "ESPN"
       },
       {
-        "headline": "Kendrick Perkins Pushes Back on Claims That NBA Already Belongs to Victor Wembanyama",
+        "headline": "NBA community pays tribute to \u2018brilliant\u2019 Rick Adelman following death",
         "description": "",
-        "published": "2026-06-02T18:00:31+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQQVd0cDBkWF8tNng4azFpMXBwcDBRNU9fbHpxSmJKTWY2Mi1uVGtONWM0YjVhQjl0d053VGZQVkNPY3VzQzVHR0M1LUVKZFlxTlhDdUR2ZHhmbi1IdFF1bEVzcnIxbU9vb3dwTi11bndESGluN0VMSHlUNU9EWTl4a19GQjJRYWEyRVNFeQ?oc=5",
+        "published": "2026-06-02T18:21:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRFdXdjNiNERsbjF2Z3VlcnltbWszZ1BMbVlUcGNCMHE1LUMyNV9LbnhrOGlJUTZOa3hNb0hsV0FKYjRkVVpBaW1keDdsb2kzY2JRYmttN0wzZHJUcjMxRFJlTzRwNkVVMDUwVlFMeEpIWVlMRFB4X3JQUktlVGEtVHJhQUtuNHZwU05neTFzaHhIOC1nRjAwQ0VGdk9XZWh5dDY1MzZfRkwyVUJPa2tHMDFwZE1rLWc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "OregonLive.com"
+      },
+      {
+        "headline": "ESPN Experts Share Official NBA Finals Predictions",
+        "description": "",
+        "published": "2026-06-02T18:11:40+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM09pUUFIZDlCSTZmZ0pWRm5rSllldllxakVvdUFpRW1zY05OUnZ1MXVDTGlUMWhxU2dneUpDbU50Y3NYbHhDVFJjQklNVF9xRUJGajhTWDZFWXdUOURLeTBmM05ZLXpHTG9sVHNVRnlZLXBjeEZfVkh1bEVJRThueFB3YjFCQU0?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
+      },
+      {
+        "headline": "One NBA Finals Foe Knicks Won\u2019t Have to Face? Jet Lag",
+        "description": "",
+        "published": "2026-06-02T18:05:18+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQWV4VWJ0UzFka3BiWjU0MnlVS3RwQkRmeW8tdHgxdUczSGduQ1VkcTNTMThTUmkxTUk5Z0pIdU9TRFA0VHhoeFhicUNVNXR1Vl9HcEhxMlZhS0R1MXBSOWxHT3JxejlVU2E1aGNSU3dPcUt0OVBWSDFiWkJjNWY0QjJoajlHTlo0ejAzX1VweExrQ1YzUDBJSHk4QUlNdi1wVF9KTFBkX3J0TmVSNE8zQ25mZk1TVTMyMWpTcA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sportico.com"
+      },
+      {
+        "headline": "NBA Finals Player Rankings: No. 3 OG Anunoby Stream of National Basketball Association",
+        "description": "",
+        "published": "2026-06-02T17:03:23+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWkE1YVlyUS1rVU9VQ0RlcjNweEtyWlRESUt6RWdyMHFSUWRESmgtMnNpVkZuaTJMX1hvbVdrYXE3U1pnYmFMX05Td0NXQnBhZnUxX3NNM3d0bnA2aVpQTHZaczhqcXprZ0xrWVlPRU1zQXF4UWNkZEdFZ21IVC1zMlg4b2NDVS15LXJzZQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CBS Sports"
       },
       {
         "headline": "Referee Curtis Blair to work NBA Finals, a first in his career",
@@ -520,24 +574,6 @@
         "image": "https://a.espncdn.com/photo/2026/0602/r1667230_600x400_3-2.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "NBA Finals Game 1 Preview Stream of National Basketball Association",
-        "description": "",
-        "published": "2026-06-02T16:45:09+00:00",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5Hdk9TX1c3M1U3dFZLTVA2TzBZQlBTamtfUDRfYk5WbEdYRWs3Ni1pVTJkVzVZZ2I4RkdZMEdyVHlwd3dCNDZGTk52MnlwNnNLMWtvdzNJZTJ4TFRKWk5IaWdUeHl1dDBISW1XdVlwM1F0OUNPNWNmRnFpcw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "CBS Sports"
-      },
-      {
-        "headline": "Former NBA coach, Basketball Hall of Famer Rick Adelman dies at 79",
-        "description": "",
-        "published": "2026-06-02T15:11:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZjJnN3RNZXpJb0VYUHgxVFRhVl9MWHZMY0YyUlpoVldjUU5ybTYydExiQTJudUx4clFKZ0FBMkpKSF96VGdVLUkwUk5henNGcTVrRE4zb0VvQ0UwQlRwQ0xaeFR6d2E3SWljZFdzZWh6YUJyOWZLNFhKcjZmM2tDZUN6VzM1NzZwOFVVUUJjbEs0MTVZRmVkMVp5TUE3WGJLV2FHV2FRdEN6dllIRFhkM3lZWQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "USA Today"
       },
       {
         "headline": "Jeremy Lin joining ESPN for Knicks NBA Finals run",
@@ -558,13 +594,13 @@
         "source": "Sports Illustrated"
       },
       {
-        "headline": "\u201cThis Is Why He Happily Spreads CCP Talking Points\u201d: NBA Fans Buzz As Steph Curry Gets Shoe Deal With Chinese Brand",
+        "headline": "Inside the NBA and WNBA's booming player-to-broadcast pipeline",
         "description": "",
-        "published": "2026-06-02T13:39:27+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQSFUwZ0MzRGhURUVHbHlaUHg0a1NPclUteEE2aVNodUw2MnZtcUFNOE5xaVo4UHJKWGYxWlNNX0poTkJDYjlvanpSWEMzMld3X2w2SGdkSUszYUppZFJScnFLRTlUVU1kUzA1ZlRKNlFIdGpWaVk2Yno4dlRqbXloTS1qWDc4VGc?oc=5",
+        "published": "2026-06-02T10:06:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd3lPTF9SU3ZxRDBWekV3M3pQb3JhY1F4SnkxNUdfalhva2Nuc3ZMRDlmcl9Fbm9XWGZ5bkcyUVRKTUpSZm1LNHN3M29CZFlpUTR1RnE0ZC1jOVlEZXF5VlJKcFpncWFHTXJQNjhZYmlRaER5TDdURlhlbVBQOVpIZXgwSXBwQ0x1S1FSNHJSeWpzVUZyWnNfUFBTY1JLUQ?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Yahoo Sports"
+        "source": "USA Today"
       },
       {
         "headline": "What an intriguing NBA Finals, with two pretty evenly matched teams seeking a return to greatness",
@@ -594,13 +630,13 @@
         "source": "Fox News"
       },
       {
-        "headline": "Rick Adelman, longtime NBA coach and Hall of Famer, dies at 79",
+        "headline": "Hall of Famer Rick Adelman, former Warriors head coach who is 10th-winningest coach in NBA history, dies at 79",
         "description": "",
-        "published": "2026-06-02T00:38:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWmpjU2NFbU10RVhjb2l2U1hsR1IybWliTUVvVnAwSDFfTXdIdHkySmwzT092YUgzcnN1ZWp6ZmhMOWtRbWJGN1JXSW9QM0JBeUVWb1VFV21kblBMaUtQS0dXcHRvZHZRVUpWNUxXV2xyVXVTVloxaW5RR09rbXY1bnVwNVNubTY0NEFsVS1jOXc2QlNqT2Z0N0dob0hzNjRPa2NNZkc4MjYxNU85alR1TTN5MnVFZ2dJWTBtOVBIMTNEZU91?oc=5",
+        "published": "2026-06-01T23:41:31+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMlViUmE3NkJVZ3RJOHBRMkFDZ2JPS3BiVzItY0ZvS0R4cVNhZ1VpUVdveW1HVjlGYUhxTFpVQm5UU19FZHNpb0JTMDI4cWZ5WFFpQnRndWp0U1JRaGowbk9KVmlURnhwZ2lFX1Vzb3J3dUttcGZ0VFdPa0hyT2hMZHFyQUNPMkp6UzdkdzdYc21VZE5WMURRVXZKZ1JYV0pjajMtY2k0TFNUdlZsbEJDdjcyR1hEVGxNYnZWWTVBX2s4Zm5XblFKZHBJMnM5UXFSMGNV0gHYAUFVX3lxTE0yOERDeXdhdUhyc2xHczE2clVHT2RrZFYtcG5NMFBDemY4MUZ5aWd0QjhoOURwNXpIQmY2TFRLTXo0akZrcDZFT1VsdTZJU29YdnZMSm5YTnpIcHhDaXpaUnZ5WXlTSjNhcEtiZGpZVmlYNS1xZmhrZHZDdTZIZEM0WVFoeWMyUUV0UE8wV05nMmE3aTBZT1FiMDYyY1VxcVg4WlNqLXhOVFFCb29HbmlBbXNvY0xwc0wtT2s4bHd2UTNLZ3pJVzQ4Q3o4WEprQ09EYVJEbG9fTQ?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Yahoo Sports"
+        "source": "The Mercury News"
       },
       {
         "headline": "Q & A: Former IU basketball guard Lamar Wilkerson addresses the media following NBA workout",
@@ -619,15 +655,6 @@
         "image": null,
         "recruiting": false,
         "source": "Basketball Network"
-      },
-      {
-        "headline": "Big market, small market, same NBA Finals stage: How the Knicks and Spurs got here so differently",
-        "description": "",
-        "published": "2026-06-01T19:07:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRU50SFBDQnpfcHRaS0Vyci0xS0pxRmhNa3RaRlFTSERRS3dLanI2TFVCNk1pX2ZYcDRBZkdrdzNtWjNtRnl0M25ZeU1JdEx6OGZUZDc0QWN6VWctT2RfVnVKdXdXWm5CMjNRN2wtSHRrdTZpTWtQRnk1RFMwUVpUNk1tckplMDF5VFhCeTdwNElteEQ0LXc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "AP News"
       },
       {
         "headline": "Where the latest mocks have Michigan Basketball trio going in NBA Draft",
@@ -709,33 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "National Catholic Reporter"
-      },
-      {
-        "headline": "College basketball top 25 after NBA Draft deadline: Illinois or Florida at No. 1? - The Athletic",
-        "description": "",
-        "published": "2026-05-30T14:21:49+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQWFpib1hla3FNOGRVS201Y0xPUzRQMFc0QUJWeEExTG96Q0JWS0htRU9fRjhBRFlMLUJINlM0N1V6UndiNmx1bllkcGl4MmNuNHdyYUcwcm9qVGtvVUZyT0xOQ3NHcjdsVm9qdnItZUZMZU42QzhsdXNkLUtHMmRCRWlaZzFmWm1IMm5sakQ1WGZ6dDBIdFp6LVBvaExsdUU?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The New York Times"
-      },
-      {
-        "headline": "2025-26 NBA Awards: Finalists and winners for league accolades",
-        "description": "",
-        "published": "2026-05-27T07:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qZWI3ZWozRFRoM3BXOXRTZmpZRHItRVo5dWxFV084eVhTWGRjd1VhdGwyMnJpcUVyYWxXYkQyaENjVUhfWFRreVZQOFFnVlFtbUs5UHh1clNsQzZwTUFoM1RIMVpVUDg?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBA.com"
-      },
-      {
-        "headline": "NBA draft withdrawal decisions that could impact NCAA basketball",
-        "description": "",
-        "published": "2026-05-19T07:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcGNUQjFsZWVMVll5emQwQnlWS1VxZVhhaFByMUF5a2wtT3BsOTR1N0RaVHFwbGlvWHpyYmJuUjBJZkdLR1NkaGZ2djNoS3VyTHdOSFh3VEpUWGFLM2k4bWNFa0ZCcm90Ty10TERfc1hZN0F4UDZ3cnFaeEVFbFVOd2I2N05tSEtMdWptUVdkdTVfUW8zODZ4VE0yWXFVcVNtR0RTN0hqZ2lWYzNhbnRHam5UbnhoczVQaFBaTV9Yb0ZVR1VneFdGQXEybw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
       }
     ],
     "games": [
