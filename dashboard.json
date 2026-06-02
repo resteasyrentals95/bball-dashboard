@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T14:24:40.468542+00:00",
+  "generated_at": "2026-06-02T14:39:47.621568+00:00",
   "duke": {
     "news": [
       {
@@ -183,15 +183,6 @@
         "source": "The Fayetteville Observer"
       },
       {
-        "headline": "NC State\u2019s ACC basketball schedule includes no home games against UNC or Duke",
-        "description": "",
-        "published": "2026-06-01T12:24:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFh3YzZLUi1lNlFlS08yc0hMZ1lpbTRpbi1CZkRsTE1xVldrQThtWFJ4eE9LWEpKOTNRM0I3dFdFbUVOalFUTjhpa0Z1blFwLXdobWVsLVNpTTI1TE81MkhNTkJUS3hjNmdGOXRaLTVCUGtCQU04c2hjbG80VjM1dG9pWlVqWXZYZWJvbUN0Uy1SUC0zeG5JRl9LWEE1cWFydzNYMk53NWVvMldCbWY0YjEtSE1pM1c1d0tNMTBjdTB0TExQTHFxTmhpc09Jdw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Backing The Pack"
-      },
-      {
         "headline": "2026 NBA draft: Player comps for 12 projected lottery picks",
         "description": "From best-case ceilings to realistic floors, which NBA players do the top 12 prospects in the 2026 draft most resemble?",
         "published": "2026-06-01T12:19:37Z",
@@ -253,6 +244,15 @@
         "image": null,
         "recruiting": false,
         "source": "Duke Basketball Report"
+      },
+      {
+        "headline": "Why Duke Basketball Is Underrated NBA Draft Deadline Winner",
+        "description": "",
+        "published": "2026-05-31T11:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZkVWSG5OSzNfa1hYcDBZbFhiSzFFd3g3R2xRWlhPdmp1N1oxTWhDYkRiSlh2THFkdm9iNDRkMzNpN3R0RWFpVUdpV2drSmFoSG9fWUE3OVJUb1hVMWo4U3NtczlwVUphTFVmRmpKekd5MlVLTDZPLW9lUll0M2xFVm9obTRHTFFZb0J5OUJmVFg2Wk5QdE5xOUVpSQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
       }
     ],
     "games": [
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Jeremy Lin joining ESPN for Knicks NBA Finals run",
+        "description": "",
+        "published": "2026-06-02T13:59:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTBzZjBUNXkzUDBQYVlScGRXVkhiSHFyVTdRcmx4M0w2elNQTUhMazdIOVh5QjROc3dLMWJvck52NTlfV29NaHktNHpjMTJfbl94MnJPLWFQUW1XRzJHejR0NEpka1RMTjZWOU9kSGd4b3RyYi1WMmJfWHRwelNJcm44OFdJcjhSck1rX1VkYUU?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "New York Post"
+      },
+      {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
         "description": "Here's what our NBA insiders are hearing, including the latest on moves the Cavs could make this offseason.",
         "published": "2026-06-02T13:05:28Z",
@@ -513,22 +522,22 @@
         "source": "ESPN"
       },
       {
-        "headline": "NBA star Giannis Antetokounmpo reveals only team he will sign contract extension with if traded",
+        "headline": "NBA star Stephen Curry signs shocking 10-year shoe deal",
         "description": "",
-        "published": "2026-06-02T12:08:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQYl9SRy1PSlQyZkMyQXNKcUlaMU9UTnBQT1pnbjJ0cElmMmlkYkc0czdUVjBINmpHeWR5Vy1RejQyQmJvYkx0cndkMm0yTVRhakdkQ1RTV2ZQR1hRa0ViUlM3MVlUMGZZa3BYNVpRcXp1TEZlbDFydnY1d0N0dXUwU1ZCMldHMVRzbHJzaEFBcEI?oc=5",
+        "published": "2026-06-02T12:09:33+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU0hYOEs3MXFodTNZYy15YXVyWk53NG9GOURlcHBoZFppa3FNYmZ5YzVTak9aeE9oVlppLTc0R0I2LUdWTXR5clV0RUVUakxxZHN0LVdUbkp3Rm1yVDJfRW12d0dMYkh1Q3BFc0FjbUVqaWxJeWFzVy03Y0h4dkdsVVNUNmFIcW9jdDlr?oc=5",
         "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
+        "recruiting": true,
+        "source": "The Big Lead"
       },
       {
-        "headline": "NBA Finals Fantasy Basketball: Will Mitchell Robinson Play Amid Pinky Injury?",
+        "headline": "Aspiration Co-Founder Sentenced To 14 Years, Cooperation Aided NBA's Clippers Investigation",
         "description": "",
-        "published": "2026-06-02T11:59:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM0t5ZEZ5bFlaZEVMb3FDMWJuOHVkMUtKNEE2Z2ZFb1YzaWdPU0hvSXYxYks5Qnl2bzdnUXZPdUtOVXR2M00yS0VNZWpoZHZKVDFESDgtbHlmUUFuNHVXbTNNTkVYTDMwSkpLN1U4WkhEaHZWa3R3Q09fZFlJSkc0V1hLdXVoVjd0Nk1SLTRjWUo3Tkl2?oc=5",
+        "published": "2026-06-02T11:57:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPbmtvdDFJXzlmcGdjeGVueUs3a3JkVE1zUzBENkV1S2Jja2dJc3ozOVFVQ3AtVXFpNHRWRW1LRGRiUWdCQU03ZTJ5MFZFV1RwWWN1WHRzNUI1aC1VMDMzRkRIbGYzYlhIMFZSYUZfZDNfWmxGR0N2SDAwM2NwSnBqR3BUeTVBWlhodzJpaml2WXNFWVphbGY4UHhaRGhQeWY1RUF4eW5HdWJYWmY1MjI0SGNzQXA3QTZ4QzZneFlaTWdhR3FKQ0FkUGhfREJVWDA?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Sports Illustrated"
+        "source": "RealGM"
       },
       {
         "headline": "NBA Draft 2026: Five Prospects Who Could Become Victor Wembanyama Stoppers",
@@ -556,24 +565,6 @@
         "image": "https://a.espncdn.com/photo/2026/0601/r1666824_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Iowa connections in NBA Finals include Ames native and ex-UNI player",
-        "description": "",
-        "published": "2026-06-02T10:34:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbUI0SThmZFdGdnY2ckkwcHQxanNWb19abEZVRmtNRTRmSG5nX2tlX1djWWRRLUZpbThOSVl1Sk10cmFHQU92dGRUVXFVblN6cGsyaDFtMHZWVmUtbXQzVXJ1d0s4TktWRVU4SFZGTDJMWlNjeVM1clo5QmtjeTJ3SjRCLWtiaWZUX2xWSFhiSlZOMm9SRGYyY2ZiQVFNMFNEdFhlczItWHpIaF9PQm1YeDJ2VmhVOFRyQmtQYmJ2dEZXS1lUVmtNTUFMampnbENkanB3eVJwVnZqc1Ni?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Des Moines Register"
-      },
-      {
-        "headline": "Knicks legend Jeremy Lin joining ESPN's NBA Finals coverage team | Exclusive",
-        "description": "",
-        "published": "2026-06-02T10:05:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNc3N3RTV4V2R5MXFFUEhKNnVoMDBEVGlETkJYQTZzTEdsbHUzSjFhbmlEZFl6WlVpM0pPZmdna0QxZkdQajlfVHN4dnEyX1htemJZMzZBSksza1dobklSNGpCU0RvdDZuRTRDME1kNFhLOFh3RHlQWFBxb200WFNiWGFKRVUtdkduMm9MM3NHVmFOaUhCWXZ0UUFObDd1dzc0aUtCX3p0bnFXalRMdFRReGlXRDhUelluNHlacXZ3OXRJZURTc1UxSg?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "USA Today"
       },
       {
         "headline": "What an intriguing NBA Finals, with two pretty evenly matched teams seeking a return to greatness",
@@ -628,15 +619,6 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
-      },
-      {
-        "headline": "\u2018I know quite a lot\u2019: Knicks\u2019 Jeremy Sochan touts knowledge of Spurs in interview ahead of NBA Finals",
-        "description": "",
-        "published": "2026-06-01T23:01:05+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNNm9RRTBRaUdyRnlLeVIwNnJobEMyRnB6Qko0dGhBZkt5b094OFhOYkxfQ1g4X1NoSG5FbS1DMTBDQTEzSktGWktXR25oYkRnNk03dVhRN2hMY1FpcTVHZFV3RkZSRDMyWVVmY3ByUUs4V3duOWZXbTZLWUhpbmdQSFNNSXFhOXY5WHFGUGZUWjZTZ3Jnd2NJcUQ3MVRCdkRuTVlzZ1pUUDE1elJjY01EQ1c2UjV6ajE4QVp1OGhic3B3XzV0a1NV?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "KSAT"
       },
       {
         "headline": "Q & A: Former IU basketball guard Lamar Wilkerson addresses the media following NBA workout",
@@ -702,6 +684,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "ABC\u2019s exclusive coverage of the 2026 NBA Finals begins June 3: New York Knicks vs. San Antonio Spurs",
+        "description": "",
+        "published": "2026-06-01T10:17:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYm1wQ1NjNlZzUGZvQ2swVkR3U0FUSW9BSWstWmxacFVQWmUxNy1COFBSYnNkcTJiRlF2Q0FpZjdha0huZjZKOUZSd2pUcTlXLWtMSEcyVGV1U3VJMVRvZ3RFdFprVnp5aFppTEtqMlJTbGxlT0pyNEFZeWV4VEc3Y1NWWm9VRllvMGh1N2RXUFNoUEhvRUNGTXVjZk5pNEpDMHhHS2tXbEhTWl8zUkhWUXNsTXg4d29ONmcwOGxUT2VYd0VLX2IyTlVCZF9HaFQyaVgtekxoNmo5NTBxZXItbEhFWWQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN Press Room"
+      },
+      {
         "headline": "Stephon Castle makes 10: Can you name the other former UConn stars who played for an NBA title",
         "description": "",
         "published": "2026-06-01T10:04:10+00:00",
@@ -711,15 +702,6 @@
         "source": "Hartford Courant"
       },
       {
-        "headline": "ABC\u2019s exclusive coverage of the 2026 NBA Finals begins June 3: New York Knicks vs. San Antonio Spurs",
-        "description": "",
-        "published": "2026-05-31T23:45:14+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOYm1wQ1NjNlZzUGZvQ2swVkR3U0FUSW9BSWstWmxacFVQWmUxNy1COFBSYnNkcTJiRlF2Q0FpZjdha0huZjZKOUZSd2pUcTlXLWtMSEcyVGV1U3VJMVRvZ3RFdFprVnp5aFppTEtqMlJTbGxlT0pyNEFZeWV4VEc3Y1NWWm9VRllvMGh1N2RXUFNoUEhvRUNGTXVjZk5pNEpDMHhHS2tXbEhTWl8zUkhWUXNsTXg4d29ONmcwOGxUT2VYd0VLX2IyTlVCZF9HaFQyaVgtekxoNmo5NTBxZXItbEhFWWQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN Press Room"
-      },
-      {
         "headline": "San Antonio Spurs in the 2026 NBA Finals: Top March Madness highlights",
         "description": "",
         "published": "2026-05-31T21:01:13+00:00",
@@ -727,6 +709,24 @@
         "image": null,
         "recruiting": false,
         "source": "NCAA.com"
+      },
+      {
+        "headline": "Trending Topics: Who will win the NBA Finals & Finals MVP?",
+        "description": "",
+        "published": "2026-05-31T16:35:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SUWstNFRyQTBzYlBGMmVfa0dFUFRXN1AyUWtKcjlid3NvZGxDVjJZVzUxRXI2ZGx3bVBWdXA5VVNhSldTdFA4T1JWWldHRVJYb1MyUWJCVHVsWGQ0cDdxYWlrUkRVc0RNd2J0aEdtS1ZuMDJTUWg0?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
+      },
+      {
+        "headline": "Bettors heavily invested in Knicks to win NBA Finals",
+        "description": "",
+        "published": "2026-05-31T15:47:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVUFxUkdtZFZvRmZiQWtacjJRSVByWnFScHFFVzV5ekZTNEhHUVVudGptZklCMjFiS1U0dlBMdTdxdk96RlFfbElwdkVTUnRnRUU4SDVhZ21qVWZjVnE3SGtmQlZqb3FiUXhITTNteURoRDVtb0Z5M01mOHRRY1ZCVmU0S2pFUFo0RWVSa3lzdmtyb2paRkE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
       },
       {
         "headline": "San Antonio Spurs win the West, beating Oklahoma City Thunder to head to NBA Finals",
