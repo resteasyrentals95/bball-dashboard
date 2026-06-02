@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T19:01:05.775129+00:00",
+  "generated_at": "2026-06-02T19:16:11.596920+00:00",
   "duke": {
     "news": [
       {
@@ -28,15 +28,6 @@
         "image": null,
         "recruiting": false,
         "source": "The Duke Chronicle"
-      },
-      {
-        "headline": "Scheyer adds Conklin and Powell to Duke Basketball Staff",
-        "description": "",
-        "published": "2026-06-02T17:35:02+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlRkUVJISlRhOERNUlllUE9pYm9zOGhVaDcyYWRmS1FHU0p5b25zQjlfVEhvUG81MFB1MWlxOGxPZ3kyZGdqSWdCaE1XcEFNeGJLaWhxZG12RmRmYWU5ZHRTelB1Nm9oQjNfNjVLNjdpLTdWNlg1US1YMVkwV2FVQzVvRWo?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "HoopDirt"
       },
       {
         "headline": "Two New Hires For Duke Basketball, And They\u2019re Both Interesting",
@@ -136,6 +127,15 @@
         "image": null,
         "recruiting": true,
         "source": "Duke Basketball Report"
+      },
+      {
+        "headline": "NBA mock draft: BYU's Dybantsa headlines top tier with Kansas' Peterson, Duke's Boozer, UNC's Wilson",
+        "description": "",
+        "published": "2026-06-02T10:01:34+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPMXB1c1RLazNTc2JLY0EwZldQaENNOGZIaWhZZnVITXR6VnlOZGk0dkNRVzlLc3hzUkVqaWlMRXBfbGFZcFFIbXJLdlBhM0dCZzhxaTBucnVjbHJZN3FqS2JaQjJjaHEycmwyaUpUX094aEd4RTZFU05iemNEWTk0YXpac0xOQ2w3WlRiUXRoOGVyVWF3c2ZCMkZCaFpQeW9oTXhaSFhvMnpDclVBbkFpYkVWZ3hKU1c5MUZQeGV4eFlhczRQLXVvUllTdDdkTVB3aWFvM2YtWHY5T1lHbElXczk0cGhpX0JPZGJkS3cyczZubmRRV2FvdzlWMURYU1JTTnI5c0VFSF9XX2Zqd2NuYnBzVQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Toronto Star"
       },
       {
         "headline": "Duke Target Kager Knueppel Shares Difference From Brother Kon",
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "New Jersey roots run deep in New York Knicks 2026 NBA Finals run",
+        "description": "",
+        "published": "2026-06-02T18:30:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPY3BDYTRtZ3dIcG9jTnJPUVRGWWpyaWN3N3FiVWJvNDFwLXZqZjRfVVZWZDh5UXNQVVAyeVdna1doX0gzQ3JlTk1mbVYxZzRRZUQzSWd2RmNPQUNJZ2l0MTZjd09yUGhFOXVYaklaT19CSzFKYk12aDlXSUFMbWVMNg?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "NBA championship and Finals MVP odds: Spurs favored vs. Knicks entering Finals",
         "description": "The San Antonio Spurs open up as favorites to win the NBA championship heading into the matchup with the New York Knicks.",
         "published": "2026-06-02T18:21:47Z",
@@ -513,6 +522,15 @@
         "source": "NBA.com"
       },
       {
+        "headline": "NBA Finals Player Rankings: No. 3 OG Anunoby Stream of National Basketball Association",
+        "description": "",
+        "published": "2026-06-02T17:03:23+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPWkE1YVlyUS1rVU9VQ0RlcjNweEtyWlRESUt6RWdyMHFSUWRESmgtMnNpVkZuaTJMX1hvbVdrYXE3U1pnYmFMX05Td0NXQnBhZnUxX3NNM3d0bnA2aVpQTHZaczhqcXprZ0xrWVlPRU1zQXF4UWNkZEdFZ21IVC1zMlg4b2NDVS15LXJzZQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CBS Sports"
+      },
+      {
         "headline": "Referee Curtis Blair to work NBA Finals, a first in his career",
         "description": "Curtis Blair spent all day Friday checking his email. And Saturday. And Sunday. The list of referees that were selected to work the NBA Finals was about to be revealed by the league, and the waiting was brutal.",
         "published": "2026-06-02T16:46:32Z",
@@ -520,6 +538,15 @@
         "image": "https://a.espncdn.com/photo/2026/0602/r1667230_600x400_3-2.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Curtis Blair, for the 1st time, is among the 12 referees set to work the NBA Finals",
+        "description": "",
+        "published": "2026-06-02T16:08:18+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPUlFFUUp1a0dua0Fha0xpR0toTjhjcF9WUjR4Wl9jdk9ueGVkcVBjdE00d0hrbmZHZlI5YU9KcW1STXpPWlhZWk1uWl9ESk9QVTEwcVlpMmRydnZlTUI3YlpTOTAwSXlvZDNUZ2N1SUl0blNvczRxckk5aHRPSzdnTWFuNEE5eXAxNFQtdWgtU2FHdjJVQnZOZlcyZmE5a2lVRlA2U1N6WmlicU9ILUxlUWg0UEZTbXE4?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "WRAL"
       },
       {
         "headline": "NBA Hall of Fame coach Rick Adelman, who spent three seasons with Wolves, dies at 79",
@@ -603,6 +630,15 @@
         "source": "NBA.com"
       },
       {
+        "headline": "Steph Curry signs 10-year deal with Chinese brand Li-Ning, raising questions about NBA's ties to China | OutKick",
+        "description": "",
+        "published": "2026-06-02T01:41:05+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdllXRnhmTVRwU0V2aDZhbm1rREdXWGdHWG9WeXBGb1VxaTUzelVqbEpITEQwMzRvSTFkTU1OVi1TSEcxbkJnYkMyVG9sNFFwR19VUEpzR0p1cTVkZEZXZS1URjRyZ2NZSTRlQ2ZyRGd6c1JHXzAxUlBncTg0YmpRb1NOMDlpVlUyMHAxYzdLRXY1MU9Cc3pxUEhxTjhIMW8wbU1GWjZFLU55c25vT0kzcTlxeUZmYVJoM0d5MXRIYU5zbjg?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Fox News"
+      },
+      {
         "headline": "Rick Adelman, longtime NBA coach and Hall of Famer, dies at 79",
         "description": "",
         "published": "2026-06-02T00:38:00+00:00",
@@ -684,15 +720,6 @@
         "source": "NCAA.com"
       },
       {
-        "headline": "Trending Topics: Who will win the NBA Finals & Finals MVP?",
-        "description": "",
-        "published": "2026-05-31T16:35:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SUWstNFRyQTBzYlBGMmVfa0dFUFRXN1AyUWtKcjlid3NvZGxDVjJZVzUxRXI2ZGx3bVBWdXA5VVNhSldTdFA4T1JWWldHRVJYb1MyUWJCVHVsWGQ0cDdxYWlrUkRVc0RNd2J0aEdtS1ZuMDJTUWg0?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBA.com"
-      },
-      {
         "headline": "San Antonio Spurs win the West, beating Oklahoma City Thunder to head to NBA Finals",
         "description": "",
         "published": "2026-05-31T08:24:50+00:00",
@@ -702,24 +729,6 @@
         "source": "NPR"
       },
       {
-        "headline": "2026 NBA playoff bracket, schedule: Spurs top Thunder in Game 7, advance to face Knicks in Finals",
-        "description": "",
-        "published": "2026-05-31T02:55:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcDY0WUpIMXFTbFotNk8tN0VzXzNTRm9ibTJLczR4MDRzbFlPQkZHdmZ5T1JmbHBnUXZFOUdNcVBaUFBBQ3pSTkRMRVR3TWRPMnBBcUFoUFBTWEpTY01UT2V6QkNKbkxOWDZ2RmNoN01WVlVscHlodlEzbi1nM1c3OVZjek4?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "CBS Sports"
-      },
-      {
-        "headline": "2026 NBA playoffs: Schedule, scores, news and highlights",
-        "description": "",
-        "published": "2026-05-31T02:47:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRDc5Y1Q4UktuVDNVQllONDVTRWI0OVZMc21KbnB0RmRDVW90QUpISHdKTktWazBCUTEzWWZYYlE3XzlNQ0M0WDJqSHVrX0ZUUlpQbEpJNmJ1aGp6R1hmdXpyYUE4YVktMUl5LXpUTjctQjJHanZXOTRNX25QTnhHVkFvQ1A4dEE2VTZyTGd4UEJURzRHbElDQzF6RHJ2Wlp6Zy1JY0d3Mlg5d2xkZ00xU0s2el9NSGc4VzZzbg?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "College basketball top 25 after NBA Draft deadline: Illinois or Florida at No. 1? - The Athletic",
         "description": "",
         "published": "2026-05-30T14:21:49+00:00",
@@ -727,15 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "The New York Times"
-      },
-      {
-        "headline": "2025-26 NBA Awards: Finalists and winners for league accolades",
-        "description": "",
-        "published": "2026-05-27T07:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5qZWI3ZWozRFRoM3BXOXRTZmpZRHItRVo5dWxFV084eVhTWGRjd1VhdGwyMnJpcUVyYWxXYkQyaENjVUhfWFRreVZQOFFnVlFtbUs5UHh1clNsQzZwTUFoM1RIMVpVUDg?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBA.com"
       }
     ],
     "games": [
