@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T22:08:08.812337+00:00",
+  "generated_at": "2026-06-02T22:23:14.764244+00:00",
   "duke": {
     "news": [
       {
@@ -48,15 +48,6 @@
         "source": "HoopDirt"
       },
       {
-        "headline": "Two New Hires For Duke Basketball",
-        "description": "",
-        "published": "2026-06-02T17:15:28+00:00",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jYnZ5eHZ2QlVpZFpWSmQ0dmJBMWtodTRDc2swT0FvWXZWcHlGR1UweTJ0R3dtSFIzNnhSRk1jTjEzWDVpdjdKdTlJTW1ncFl5Vk5Md3hXZVp4TzJjLVU1Z1JUVzlYRFdXNWJrbTVSc0lQejFpUm42Y2hWdWhQOFk?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "Two New Hires For Duke Basketball, And They\u2019re Both Interesting",
         "description": "",
         "published": "2026-06-02T17:15:28+00:00",
@@ -78,10 +69,10 @@
         "headline": "MADISON SQUARE MAGIC: Duke Basketball Faces Georgia Bulldogs in HISTORIC Jimmy V Showdown",
         "description": "",
         "published": "2026-06-02T16:12:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirgJBVV95cUxOdFJzbjhuUi1HWHFYVjVLTXNhand0cW9hdmpWRmRWZExDenhKTVUxQnRnT3k1ajJ0aWFEY1o2SGpESmxNOWYxc2lNRXFMN2ZPdXQyWVZWNVV4VG1VZ2VkYXdYUHUzZFBqeUFVVzdPSl9JeUc3clI3OGRPTS1idW4tdVNZajUyMk5xNHZsV2VmSzhObFhJSmUzMnF5QWRmT2dEMnFzQVpmVk9YZUhncWJaYkNES0QyU0xFUmw5Z3FxTXR3U1ZSV3l6TjFlN1NnUElWTnRPclotTVgyUjk5UDN0YlNYRWhXYUNnbWdCMUFIRTVoWHBISklmN294Zl95bGoxOVNzQWU4MDVVUEpvRjMxV0VXY3A4Tlg2TjhvemtNY3hZUTRha2dCNkw0VEotdw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxNbFBWWXBqRzNxWmN0WEhHQzRsVS1LT3dvTmF2ejJKR19fQ3RuNG1BbUpxTVhJcnlpY3BFak9ld1NOd0hadTc4X3JvUE41ZGdUU002QzBRVHBwWlQ2ZWVvYWU2V1Y4MkxRLXpGaFZ2MzlCV3h4WEEzTi1wa1prNG5mUnpOdkRWdy1ndnhrTUw4XzJVc3NtcW1DMGdJRTNOekZlY0F4TGtCTTJwcGhXSjNiNVRuTEF5dldIVUc3enRTZWNmTWFRd1BSdHAxX1gzdDhhUUxnNTNKZGd3a3ItZ0lKQ1ozVlBCZk5yaWRBalppZy1Cbl9fYllNSUx5ay1udjBXN0RtRmNNWWllNmpBRllRTmg0a3VqTEZDSGQ3SmdlNVpudEJGbHFzRE5oZw?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "WZZM13.com"
+        "source": "kvue.com"
       },
       {
         "headline": "5-star Duke commit reveals competitive goals ahead of freshman season",
@@ -250,6 +241,15 @@
         "description": "",
         "published": "2026-06-01T12:00:01+00:00",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYm1OZlVFNjV0elJiVXBYeG0xb0FWNGtGZ2MzNnBpVWtmLTRHNTRUTGtVZV9MNFRRZEtyWl9JWjE4c2szandZTXFjSTYzSWZIX1d5SnNtajlNSVBKTTdsc2ZWM0NGNUdOX2JNajlObWtHWUlQRkM4Um16S01oRVo0dENEeE5zQkZNX2tMUU5veDR1T3c?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "How New NCAA Guidelines Affect Duke Basketball's Sarr, Boumtje Boumtje",
+        "description": "",
+        "published": "2026-06-01T10:00:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUVBzdXgwRnVrNXZRUUJIcndBRHgyOVdsbVYxbjNqd2pGR1M2ZmNua3JRbm9DLWs3cHpsZVJ5SWp1UmZRMjZhUkp1UmpxU0lGUDVWeTktdzNRM24wSVVhOFZQSFBCNmhVZENuTUVWSnp0Z3luMGZlQUJoRGQteUo1MFNfUkRBVmVWWDU4SjJWMXVVX2xhUFhrOVJlRXdaSS1uM2xFdUhjV3NTUQ?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Jalen Brunson is playing for an NBA championship and maybe for the title of best Knick ever",
+        "description": "",
+        "published": "2026-06-02T21:49:15+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxObTEyUENsa2hWODRCdU8xWGwwOTNMTFNscTZ3clJYdzM1WXYxUVdZZFptdHRhdlVNVktZTmpvWnF1aFNYRDd1U2NGbEh1cEhwVHh3bGtvYmFKQjhfUDdhNFI1MG5rUEM0a2M4R0NTMERrNjdOTmUtR1hmaTBKNXFQeGQ5RGN0OVdyR1JtQlBfa3h3MTJLczA1U0pqdXJmUDhLWUJBQg?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CT Insider"
+      },
+      {
         "headline": "Knicks mum on status of Mitchell Robinson (finger) for Game 1",
         "description": "The Knicks declined to reveal whether Mitchell Robinson will play in Game 1 of the NBA Finals due to his broken finger, though the center participated in individual drills during practice Tuesday.",
         "published": "2026-06-02T21:39:53Z",
@@ -504,13 +513,13 @@
         "source": "ESPN"
       },
       {
-        "headline": "Knicks guard Clarkson, Spurs guard Harper ensure Filipino NBA champ",
+        "headline": "Knicks in the NBA Finals won't change Mike Breen's approach to his call on ABC",
         "description": "",
-        "published": "2026-06-02T21:17:29+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOYVpTZlpoUHM3cm1TNTVFOEtfdnp4aWctYW42MDMtZDNxZHBjSTVNZWV5S1cwcjlqOVV3U2w5dDFfVUhQNWJmaGxtT2pVSDFERG1iYXdLT1cxSGlXQ2VpOE5GYTRyWXF6Ny1nTVU1WTJwcXhmaTJ1T0xHd3R3ODYycXQ2ZjV2MS1kRlE?oc=5",
+        "published": "2026-06-02T20:01:44+00:00",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPelc3N2pZcF9YYnVaTXdNdjdzYkNKYXJGYnpiRjJzY29xdFdOX1lPRDVaeTZwTVRzeUpTcmlib0ZYeEhPdTh2OTRWYTIwajRoc2V3ZE5wSkkySl9GdFRWelhJdUtseGZ5NzJqbVcyZGEwQTRVb0NCYVF1djdma2JTQkEwa0VBM0J0djUwZ09zSG9rSjlxcldpY3lxSXI1NkJV?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Yahoo Sports"
+        "source": "MySA"
       },
       {
         "headline": "Enjoy the NBA Trivia Show: NBA Finals Edition",
@@ -531,31 +540,13 @@
         "source": "ESPN"
       },
       {
-        "headline": "NBA community pays tribute to \u2018brilliant\u2019 Rick Adelman following death",
+        "headline": "The Knicks can win the NBA Finals, but I still like the Spurs \u2026 barely",
         "description": "",
-        "published": "2026-06-02T18:21:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQRFdXdjNiNERsbjF2Z3VlcnltbWszZ1BMbVlUcGNCMHE1LUMyNV9LbnhrOGlJUTZOa3hNb0hsV0FKYjRkVVpBaW1keDdsb2kzY2JRYmttN0wzZHJUcjMxRFJlTzRwNkVVMDUwVlFMeEpIWVlMRFB4X3JQUktlVGEtVHJhQUtuNHZwU05neTFzaHhIOC1nRjAwQ0VGdk9XZWh5dDY1MzZfRkwyVUJPa2tHMDFwZE1rLWc?oc=5",
+        "published": "2026-06-02T17:18:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMkxTZ0x0OWZqaG5Fam0ySndnN0YwbGdQVDVzcHRlVzJDeFVPUE5Ba3RKcEluMWFHMkxWdDh6cGluZm9nMHJKQ2lvUEZTUnZpenhvRmQ2eWhQaEVJNlB0UVp4Rk1jSHhTZUtsSUdSN0Q4ajZfRl81VG5uUFBqSFlaWVdBRHFKaldpXzhaX0ZSQUZMR2FlTmcwR0ZFOA?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "OregonLive.com"
-      },
-      {
-        "headline": "ESPN Experts Share Official NBA Finals Predictions",
-        "description": "",
-        "published": "2026-06-02T18:11:40+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPM09pUUFIZDlCSTZmZ0pWRm5rSllldllxakVvdUFpRW1zY05OUnZ1MXVDTGlUMWhxU2dneUpDbU50Y3NYbHhDVFJjQklNVF9xRUJGajhTWDZFWXdUOURLeTBmM05ZLXpHTG9sVHNVRnlZLXBjeEZfVkh1bEVJRThueFB3YjFCQU0?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
-        "headline": "One NBA Finals Foe Knicks Won\u2019t Have to Face? Jet Lag",
-        "description": "",
-        "published": "2026-06-02T18:05:18+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPQWV4VWJ0UzFka3BiWjU0MnlVS3RwQkRmeW8tdHgxdUczSGduQ1VkcTNTMThTUmkxTUk5Z0pIdU9TRFA0VHhoeFhicUNVNXR1Vl9HcEhxMlZhS0R1MXBSOWxHT3JxejlVU2E1aGNSU3dPcUt0OVBWSDFiWkJjNWY0QjJoajlHTlo0ejAzX1VweExrQ1YzUDBJSHk4QUlNdi1wVF9KTFBkX3J0TmVSNE8zQ25mZk1TVTMyMWpTcA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sportico.com"
+        "source": "The New York Times"
       },
       {
         "headline": "Referee Curtis Blair to work NBA Finals, a first in his career",
@@ -576,13 +567,13 @@
         "source": "CBS Sports"
       },
       {
-        "headline": "Curtis Blair, for the 1st time, is among the 12 referees set to work the NBA Finals",
+        "headline": "The Bounce: 5 pressing questions about the Knicks-Spurs NBA Finals matchup",
         "description": "",
-        "published": "2026-06-02T16:00:27+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ0xGSEZKcWE1cm9KZjE0LXlUU215aXlzck1IM1BtS1Z1VERoMzVjTWkwa0phUzN3aXRwQnVSSEszN0w0ckNxZ3ZoMkVoYlNOSzJwdlIwMENKa3Nza2dQRnZJaUs0OFYyeDFNZURueTFvVXo1N1N2VGhWTzJJN0ZQcF9EUVA2Uzk5YTdXNUQ3WXdaOVdPaFljem1SeU1xSEJkOWVKMXg3TEUxc2h3dXJVNnNkUnAxeEI4OWk00gHAAUFVX3lxTE5TRzNMU1g0Nm5JMWp6LUNfWmotX2VYSEtqQ3BXWXBncVYtVmxicW0xeGpRRk9qQW5acUt6Nks4aTAwUGVidS1mNTYycHdkbmRtUTRaU3Y1azh3TkdrajNjX2hYZUhqd08xQlZoRXNJRVVHaFo1U1NUM0Y1UTlTSm5yLTNsaEI4SVFoQko0VUJSQVhpemlybmdCNmZjbFpVVllzc0o2dm4yUUxPVVAxY3V0YXpzSDRqWUpLMnpyNVFBWQ?oc=5",
+        "published": "2026-06-02T14:00:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOWEROZTNqangzWnVZS19DenRkMmFTUXdHbVlaVUtfR3R5ZUw0eDE4MHB6Yk43LV8xdGcxaFA1b0VrWm9aUUhXcF96SWNXaGM3TVBHOXVNTnJJQ1ZETWpEc2p5Q0I5Q1c3aF9oa050TzFjREVyYWhHR1VRcEVydlB6R0NobXg2dk5ONVBJYl9IZjQ?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "FOX 8 News"
+        "source": "The New York Times"
       },
       {
         "headline": "Jeremy Lin joining ESPN for Knicks NBA Finals run",
@@ -612,22 +603,22 @@
         "source": "ESPN"
       },
       {
-        "headline": "Inside the NBA and WNBA's booming player-to-broadcast pipeline",
+        "headline": "College basketball top 25 after NBA Draft deadline: Illinois or Florida at No. 1?",
         "description": "",
-        "published": "2026-06-02T10:06:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNd3lPTF9SU3ZxRDBWekV3M3pQb3JhY1F4SnkxNUdfalhva2Nuc3ZMRDlmcl9Fbm9XWGZ5bkcyUVRKTUpSZm1LNHN3M29CZFlpUTR1RnE0ZC1jOVlEZXF5VlJKcFpncWFHTXJQNjhZYmlRaER5TDdURlhlbVBQOVpIZXgwSXBwQ0x1S1FSNHJSeWpzVUZyWnNfUFBTY1JLUQ?oc=5",
+        "published": "2026-06-02T11:55:35+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY05EZ1NZbkRQQmRGMjZ2eUNkY0NtenhDSWpWU2tBM3hVaGxpRXB4bzNNcTFkSXNfeFZwT0kxX1R0YkVkNGRIX3N5MEtlRUJaRGR5T3d3RFpSYmpsTkt6Nzg5UVZsQnFpTXBCX3FCVWhPelI0dmxjNlhFc1lFUXcyUVBlTlgwdjVVQldxVEtUVTBvWE52Ym9pT1JNTFFSVE0?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "USA Today"
+        "source": "The New York Times"
       },
       {
-        "headline": "What an intriguing NBA Finals, with two pretty evenly matched teams seeking a return to greatness",
+        "headline": "NBA Finals 2026: Experts' picks for Knicks-Spurs, Finals MVP",
         "description": "",
-        "published": "2026-06-02T09:31:09+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPZ1A3ZFRqaWFLQjc3S1poUTBIblNRa3dSNGROeHB0eGZSR0pSbW84R3ZfcVZIU1lMRjhHQWtqY0FjeXVjejZkZ2FWSTZWNW1JYjU2Q1hwQ2Y3XzFJQ2lQRjdyZTdwYnMzMnI4VTRDQmxrT0E5eE9uZVNkV1lrOEQ2N0hkeWM?oc=5",
+        "published": "2026-06-02T11:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeUdqY05jOHYyQUYzLUhMSGltTFdNWFpkTzVYZ2ZJRnJLYTJIU1Z4NVZMTmswdkJQNVdHLWQ4SVd2U0hReUkxeEo3OWd2V3dRVlZkcjgzUGpfdlVfYUItekpJQmdkRjZEd0FGYmM2MjJMbmpHOHdMNXhlX0NPaUI1cEVzbm1yVEt3V096VmZRNk43SlduNFN1Q1dwQXpmUXBIWUk2U3hVV1BsaEI0TUk4TjBSazhLSmZN?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "The Boston Globe"
+        "source": "ESPN"
       },
       {
         "headline": "NBA superstar Steph Curry signs Li-Ning deal in a major win for Chinese shoe giant",
@@ -646,6 +637,15 @@
         "image": null,
         "recruiting": true,
         "source": "Fox News"
+      },
+      {
+        "headline": "Rick Adelman, longtime NBA coach and Hall of Famer, dies at 79",
+        "description": "",
+        "published": "2026-06-02T00:38:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWmpjU2NFbU10RVhjb2l2U1hsR1IybWliTUVvVnAwSDFfTXdIdHkySmwzT092YUgzcnN1ZWp6ZmhMOWtRbWJGN1JXSW9QM0JBeUVWb1VFV21kblBMaUtQS0dXcHRvZHZRVUpWNUxXV2xyVXVTVloxaW5RR09rbXY1bnVwNVNubTY0NEFsVS1jOXc2QlNqT2Z0N0dob0hzNjRPa2NNZkc4MjYxNU85alR1TTN5MnVFZ2dJWTBtOVBIMTNEZU91?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Hall of Famer Rick Adelman, former Warriors head coach who is 10th-winningest coach in NBA history, dies at 79",
@@ -729,13 +729,13 @@
         "source": "NCAA.com"
       },
       {
-        "headline": "San Antonio Spurs win the West, beating Oklahoma City Thunder to head to NBA Finals",
+        "headline": "2026 NBA playoff bracket, schedule: Spurs top Thunder in Game 7, advance to face Knicks in Finals",
         "description": "",
-        "published": "2026-05-31T08:24:50+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYmFKaFkzamdIWFZid19CYzVhV3I2cEc1ZmhxOHd5Zk1QT01jV1dxRGI0eVM0Q0w3cHNvY1Eyb1Ffbmo0bjBSSFpOaHRHOWpoQ0ZXcjlNR184NU1oQ1hMZXRBVDI4WVRDUzdQZ29uUFJZLWNOb2ZJZno2U0ZmdjNKdWhNTXpGbF9rLTY4SGV3bHpEM0JOMzNxZ18tMS1aLXlRMWZV?oc=5",
+        "published": "2026-05-31T02:55:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcDY0WUpIMXFTbFotNk8tN0VzXzNTRm9ibTJLczR4MDRzbFlPQkZHdmZ5T1JmbHBnUXZFOUdNcVBaUFBBQ3pSTkRMRVR3TWRPMnBBcUFoUFBTWEpTY01UT2V6QkNKbkxOWDZ2RmNoN01WVlVscHlodlEzbi1nM1c3OVZjek4?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "NPR"
+        "source": "CBS Sports"
       }
     ],
     "games": [
