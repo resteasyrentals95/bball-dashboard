@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T15:40:12.161992+00:00",
+  "generated_at": "2026-06-02T15:55:18.455091+00:00",
   "duke": {
     "news": [
       {
@@ -109,6 +109,15 @@
         "image": null,
         "recruiting": false,
         "source": "kiiitv.com"
+      },
+      {
+        "headline": "Duke Basketball: Blue Devils stay put in early ESPN rankings",
+        "description": "",
+        "published": "2026-06-02T00:07:50+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNTHd5eDlSWlR0bjFxV2hnWDhvb2dSYXV1dkR5WTg1Y3lNVFUxekE5UEpDeklHZDFDYXhjeVk1cGZLR2I0Mk5mWEVFMTctUndydDNKbXJGaVZjQzJvWnNTMWFDZ3drbEh5WmVmTkM2RjlnVFk4aVhfX01PdUN5RHpXZlNvTFhfeFNReG02VDFESlMzUlJpSlRmTmg1RQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "roundtable.io"
       },
       {
         "headline": "Duke comes in at No. 2 in ESPN's Way-Too-Early Top 25",
@@ -244,15 +253,6 @@
         "image": null,
         "recruiting": false,
         "source": "Duke Basketball Report"
-      },
-      {
-        "headline": "Why Duke Basketball Is Underrated NBA Draft Deadline Winner",
-        "description": "",
-        "published": "2026-05-31T11:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZkVWSG5OSzNfa1hYcDBZbFhiSzFFd3g3R2xRWlhPdmp1N1oxTWhDYkRiSlh2THFkdm9iNDRkMzNpN3R0RWFpVUdpV2drSmFoSG9fWUE3OVJUb1hVMWo4U3NtczlwVUphTFVmRmpKekd5MlVLTDZPLW9lUll0M2xFVm9obTRHTFFZb0J5OUJmVFg2Wk5QdE5xOUVpSQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
       }
     ],
     "games": [
@@ -486,19 +486,10 @@
   "nba": {
     "news": [
       {
-        "headline": "2026 NBA mock draft: Sixers select Koa Peat with the No. 22 pick",
+        "headline": "Rudy Gobert Gets Honest About Spurs\u2019 Victor Wembanyama Reaching NBA Finals",
         "description": "",
-        "published": "2026-06-02T14:44:13+00:00",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNbFpuWlpoV2ZzVm13aFlIRkRVYXFMS0p1Z3doanhTdklLcFUxa2F2RHRndUZzc25IQXB0ZzlrZzRMMy1nTHhtMDdscFRxNVFncWhmbm1DRjdMVGZMUThRRlRFZUp5S0lYbmZWZ2tQSklfczY5cFZFMm1LTkowWkY0MA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
-        "headline": "NBA Finals 2026: Air Corgi predicts Spurs-Knicks series to go 7 games",
-        "description": "",
-        "published": "2026-06-02T14:02:06+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNcVVyZlF2UU5OZnJ6RGZneWZwNXZFdkoxMnp2U2lpWVNmTHF3emN2TEc2T3AwbHh1SDM2b0EybFVBU1FtTnZVNHN1NnpRZGlEZmw5b19qdzFVVG1UaXVINmNDSG9RZmlOSVhBS0RHTFNfTlJUaVp3Q2NlTGJCdDV4ZGJONVdKblRycHJrRktRVHh0VWl2YmluQV9DZktLZWt0ekNmMG1lNW9QYVlOUVFRSFRoVC1ReFB1U085Tw?oc=5",
+        "published": "2026-06-02T14:25:57+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxObFNrWnJWY3d4TXE1SzdWaE9UdDV3aTExQTBsTkVNSVBGTFAwUkxuajQtWnV5ajJzb2M0RWxOWWFjSV82bEUxOU1YSExNSkprYWtjTkFaS1JtM28tNndaZkFIU094X3ZMVkIzWVJMT19uXzZDSlg4RFlhWnZIN3JfZ19lWTU?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
@@ -529,15 +520,6 @@
         "image": "https://a.espncdn.com/photo/2026/0602/r1666946_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "NBA star Stephen Curry signs shocking 10-year shoe deal",
-        "description": "",
-        "published": "2026-06-02T12:09:33+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNU0hYOEs3MXFodTNZYy15YXVyWk53NG9GOURlcHBoZFppa3FNYmZ5YzVTak9aeE9oVlppLTc0R0I2LUdWTXR5clV0RUVUakxxZHN0LVdUbkp3Rm1yVDJfRW12d0dMYkh1Q3BFc0FjbUVqaWxJeWFzVy03Y0h4dkdsVVNUNmFIcW9jdDlr?oc=5",
-        "image": null,
-        "recruiting": true,
-        "source": "The Big Lead"
       },
       {
         "headline": "NBA star Giannis Antetokounmpo reveals only team he will sign contract extension with if traded",
@@ -583,6 +565,15 @@
         "image": "https://a.espncdn.com/photo/2026/0601/r1666824_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Iowa connections in NBA Finals include Ames native and ex-UNI player",
+        "description": "",
+        "published": "2026-06-02T10:34:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQbUI0SThmZFdGdnY2ckkwcHQxanNWb19abEZVRmtNRTRmSG5nX2tlX1djWWRRLUZpbThOSVl1Sk10cmFHQU92dGRUVXFVblN6cGsyaDFtMHZWVmUtbXQzVXJ1d0s4TktWRVU4SFZGTDJMWlNjeVM1clo5QmtjeTJ3SjRCLWtiaWZUX2xWSFhiSlZOMm9SRGYyY2ZiQVFNMFNEdFhlczItWHpIaF9PQm1YeDJ2VmhVOFRyQmtQYmJ2dEZXS1lUVmtNTUFMampnbENkanB3eVJwVnZqc1Ni?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Des Moines Register"
       },
       {
         "headline": "Knicks legend Jeremy Lin joining ESPN's NBA Finals coverage team | Exclusive",
@@ -657,15 +648,6 @@
         "source": "Reuters"
       },
       {
-        "headline": "Rick Adelman, longtime NBA coach and Hall of Famer, dies at 79",
-        "description": "",
-        "published": "2026-06-02T00:38:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOWmpjU2NFbU10RVhjb2l2U1hsR1IybWliTUVvVnAwSDFfTXdIdHkySmwzT092YUgzcnN1ZWp6ZmhMOWtRbWJGN1JXSW9QM0JBeUVWb1VFV21kblBMaUtQS0dXcHRvZHZRVUpWNUxXV2xyVXVTVloxaW5RR09rbXY1bnVwNVNubTY0NEFsVS1jOXc2QlNqT2Z0N0dob0hzNjRPa2NNZkc4MjYxNU85alR1TTN5MnVFZ2dJWTBtOVBIMTNEZU91?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "Knicks, Spurs NBA Finals jerseys to feature 'USA 250' patches to honor America\u2019s 250th birthday",
         "description": "",
         "published": "2026-06-01T22:54:43+00:00",
@@ -736,6 +718,24 @@
         "image": null,
         "recruiting": false,
         "source": "Andscape"
+      },
+      {
+        "headline": "Stephon Castle makes 10: Can you name the other former UConn stars who played for an NBA title",
+        "description": "",
+        "published": "2026-06-01T10:04:10+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPQUc4NlY0SHFIaFlOOHRwRDZ2eEpDSV9VZWdhSG1VUElBb3dHWVJDcWNNdUpxNHpWYmNxVkFZeVJ4ZU02dzNPbkd5ejdIX19oOFRaOTRMX3ZMRXlUT0N1STZiSGp2RmZ4dVRzd2t5MW84SE5BYm5ZMDREN0xfNXV2QXhjUjNyLVl3X1M2R2hYVk1JZXVTSVA4Q1ZXSDl1YzFlUy1zWmFoakZvbVVXS1F2emwxc1dnQ0Juekt2bGxTUHJISEowUnBXTg?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Hartford Courant"
+      },
+      {
+        "headline": "Knicks beat the Spurs for the NBA Cup, but need to do it in the NBA Finals for the title they crave",
+        "description": "",
+        "published": "2026-05-31T21:35:10+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPemJtMDBwbEZsOEM1VWRTelppcElvRVhVYTBhSHdhYmRsN3JOMVZTUFRPQXlUZVhHWFUzRmRZSmViOXZCcEp2WWZjMFkxREtQZEt6bEU5RE4zTEQxdUg5QkdiMGFLcXFNRUc5bUczNFR1ZVdkMy1jZnBwcnl6OExOelFzTEFnVmtYT0hYcVJnX2JMX1U0dXVqb0M1OV9iWXp5VjZYZGZGX3ZvWHJ6NDljckh0NHBaQ0RpOHFiRE13U0VGdUc5Y2NDSTNaSktCUVRSTDVtTE9OdHljb3JacGw2aQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Click2Houston"
       }
     ],
     "games": [
