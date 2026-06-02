@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T14:39:47.621568+00:00",
+  "generated_at": "2026-06-02T14:54:53.832572+00:00",
   "duke": {
     "news": [
       {
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "NBA Finals 2026: League execs, coaches, scouts preview Spurs-Knicks",
+        "description": "Ahead of Wednesday's Game 1 in San Antonio, Tim Bontemps canvasses the league on the keys to Spurs-Knicks.",
+        "published": "2026-06-02T14:40:16Z",
+        "link": "https://www.espn.com/nba/story/_/id/48939238/nba-finals-2026-spurs-knicks-preview-keys-executives-coaches-scouts",
+        "image": "https://a.espncdn.com/photo/2026/0301/r1621714_1296x518_5-2.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "Jeremy Lin joining ESPN for Knicks NBA Finals run",
         "description": "",
         "published": "2026-06-02T13:59:00+00:00",
@@ -531,6 +540,15 @@
         "source": "The Big Lead"
       },
       {
+        "headline": "NBA Finals Fantasy Basketball: Will Mitchell Robinson Play Amid Pinky Injury?",
+        "description": "",
+        "published": "2026-06-02T11:59:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQM0t5ZEZ5bFlaZEVMb3FDMWJuOHVkMUtKNEE2Z2ZFb1YzaWdPU0hvSXYxYks5Qnl2bzdnUXZPdUtOVXR2M00yS0VNZWpoZHZKVDFESDgtbHlmUUFuNHVXbTNNTkVYTDMwSkpLN1U4WkhEaHZWa3R3Q09fZFlJSkc0V1hLdXVoVjd0Nk1SLTRjWUo3Tkl2?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
         "headline": "Aspiration Co-Founder Sentenced To 14 Years, Cooperation Aided NBA's Clippers Investigation",
         "description": "",
         "published": "2026-06-02T11:57:00+00:00",
@@ -538,24 +556,6 @@
         "image": null,
         "recruiting": false,
         "source": "RealGM"
-      },
-      {
-        "headline": "NBA Draft 2026: Five Prospects Who Could Become Victor Wembanyama Stoppers",
-        "description": "",
-        "published": "2026-06-02T11:00:05+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdHluT2dsN1UtZzlMa3Q5N29PLVVBaVdka2p3eXpsQUs0bUpPcGZqVlA5ZFJROVNERWF1YmNHY1JFS1UzQ1pGVW5COENsbVhBWUFkR0g1V3l2MDdOcFB1RjhidFRkazF5N0g5V0twQUlGZ2pHN0pwdklubVNibTlXTXlKdzZma1IxcWFSREFFbDB3cE9DVnVKbm52TVI?oc=5",
-        "image": null,
-        "recruiting": true,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "NBA Finals 2026: League execs, coaches, scouts preview Spurs-Knicks",
-        "description": "Ahead of Wednesday's Game 1 in San Antonio, Tim Bontemps canvasses the league on the keys to Spurs-Knicks.",
-        "published": "2026-06-02T10:39:39Z",
-        "link": "https://www.espn.com/nba/story/_/id/48939238/nba-finals-2026-spurs-knicks-preview-keys-executives-coaches-scouts",
-        "image": "https://a.espncdn.com/photo/2026/0301/r1621714_1296x518_5-2.jpg",
-        "recruiting": false,
-        "source": "ESPN"
       },
       {
         "headline": "Thunder's next test: How far will OKC go to keep its roster intact?",
@@ -574,6 +574,15 @@
         "image": null,
         "recruiting": false,
         "source": "The Boston Globe"
+      },
+      {
+        "headline": "Wemby vs. the Knicks: It's fitting that a marquee matchup awaits in the NBA Finals",
+        "description": "",
+        "published": "2026-06-02T09:07:46+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOLTdfNEVLUm1JVnRvTk1xcWpZMGtqV3diZlNISHdNMVRkeE1lWkhpR1Etb1k2NXA3V1E1Y2hXZFFFZ2N5VjFXZFB1aEtTc280QmJRV1dWRUV3R2ZSb2RmNGJyUUdsU3hvd1RqejZqN2RJQW43YlFWa2g3U1BVRUhHWlh5bUYyTEszV0Z5YmloTDYxbmF3MUp0Q2hfSnBmSTVyVWJ3TGxSYmhhQnZTVndicDlkY3RaLVNqVUlr?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "KSAT"
       },
       {
         "headline": "NBA superstar Steph Curry signs Li-Ning deal in a major win for Chinese shoe giant",
@@ -648,6 +657,24 @@
         "source": "Maize n Brew"
       },
       {
+        "headline": "The trophy returns: NBA releases images of how Finals courts will look in San Antonio, New York",
+        "description": "",
+        "published": "2026-06-01T16:44:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS0dveldEdHRyZEpmcTFESlctLVBtbktTVkNhRzFiMDA5NDlDbjh0UDc2SG45cHBPc2g4TlpzVEhWMG5vZzRRaGNDNEtfMzFGeVpnZlF4UEowZi1PTEt1OTVIUHdYeEUwbXZjZjV5bkpSSXdDdEtmbXJ4MnhkVjVrcFZOQ2VHb0ZtT0E?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "AP News"
+      },
+      {
+        "headline": "Utah Jazz 2026 NBA Mock Draft Monday - June 1",
+        "description": "",
+        "published": "2026-06-01T15:56:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1ObENpN0JQaVM0SXg5aVlJZXZHOVplUUZBQW1MelRpTEdCblRfZU9PcW1tTllEeDlST3pOTi1IZERDMl9OVmd6X3FjM0U0UUpXTUFTei1FWk51cl93alFoemllb2tvVXg5NjRLZUVPblNlb1B5N2RBag?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
+      },
+      {
         "headline": "NBA insider hints at Celtics offseason trade plans",
         "description": "",
         "published": "2026-06-01T15:46:00+00:00",
@@ -709,33 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "NCAA.com"
-      },
-      {
-        "headline": "Trending Topics: Who will win the NBA Finals & Finals MVP?",
-        "description": "",
-        "published": "2026-05-31T16:35:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SUWstNFRyQTBzYlBGMmVfa0dFUFRXN1AyUWtKcjlid3NvZGxDVjJZVzUxRXI2ZGx3bVBWdXA5VVNhSldTdFA4T1JWWldHRVJYb1MyUWJCVHVsWGQ0cDdxYWlrUkRVc0RNd2J0aEdtS1ZuMDJTUWg0?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBA.com"
-      },
-      {
-        "headline": "Bettors heavily invested in Knicks to win NBA Finals",
-        "description": "",
-        "published": "2026-05-31T15:47:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVUFxUkdtZFZvRmZiQWtacjJRSVByWnFScHFFVzV5ekZTNEhHUVVudGptZklCMjFiS1U0dlBMdTdxdk96RlFfbElwdkVTUnRnRUU4SDVhZ21qVWZjVnE3SGtmQlZqb3FiUXhITTNteURoRDVtb0Z5M01mOHRRY1ZCVmU0S2pFUFo0RWVSa3lzdmtyb2paRkE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "San Antonio Spurs win the West, beating Oklahoma City Thunder to head to NBA Finals",
-        "description": "",
-        "published": "2026-05-31T08:24:50+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYmFKaFkzamdIWFZid19CYzVhV3I2cEc1ZmhxOHd5Zk1QT01jV1dxRGI0eVM0Q0w3cHNvY1Eyb1Ffbmo0bjBSSFpOaHRHOWpoQ0ZXcjlNR184NU1oQ1hMZXRBVDI4WVRDUzdQZ29uUFJZLWNOb2ZJZno2U0ZmdjNKdWhNTXpGbF9rLTY4SGV3bHpEM0JOMzNxZ18tMS1aLXlRMWZV?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NPR"
       }
     ],
     "games": [
