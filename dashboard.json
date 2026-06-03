@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T20:33:37.410061+00:00",
+  "generated_at": "2026-06-03T20:48:43.169932+00:00",
   "duke": {
     "news": [
       {
@@ -14,11 +14,11 @@
       {
         "headline": "Predicting Duke Basketball's Ceiling and Floor ACC Finishes",
         "description": "",
-        "published": "2026-06-03T16:30:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdF9mWnUtRE45UDljV0piZ2VzZ29Kc04tN0gtY0hGMDBlUjR6SFMzU2RlNmVfb0FGTFd0Z3FQS1EtU2VMa2ExU3MzZmpSSWxJUjRKNE1VTGd2RU5qYnJKZHRqQURmZEpBVjlSaFV2dmp5RFNpVG10ckozYlJuMDN0S1FiekVvbjhINURncUlWVXRZRHdnYlg4?oc=5",
+        "published": "2026-06-03T16:30:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxObXMyUTlhVzdLRkpkN3d4YUx0dnhaS1VUUkVnci0xZEhnRHVLekd4UDdxRWJKbW5mcFpVX1VIMU41emNKNXh6Rm0yeV9GLUg5R25mb3ZEanZCOGJqVkZPeUN1V0syZndYS2kyZzVrN2hkX3pyWmhRSDlUQnhDaEJ3Q3JBc25wMGVGTk9EbEc3MVVoU00?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Sports Illustrated"
+        "source": "Yahoo Sports Canada"
       },
       {
         "headline": "CBS has Duke in a tier of its own in way-too-early ACC basketball power rankings",
@@ -84,15 +84,6 @@
         "source": "The Duke Chronicle"
       },
       {
-        "headline": "Two New Hires For Duke Basketball",
-        "description": "",
-        "published": "2026-06-02T17:15:28+00:00",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5jYnZ5eHZ2QlVpZFpWSmQ0dmJBMWtodTRDc2swT0FvWXZWcHlGR1UweTJ0R3dtSFIzNnhSRk1jTjEzWDVpdjdKdTlJTW1ncFl5Vk5Md3hXZVp4TzJjLVU1Z1JUVzlYRFdXNWJrbTVSc0lQejFpUm42Y2hWdWhQOFk?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "Two New Hires For Duke Basketball, And They\u2019re Both Interesting",
         "description": "",
         "published": "2026-06-02T17:15:28+00:00",
@@ -145,6 +136,15 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
+      },
+      {
+        "headline": "YouTube Gold: Duke Recruit Maxime Meyer Has Some Real Potential",
+        "description": "",
+        "published": "2026-06-02T10:17:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNY3pWNG5rclMzN25EZHl0bmc4RWNBeDRLLWMxeUl1NTl3S1FhOTBlcWtxWjZrem5UREIzdE4ybVVPbEdiS05iUG13dk9hTUJhN3NLcWgwaDV5S2x2TGpVMXVaQ3V4SExLRW5Gdi1XN1VtTURiRWFWZnYwc2JsTXNCNGlaWWpxd3lTZTZvQ1p3b0M4bFhEaWdaVnI5azdjQmprYzI5THZZWDZpNy0zNGZz?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Duke Basketball Report"
       },
       {
         "headline": "How Duke basketball commit Maxime Meyer switched to basketball from hockey",
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Knicks vs. Spurs live updates: NBA Finals 2026 Game 1 start time, picks and predictions",
+        "description": "",
+        "published": "2026-06-03T20:45:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMnk2Q2tmVTV3T3g2eGtDRS1KTnppd0x5alNBdm02VzBFbndZTnF5Ml9OQmRnRXhjNFBjbTVkU2lPa3VIVVBacDgydDhhNWJvYUlvZnNhT1owTTZaZGJ2azJVYmJ2X0J3OHdRMjdkUHFKNzNlemNtZ0dNQ0FIVnBCcW9HSWVCejl2d1l6R25NandBaXpjbXFsYlhrM0ZoRURqNkpPVUpxc0owWVRiMWY1MDdDY2xYTHhxR0NlMVF1RQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The New York Times"
+      },
+      {
         "headline": "Spurs Attempt To Become NBA's Newest Dynasty Stream of National Basketball Association",
         "description": "",
         "published": "2026-06-03T20:03:45+00:00",
@@ -576,15 +585,6 @@
         "source": "AL.com"
       },
       {
-        "headline": "NBA Finals Predictions: Who The Experts Think Will Win The Title",
-        "description": "",
-        "published": "2026-06-03T17:47:47+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSF90UlFyRGZVMzhNU2dMbkU5LXN0REd4QjFwX2piVGtZN284akJLWTZQRkQ3UXBvcVAzY0ZFN21FZkJhS2hRenAybGlhLUlEQkZzVW1FQVI2S0dTdmFvWTBuSHl0Y2ZGeUFidEctYUhHMUpZRTlaaVVZMkkwZlVUTENTVS1IZjFIN2hsa293?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "NBA finals 2026 predictions: will Wembanyama and the Spurs halt the red-hot Knicks?",
         "description": "",
         "published": "2026-06-03T17:29:00+00:00",
@@ -621,6 +621,15 @@
         "source": "KSAT"
       },
       {
+        "headline": "Ames basketball legend Harrison Barnes shares thoughts heading into third NBA Finals",
+        "description": "",
+        "published": "2026-06-03T17:12:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVFZOdlEyOFdzTlRJWVRFSkl4UGI0YlZvc0xCV0diQ3FNNDBDSEJSWHZqdWpfOVJ6d0UzbEZIZ2x2M3ZKNkxpN3FfbnZqbi1qaklaamJ2bXZZTVJuTndlS0FkZE9PXzQtRXB6TlB2ckRaWGdLcnd6M0ktcFhQSTQxQ1hST1ZHNVBMUW5pd2Y3cnI?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "KCCI"
+      },
+      {
         "headline": "City Slickers: Knicks Fans Head to Spurs Country for the NBA Finals",
         "description": "",
         "published": "2026-06-03T17:07:09+00:00",
@@ -639,15 +648,6 @@
         "source": "New York Post"
       },
       {
-        "headline": "What we\u2019re hearing about Giannis Antetokounmpo\u2019s trade market as NBA Finals begin - The Athletic",
-        "description": "",
-        "published": "2026-06-03T15:14:15+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNM095YWotb3M4ZjdBeC0xVzJhRnYxNkxBa0xuTzM4cUF6eDhtUVZ1SXRIRGJ4RC1UYngySG1uMktkUWY3Ui1YSGkxU1NubkhMREQta0RmZElMQnNXMk1LcTVGVU5BNWcyVVBvbThLS1BFYW5kRDVoVjVYSDhGOXZrRmNYQzNyUHh3eDR2VnA3cVdSVzBsN3UxWlNZYTRkbTZZYTcyQ0F0cUw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The New York Times"
-      },
-      {
         "headline": "Here\u2019s how basketball fans can save $20 on NBA Finals tickets",
         "description": "",
         "published": "2026-06-03T14:37:00+00:00",
@@ -655,15 +655,6 @@
         "image": null,
         "recruiting": false,
         "source": "MLive.com"
-      },
-      {
-        "headline": "Starting 5: 2026 NBA Finals tip off tonight",
-        "description": "",
-        "published": "2026-06-03T14:14:47+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xRVRNYWJ6NTRncXhQWmlBVGYyYkFNOFBnektUeTl1NmhJODhhTjRLZ3JnQ0YtUklCNmVTT2YwSGFpdVBqcEFKcy02WG9yOTZwUnR3MHdjSXRadDA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBA.com"
       },
       {
         "headline": "Former UNC basketball star Caleb Wilson selected as NBA Finals Player Correspondent",
@@ -682,15 +673,6 @@
         "image": null,
         "recruiting": false,
         "source": "PennLive.com"
-      },
-      {
-        "headline": "Ranking every player in the 2026 NBA Finals: Knicks vs. Spurs",
-        "description": "",
-        "published": "2026-06-03T11:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWtjQnZlMlcwdFUwbnJjeVEwS3pSOHlGQUY1dFh4bkN1MS1ra1VvaDBYNzNXRGZXRXlrV1NXNUZmUENDazNLbDhnMWV3VV9CZHpYMjFQcldBWnlNTjZCWEYwMkNwdmRIUVUzT3JQV2JxRDNwNDhwZE5SeXh0b1hNRzdMcXJqOXdsTTBacGpEQmF3OEx3RnVSWjJkVDhZZlF4bFVEcm5FWVRhQmV2a2s3bEJ2OA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
       },
       {
         "headline": "NBA Finals: Victor Wembanyama, Spurs have already made history",
@@ -720,15 +702,6 @@
         "source": "Tomahawk Nation"
       },
       {
-        "headline": "The basketball-crazed Philippines will have a champion when these NBA Finals are over",
-        "description": "",
-        "published": "2026-06-03T10:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc1c2NTRhVk9xZEVscHVYMFktU1lIOUJILXMzaE1IZ0FSOWNkS21JcktLSnd5cjVJWVJhRnV2aGdTQUhWS2dpcjR1Nzh5bFhRRVVuR0hyb0puMGNlcWZ5cU5UNG0zQy1XZWVPZGNoY2tUVGxvU2tBeVY0a2lLWU9yTnVlc0lESUt4SGZV?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "AP News"
-      },
-      {
         "headline": "NBA Finals 2026: 'A culmination of what a life's work in basketball comes to' \u2014 How Karl-Anthony Towns' emergence powered the Knicks to the grandest stage",
         "description": "",
         "published": "2026-06-03T01:36:00+00:00",
@@ -736,6 +709,33 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
+      },
+      {
+        "headline": "Jalen Brunson is playing for an NBA championship and maybe for the title of best Knick ever",
+        "description": "",
+        "published": "2026-06-02T21:35:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNS04wdnFiWjFkWW5jRTNFdEI1V0dINExvTEFDVDhRcW9HR25oRk51dU0xSUlSNlJLNXB0VmNjMWpNN2JoUkJCU19tYjQ1MldqNFA0THJ4eWJwVUpNYlZJZEF2MEl5LU5WWG5hbjVveHhiV1NzSUN1bUVOc0RDZ1JlWS04aF8tTHZHTnlNUHZicThYU1VYTlE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "AP News"
+      },
+      {
+        "headline": "NBA Mailbag: What will be the deciding factor in the Finals?",
+        "description": "",
+        "published": "2026-06-02T21:26:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fWWljdEFBUEhFdGVBbXQzTUdEMDkxaEkxWXpsY09qTU5xX2ttMmtfSTdkSEtGMWJqdFpDUGh3bDd3Ymp0MzNZcVJHb2IwUnA4bmljSUx6VFdRX2xu?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
+      },
+      {
+        "headline": "Dom Amore: Dan Hurley has to root against his favorite team in NBA Finals; \u2018I\u2019m rolling with Steph\u2019",
+        "description": "",
+        "published": "2026-06-02T16:54:44+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUUViQ2NEcml6NnJTb2g2b3o5elFLd05tRF9SRTE5OFIxTzFmQjNDU2lWYjZaQ1h0c3hJbHlaVlZETkhGbjJhVS1Pb1Z5RjlqUElHZXpFc0x0N05FQnIxckVIRW5VNV92VllrbjBORE9oQzNaQ3FLV1hXeUhBWDlVcEwxMlFHUVdjdGIzWGVDRUx2d1VwVFJDbEtpLXIxMHFSVnk5UjFSSjdPTHExUHJCaGJRa3FnOERtUmNQc3lJQmYxVlFQTnllRVJ3?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Hartford Courant"
       }
     ],
     "games": [
