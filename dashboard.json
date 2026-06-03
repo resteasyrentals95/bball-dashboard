@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T21:18:55.138686+00:00",
+  "generated_at": "2026-06-03T21:34:01.475919+00:00",
   "duke": {
     "news": [
       {
@@ -129,15 +129,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "Clear Team Challenging Duke for Preseason No. 1 Ranking",
-        "description": "",
-        "published": "2026-06-02T12:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPZzhHUEVBXzlKNnlrbm1EVmd5ZG9PbGdabVlMWmdHbFR0WjAwdGppRmZaN3ZUVlRuNnVTOF9iQ0p6Vk5IRW1IZWFBbzFib0M1dE1kTmYya01PczlYNlZhX0twRzdXSlotUDBhQ2NTck0wZFNxRHdnVmVUZjhIdTQteVhWRWZtazJBSm1LNDVTMWhLc1k?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
         "headline": "The One Non-Con Game Duke Basketball Fans Should Circle Now",
         "description": "",
         "published": "2026-06-02T11:00:03+00:00",
@@ -250,6 +241,15 @@
         "description": "",
         "published": "2026-05-31T12:00:04+00:00",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcE1KXy13VzI2eG1WRWI3Y0txUmRfZFlfazdXLWdDSU92bGJsZ2NCalQzajkyb19BRW1qODBXUXJkVkxrSGJTLWpxOUg1NXhNbExYT2xYREp2aTkxcnBWSlJ0bUVoMkRGTzFPdjVybGlwTWJrajJhSDhCaDhkeFN5TWhQbXFKeTlUZ2RHdFNQRzZYMm5VT0dldlp2VmdtZw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Why Duke Basketball Is Underrated NBA Draft Deadline Winner",
+        "description": "",
+        "published": "2026-05-31T11:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZkVWSG5OSzNfa1hYcDBZbFhiSzFFd3g3R2xRWlhPdmp1N1oxTWhDYkRiSlh2THFkdm9iNDRkMzNpN3R0RWFpVUdpV2drSmFoSG9fWUE3OVJUb1hVMWo4U3NtczlwVUphTFVmRmpKekd5MlVLTDZPLW9lUll0M2xFVm9obTRHTFFZb0J5OUJmVFg2Wk5QdE5xOUVpSQ?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "\u2019This Matchup Can Get Dicey\u2019 \u2013 4-Time NBA Champion Warns Knicks of 1 Major Problem vs. Victor Wembanyama in Finals",
+        "description": "",
+        "published": "2026-06-03T20:18:38+00:00",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VN09JbTMyQ2NaUHlERUhZeFU1YmZ3QnBXRkZSdktLNFpYTUZtYjQwRndOZUlKNjllS2NUZ1ZTLUZjZlJNNmZYSXE4SzBITmxHZUxDa2J1TkpDX3g0TTR5dFBFSzVyeUxiOVlSRjgwRkRGdzkyVE5INXVVMjNtUQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "Spurs Attempt To Become NBA's Newest Dynasty Stream of National Basketball Association",
         "description": "",
         "published": "2026-06-03T20:03:45+00:00",
@@ -529,6 +538,15 @@
         "image": "https://a.espncdn.com/photo/2026/0603/r1667726_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "NBA Mock Draft 7.0: The latest on every pick of the draft ahead of the NBA Finals",
+        "description": "",
+        "published": "2026-06-03T19:07:46+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM0xHOVNadVdRVFJBbFB1X0RxYTB5M1J6amtvYmRkN1JPTmJudE9WMlRnNzQxWWtGNmF6el9aVFVFTDdUbUl3X2l2dmdQcTZXa1JFeF9mb2ZXeHZpZGt6UVBIYTAyM1k0ZDliZmFNbWI3SThaQ3lRaHZjREl0bEprbjE4cWFfZmVBLXhSTTI3eG9lOFZUcnpDNVItbkRKWVE4RUhxeGJneExvSVZDTlBmYWY0WWJMS0p0THJXSU5xRGRscThyN2hzZkpoaw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "2026 NBA playoffs: Schedule, scores, news and highlights",
@@ -612,6 +630,15 @@
         "source": "KSAT"
       },
       {
+        "headline": "Ames basketball legend Harrison Barnes shares thoughts heading into third NBA Finals",
+        "description": "",
+        "published": "2026-06-03T17:12:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVFZOdlEyOFdzTlRJWVRFSkl4UGI0YlZvc0xCV0diQ3FNNDBDSEJSWHZqdWpfOVJ6d0UzbEZIZ2x2M3ZKNkxpN3FfbnZqbi1qaklaamJ2bXZZTVJuTndlS0FkZE9PXzQtRXB6TlB2ckRaWGdLcnd6M0ktcFhQSTQxQ1hST1ZHNVBMUW5pd2Y3cnI?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "KCCI"
+      },
+      {
         "headline": "City Slickers: Knicks Fans Head to Spurs Country for the NBA Finals",
         "description": "",
         "published": "2026-06-03T17:07:09+00:00",
@@ -648,6 +675,24 @@
         "source": "MLive.com"
       },
       {
+        "headline": "Starting 5: 2026 NBA Finals tip off tonight",
+        "description": "",
+        "published": "2026-06-03T14:14:47+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xRVRNYWJ6NTRncXhQWmlBVGYyYkFNOFBnektUeTl1NmhJODhhTjRLZ3JnQ0YtUklCNmVTT2YwSGFpdVBqcEFKcy02WG9yOTZwUnR3MHdjSXRadDA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
+      },
+      {
+        "headline": "Former UNC basketball star Caleb Wilson selected as NBA Finals Player Correspondent",
+        "description": "",
+        "published": "2026-06-03T14:04:20+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPRFhCY3JBSlVaOG1oMzZ2TERJNEJCV0xZU2p4cUI5Y2U3QXYzbnFhYTZia1A4U0tZdVJnWW9xZW9MM3haNmhPR29fMjdueUlycjg5VWpZenNFMVBMZEU1eHpETUtnV281Mnh1VzFVaXRrMUFJLW43Y191X2FseWtkX2Jwa1FZWE9KdU5ocVprR3pGRWlxS3ozR0haUWlwTUM0RnF1dW95VmR0d9IBrwFBVV95cUxOQ0NpTDRDU2Z2clRMR1pmdzA0dW5rcUo0Q3lKNFFaV09EQmF4X2NFQUEyWHBfNWhVb2dYM1o0Z1BLQkNhRTREaHJyRW91eUNieFJucEhOaklQYk5pZDdVLTRaVGJUNWVqZ3U5OEZZTm03WnhNeWJLbnZZZkh4RV94ZUp5QzR0ZVZ3WDRGWEtFT2VMV1pDLV94d3ZDZ3FGY3hWTE1SSmNtS2l6MWcweFM4?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ABC11 News"
+      },
+      {
         "headline": "Hall of Fame basketball coach, former NBA player dies at 79",
         "description": "",
         "published": "2026-06-03T11:40:00+00:00",
@@ -655,6 +700,24 @@
         "image": null,
         "recruiting": false,
         "source": "PennLive.com"
+      },
+      {
+        "headline": "Ranking every player in the 2026 NBA Finals: Knicks vs. Spurs",
+        "description": "",
+        "published": "2026-06-03T11:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWtjQnZlMlcwdFUwbnJjeVEwS3pSOHlGQUY1dFh4bkN1MS1ra1VvaDBYNzNXRGZXRXlrV1NXNUZmUENDazNLbDhnMWV3VV9CZHpYMjFQcldBWnlNTjZCWEYwMkNwdmRIUVUzT3JQV2JxRDNwNDhwZE5SeXh0b1hNRzdMcXJqOXdsTTBacGpEQmF3OEx3RnVSWjJkVDhZZlF4bFVEcm5FWVRhQmV2a2s3bEJ2OA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "NBA Finals: Victor Wembanyama, Spurs have already made history",
+        "description": "",
+        "published": "2026-06-03T11:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdV9wZFNOTGJreU1kNVVMc0tPWGJCd1FKWTIzamlQbzVNQUFfcWRHWWJ5ZWlIMU1NNzVUSHFFdVFaTlVCb2Z5clAwMW5IZzlXUF9icF9UV25KM3ZhRm1OOTVIQkdOb1hNOVRGRGdxT0w2RF82YzBhcTFVZTduUmVDb25vOU5VYThFUDdKM1cwZ2Z4aGhCMGNRSnV6QVBrZDVsQmRYN0owWHpxUjZkaHJPZHBmM0hjSWNQOWRTZHVadUQzckJLQVlnMnJqYTU?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
       },
       {
         "headline": "How Villanova shaped the New York Knicks\u2019 dominant run to the NBA Finals",
@@ -673,69 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "Tomahawk Nation"
-      },
-      {
-        "headline": "The basketball-crazed Philippines will have a champion when these NBA Finals are over",
-        "description": "",
-        "published": "2026-06-03T10:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQc1c2NTRhVk9xZEVscHVYMFktU1lIOUJILXMzaE1IZ0FSOWNkS21JcktLSnd5cjVJWVJhRnV2aGdTQUhWS2dpcjR1Nzh5bFhRRVVuR0hyb0puMGNlcWZ5cU5UNG0zQy1XZWVPZGNoY2tUVGxvU2tBeVY0a2lLWU9yTnVlc0lESUt4SGZV?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "AP News"
-      },
-      {
-        "headline": "NBA Finals 2026: 'A culmination of what a life's work in basketball comes to' \u2014 How Karl-Anthony Towns' emergence powered the Knicks to the grandest stage",
-        "description": "",
-        "published": "2026-06-03T01:36:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQNmRVa3M1T1VlTGp3eHFYdzYyeEYwTElRU0tTc29YeGpQcm5SWHhTeUNQejRtQmM2dkJsMVVRbFJfZzFkVVNKUGdGcjRiX3dWRXJCbUZBZkN0Z3RWbTE5cE9Ed2tmc1BsQVpKNUtPWURrVW5TbXRUVmM3VzhKRldhWXo2Si1MazVaS0d3YWkxRW5DcDZpOFFESTZETmRObjdkeGtjSkF4SlZDbklVQTJsYU5Vb2FWN215STNKNHJkbzZ5MU1CZGZfVWlVc1JFZVJYR0JFSE12eDdhMmtwS0tOcTh1NDQycjQ1WmRoSW1Ec0pXYW51RmpfR2VRaWdVSWwxVGZTeWE2bDNfTzdFNmZJOGVJX1dBaUdlaksyTmNmbFZYVmZ5Y1R3?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
-        "headline": "NBA Mailbag: What will be the deciding factor in the Finals?",
-        "description": "",
-        "published": "2026-06-02T21:26:28+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fWWljdEFBUEhFdGVBbXQzTUdEMDkxaEkxWXpsY09qTU5xX2ttMmtfSTdkSEtGMWJqdFpDUGh3bDd3Ymp0MzNZcVJHb2IwUnA4bmljSUx6VFdRX2xu?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBA.com"
-      },
-      {
-        "headline": "How does NBA tanking reform impact Nuggets? It doesn\u2019t help that Spurs, Thunder are big winners",
-        "description": "",
-        "published": "2026-06-02T19:38:04+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTkZQeXJBQ28tR3lQdE5ndTJEZDN4dkV2LUVCN19fdERKVGRQLTM4SV9tNmRrVGltcUE4Q1k0UURQS0wxZFFmMW5oelhTcXdKUG1PaXRVc2p3SFBjYjVpNF84eDFsbmdkMEJjQjNiWS1xQlZ1dXFtbFh4Mm1hbGRNZ2RzMWdCSkdMeFd4WjVDMnVxZFYz?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Denver Post"
-      },
-      {
-        "headline": "Jeremy Lin joining ESPN for Knicks NBA Finals run",
-        "description": "",
-        "published": "2026-06-02T13:59:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaTBzZjBUNXkzUDBQYVlScGRXVkhiSHFyVTdRcmx4M0w2elNQTUhMazdIOVh5QjROc3dLMWJvck52NTlfV29NaHktNHpjMTJfbl94MnJPLWFQUW1XRzJHejR0NEpka1RMTjZWOU9kSGd4b3RyYi1WMmJfWHRwelNJcm44OFdJcjhSck1rX1VkYUU?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "New York Post"
-      },
-      {
-        "headline": "On the eve of NBA Finals, Silver Spring\u2019s Josh Hart finds \u2018a home\u2019 with the New York Knicks, his mom says",
-        "description": "",
-        "published": "2026-06-02T09:04:07+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOVFdsUTNhRDkwbnhZZXBLakdPdW5qc0duU0huVXhsVWJjR25fUVRCZDJWdnFCQVg4Mzh4NUtsdzZTRzVHc3Q0VzVFblppZnhEWm4wTm5aUnlITmFGWDVDNElibmsweHhOXzcwWkwybFFqZHhCd3RhMVJuak9lV29ZWVM5VDRFSG5ydkZvelhsSkFBMUdWblNucGZTdVR6a0d6ZHFZM3pvN2dNenBUcGRuTm9nZElwa29oZUJ5SVVURm5Ld0FJSElRT0gwaFNDT25mWHc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "WTOP"
-      },
-      {
-        "headline": "Basketball gods blessed fans with most compelling NBA Finals since Warriors-Cavs",
-        "description": "",
-        "published": "2026-06-02T07:54:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRjZPSGNEQ3V4V08xcmlIVXhHdjBKWTZRR1N5aWY2ZGpEY0o0ZTBkV1pQYktPSHFweUVjUWxvdmhxMVN2MVQ3V0lsVlN0VlBZUFlVWU9DWXFaMEFrNTF5MnUzTzdQMUZIdjFjTlZvMHFjNjVuQzVlVVVRMFE2U3RVanJlajVIRlZHTEJlUl8wLV9KT043b0F4MDlUUHhta1MwalN3eXFic9IBrwFBVV95cUxPZWxkMjYxU2J1aXVTcWxmajA2RnFsU0F1eFAyXzRNR001SnN4ZldGQmdvN1pISXNQNW83a2d1UzZZT25icDZMdWh5clhzbjB0U0pvNEdISm1MWGxzT29oaDZKTk1Fd25raHR1dDBOMkNad0ZFOWwxTlV6OTF2ZkZ1NzRCS2RFb2xwbDFoYU11QkduYkwyYkVBMkwzZ1pPS0t4U19TLU5KSm16T0hWbWlN?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBC Sports Bay Area & California"
       }
     ],
     "games": [
