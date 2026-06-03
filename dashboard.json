@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T01:02:34.674404+00:00",
+  "generated_at": "2026-06-03T01:17:44.765460+00:00",
   "duke": {
     "news": [
       {
@@ -84,15 +84,6 @@
         "source": "The Fayetteville Observer"
       },
       {
-        "headline": "Ranking Duke Football Players With Highest 2026 Ceiling",
-        "description": "",
-        "published": "2026-06-02T14:00:02+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOQ1BlYzh5bkJUQWh0U19rVi1wUXFiLTBlRFFsLS1weFhjelhUbFZUZzViQVdMMUtHQ0dTMWc5RmFtNVRLN200eS15V2pTN01hMHczblFzMVBQbXpfclNkazEyalFteWxrZWN4WlNnTkNxa3RuS1NHcnJMWE0ybG9US2RRNkpLNDhhZGFzWGsyNnRXQnM?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
         "headline": "Duke Earns Top 3 Preseason Nod in Latest Update",
         "description": "",
         "published": "2026-06-02T13:00:00+00:00",
@@ -174,15 +165,6 @@
         "source": "Ball Durham"
       },
       {
-        "headline": "Top college basketball analyst praises Duke head coach Jon Scheyer",
-        "description": "",
-        "published": "2026-06-01T15:48:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNMlRCSm9Tb2l0b1hvcDc2bTVYaXkwWi11TXU1MkpHcV84VFpvaXhmVkhEb2ttbkpOdHF1d01BV29rai1iMmpuVE5qend3NnpSX0V3WGNkQjdWeWlJQWpuemFZcWJoWTNvaGZtMDc5NUE3N19KdTh2M0pabS1obVEwMnowNzB0alEwT09zdlJmRXNCTEo5amljdmI1cUtCS3c2RmpTVWFEMmJsQlhybEhBQTM5cFRCOHN1WDcxbHQ1UEJaM29hX2IxQ3YxMUcxN2t4UVFROW04dnpzYjlaaVJUWjE5TGliN29PMnN4a3pFaURzVFo5M21CTjZR?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Duke Wire"
-      },
-      {
         "headline": "Why Duke's Evans Made Right Call Remaining in NBA Draft",
         "description": "",
         "published": "2026-06-01T15:00:03+00:00",
@@ -219,6 +201,15 @@
         "source": "The Fayetteville Observer"
       },
       {
+        "headline": "NC State\u2019s ACC basketball schedule includes no home games against UNC or Duke",
+        "description": "",
+        "published": "2026-06-01T12:24:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFh3YzZLUi1lNlFlS08yc0hMZ1lpbTRpbi1CZkRsTE1xVldrQThtWFJ4eE9LWEpKOTNRM0I3dFdFbUVOalFUTjhpa0Z1blFwLXdobWVsLVNpTTI1TE81MkhNTkJUS3hjNmdGOXRaLTVCUGtCQU04c2hjbG80VjM1dG9pWlVqWXZYZWJvbUN0Uy1SUC0zeG5JRl9LWEE1cWFydzNYMk53NWVvMldCbWY0YjEtSE1pM1c1d0tNMTBjdTB0TExQTHFxTmhpc09Jdw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Backing The Pack"
+      },
+      {
         "headline": "2026 NBA draft: Player comps for 12 projected lottery picks",
         "description": "From best-case ceilings to realistic floors, which NBA players do the top 12 prospects in the 2026 draft most resemble?",
         "published": "2026-06-01T12:19:37Z",
@@ -253,6 +244,15 @@
         "image": null,
         "recruiting": false,
         "source": "roundtable.io"
+      },
+      {
+        "headline": "Breaking Down Duke Basketball's Updated Non-Conference Slate",
+        "description": "",
+        "published": "2026-05-31T12:00:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcE1KXy13VzI2eG1WRWI3Y0txUmRfZFlfazdXLWdDSU92bGJsZ2NCalQzajkyb19BRW1qODBXUXJkVkxrSGJTLWpxOUg1NXhNbExYT2xYREp2aTkxcnBWSlJ0bUVoMkRGTzFPdjVybGlwTWJrajJhSDhCaDhkeFN5TWhQbXFKeTlUZ2RHdFNQRzZYMm5VT0dldlp2VmdtZw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
       }
     ],
     "games": [
@@ -488,11 +488,20 @@
       {
         "headline": "Jalen Brunson wary of Stephon Castle's defensive prowess",
         "description": "As Game 1 of the NBA Finals nears, New York Knicks guard Jalen Brunson, who has seen just about every defensive coverage the league has to offer, lauded San Antonio guard Stephon Castle on Tuesday, saying \"he's going to be a great player, great defender.\"",
-        "published": "2026-06-03T00:56:32Z",
+        "published": "2026-06-03T01:06:23Z",
         "link": "https://www.espn.com/nba/story/_/id/48952063/jalen-brunson-wary-stephon-castle-defensive-prowess",
         "image": "https://a.espncdn.com/photo/2026/0603/r1667465_600x600_1-1.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Victor Wembanyama is ready for the bright lights, big stage of NBA Finals",
+        "description": "",
+        "published": "2026-06-03T01:05:21+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zYVliXzNNcUltX0IzQlRqRkpvU3o2a2VhWDdoVzI1QTNEc0pEdjRJNGdTcFU2Zl80OGltVmRTakloU2xlQUh5YWdhcDY0WTJVdVF3c3NxYUh4YXVmNVBnRTV4cjBYZkhW?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
       },
       {
         "headline": "BASKETBALL-NBA-DET-CLE/",
@@ -576,15 +585,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "Referee Curtis Blair to work NBA Finals, a first in his career",
-        "description": "",
-        "published": "2026-06-02T16:03:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYkdONDBVRnFNZW5lYXkxLTk5MWlaYThaTjVqWWpUaU1lWkRYWUNEUEdzYkRsVmpzY0gzblE4OUNyMVcxX2Jvd1RUZ1hydU5vNkt4ZzhMRzZHUzR5NFNqazhrbXJvXzFNbkhILTFMZC1rTks1S1FYQVk2T0Z0b2JKU3B2UC1ERmwzcjIxb0d6Qld4WXoweXQtUHN3?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "Fantasy Basketball: 2026 NBA playoff risers in High Score",
         "description": "",
         "published": "2026-06-02T14:56:24+00:00",
@@ -630,22 +630,13 @@
         "source": "ESPN"
       },
       {
-        "headline": "NBA Finals 2026: Experts' picks for Knicks-Spurs, Finals MVP",
+        "headline": "College basketball top 25 after NBA Draft deadline: Illinois or Florida at No. 1?",
         "description": "",
-        "published": "2026-06-02T11:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeUdqY05jOHYyQUYzLUhMSGltTFdNWFpkTzVYZ2ZJRnJLYTJIU1Z4NVZMTmswdkJQNVdHLWQ4SVd2U0hReUkxeEo3OWd2V3dRVlZkcjgzUGpfdlVfYUItekpJQmdkRjZEd0FGYmM2MjJMbmpHOHdMNXhlX0NPaUI1cEVzbm1yVEt3V096VmZRNk43SlduNFN1Q1dwQXpmUXBIWUk2U3hVV1BsaEI0TUk4TjBSazhLSmZN?oc=5",
+        "published": "2026-06-02T11:55:35+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY05EZ1NZbkRQQmRGMjZ2eUNkY0NtenhDSWpWU2tBM3hVaGxpRXB4bzNNcTFkSXNfeFZwT0kxX1R0YkVkNGRIX3N5MEtlRUJaRGR5T3d3RFpSYmpsTkt6Nzg5UVZsQnFpTXBCX3FCVWhPelI0dmxjNlhFc1lFUXcyUVBlTlgwdjVVQldxVEtUVTBvWE52Ym9pT1JNTFFSVE0?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "NBA Finals 2026: League execs, coaches, scouts preview Knicks-Spurs",
-        "description": "",
-        "published": "2026-06-02T11:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3NINmliREJISlpGa1JPWDUwN3RId0dNeWFZTkVVaHpYYWNwX2cwM0dOQkx1anBVMUpXUDlsWXV6XzltUjNDY3NGdFpmWDR1UGduUkZGNGVxZENyTlg5bDRmNnI3ZjZ1V2w2SUJWdUtQNEJVNXdON1J0dWN1TFByb3FiYm1fUlNUWllzSDB4cEJ2TjBEak9aT01nTHM5ZXZxVFJPWkVmZmpoUFJmSW1IbTBn?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
+        "source": "The New York Times"
       },
       {
         "headline": "On the eve of NBA Finals, Silver Spring\u2019s Josh Hart finds \u2018a home\u2019 with the New York Knicks, his mom says",
@@ -666,13 +657,13 @@
         "source": "Fox News"
       },
       {
-        "headline": "Why Knicks coach Mike Brown was rooting for the Spurs to reach the NBA Finals",
+        "headline": "Big market, small market, same NBA Finals stage: How the Knicks and Spurs got here so differently",
         "description": "",
-        "published": "2026-06-01T18:27:18+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQejNkaVdyeWtjSzZDYTJPUER2OGJhV180YzFkVUhzbVVTZk5qU2w2MzZ2VlRQTVAwc3dkcF9iMktUTWNHdEF4NDN5aEUydmNiZ29LLVdteW5uX2Q4V3JoZFQ2dXAxWV96YVBxMk9Ka2ZVZjU0QUprd0R1eXVFaGJqWXpHbWhlb1I3QkFDdFBfT3pzcXlBcFRBMWxVblJKWWR4Y29QdG1jc1VZU1RLMGc?oc=5",
+        "published": "2026-06-01T19:07:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRU50SFBDQnpfcHRaS0Vyci0xS0pxRmhNa3RaRlFTSERRS3dLanI2TFVCNk1pX2ZYcDRBZkdrdzNtWjNtRnl0M25ZeU1JdEx6OGZUZDc0QWN6VWctT2RfVnVKdXdXWm5CMjNRN2wtSHRrdTZpTWtQRnk1RFMwUVpUNk1tckplMDF5VFhCeTdwNElteEQ0LXc?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "San Antonio Express-News"
+        "source": "AP News"
       },
       {
         "headline": "Where the latest mocks have Michigan Basketball trio going in NBA Draft",
@@ -718,6 +709,15 @@
         "image": null,
         "recruiting": false,
         "source": "NCAA.com"
+      },
+      {
+        "headline": "Trending Topics: Who will win the NBA Finals & Finals MVP?",
+        "description": "",
+        "published": "2026-05-31T16:35:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SUWstNFRyQTBzYlBGMmVfa0dFUFRXN1AyUWtKcjlid3NvZGxDVjJZVzUxRXI2ZGx3bVBWdXA5VVNhSldTdFA4T1JWWldHRVJYb1MyUWJCVHVsWGQ0cDdxYWlrUkRVc0RNd2J0aEdtS1ZuMDJTUWg0?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
       },
       {
         "headline": "2026 NBA playoff bracket, schedule: Spurs top Thunder in Game 7, advance to face Knicks in Finals",
