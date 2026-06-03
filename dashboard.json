@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T18:01:26.530296+00:00",
+  "generated_at": "2026-06-03T18:27:25.897497+00:00",
   "duke": {
     "news": [
       {
@@ -237,19 +237,19 @@
         "source": "Sports Illustrated"
       },
       {
-        "headline": "Duke Basketball: Blue Devils named a offseason winner by CBS Sports",
-        "description": "",
-        "published": "2026-05-31T14:55:45+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM3pBZThZcVN1UTRXaUFtOE9CMmRRNGVBbFpwOVJqRHl1LWdXeGFQcENKNFVkWDVyZ2NGQXh1TTdXVGtoVHFyZ0l6amtOY2tGQnAxZ25PTXpCci1USWdzM2N0TTJVOWxaSzZiN1hPNHIyUHJVZzdjYkFuUTZoOGpxUjhuTW9oRlphaEtZWTFNenNCemc1SFFXUmJrVTJPajYxZHdzcTdOVnRCTXJBX0tKNw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "roundtable.io"
-      },
-      {
         "headline": "Breaking Down Duke Basketball's Updated Non-Conference Slate",
         "description": "",
         "published": "2026-05-31T12:00:04+00:00",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQcE1KXy13VzI2eG1WRWI3Y0txUmRfZFlfazdXLWdDSU92bGJsZ2NCalQzajkyb19BRW1qODBXUXJkVkxrSGJTLWpxOUg1NXhNbExYT2xYREp2aTkxcnBWSlJ0bUVoMkRGTzFPdjVybGlwTWJrajJhSDhCaDhkeFN5TWhQbXFKeTlUZ2RHdFNQRzZYMm5VT0dldlp2VmdtZw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Why Duke Basketball Is Underrated NBA Draft Deadline Winner",
+        "description": "",
+        "published": "2026-05-31T11:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZkVWSG5OSzNfa1hYcDBZbFhiSzFFd3g3R2xRWlhPdmp1N1oxTWhDYkRiSlh2THFkdm9iNDRkMzNpN3R0RWFpVUdpV2drSmFoSG9fWUE3OVJUb1hVMWo4U3NtczlwVUphTFVmRmpKekd5MlVLTDZPLW9lUll0M2xFVm9obTRHTFFZb0J5OUJmVFg2Wk5QdE5xOUVpSQ?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "NBA Finals betting tips, DFS picks for Game 1: Bets to make on Wemby, Bridges and more",
+        "description": "Andre Snellings breaks down Game 1 of the Finals between the Knicks and Spurs and offers his favorite bets and DFS plays.",
+        "published": "2026-06-03T18:15:40Z",
+        "link": "https://www.espn.com/fantasy/basketball/story/_/id/48901123/daily-fantasy-basketball-tips-nba-betting-odds-picks-dfs-playoffs-finals-wednesday-6-3-2026",
+        "image": "https://a.espncdn.com/photo/2026/0603/r1667726_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "'The Hoop Collective': Episodes of Brian Windhorst's NBA podcast",
         "description": "From breaking news to the latest intel from around the NBA, here are the top highlights from Brian Windhorst's \"The Hoop Collective\" podcast.",
         "published": "2026-06-03T17:50:01Z",
@@ -531,15 +540,6 @@
         "source": "KSAT"
       },
       {
-        "headline": "Mitchell Robinson Injury Update Brings Massive News Ahead Of NBA Finals Game 1",
-        "description": "",
-        "published": "2026-06-03T17:14:50+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOZGd0X2JZdEJJd3JYSzN5em9CZWZZa1ZWVHhXTmY3U0VMd1ZRMlllZ0NQQ1dVYnJYZllGeVRwbHlEUkpOcTBQNFNtbEpEeGRqdDZkLXRNNHdhQzhjZ3VDNERNZ201X1Q5RXFwcHJJOVVIU3VVWVM5NEQ5dHZCSjhrWGJmVWg0RUdaUnVOeUhackhwQQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "Exclusive | President Trump plans to attend Game 3 at MSG as Knicks host first NBA Finals in 27 years",
         "description": "",
         "published": "2026-06-03T17:06:00+00:00",
@@ -549,6 +549,15 @@
         "source": "New York Post"
       },
       {
+        "headline": "NBA Finals Game Preview: Knicks at Spurs, Game 1, June 3, 2026",
+        "description": "",
+        "published": "2026-06-03T15:58:41+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQZnpvWndZcEk5M3ZoakpmQXB1SE9rUmF2WUNoYzh5Y1pjUER5MkVVMFBtYS1LWldQZXIxbjJvSHgyRFhrQVc3OE0wbkVSdjV6ODhMQmItLXhkZ19XS3Bva1VpRWQ4ZlQ3ejZ1bnQ4T2EwQmhTa1lEZHUyd1dwMmlqb2VFM1dRZw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "NBA championship and Finals MVP odds: Spurs favored vs. Knicks entering Finals",
         "description": "The San Antonio Spurs enter Game 1 of the NBA Finals against the New York Knicks as the favorites to win the NBA championship.",
         "published": "2026-06-03T15:53:17Z",
@@ -556,15 +565,6 @@
         "image": "https://a.espncdn.com/photo/2026/0531/r1666256_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "2026 NBA Draft Scouting: Comparing Cameron Boozer's athletic translation vs. Caleb Wilson's untapped potential",
-        "description": "",
-        "published": "2026-06-03T15:42:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOUTA2ZkFmSkxFbDM0NHEwYnA4M0hVMU1DS2h5Z1hZTC1PWWFxMV9SMklST3lLbURyanpqdmEwMDFabk1vbG02UzlfLXpyZDdKRk9QdkMxS0lLWXlLVlV1V0ZjS3pjNDhlNjBWRWxzOHRtYmxDR2VrMkFfRFZ2QldwUnpDdVdqZ3E2a3NTanB5M3k?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "CBS Sports"
       },
       {
         "headline": "Plenty of Arkansas basketball connections in NBA Finals matchup",
@@ -601,6 +601,15 @@
         "image": null,
         "recruiting": false,
         "source": "ABC11 News"
+      },
+      {
+        "headline": "What Ultimately Decides Who Wins the NBA Finals? Stream of National Basketball Association",
+        "description": "",
+        "published": "2026-06-03T13:30:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQOUhsMG1HaDJtSk9JWUt4aE8zcGdHelZxcmFXWnA3Ulk4VXhYeHYtYy1QX1pIVlRXLTZkdXFwdk1Zbk5veURrWHo2d3NSMC1McFE3S2g4WUFwd1gzV0VkVWVqdVFlUGpyZ3VoSmRkeklsSE10OEc5azJBbDNDUnBwcDJteW84amttb1poeXVINTFFa1E?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CBS Sports"
       },
       {
         "headline": "Hall of Fame basketball coach, former NBA player dies at 79",
@@ -727,15 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "Hartford Courant"
-      },
-      {
-        "headline": "San Antonio Spurs in the 2026 NBA Finals: Top March Madness highlights",
-        "description": "",
-        "published": "2026-05-31T21:01:13+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPc0t6TjJ2V0JTeF9OUmpvVW9Eby1uenZGQjJudUlQcFJWVDNMWUVmSzNZaUNSdkJHcS16aEZldXRrbzBIZUVDUEg5SGl6Z2JzM2VUMjlPY1RNZHI0d2lkZkViR0RTYXZMUUdmNlhkZE1iVkVXZnhVb0psbFZFWjRidlNzMS05S1FhMWdqTDdVNTVielNkQnVOMHBxSWNUbTlSRmd6ZWRyel93YzZGWGpCV2RTWnpnUQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NCAA.com"
       }
     ],
     "games": [
