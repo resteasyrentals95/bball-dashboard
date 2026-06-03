@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T02:33:30.676727+00:00",
+  "generated_at": "2026-06-03T02:48:38.458489+00:00",
   "duke": {
     "news": [
       {
@@ -684,13 +684,13 @@
         "source": "WTOP"
       },
       {
-        "headline": "Steph Curry signs 10-year deal with Chinese brand Li-Ning, raising questions about NBA's ties to China | OutKick",
+        "headline": "Hall of Famer Rick Adelman, who won more than 1,000 games and took 2 teams to NBA Finals, dies at 79",
         "description": "",
-        "published": "2026-06-02T01:41:05+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOdllXRnhmTVRwU0V2aDZhbm1rREdXWGdHWG9WeXBGb1VxaTUzelVqbEpITEQwMzRvSTFkTU1OVi1TSEcxbkJnYkMyVG9sNFFwR19VUEpzR0p1cTVkZEZXZS1URjRyZ2NZSTRlQ2ZyRGd6c1JHXzAxUlBncTg0YmpRb1NOMDlpVlUyMHAxYzdLRXY1MU9Cc3pxUEhxTjhIMW8wbU1GWjZFLU55c25vT0kzcTlxeUZmYVJoM0d5MXRIYU5zbjg?oc=5",
+        "published": "2026-06-02T01:00:51+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeUllN3FWSDYyT3RIczhabFM4WHg3RmlsRTc5clFkbXpqZ1JxZHRBako3Nk81bURiS3hCcWp2YjQyN2FGNDgzbmVtOF9vVkxhekplejFUMUstekl5QlZLUE1tc3Y3bGkxWkhpSlpuQjBhcmlXV1huUG5pc2I2TEFkdGNmUjVycEJRZWJCNkZrdVFuUUw0UjdRSnFJVE5RdXJ4NVdfb2tGa1ZuUmRybWlRTld1RGRpOWFKRldTdlRoVHNHenRhTmg0YWphMzY4UQ?oc=5",
         "image": null,
-        "recruiting": true,
-        "source": "Fox News"
+        "recruiting": false,
+        "source": "NBC Sports"
       },
       {
         "headline": "Why Knicks coach Mike Brown was rooting for the Spurs to reach the NBA Finals",
@@ -711,6 +711,15 @@
         "source": "KSAT"
       },
       {
+        "headline": "Knicks beat the Spurs for the NBA Cup, but need to do it in the NBA Finals for the title they crave",
+        "description": "",
+        "published": "2026-05-31T21:35:10+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPemJtMDBwbEZsOEM1VWRTelppcElvRVhVYTBhSHdhYmRsN3JOMVZTUFRPQXlUZVhHWFUzRmRZSmViOXZCcEp2WWZjMFkxREtQZEt6bEU5RE4zTEQxdUg5QkdiMGFLcXFNRUc5bUczNFR1ZVdkMy1jZnBwcnl6OExOelFzTEFnVmtYT0hYcVJnX2JMX1U0dXVqb0M1OV9iWXp5VjZYZGZGX3ZvWHJ6NDljckh0NHBaQ0RpOHFiRE13U0VGdUc5Y2NDSTNaSktCUVRSTDVtTE9OdHljb3JacGw2aQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Click2Houston"
+      },
+      {
         "headline": "San Antonio Spurs in the 2026 NBA Finals: Top March Madness highlights",
         "description": "",
         "published": "2026-05-31T21:01:13+00:00",
@@ -727,15 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "NBA.com"
-      },
-      {
-        "headline": "2026 NBA playoff bracket, schedule: Spurs top Thunder in Game 7, advance to face Knicks in Finals",
-        "description": "",
-        "published": "2026-05-31T02:55:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcDY0WUpIMXFTbFotNk8tN0VzXzNTRm9ibTJLczR4MDRzbFlPQkZHdmZ5T1JmbHBnUXZFOUdNcVBaUFBBQ3pSTkRMRVR3TWRPMnBBcUFoUFBTWEpTY01UT2V6QkNKbkxOWDZ2RmNoN01WVlVscHlodlEzbi1nM1c3OVZjek4?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "CBS Sports"
       }
     ],
     "games": [
