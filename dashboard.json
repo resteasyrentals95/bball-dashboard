@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T16:45:57.218182+00:00",
+  "generated_at": "2026-06-03T17:01:02.890717+00:00",
   "duke": {
     "news": [
       {
@@ -522,6 +522,15 @@
         "source": "MLive.com"
       },
       {
+        "headline": "Starting 5: 2026 NBA Finals tip off tonight",
+        "description": "",
+        "published": "2026-06-03T14:14:47+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1xRVRNYWJ6NTRncXhQWmlBVGYyYkFNOFBnektUeTl1NmhJODhhTjRLZ3JnQ0YtUklCNmVTT2YwSGFpdVBqcEFKcy02WG9yOTZwUnR3MHdjSXRadDA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
+      },
+      {
         "headline": "Former UNC basketball star Caleb Wilson selected as NBA Finals Player Correspondent",
         "description": "",
         "published": "2026-06-03T14:03:45+00:00",
@@ -648,15 +657,6 @@
         "source": "The Denver Post"
       },
       {
-        "headline": "Basketball gods blessed fans with most compelling NBA Finals since Warriors-Cavs",
-        "description": "",
-        "published": "2026-06-02T14:53:50+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRjZPSGNEQ3V4V08xcmlIVXhHdjBKWTZRR1N5aWY2ZGpEY0o0ZTBkV1pQYktPSHFweUVjUWxvdmhxMVN2MVQ3V0lsVlN0VlBZUFlVWU9DWXFaMEFrNTF5MnUzTzdQMUZIdjFjTlZvMHFjNjVuQzVlVVVRMFE2U3RVanJlajVIRlZHTEJlUl8wLV9KT043b0F4MDlUUHhta1MwalN3eXFic9IBrwFBVV95cUxPZWxkMjYxU2J1aXVTcWxmajA2RnFsU0F1eFAyXzRNR001SnN4ZldGQmdvN1pISXNQNW83a2d1UzZZT25icDZMdWh5clhzbjB0U0pvNEdISm1MWGxzT29oaDZKTk1Fd25raHR1dDBOMkNad0ZFOWwxTlV6OTF2ZkZ1NzRCS2RFb2xwbDFoYU11QkduYkwyYkVBMkwzZ1pPS0t4U19TLU5KSm16T0hWbWlN?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBC Sports Bay Area & California"
-      },
-      {
         "headline": "Plenty of Arkansas basketball connections in NBA Finals matchup",
         "description": "",
         "published": "2026-06-02T12:31:00+00:00",
@@ -684,10 +684,28 @@
         "source": "WTOP"
       },
       {
-        "headline": "Big market, small market, same NBA Finals stage: How the Knicks and Spurs got here so differently",
+        "headline": "Basketball gods blessed fans with most compelling NBA Finals since Warriors-Cavs",
         "description": "",
-        "published": "2026-06-01T19:07:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQRU50SFBDQnpfcHRaS0Vyci0xS0pxRmhNa3RaRlFTSERRS3dLanI2TFVCNk1pX2ZYcDRBZkdrdzNtWjNtRnl0M25ZeU1JdEx6OGZUZDc0QWN6VWctT2RfVnVKdXdXWm5CMjNRN2wtSHRrdTZpTWtQRnk1RFMwUVpUNk1tckplMDF5VFhCeTdwNElteEQ0LXc?oc=5",
+        "published": "2026-06-02T07:54:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRjZPSGNEQ3V4V08xcmlIVXhHdjBKWTZRR1N5aWY2ZGpEY0o0ZTBkV1pQYktPSHFweUVjUWxvdmhxMVN2MVQ3V0lsVlN0VlBZUFlVWU9DWXFaMEFrNTF5MnUzTzdQMUZIdjFjTlZvMHFjNjVuQzVlVVVRMFE2U3RVanJlajVIRlZHTEJlUl8wLV9KT043b0F4MDlUUHhta1MwalN3eXFic9IBrwFBVV95cUxPZWxkMjYxU2J1aXVTcWxmajA2RnFsU0F1eFAyXzRNR001SnN4ZldGQmdvN1pISXNQNW83a2d1UzZZT25icDZMdWh5clhzbjB0U0pvNEdISm1MWGxzT29oaDZKTk1Fd25raHR1dDBOMkNad0ZFOWwxTlV6OTF2ZkZ1NzRCS2RFb2xwbDFoYU11QkduYkwyYkVBMkwzZ1pPS0t4U19TLU5KSm16T0hWbWlN?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBC Sports Bay Area & California"
+      },
+      {
+        "headline": "Where the latest mocks have Michigan Basketball trio going in NBA Draft",
+        "description": "",
+        "published": "2026-06-01T18:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX2Foa3hWckZyQ01tRGdRUWw1VGQ2c0ZrSFJUeGNLWXdybm5OSlJtcVlxTFNiNHBEb0FPUy1fWHhydnM3bjRTcmtIbFo3NU0xOC1BcWZ1VUZjQlR4VGM1MjNRTm5keWJQY3VrV1NHd3pZN3hYSTdNbDJXTkN3Yk1HbUozWUxXUGk5N25vLXpDdzRlUmhxaDQ4elExLWZHeGVMNHo3bGs3eEJmOFk1bTNwTnROeUU5cF82TmJpY19YSWhpTEtYeTNjQkpqN1lLSzljUFE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Maize n Brew"
+      },
+      {
+        "headline": "The trophy returns: NBA releases images of how Finals courts will look in San Antonio, New York",
+        "description": "",
+        "published": "2026-06-01T16:44:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQS0dveldEdHRyZEpmcTFESlctLVBtbktTVkNhRzFiMDA5NDlDbjh0UDc2SG45cHBPc2g4TlpzVEhWMG5vZzRRaGNDNEtfMzFGeVpnZlF4UEowZi1PTEt1OTVIUHdYeEUwbXZjZjV5bkpSSXdDdEtmbXJ4MnhkVjVrcFZOQ2VHb0ZtT0E?oc=5",
         "image": null,
         "recruiting": false,
         "source": "AP News"
@@ -718,24 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "NCAA.com"
-      },
-      {
-        "headline": "Victor Wembanyama\u2019s respect for Gregg Popovich is clear. And Pop was vital to the Spurs\u2019 NBA Finals run.",
-        "description": "",
-        "published": "2026-05-31T20:44:06+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNbUk2LTVQUVNGOGlnTDh0Y09pMHAwUUY4YU50Mzh4RVQydEJBd0E1Q0ZLZy1KR0l4Z1F3RFBFY2hGUHZhNmxMUmMzeExRMkdpbDM3VnZEazRkeDhjWDJKQkJUeXdkazBOUDhyXzB3T3k2eWFUVUJfdlZvYkczMlJSRXZIaG9DeUJlNnBHbVY1Z1ZXR1k5c0FIZQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Chicago Tribune"
-      },
-      {
-        "headline": "2026 NBA playoff bracket, schedule: Spurs top Thunder in Game 7, advance to face Knicks in Finals",
-        "description": "",
-        "published": "2026-05-31T02:55:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcDY0WUpIMXFTbFotNk8tN0VzXzNTRm9ibTJLczR4MDRzbFlPQkZHdmZ5T1JmbHBnUXZFOUdNcVBaUFBBQ3pSTkRMRVR3TWRPMnBBcUFoUFBTWEpTY01UT2V6QkNKbkxOWDZ2RmNoN01WVlVscHlodlEzbi1nM1c3OVZjek4?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "CBS Sports"
       }
     ],
     "games": [
