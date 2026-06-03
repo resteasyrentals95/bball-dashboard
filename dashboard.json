@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-03T23:36:37.441194+00:00",
+  "generated_at": "2026-06-03T23:51:43.551217+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "Duke Basketball: Game vs. Michigan moving to Miami Marlins stadium per report",
+        "description": "",
+        "published": "2026-06-03T23:36:58+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUHpNek1YbjV2bzUxTDhnUm1vckc5QzJ0TnVYYWFEdjNCcEpzNjhtbG95XzJXRkRrclowOTgxeUhBWFMxTjI3WmtaNDVhclpZN2ZSUDR1VGpuTFV3QmdKX25DcUNzYlp3OXBBcjlEUmwxWkg3aGZNZFh3STdtZUJINkF5NFZFeXUwTTQ3ay1TOV80WVFhNVdEeE1LdEFqX3RzNDc1TnE0Q2k?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "roundtable.io"
+      },
+      {
+        "headline": "Highly anticipated Duke-Michigan basketball game reportedly moving from Madison Square Garden to MLB stadium",
+        "description": "",
+        "published": "2026-06-03T23:01:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeWZfclRLb1BGSFBPMmp3dUxTMEpnNnVveFRBNE9DNDREZDg4Vjh4RG5DcXV6MndwczRGMlpmMzJFME1FSEhuaUNROHBPRm82VHlrSEdhY0tQXzYteGZZc0dzUWg4azN2WFp5VkhCTXl5TmhTdGR1MjJYQkJpTHpvWWY2UF96V1BuTmZPSjVJTjFvMXZjcW1ra2NXM05PY0NCTExOcWRIZlBIN2ktQXRHWjAtMDNKUnBEbm5kajQzWWVCbkhKMk10aHdNdnB1VmpBcWZwRnlsSnJBMnVMbklXbFF5M3BLSk4wUWNNVG43YS1xajRBdzN3VEhJZw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Saturday Down South"
+      },
       {
         "headline": "Report: Duke-Michigan basketball game to be moved from N.Y. to Miami",
         "description": "",
@@ -235,24 +253,6 @@
         "image": "https://a.espncdn.com/photo/2026/0528/r1664955_608x342_16-9.jpg",
         "recruiting": true,
         "source": "ESPN"
-      },
-      {
-        "headline": "Why Duke's Evans Makes Sense for This Western Conference Team",
-        "description": "",
-        "published": "2026-06-01T12:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYm1OZlVFNjV0elJiVXBYeG0xb0FWNGtGZ2MzNnBpVWtmLTRHNTRUTGtVZV9MNFRRZEtyWl9JWjE4c2szandZTXFjSTYzSWZIX1d5SnNtajlNSVBKTTdsc2ZWM0NGNUdOX2JNajlObWtHWUlQRkM4Um16S01oRVo0dENEeE5zQkZNX2tMUU5veDR1T3c?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "How New NCAA Guidelines Affect Duke Basketball's Sarr, Boumtje Boumtje",
-        "description": "",
-        "published": "2026-06-01T10:00:02+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUVBzdXgwRnVrNXZRUUJIcndBRHgyOVdsbVYxbjNqd2pGR1M2ZmNua3JRbm9DLWs3cHpsZVJ5SWp1UmZRMjZhUkp1UmpxU0lGUDVWeTktdzNRM24wSVVhOFZQSFBCNmhVZENuTUVWSnp0Z3luMGZlQUJoRGQteUo1MFNfUkRBVmVWWDU4SjJWMXVVX2xhUFhrOVJlRXdaSS1uM2xFdUhjV3NTUQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
       }
     ],
     "games": [
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Wizards Considering Trading Down in Draft - NBA News | Fantasy Basketball",
+        "description": "",
+        "published": "2026-06-03T23:38:46+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaTJwUFlqYzV1NmNTWTdZaTNaTlB1NlN6UU5YTjFGVm1jYW1MaFJOMU5hdWJ4Qk5MSWNpTnVIclF0Y3h5WXJwaEU5TGVraTlOV0w3VGRQbFd6dXNWNHcxeTN1M29IUl9hOVNjUGxOWE5qVnBmRlhsYUlrUmQ3ZVlNbmFZRDhZRHh1c2RsUmV1UWdqZw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "RotoBaller"
+      },
+      {
         "headline": "2026 NBA Finals: Sights, sounds and fashion from Game 1",
         "description": "The vibes were immaculate around the Frost Bank Center before Game 1 of the 2026 NBA Finals.",
         "published": "2026-06-03T23:21:49Z",
@@ -497,20 +506,20 @@
       {
         "headline": "Looking for NBA Finals seats? The Knicks are making 2 in celebrity row available in an auction",
         "description": "",
-        "published": "2026-06-03T22:23:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcEtjOFRxYUVRUzVJZFFBREtPNFBBT0pFUkJpV21RaDNzWFloMjlYcjFYVnBMUl8tQTdBakNDb0c5SUVYVDZYczBZWHpPeVp4Q0hLaXZiSDBCUnppQUR3Z1NSbnRJRVpGSFptdHhfU2FuZVlxMHlBekV4b2QzZWJ0ODhDUGR6TlZmSEk2VGdPcDRFUVVLcnlEX2FlZWppRl9IX1E?oc=5",
+        "published": "2026-06-03T22:13:43+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNC1JbElQMktCbXlvUng2MU5OMEEtcjRpN0pTMGliM1NaT05CUm1YZk5nQlZnM2V3M1NVZ1dwMW9MQWJ1d2d1SnFmclFXNzh4TzVwMUcycGJscktjZnMxejZlUTYwYVlGZDlCMU1FT1ZwWUV3NS12c25FS3kyd2g2Y1RvVzhGNzNsaDR6VVZ6Zw?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "MySA"
+        "source": "Seattlepi.com"
       },
       {
-        "headline": "See where NBA Finals stars played high school basketball, from Jalen Brunson to Dylan Harper",
+        "headline": "How to watch Knicks vs. Spurs in 2026 NBA Finals Game 1 live for free",
         "description": "",
-        "published": "2026-06-03T22:02:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPdVVZSEtsN2tKbndnNnN5LUN0VGhnamdZVEMtSDVfSmU1eTZNbGxSSFloQmdiUHpJYk5jeVdhMnZQd043TTlEN3dJTjRzbHpRWHZneU9Ka1F4dTVoQVppc1hsRGYxUDd3QTBURUlqTkJtRkxCY3BHTjNxSl9yblhwOV9LVlpSd3dvZHgyTVhvc21hUjBwckw1bUp5bDlKS2JvSVR0cngzNVAwRlJFSmtLdnoyZWNFdzk1OG5MQ3NtZXdWb29sVFhDY3hYaTZSWkZTNEdMNjItVS1GM0doaDFHcG1RQTZRU0gtanNsNXpR?oc=5",
+        "published": "2026-06-03T20:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQNXlhY1M2UXlOeFlCZmlWSlFtak5lMWJBYVVXWTNpeGF5Q05ocDNtMTlIX3o4ampvQVU3OTRMdnoxOFNsUGhHZzdjRmFxWW1RYnZycHhoazVrM3FtOVczMExCUHp3RU5LejBCOU1FT1dpejZwdG8xLWRMdDItSXlRdW90SHhrYjNIRXc2aDhTTFhiRk03aEEyemNMVXlHR1U?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "USA Today"
+        "source": "New York Post"
       },
       {
         "headline": "Spurs Attempt To Become NBA's Newest Dynasty Stream of National Basketball Association",
@@ -583,6 +592,24 @@
         "image": "https://a.espncdn.com/photo/2026/0603/r1667697_608x342_16-9.png",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "NBA, Disney providing many ways to watch and experience the 2026 NBA Finals",
+        "description": "",
+        "published": "2026-06-03T18:49:21+00:00",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KdlVOeUtVT3ltQ05WNmx0b3dsMnhqc1JjZE9uYXNPU0dVMVFtTWFJZ0l4VnRabE1UQjhhTFo1dDhTUG1PTDVQZHN3bUs3bGxBeHpkZEpMbVFvQUxJcVZvaHBSSDJJd2xOZzI4UWRiT0lORDhUSUlsVWhRQQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
+      },
+      {
+        "headline": "Why a Spurs-Knicks NBA Finals can be a frustrating reminder for Kings basketball",
+        "description": "",
+        "published": "2026-06-03T18:24:06+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ19oWnZaZ293REpvRVNzc2psalRtN2V1Z29xYkZiMDlramMyLWthaVg0VENBTUJSVHpRQXdPWWNYNUdRTDgtanM4ZFdVZW5OZ3FsSWRsVzVhNUE3TWx1NGRFRFBkRDZ0U291dnQ1NGpLX2QyUVd6ZEF3OFNDMHFHVEFRS29RYktLclE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The New York Times"
       },
       {
         "headline": "Former NBA star rejects Alabama recognition amid Supreme Court map ruling",
@@ -709,33 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
-      },
-      {
-        "headline": "NBA Mailbag: What will be the deciding factor in the Finals?",
-        "description": "",
-        "published": "2026-06-02T21:26:28+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9fWWljdEFBUEhFdGVBbXQzTUdEMDkxaEkxWXpsY09qTU5xX2ttMmtfSTdkSEtGMWJqdFpDUGh3bDd3Ymp0MzNZcVJHb2IwUnA4bmljSUx6VFdRX2xu?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBA.com"
-      },
-      {
-        "headline": "Dom Amore: Dan Hurley has to root against his favorite team in NBA Finals; \u2018I\u2019m rolling with Steph\u2019",
-        "description": "",
-        "published": "2026-06-02T16:54:44+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUUViQ2NEcml6NnJTb2g2b3o5elFLd05tRF9SRTE5OFIxTzFmQjNDU2lWYjZaQ1h0c3hJbHlaVlZETkhGbjJhVS1Pb1Z5RjlqUElHZXpFc0x0N05FQnIxckVIRW5VNV92VllrbjBORE9oQzNaQ3FLV1hXeUhBWDlVcEwxMlFHUVdjdGIzWGVDRUx2d1VwVFJDbEtpLXIxMHFSVnk5UjFSSjdPTHExUHJCaGJRa3FnOERtUmNQc3lJQmYxVlFQTnllRVJ3?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Hartford Courant"
-      },
-      {
-        "headline": "College basketball top 25 after NBA Draft deadline: Illinois or Florida at No. 1? - The Athletic",
-        "description": "",
-        "published": "2026-06-02T11:55:35+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY05EZ1NZbkRQQmRGMjZ2eUNkY0NtenhDSWpWU2tBM3hVaGxpRXB4bzNNcTFkSXNfeFZwT0kxX1R0YkVkNGRIX3N5MEtlRUJaRGR5T3d3RFpSYmpsTkt6Nzg5UVZsQnFpTXBCX3FCVWhPelI0dmxjNlhFc1lFUXcyUVBlTlgwdjVVQldxVEtUVTBvWE52Ym9pT1JNTFFSVE0?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The New York Times"
       }
     ],
     "games": [
