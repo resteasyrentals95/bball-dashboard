@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T02:48:38.458489+00:00",
+  "generated_at": "2026-06-03T03:03:46.516469+00:00",
   "duke": {
     "news": [
       {
@@ -21,15 +21,6 @@
         "source": "Ball Durham"
       },
       {
-        "headline": "Georgia basketball facing Duke, UNC next season",
-        "description": "",
-        "published": "2026-06-02T18:00:33+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQSzFLUlc4VTFseWtNLTRxQ3pyOGdiZG9xTEFTSTlFQXNLX09vbkYwNzdYOGZLYVFSY1pNNENwallTLTNIWGtxWDNOQXVmb3Z2cng3Uy12M0xrYVpzckN5OUhLMjZBTllzVVlINHJaelFZSjJ0amlaclFaakhkeHo1SEYwMkt4ZW5TRUlZ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "Jon Scheyer makes 2 cutting-edge additions to his Duke basketball staff with NBA ties",
         "description": "",
         "published": "2026-06-02T18:00:01+00:00",
@@ -39,6 +30,15 @@
         "source": "Ball Durham"
       },
       {
+        "headline": "Georgia basketball facing Duke, UNC next season",
+        "description": "",
+        "published": "2026-06-02T18:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPMmgzT1djZ0RmRGp0RGpILVdYUEZla1pqM2lLNFhZZVpsNzdoWkpVbk12dmdGNlBzcUJOUEpELVpBTl9lWElTZ0ZzYmN4N0x5NlE1bnZueGgxR1VrR3ZDcTRMZzJfSzBlY0FXNHZCYUZwR3NRR2ZzS19PeTlOT25sN1lTeEVsWFZRY2JsbXg0aGt2WmdfQVVTbnl5U1MtTUFYSklKSFRyM3VGVWgwOGdLMGlOTkxhRE9PbDdYbVFzcUl4emduQTl3Ymg2NDhTaTdWdWZ3U0xIUmprMHdQTVE4?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "UGA Wire"
+      },
+      {
         "headline": "Duke men's basketball hires KJ Conklin as assistant coach, Alexander Powell as executive director of basketball",
         "description": "",
         "published": "2026-06-02T17:59:18+00:00",
@@ -46,6 +46,15 @@
         "image": null,
         "recruiting": false,
         "source": "The Duke Chronicle"
+      },
+      {
+        "headline": "Scheyer adds Conklin and Powell to Duke Basketball Staff",
+        "description": "",
+        "published": "2026-06-02T17:35:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlRkUVJISlRhOERNUlllUE9pYm9zOGhVaDcyYWRmS1FHU0p5b25zQjlfVEhvUG81MFB1MWlxOGxPZ3kyZGdqSWdCaE1XcEFNeGJLaWhxZG12RmRmYWU5ZHRTelB1Nm9oQjNfNjVLNjdpLTdWNlg1US1YMVkwV2FVQzVvRWo?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "HoopDirt"
       },
       {
         "headline": "Two New Hires For Duke Basketball, And They\u2019re Both Interesting",
@@ -244,15 +253,6 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Duke Basketball: Blue Devils named a offseason winner by CBS Sports",
-        "description": "",
-        "published": "2026-05-31T14:55:45+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPM3pBZThZcVN1UTRXaUFtOE9CMmRRNGVBbFpwOVJqRHl1LWdXeGFQcENKNFVkWDVyZ2NGQXh1TTdXVGtoVHFyZ0l6amtOY2tGQnAxZ25PTXpCci1USWdzM2N0TTJVOWxaSzZiN1hPNHIyUHJVZzdjYkFuUTZoOGpxUjhuTW9oRlphaEtZWTFNenNCemc1SFFXUmJrVTJPajYxZHdzcTdOVnRCTXJBX0tKNw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "roundtable.io"
       }
     ],
     "games": [
@@ -522,15 +522,6 @@
         "source": "Channel 3000"
       },
       {
-        "headline": "Best NBA Teams That Failed To Cut The Nets",
-        "description": "",
-        "published": "2026-06-02T23:04:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFB6N1RQYU9DRUVtRU5IOUlVMk9uMmJKdDdjcHl0QnRvYno3Xzlja3E3NlBQU0NSUmRfT3hMZXVxckNXdFprcEd0LW94RS1CUnFUNUg2cHRlVUhUQWhFWG55UmpvLVlVWElaREhDQk10ellXR2ctNFBjaEduZWR4ZUE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "Knicks' Mitchell Robinson (finger) questionable for Game 1",
         "description": "The Knicks listed backup center Mitchell Robinson as questionable for Game 1 of the NBA Finals against the Spurs on Wednesday due to a broken finger.",
         "published": "2026-06-02T22:40:25Z",
@@ -612,13 +603,22 @@
         "source": "Hartford Courant"
       },
       {
-        "headline": "Curtis Blair, for the 1st time, is among the 12 referees set to work the NBA Finals",
+        "headline": "Referee Curtis Blair to work NBA Finals, a first in his career",
         "description": "",
-        "published": "2026-06-02T16:00:27+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ0xGSEZKcWE1cm9KZjE0LXlUU215aXlzck1IM1BtS1Z1VERoMzVjTWkwa0phUzN3aXRwQnVSSEszN0w0ckNxZ3ZoMkVoYlNOSzJwdlIwMENKa3Nza2dQRnZJaUs0OFYyeDFNZURueTFvVXo1N1N2VGhWTzJJN0ZQcF9EUVA2Uzk5YTdXNUQ3WXdaOVdPaFljem1SeU1xSEJkOWVKMXg3TEUxc2h3dXJVNnNkUnAxeEI4OWk00gHAAUFVX3lxTE5TRzNMU1g0Nm5JMWp6LUNfWmotX2VYSEtqQ3BXWXBncVYtVmxicW0xeGpRRk9qQW5acUt6Nks4aTAwUGVidS1mNTYycHdkbmRtUTRaU3Y1azh3TkdrajNjX2hYZUhqd08xQlZoRXNJRVVHaFo1U1NUM0Y1UTlTSm5yLTNsaEI4SVFoQko0VUJSQVhpemlybmdCNmZjbFpVVllzc0o2dm4yUUxPVVAxY3V0YXpzSDRqWUpLMnpyNVFBWQ?oc=5",
+        "published": "2026-06-02T16:03:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYkdONDBVRnFNZW5lYXkxLTk5MWlaYThaTjVqWWpUaU1lWkRYWUNEUEdzYkRsVmpzY0gzblE4OUNyMVcxX2Jvd1RUZ1hydU5vNkt4ZzhMRzZHUzR5NFNqazhrbXJvXzFNbkhILTFMZC1rTks1S1FYQVk2T0Z0b2JKU3B2UC1ERmwzcjIxb0d6Qld4WXoweXQtUHN3?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "FOX 8 News"
+        "source": "ESPN"
+      },
+      {
+        "headline": "Fantasy Basketball: 2026 NBA playoff risers in High Score",
+        "description": "",
+        "published": "2026-06-02T14:56:24+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG9IejdTNDN1VGRyOU5ZLWI4T3FvVWtOT2QtYmlkUktPeFh2ZUNxdDRTeGRNVGhrcHBsWDREdTRETnAwQ0pyMWFvTGtDMlliVUZ1TDhIOHk5SUR0VXJXSWdLVnF0aHZfX2ktakI1TzNySkhWelo1NV9TbUxYdzhVWmJpZUI3VDJBTTlvc0pCelRESjVobnpBaHlIaXY3dFAxeElQellNTTJ1dmhwdW9HRGNn?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Jeremy Lin joining ESPN for Knicks NBA Finals run",
@@ -666,6 +666,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "NBA Finals 2026: Experts' picks for Knicks-Spurs, Finals MVP",
+        "description": "",
+        "published": "2026-06-02T11:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeUdqY05jOHYyQUYzLUhMSGltTFdNWFpkTzVYZ2ZJRnJLYTJIU1Z4NVZMTmswdkJQNVdHLWQ4SVd2U0hReUkxeEo3OWd2V3dRVlZkcjgzUGpfdlVfYUItekpJQmdkRjZEd0FGYmM2MjJMbmpHOHdMNXhlX0NPaUI1cEVzbm1yVEt3V096VmZRNk43SlduNFN1Q1dwQXpmUXBIWUk2U3hVV1BsaEI0TUk4TjBSazhLSmZN?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "What an intriguing NBA Finals, with two pretty evenly matched teams seeking a return to greatness",
         "description": "",
         "published": "2026-06-02T09:31:09+00:00",
@@ -682,15 +691,6 @@
         "image": null,
         "recruiting": false,
         "source": "WTOP"
-      },
-      {
-        "headline": "Hall of Famer Rick Adelman, who won more than 1,000 games and took 2 teams to NBA Finals, dies at 79",
-        "description": "",
-        "published": "2026-06-02T01:00:51+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeUllN3FWSDYyT3RIczhabFM4WHg3RmlsRTc5clFkbXpqZ1JxZHRBako3Nk81bURiS3hCcWp2YjQyN2FGNDgzbmVtOF9vVkxhekplejFUMUstekl5QlZLUE1tc3Y3bGkxWkhpSlpuQjBhcmlXV1huUG5pc2I2TEFkdGNmUjVycEJRZWJCNkZrdVFuUUw0UjdRSnFJVE5RdXJ4NVdfb2tGa1ZuUmRybWlRTld1RGRpOWFKRldTdlRoVHNHenRhTmg0YWphMzY4UQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBC Sports"
       },
       {
         "headline": "Why Knicks coach Mike Brown was rooting for the Spurs to reach the NBA Finals",
