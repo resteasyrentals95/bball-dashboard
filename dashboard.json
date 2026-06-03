@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T03:18:54.672708+00:00",
+  "generated_at": "2026-06-03T03:34:03.346120+00:00",
   "duke": {
     "news": [
       {
@@ -486,15 +486,6 @@
   "nba": {
     "news": [
       {
-        "headline": "Spurs Star Stephon Castle Admits To Flopping On Eve Of NBA Finals vs. Knicks",
-        "description": "",
-        "published": "2026-06-03T03:07:17+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxONlJ4WVl3T0ZvLXBQWGZQTTNyeUdSdjBid2N4aTMzdDRTVEQwLTd1ei1JeHJVdmhsel9EWTFiVW9henFXNFdaRkZtY0NVaFg4NjZOOFkzN2NYSXl6TGo3MURzcThpdEtXR1lCamR3cXl0NjFDNnItczlkNmlJU3Z1MmNKNVc5MGZF?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "Jalen Brunson wary of Stephon Castle's defensive prowess",
         "description": "As Game 1 of the NBA Finals nears, New York Knicks guard Jalen Brunson, who has seen just about every defensive coverage the league has to offer, lauded San Antonio guard Stephon Castle on Tuesday, saying \"he's going to be a great player, great defender.\"",
         "published": "2026-06-03T01:31:44Z",
@@ -502,15 +493,6 @@
         "image": "https://a.espncdn.com/photo/2026/0603/r1667465_600x600_1-1.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Victor Wembanyama is ready for the bright lights, big stage of NBA Finals",
-        "description": "",
-        "published": "2026-06-03T01:05:21+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9zYVliXzNNcUltX0IzQlRqRkpvU3o2a2VhWDdoVzI1QTNEc0pEdjRJNGdTcFU2Zl80OGltVmRTakloU2xlQUh5YWdhcDY0WTJVdVF3c3NxYUh4YXVmNVBnRTV4cjBYZkhW?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBA.com"
       },
       {
         "headline": "Spurs, Thunder log most watched conference NBA Finals in 24 years",
@@ -612,13 +594,31 @@
         "source": "Hartford Courant"
       },
       {
-        "headline": "Curtis Blair, for the 1st time, is among the 12 referees set to work the NBA Finals",
+        "headline": "Referee Curtis Blair to work NBA Finals, a first in his career",
         "description": "",
-        "published": "2026-06-02T16:00:27+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPZ0xGSEZKcWE1cm9KZjE0LXlUU215aXlzck1IM1BtS1Z1VERoMzVjTWkwa0phUzN3aXRwQnVSSEszN0w0ckNxZ3ZoMkVoYlNOSzJwdlIwMENKa3Nza2dQRnZJaUs0OFYyeDFNZURueTFvVXo1N1N2VGhWTzJJN0ZQcF9EUVA2Uzk5YTdXNUQ3WXdaOVdPaFljem1SeU1xSEJkOWVKMXg3TEUxc2h3dXJVNnNkUnAxeEI4OWk00gHAAUFVX3lxTE5TRzNMU1g0Nm5JMWp6LUNfWmotX2VYSEtqQ3BXWXBncVYtVmxicW0xeGpRRk9qQW5acUt6Nks4aTAwUGVidS1mNTYycHdkbmRtUTRaU3Y1azh3TkdrajNjX2hYZUhqd08xQlZoRXNJRVVHaFo1U1NUM0Y1UTlTSm5yLTNsaEI4SVFoQko0VUJSQVhpemlybmdCNmZjbFpVVllzc0o2dm4yUUxPVVAxY3V0YXpzSDRqWUpLMnpyNVFBWQ?oc=5",
+        "published": "2026-06-02T16:03:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNYkdONDBVRnFNZW5lYXkxLTk5MWlaYThaTjVqWWpUaU1lWkRYWUNEUEdzYkRsVmpzY0gzblE4OUNyMVcxX2Jvd1RUZ1hydU5vNkt4ZzhMRzZHUzR5NFNqazhrbXJvXzFNbkhILTFMZC1rTks1S1FYQVk2T0Z0b2JKU3B2UC1ERmwzcjIxb0d6Qld4WXoweXQtUHN3?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "FOX 8 News"
+        "source": "ESPN"
+      },
+      {
+        "headline": "Fantasy Basketball: 2026 NBA playoff risers in High Score",
+        "description": "",
+        "published": "2026-06-02T14:56:24+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdG9IejdTNDN1VGRyOU5ZLWI4T3FvVWtOT2QtYmlkUktPeFh2ZUNxdDRTeGRNVGhrcHBsWDREdTRETnAwQ0pyMWFvTGtDMlliVUZ1TDhIOHk5SUR0VXJXSWdLVnF0aHZfX2ktakI1TzNySkhWelo1NV9TbUxYdzhVWmJpZUI3VDJBTTlvc0pCelRESjVobnpBaHlIaXY3dFAxeElQellNTTJ1dmhwdW9HRGNn?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
+        "headline": "Basketball gods blessed fans with most compelling NBA Finals since Warriors-Cavs",
+        "description": "",
+        "published": "2026-06-02T14:53:50+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRjZPSGNEQ3V4V08xcmlIVXhHdjBKWTZRR1N5aWY2ZGpEY0o0ZTBkV1pQYktPSHFweUVjUWxvdmhxMVN2MVQ3V0lsVlN0VlBZUFlVWU9DWXFaMEFrNTF5MnUzTzdQMUZIdjFjTlZvMHFjNjVuQzVlVVVRMFE2U3RVanJlajVIRlZHTEJlUl8wLV9KT043b0F4MDlUUHhta1MwalN3eXFic9IBrwFBVV95cUxPZWxkMjYxU2J1aXVTcWxmajA2RnFsU0F1eFAyXzRNR001SnN4ZldGQmdvN1pISXNQNW83a2d1UzZZT25icDZMdWh5clhzbjB0U0pvNEdISm1MWGxzT29oaDZKTk1Fd25raHR1dDBOMkNad0ZFOWwxTlV6OTF2ZkZ1NzRCS2RFb2xwbDFoYU11QkduYkwyYkVBMkwzZ1pPS0t4U19TLU5KSm16T0hWbWlN?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBC Sports Bay Area & California"
       },
       {
         "headline": "Jeremy Lin joining ESPN for Knicks NBA Finals run",
@@ -657,19 +657,19 @@
         "source": "ESPN"
       },
       {
-        "headline": "College basketball top 25 after NBA Draft deadline: Illinois or Florida at No. 1?",
-        "description": "",
-        "published": "2026-06-02T11:55:35+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY05EZ1NZbkRQQmRGMjZ2eUNkY0NtenhDSWpWU2tBM3hVaGxpRXB4bzNNcTFkSXNfeFZwT0kxX1R0YkVkNGRIX3N5MEtlRUJaRGR5T3d3RFpSYmpsTkt6Nzg5UVZsQnFpTXBCX3FCVWhPelI0dmxjNlhFc1lFUXcyUVBlTlgwdjVVQldxVEtUVTBvWE52Ym9pT1JNTFFSVE0?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The New York Times"
-      },
-      {
         "headline": "NBA Finals 2026: League execs, coaches, scouts preview Knicks-Spurs",
         "description": "",
         "published": "2026-06-02T11:00:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQU3NINmliREJISlpGa1JPWDUwN3RId0dNeWFZTkVVaHpYYWNwX2cwM0dOQkx1anBVMUpXUDlsWXV6XzltUjNDY3NGdFpmWDR1UGduUkZGNGVxZENyTlg5bDRmNnI3ZjZ1V2w2SUJWdUtQNEJVNXdON1J0dWN1TFByb3FiYm1fUlNUWllzSDB4cEJ2TjBEak9aT01nTHM5ZXZxVFJPWkVmZmpoUFJmSW1IbTBn?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "NBA Finals 2026: Experts' picks for Knicks-Spurs, Finals MVP",
+        "description": "",
+        "published": "2026-06-02T11:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeUdqY05jOHYyQUYzLUhMSGltTFdNWFpkTzVYZ2ZJRnJLYTJIU1Z4NVZMTmswdkJQNVdHLWQ4SVd2U0hReUkxeEo3OWd2V3dRVlZkcjgzUGpfdlVfYUItekpJQmdkRjZEd0FGYmM2MjJMbmpHOHdMNXhlX0NPaUI1cEVzbm1yVEt3V096VmZRNk43SlduNFN1Q1dwQXpmUXBIWUk2U3hVV1BsaEI0TUk4TjBSazhLSmZN?oc=5",
         "image": null,
         "recruiting": false,
         "source": "ESPN"
@@ -691,15 +691,6 @@
         "image": null,
         "recruiting": false,
         "source": "WTOP"
-      },
-      {
-        "headline": "Hall of Famer Rick Adelman, who won more than 1,000 games and took 2 teams to NBA Finals, dies at 79",
-        "description": "",
-        "published": "2026-06-02T01:00:51+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOeUllN3FWSDYyT3RIczhabFM4WHg3RmlsRTc5clFkbXpqZ1JxZHRBako3Nk81bURiS3hCcWp2YjQyN2FGNDgzbmVtOF9vVkxhekplejFUMUstekl5QlZLUE1tc3Y3bGkxWkhpSlpuQjBhcmlXV1huUG5pc2I2TEFkdGNmUjVycEJRZWJCNkZrdVFuUUw0UjdRSnFJVE5RdXJ4NVdfb2tGa1ZuUmRybWlRTld1RGRpOWFKRldTdlRoVHNHenRhTmg0YWphMzY4UQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBC Sports"
       },
       {
         "headline": "Why Knicks coach Mike Brown was rooting for the Spurs to reach the NBA Finals",
@@ -736,6 +727,15 @@
         "image": null,
         "recruiting": false,
         "source": "NCAA.com"
+      },
+      {
+        "headline": "Trending Topics: Who will win the NBA Finals & Finals MVP?",
+        "description": "",
+        "published": "2026-05-31T16:35:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9SUWstNFRyQTBzYlBGMmVfa0dFUFRXN1AyUWtKcjlid3NvZGxDVjJZVzUxRXI2ZGx3bVBWdXA5VVNhSldTdFA4T1JWWldHRVJYb1MyUWJCVHVsWGQ0cDdxYWlrUkRVc0RNd2J0aEdtS1ZuMDJTUWg0?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
       }
     ],
     "games": [
