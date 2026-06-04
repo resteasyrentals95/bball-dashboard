@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T04:57:23.059424+00:00",
+  "generated_at": "2026-06-04T05:12:28.860076+00:00",
   "duke": {
     "news": [
       {
@@ -486,20 +486,20 @@
   "nba": {
     "news": [
       {
+        "headline": "Fan runs onto court, briefly stopping Game 1 of NBA Finals",
+        "description": "A fan ran onto the Frost Bank Center court during the fourth quarter of Wednesday night's NBA Finals and attempted to take a selfie next to Victor Wembanyama, halting play before the Knicks' 105-95 Game 1 victory.",
+        "published": "2026-06-04T05:11:25Z",
+        "link": "https://www.espn.com/nba/story/_/id/48962549/fan-runs-court-briefly-stopping-game-1-nba-finals",
+        "image": "https://a.espncdn.com/photo/2026/0604/r1667967_600x600_1-1.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "2026 NBA playoffs: Schedule, scores, news and highlights",
         "description": "The 2026 NBA Finals are underway. Keep up with all the latest news, scores and analysis from Knicks-Spurs right here.",
         "published": "2026-06-04T04:55:47Z",
         "link": "https://www.espn.com/nba/story/_/id/48419498/nba-playoffs-2026-play-finals-schedule-scores-news-highlights-bracket-dates",
         "image": "https://a.espncdn.com/photo/2026/0604/r1667943_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "Fan runs onto court, briefly stopping Game 1 of NBA Finals",
-        "description": "A fan ran onto the Frost Bank Center court during the fourth quarter of Wednesday night's NBA Finals and attempted to take a selfie next to Victor Wembanyama, halting play before the Knicks' 105-95 Game 1 victory.",
-        "published": "2026-06-04T04:46:51Z",
-        "link": "https://www.espn.com/nba/story/_/id/48962549/fan-runs-court-briefly-stopping-game-1-nba-finals",
-        "image": "https://a.espncdn.com/photo/2026/0604/r1667967_600x600_1-1.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
@@ -520,6 +520,33 @@
         "image": null,
         "recruiting": false,
         "source": "CBS Sports"
+      },
+      {
+        "headline": "Fan runs onto court to take selfie with Victor Wembanyama during Game 1 of NBA Finals",
+        "description": "",
+        "published": "2026-06-04T04:07:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOcFFGYlp2NlV3U0Exd2dkYjVYRldIdGJidTBjU0o3SF94NGdjdkZyZXlaV3BQa1dFNVZUSWNoejYzSXA0OHotQjRjeWwxUmFKRi1iYzJSenpZUlp1c295Z2J3X2QtS3BOUUMzWkgtbDVLaFlSelI0TlhhbnlYdVdQbjRaUXZuX3dPMDVaNXRHQWtLUThqbjZXbWRXclpPejFqREhCWjB5Y3VLcnRGbFc3MzVkSzFleVdKTjlLNUg4QzNqaWwtWDRZVVlvRWQ1WGxpMGlV?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
+        "headline": "The Knicks are the comeback kids \u2014 and now, they\u2019re 3 wins away from an NBA title",
+        "description": "",
+        "published": "2026-06-04T03:22:51+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOG1nZEdOa0NaOEZpTUNQMHMzZmFMQndkbFNzZVp2OG4wWFgwUnVuME96QWZVTzM5R0l0RXlGR1RqcjF1Q2p5T2QtYzhrc3R2QlR2M29ILTd3NzYtTWNzaE9nckgyZ2pDYUNnb2o3UXFGZmVObEFTZE1YNUxNMUdKSmN4bjRXU21mdlNmSlUwRzRPQjFjd0FQd21VYUJIX0VacElIODFRVmc5QXRqNkh6VFhON1RCTE44V0RTSFhB?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "New York Daily News"
+      },
+      {
+        "headline": "Victor Wembanyama shares NBA Finals moment with Spurs nuns in viral moment",
+        "description": "",
+        "published": "2026-06-04T03:03:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOa2tBWTI1WElzMzNhajRvZ3BaQzdRdy1Cb1lPbWY1d2xiRExrVTlnYjNCZUdkMHQ5Nlp3Q2xfLWNia3EzSERRT0dUM0Q5MTlud1pWY2xUb2xwVDN1VlJhbDh0SGlLbGdlYVhDVFlrRldGLWZhX2J3RlQybFdBYklqUndXVjRHTmlJSlR2ckRYQzd0YktwZkRnMnVQVQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "New York Post"
       },
       {
         "headline": "NBA Europe Will Feature 12 Permanent Teams, Four Open Qualifying Spots",
@@ -639,6 +666,15 @@
         "source": "AL.com"
       },
       {
+        "headline": "Exclusive | President Trump plans to attend Game 3 at MSG as Knicks host first NBA Finals in 27 years",
+        "description": "",
+        "published": "2026-06-03T17:06:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNNkEwZ1BMUy1pQkFGaFVJeDJJZ2c4VW9NUFNqLUNXU04yMHlKU1NxZ1Z2TzlwOFgzMjloRkxtWHBNUG9wUDlsZ1Y3T240aG85MGt0SjFGU3gza1I5cS02Z0M2RjFCUnVPZEptOERYcXBrZ0JKOUt4S2dLZ0VZVTVRSHJ0OWZEOXhjRUZOMkxHVnNtdER1d050ZmNPd2t5aksyd3EybDhwelJxcXVzQ0N2MTAzMnRELTNPc1hha2FCX0t3YnI3dUY1Ql9KaDdZT0w5?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "New York Post"
+      },
+      {
         "headline": "NBA Finals: Victor Wembanyama, Spurs have already made history",
         "description": "",
         "published": "2026-06-03T11:00:00+00:00",
@@ -657,15 +693,6 @@
         "source": "AP News"
       },
       {
-        "headline": "NBA Finals 2026: 'A culmination of what a life's work in basketball comes to' \u2014 How Karl-Anthony Towns' emergence powered the Knicks to the grandest stage",
-        "description": "",
-        "published": "2026-06-03T01:36:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQNmRVa3M1T1VlTGp3eHFYdzYyeEYwTElRU0tTc29YeGpQcm5SWHhTeUNQejRtQmM2dkJsMVVRbFJfZzFkVVNKUGdGcjRiX3dWRXJCbUZBZkN0Z3RWbTE5cE9Ed2tmc1BsQVpKNUtPWURrVW5TbXRUVmM3VzhKRldhWXo2Si1MazVaS0d3YWkxRW5DcDZpOFFESTZETmRObjdkeGtjSkF4SlZDbklVQTJsYU5Vb2FWN215STNKNHJkbzZ5MU1CZGZfVWlVc1JFZVJYR0JFSE12eDdhMmtwS0tOcTh1NDQycjQ1WmRoSW1Ec0pXYW51RmpfR2VRaWdVSWwxVGZTeWE2bDNfTzdFNmZJOGVJX1dBaUdlaksyTmNmbFZYVmZ5Y1R3?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "Dom Amore: Dan Hurley has to root against his favorite team in NBA Finals; \u2018I\u2019m rolling with Steph\u2019",
         "description": "",
         "published": "2026-06-02T16:54:44+00:00",
@@ -673,6 +700,24 @@
         "image": null,
         "recruiting": false,
         "source": "Hartford Courant"
+      },
+      {
+        "headline": "Former NBA coach, Basketball Hall of Famer Rick Adelman dies at 79",
+        "description": "",
+        "published": "2026-06-02T15:11:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZjJnN3RNZXpJb0VYUHgxVFRhVl9MWHZMY0YyUlpoVldjUU5ybTYydExiQTJudUx4clFKZ0FBMkpKSF96VGdVLUkwUk5henNGcTVrRE4zb0VvQ0UwQlRwQ0xaeFR6d2E3SWljZFdzZWh6YUJyOWZLNFhKcjZmM2tDZUN6VzM1NzZwOFVVUUJjbEs0MTVZRmVkMVp5TUE3WGJLV2FHV2FRdEN6dllIRFhkM3lZWQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "USA Today"
+      },
+      {
+        "headline": "NBA Finals MVP Ladder: 5 candidates to watch in 2026 chase",
+        "description": "",
+        "published": "2026-06-02T14:06:56+00:00",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE4wSEQxNW9LYVVhN2lzalRQSEVzc2FiSDFGOXNkTm96ZmU1UDFxNGRWZk1DUG5nSC1SR3lmcXVGWUV3bU1ncF9WYXZpT2NBU0owRWp1eUNySE83UC1OQUdLd3ZrQnFuUUY1c2RGcTZCRGozRFZ1ZjRUZGJwY29MQQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
       },
       {
         "headline": "Basketball gods blessed fans with most compelling NBA Finals since Warriors-Cavs",
@@ -684,24 +729,6 @@
         "source": "NBC Sports Bay Area & California"
       },
       {
-        "headline": "Hall of Famer Rick Adelman, who won more than 1,000 games and took 2 teams to NBA Finals, dies at 79",
-        "description": "",
-        "published": "2026-06-02T00:43:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0o5endKd0RvX3cwU3VrYVkzOGJuZURKbVNjcjQ4dFMweWY1OHNSS2dKWnUzaHh4TVI1WWR6bDZudjFJdDh3QmtPaEFkWG51dm85bTFabmJzUEk4eW9qNVlDSUZYM21OZkRjQzdTSGpQc2tyUjZUdHNUY3N1Yjl6amw2aWVUM0pV?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "AP News"
-      },
-      {
-        "headline": "Where the latest mocks have Michigan Basketball trio going in NBA Draft",
-        "description": "",
-        "published": "2026-06-01T18:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX2Foa3hWckZyQ01tRGdRUWw1VGQ2c0ZrSFJUeGNLWXdybm5OSlJtcVlxTFNiNHBEb0FPUy1fWHhydnM3bjRTcmtIbFo3NU0xOC1BcWZ1VUZjQlR4VGM1MjNRTm5keWJQY3VrV1NHd3pZN3hYSTdNbDJXTkN3Yk1HbUozWUxXUGk5N25vLXpDdzRlUmhxaDQ4elExLWZHeGVMNHo3bGs3eEJmOFk1bTNwTnROeUU5cF82TmJpY19YSWhpTEtYeTNjQkpqN1lLSzljUFE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Maize n Brew"
-      },
-      {
         "headline": "2025-26 NBA Awards: Finalists and winners for league accolades",
         "description": "",
         "published": "2026-05-27T07:00:00+00:00",
@@ -709,24 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "NBA.com"
-      },
-      {
-        "headline": "NBA draft withdrawal decisions that could impact NCAA basketball",
-        "description": "",
-        "published": "2026-05-19T07:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcGNUQjFsZWVMVll5emQwQnlWS1VxZVhhaFByMUF5a2wtT3BsOTR1N0RaVHFwbGlvWHpyYmJuUjBJZkdLR1NkaGZ2djNoS3VyTHdOSFh3VEpUWGFLM2k4bWNFa0ZCcm90Ty10TERfc1hZN0F4UDZ3cnFaeEVFbFVOd2I2N05tSEtMdWptUVdkdTVfUW8zODZ4VE0yWXFVcVNtR0RTN0hqZ2lWYzNhbnRHam5UbnhoczVQaFBaTV9Yb0ZVR1VneFdGQXEybw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "Jason Collins, NBA's first openly gay player, dies at 47 of brain tumor",
-        "description": "",
-        "published": "2026-05-12T07:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jby13SFFxV3ZjS1g1aWVRMWxNZGctbUEyY2ptU0Npa29lc0VUZ0RrTWhlOVBhV0s2MlhjaFhjNGZTY2l1amctbXlZNmdubnJvU3Y1Q09wVVZkZ2x1Q1B1RkRsNFpuNTZGTlp3b3JmZU8tTkE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NPR"
       }
     ],
     "games": [
