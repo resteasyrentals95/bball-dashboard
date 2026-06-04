@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T17:58:56.081738+00:00",
+  "generated_at": "2026-06-04T18:14:02.163126+00:00",
   "duke": {
     "news": [
       {
@@ -48,6 +48,15 @@
         "source": "Sports Illustrated"
       },
       {
+        "headline": "Why Michigan vs. Duke Blockbuster is Moving From The Garden to Marlins Stadium",
+        "description": "",
+        "published": "2026-06-04T15:00:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTkxIdDRCNWVuSEx5SVRRLXM5OC0teVNMOF8tSjVFTzR4SWYzWVpVclBpaTBJaXZIVF9xS1N6UWhjTnE1Vl9XT0hGTnNNUWhKOG5DVFFyZmxYNlh3VnJPTG9NUlA4cHFGZ053NDM2emRQUmhGYzVCUGVSdG5QWVQwUjBTVGtCX3dOWVRZdm4zSHhtQkpoejlpNWxaSUFHN2VPYkhHclhQci1CUk9WajNLVEN4R1VyVVRFclE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
         "headline": "Cameron Williams explains why Duke's Cooper Flagg blueprint sold him on the Blue Devils",
         "description": "",
         "published": "2026-06-04T13:58:54+00:00",
@@ -70,15 +79,6 @@
         "description": "",
         "published": "2026-06-04T12:00:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMG4xMjhLaWxxQ2pSVlh3cEJyczN2MzJBUjZPR3JYdWJJaWllTmZubTlSTHZsbHFYMDJfX3BfVWZhaFlOU0FzMUMzTVNaTHpNd0hibVczS2RObmNIQzVrczVoSDlFZ0ZUeFJJWjg0RGlDcjR4dE1fNzI4UHEwOGtSazIxZmc3YVhtZmdiNVQ3OS1yTnAzTmpudHlwOEJtR1BsLVNhZEF2TQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Michigan and Duke Will Reportedly Play Men\u2019s Basketball in a Baseball Stadium",
-        "description": "",
-        "published": "2026-06-04T11:05:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeEw3VkhXa3dVaUtBWFpaUFNzbXpJaDRkd2JrWXF3djd3MGdCMzlfNmlGd3BzaVB3ZGgyNWltdmttTFkwcWpPRURWSVRvR0poYjY5Y1h1MTY4Nk8xWXRNSnZWSnZsX3pnWVh5aXhaZWg5SEhwSHBVRDV4a0dhczd3X1BJczluMkNURDE3N015bDlvaGc?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
@@ -109,15 +109,6 @@
         "image": null,
         "recruiting": false,
         "source": "Duke Basketball Report"
-      },
-      {
-        "headline": "Highly anticipated Duke-Michigan basketball game reportedly moving from Madison Square Garden to MLB stadium",
-        "description": "",
-        "published": "2026-06-03T23:01:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNeWZfclRLb1BGSFBPMmp3dUxTMEpnNnVveFRBNE9DNDREZDg4Vjh4RG5DcXV6MndwczRGMlpmMzJFME1FSEhuaUNROHBPRm82VHlrSEdhY0tQXzYteGZZc0dzUWg4azN2WFp5VkhCTXl5TmhTdGR1MjJYQkJpTHpvWWY2UF96V1BuTmZPSjVJTjFvMXZjcW1ra2NXM05PY0NCTExOcWRIZlBIN2ktQXRHWjAtMDNKUnBEbm5kajQzWWVCbkhKMk10aHdNdnB1VmpBcWZwRnlsSnJBMnVMbklXbFF5M3BLSk4wUWNNVG43YS1xajRBdzN3VEhJZw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Saturday Down South"
       },
       {
         "headline": "Why Duke vs. Michigan is leaving Madison Square Garden and moving to Miami Marlins' baseball stadium",
@@ -253,6 +244,15 @@
         "image": null,
         "recruiting": false,
         "source": "Ball Durham"
+      },
+      {
+        "headline": "Why Duke's Evans Made Right Call Remaining in NBA Draft",
+        "description": "",
+        "published": "2026-06-01T15:00:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOZ2ItSW9vYzhmZ3FTblhFaURLXzc1bUJCeGhsWlVIM3BiUHNONFhuTVoxR1UzM3BJSVZza1pDbWliWkpwMzBaQXp5bGFHczhBTFpzaC0xa1p0cl9JNU5QNE1CdlU1alQ0S1lhVWxmZWVaaEpRYVJKOGpPWjZadDh4MXRyYUt4ZVhkZUdOLTdzQkRtcFk?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
       }
     ],
     "games": [
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Sources: NBA eyes interaction between Jalen Brunson, fans in Game 1",
+        "description": "The NBA is investigating an interaction between Knicks star Jalen Brunson and courtside fans late in the fourth quarter of Game 1 of the NBA Finals, sources confirmed to ESPN.",
+        "published": "2026-06-04T18:05:17Z",
+        "link": "https://www.espn.com/nba/story/_/id/48967648/sources-nba-eyes-interaction-jalen-brunson-fans-game-1",
+        "image": "https://a.espncdn.com/photo/2026/0604/r1668189_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "Two fans get lifetime bans over selfie quest at Gm.1 of NBA Finals",
         "description": "Two fans involved in a selfie-seeking incident during Game 1 of the NBA Finals on Wednesday night have been given lifetime bans from all NBA arenas, a league spokesperson said Thursday.",
         "published": "2026-06-04T17:29:42Z",
@@ -504,13 +513,13 @@
         "source": "ESPN"
       },
       {
-        "headline": "TSR STAFF: Jade Ashley @Jade_Ashley94 ____________________________________ #TSRSports: Wednesday night was Game 1 of the NBA Finals, and the Knicks walked away with the win, defeating the Spurs 105-95. Aside from the game itself, one ot",
+        "headline": "NBA Drops Hammer on Spurs Fan Who Ran on Court For NBA Finals Pic With Wembanyama",
         "description": "",
-        "published": "2026-06-04T17:04:51+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiUkFVX3lxTE51MmY1Yi1EelVXT0NERWdlOVR4Q2piM2ozaGNvRGw2Y3dDVGUxTGJiNVFxbTdMRVBncjVsUDRyeUkyLWJkRkUtd3VnTTBHWHJFTkE?oc=5",
+        "published": "2026-06-04T16:41:34+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNVU1ySHlhb3E3aHd6b1Y1NEhOc1lPQUlNRUNIT1JtZnl2Zi1uSzdENGJwbVZRRHdMVElwQnhsM2poZkJlbzh5TG5wRVNNRjBzcE02WkZGN1RsbW5LeEZkWG5zaThTMTBJY3pQSHJiX3h1U3RmTXZfc0JuODF4NlRDUQ?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "instagram.com"
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Houston Rockets unveil new uniforms, updated logo",
@@ -531,15 +540,6 @@
         "source": "NBC News"
       },
       {
-        "headline": "How Rick Brunson helped the Knicks steal Game 1 of the NBA Finals: \u2018Leave the refs alone\u2019",
-        "description": "",
-        "published": "2026-06-04T14:53:51+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdjlLZE9ZM2d3OHZ3MldCR3M0b0hfT3pkOEFndlI2TElfa1VZajkwZzMtZTQyc2QwSGNUdENmNS1UbTNFdVVfT0JiamRlbExkUTN2NTMwMmhyM1VLR244c0NtZWxkMVdtTnlNZWVRV0xtNFNEbU00eGcxUURKbThUVDQtR1ltNGs0?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "New York Daily News"
-      },
-      {
         "headline": "NBA finals: in a mud wrestle shaped by 53 years of dread, Jalen Brunson was the difference",
         "description": "",
         "published": "2026-06-04T14:10:00+00:00",
@@ -558,22 +558,13 @@
         "source": "Channel 3000"
       },
       {
-        "headline": "\"He was country strong\" - Reggie Miller shares why nobody in today's NBA would be able to stop prime Charles Barkley",
+        "headline": "NBA Finals Brotherhood Playoff Watch: San Antonio Loses Game 1",
         "description": "",
-        "published": "2026-06-04T13:48:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQaHQxUld5VjNhanA4WDBLOE9KTXpHSFJld09lR3lFcDRkOGN3bmJwQXJQTFVKZldZbnh6bFlJazBPZjM0Uk9nRzNIZXFKY2RRQ0JPS3JpaTNtMlU0QWhwanlKTno3WDRzZjBNbzJtd3RhQ012bjFRTnFQSmIwNWx0LU1Hb055RUZWN3FucQ?oc=5",
+        "published": "2026-06-04T11:47:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQUmwwQTlpYjRjNEt5aDdqU1RDTHl4anNpVU00MlFKTzY5WVJYUXdXbEZkMEk2VXhCMUpFV3pJQ21QSVBGUXJBR2xHeUN3TkJoakp3TjZDbkZVOE5BWnlmRG9lR2c0b3htc0RkNTRVMnR4ZG1hdVBFQ3VZVEM1ZGxCWEg1WV9KNjFxeTRVekhZSi1LYkxyblhwdVZMYUp6OXk5S1RvSnBIWDZHM0VZR1E?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
-        "headline": "All-time sweeps at the NBA Finals",
-        "description": "Though fans love hard-fought battles between teams, sweeps can speed up the festivities. Check out notable sweeps from NBA Finals history.",
-        "published": "2026-06-04T13:17:33Z",
-        "link": "https://www.espn.com/nba/story/_/id/40343494/all-sweeps-nba-finals",
-        "image": "https://a.espncdn.com/photo/2020/0502/r694944_600x400_3-2.jpg",
-        "recruiting": false,
-        "source": "ESPN"
+        "source": "Duke Basketball Report"
       },
       {
         "headline": "Where Iowa basketball's Bennett Stirtz lands in 2026 NBA mock drafts",
@@ -630,6 +621,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "Adam Silver: NBA Not Necessarily Looking To Have Different Champion Every Year",
+        "description": "",
+        "published": "2026-06-04T02:31:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX29LUWJwVEwtSUowVVlVSXlfNDN6dGc0VUtuekZmeURlUnBfRU81MXBsSlVxY2s0QkZiRkdyb2lyR0VxYWdhNnZ3VzZza1N5ME5uSEQ3cXJhN3hJS0tmekdld1BBYUJtRTdxQk11Z2hDYmQ3Wk1HRlJ2SWlPMEQ3OGRzVUsya1l2WUZzR2xGVWxqVzZYZ2ZQOElLT2tpdEVBbkVxY3NLTFFNRkxTeTB4OFZUMzNLcmRXX0dLZ3lMSQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "RealGM"
+      },
+      {
         "headline": "Charles Barkley\u2019s biggest Knicks concern after start of NBA Finals: \u2018Terrible\u2019",
         "description": "",
         "published": "2026-06-04T02:13:00+00:00",
@@ -648,15 +648,6 @@
         "source": "Awful Announcing"
       },
       {
-        "headline": "Adam Silver: NBA interested in multiple groups in Las Vegas, Seattle",
-        "description": "",
-        "published": "2026-06-04T00:22:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRmE3Mml0OXY1cnZrYloySWI2bTJoMlpTdG9LTEExSzJJUzRQUkJvSTg1dGJDYjRYN0ctVllGdXlqbXNSMXpYdlBDVXFOckJlN3RuN0FwZlhMSXp0MV9pbF85ekxJQktES0pTWVZ0N3hmY2R2YUMzSjR0bWtVWVpLeHNOTXhhRTQ5TWozeTRXdFR3ZmtYRHVKaXl1U1g5elR0X3lVMlNxUzllQS1xQjMxQzgxYS01cjhIY2RZTHNLc0c?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Las Vegas Review-Journal"
-      },
-      {
         "headline": "A former NBA star spent 13 years homeless until one mayor decided to save him",
         "description": "",
         "published": "2026-06-03T22:21:00+00:00",
@@ -666,15 +657,6 @@
         "source": "Basketball Network"
       },
       {
-        "headline": "Looking for NBA Finals seats? The Knicks are making 2 in celebrity row available in an auction",
-        "description": "",
-        "published": "2026-06-03T22:09:58+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUFhBeGNyWk5xLXFkVFdwNVp4NHJsNjR2NGpIX0RCVTN6cWx0U1NOTVZORXBTcURhdDZQQy1XdUJsbGQxa25KMXB5R1FXcTJGVXVZaWQxU3RBX0pManJnVGFRQll1dWhyd1BSbEhzelJ5MTR3NkRrT1M1UGxnN1VsTUtuRWVUbTdMaERQYWRRWm9UaVBQMVJLUzk0TThZOUFNNWp3R3RwNVkxSk9xMkM4VFRBdXpaR3kwZDdwR3FfR2JmSFZPdEJjY3oxQVZTOVVfbkcyUjZRdVpVQQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Click2Houston"
-      },
-      {
         "headline": "Former NBA star rejects Alabama recognition amid Supreme Court map ruling",
         "description": "",
         "published": "2026-06-03T17:51:00+00:00",
@@ -682,6 +664,15 @@
         "image": null,
         "recruiting": false,
         "source": "AL.com"
+      },
+      {
+        "headline": "NBA Finals 2026: 'A culmination of what a life's work in basketball comes to' \u2014 How Karl-Anthony Towns' emergence powered the Knicks to the grandest stage",
+        "description": "",
+        "published": "2026-06-03T01:36:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQNmRVa3M1T1VlTGp3eHFYdzYyeEYwTElRU0tTc29YeGpQcm5SWHhTeUNQejRtQmM2dkJsMVVRbFJfZzFkVVNKUGdGcjRiX3dWRXJCbUZBZkN0Z3RWbTE5cE9Ed2tmc1BsQVpKNUtPWURrVW5TbXRUVmM3VzhKRldhWXo2Si1MazVaS0d3YWkxRW5DcDZpOFFESTZETmRObjdkeGtjSkF4SlZDbklVQTJsYU5Vb2FWN215STNKNHJkbzZ5MU1CZGZfVWlVc1JFZVJYR0JFSE12eDdhMmtwS0tOcTh1NDQycjQ1WmRoSW1Ec0pXYW51RmpfR2VRaWdVSWwxVGZTeWE2bDNfTzdFNmZJOGVJX1dBaUdlaksyTmNmbFZYVmZ5Y1R3?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Dom Amore: Dan Hurley has to root against his favorite team in NBA Finals; \u2018I\u2019m rolling with Steph\u2019",
