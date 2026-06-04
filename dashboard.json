@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-06-04T00:22:00.349418+00:00",
+  "generated_at": "2026-06-04T00:37:06.307227+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "Duke-Michigan Game Is About To Relocate South",
+        "description": "",
+        "published": "2026-06-04T00:21:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjU5dHliV3ZuV3U2TEhNVnY3RHp1TWQ2aVpsLXNDUU45SnMwUXRJeFFSV0hqTEJTTVpsQTRyRzJaQ0ZwYTBUckJkZ00tYUI1Y3dHd0xLOGdFV180SF85bHRzN2hvUVZ5Ylh1WE1MZk9QX09QbXI0UU9lT2w1Q0oxOUtQY1p4d21aYWszc1NKNmRoVWdnajN4Yg?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Duke Basketball Report"
+      },
       {
         "headline": "Broadcast conflict reportedly sends Duke\u2013Michigan to a baseball stadium",
         "description": "",
@@ -151,15 +160,6 @@
         "description": "",
         "published": "2026-06-02T16:46:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUGtRenhtNms3Z3o1TFBIOTNLUDN6THltLVZqMGdrdTNKRk93TFhQc3AzVVMxaGxxV2U4dzhPLXdIRlk1ZUU4SWRWV2J5bjRadnlYeUI4MG8wYjlJaXlnQXgxQTMwVkRyWUFrLTMySXk5UnA4UkdIUS1yRGU4bnk3QXJMSzhvblNwbVJsUVNWSjZrWThxVlNhOWh2OXVVRWtvak55cVJqTV84bndCVkxOSUVYVXZnamJ5M1luMVo1SlpSYVNjMVFFeXFwYTRZT2ZyZmhpclB6WXdqVkdaV1ljcw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Fayetteville Observer"
-      },
-      {
-        "headline": "How many Duke basketball players have been drafted under Jon Scheyer?",
-        "description": "",
-        "published": "2026-06-02T14:01:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPek9zNUFBYk5PRjdZSHVpRnJGeW52Ny04SXdLRUo5TE43MlZJVDg0WVktTHp0dUV0N3RmQzQ3VEM1NjJ2TWMxWGxPcnlqSDV6MGlJS3NYU245R0xZeGVTeU1ydGVFdlpJV21kbURzaHRxRHdjNDN5N2REcWxWQ05HaG9SN1dNVWE3eHNiZXZhQ3FyUjBXYUQyTHVKMHJ3QmxKdFpUQTRwSGhPRlVTZXp5MWh3RThxdXFpb0djLWk4bFVZb0s3cnhxMmFxM3Z1dnc0WlZkTQ?oc=5",
         "image": null,
         "recruiting": false,
         "source": "The Fayetteville Observer"
@@ -486,10 +486,37 @@
   "nba": {
     "news": [
       {
+        "headline": "2026 NBA Finals: Sights, sounds and fashion from Game 1",
+        "description": "The vibes were immaculate around the Frost Bank Center before Game 1 of the 2026 NBA Finals.",
+        "published": "2026-06-04T00:27:48Z",
+        "link": "https://www.espn.com/nba/story/_/id/48959056/2026-nba-finals-sights-sounds-fashion-game-1-san-antonio-spurs-new-york-knicks",
+        "image": "https://a.espncdn.com/photo/2026/0603/r1667836_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Adam Silver: NBA interested in multiple groups in Las Vegas, Seattle",
+        "description": "",
+        "published": "2026-06-04T00:22:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQUThOeHZyU2FUZTF4TmE5U0tqMWhNcVp0SHpHTy0zQ1M2eHA5NWJXcWVSNi1HUEhCUDNRcDdROTJZTWh6WDNLWXNWMmpveGJobGtubndEQ3pjTWhfamRmVnB1amRZMWtFb0g1NE5VRTF2MVVxN3pMSFFmWDRFLUM5Mkpzb0lEc1BrRjhnMHRMeHBhaWF3REVXQk9YaVFJeDN6ZUpBNy1JN2VWRWJIcVJ0VVdWOEVnU0J5ZklfZmpNd3JqWTU5WkJ2cGNwQ1o5LWFoWDJtdjRJenFDVkxyRkU1VGp5cV9TTFBvZmg3QnNoRU1aRG9lTVdNMExuXzBRek93SzF3Z1E4WlFuLVBPVWpPRDlZdHl3U19GcWxyMGNOWmlTQVljVUJCbmxvMFdDOWE3VHpCNFVnc2FEc3pRcjZSUzBSLUtUUWtXZVRRVEJvYl91WU5QVlUya3JTM3VGWkJVSGI4cEtWb2lEallXTmJzLXBVbUt4NlZLSGdWdjctNnM1T0FZWkowTXVYTUt1UWVyOHE4?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Las Vegas Review-Journal"
+      },
+      {
         "headline": "Knicks vs. Spurs score, live updates, where to watch: NBA Finals tip off with Game 1 from San Antonio",
         "description": "",
         "published": "2026-06-04T00:02:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSUU4TW1ncHVPcU9GbEZSSTRVay1QeFh6b1dFUGtwTk5jSy1GVzJqUDMwVzM4MWpFdmxkdXZuTjNLTTl1ZDcxRWU3d09weEJrVHlBVWlVMTlURkt0NnRxUVMzMUZGb0xfSi03TmlydnBLN3ZBNngtanptSW83ZnpTSVFjVUtXUVRrUHhST2VYR3BSSWV4c2Y0Sk1mWkFzYnRqcTNTcE10WkpqUmk5cEhjMU1SejhQa1ByR084bkZCYWNUa2x5YzdTUnpKUFpHMHNzejRxTGpBN05sa0t0SUxj?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
+        "headline": "NBA Makes National Anthem Announcement for Finals Game 1",
+        "description": "",
+        "published": "2026-06-03T23:52:12+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbW5JdU56Y1hydmZHMGRWeTcxQmpKRjY5THBMVGVscTRwMTkyMHlCa1dHS1R2ZVRyWm9MaE43NklEcEVDeVJocm9ESGJ4NldXTlBQbGFBNWlIRE1lNHJDa2k3SUZtUEZVWi1uM2dUTEJTOVBrWDN0RFNZNWd3NWZiOVFSZzZlYmlOcnpjcmJscGc?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
@@ -502,15 +529,6 @@
         "image": null,
         "recruiting": false,
         "source": "RotoBaller"
-      },
-      {
-        "headline": "2026 NBA Finals: Sights, sounds and fashion from Game 1",
-        "description": "The vibes were immaculate around the Frost Bank Center before Game 1 of the 2026 NBA Finals.",
-        "published": "2026-06-03T23:21:49Z",
-        "link": "https://www.espn.com/nba/story/_/id/48959056/2026-nba-finals-sights-sounds-fashion-game-1-san-antonio-spurs-new-york-knicks",
-        "image": "https://a.espncdn.com/photo/2026/0603/r1667836_1296x729_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
       },
       {
         "headline": "President Trump scheduled to be in attendance for NBA Finals Game 3 at MSG - The Athletic",
@@ -529,15 +547,6 @@
         "image": null,
         "recruiting": false,
         "source": "Seattlepi.com"
-      },
-      {
-        "headline": "NBA Finals Game 1 Thread",
-        "description": "",
-        "published": "2026-06-03T21:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mejZfcE9Ta0J5MURRX0pEZHliQkV5VWthMFNyQVFaTVRFcGdGbDJfRHFuam1QNktVZUVWNThCUXB6Q1RZOUgtVVRtZExWWUlkTDAzMDVlZWRKR01senA5NzYwU01mUnYtVDFlS0ZZQk1rNHcyVFM3d1RwNW1lZw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "How to watch Knicks vs. Spurs in 2026 NBA Finals Game 1 live for free",
@@ -702,15 +711,6 @@
         "source": "U.S. News & World Report"
       },
       {
-        "headline": "NBA Finals 2026: 'A culmination of what a life's work in basketball comes to' \u2014 How Karl-Anthony Towns' emergence powered the Knicks to the grandest stage",
-        "description": "",
-        "published": "2026-06-03T01:36:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQNmRVa3M1T1VlTGp3eHFYdzYyeEYwTElRU0tTc29YeGpQcm5SWHhTeUNQejRtQmM2dkJsMVVRbFJfZzFkVVNKUGdGcjRiX3dWRXJCbUZBZkN0Z3RWbTE5cE9Ed2tmc1BsQVpKNUtPWURrVW5TbXRUVmM3VzhKRldhWXo2Si1MazVaS0d3YWkxRW5DcDZpOFFESTZETmRObjdkeGtjSkF4SlZDbklVQTJsYU5Vb2FWN215STNKNHJkbzZ5MU1CZGZfVWlVc1JFZVJYR0JFSE12eDdhMmtwS0tOcTh1NDQycjQ1WmRoSW1Ec0pXYW51RmpfR2VRaWdVSWwxVGZTeWE2bDNfTzdFNmZJOGVJX1dBaUdlaksyTmNmbFZYVmZ5Y1R3?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "Dom Amore: Dan Hurley has to root against his favorite team in NBA Finals; \u2018I\u2019m rolling with Steph\u2019",
         "description": "",
         "published": "2026-06-02T16:54:44+00:00",
@@ -720,6 +720,15 @@
         "source": "Hartford Courant"
       },
       {
+        "headline": "Basketball gods blessed fans with most compelling NBA Finals since Warriors-Cavs",
+        "description": "",
+        "published": "2026-06-02T07:54:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRjZPSGNEQ3V4V08xcmlIVXhHdjBKWTZRR1N5aWY2ZGpEY0o0ZTBkV1pQYktPSHFweUVjUWxvdmhxMVN2MVQ3V0lsVlN0VlBZUFlVWU9DWXFaMEFrNTF5MnUzTzdQMUZIdjFjTlZvMHFjNjVuQzVlVVVRMFE2U3RVanJlajVIRlZHTEJlUl8wLV9KT043b0F4MDlUUHhta1MwalN3eXFic9IBrwFBVV95cUxPZWxkMjYxU2J1aXVTcWxmajA2RnFsU0F1eFAyXzRNR001SnN4ZldGQmdvN1pISXNQNW83a2d1UzZZT25icDZMdWh5clhzbjB0U0pvNEdISm1MWGxzT29oaDZKTk1Fd25raHR1dDBOMkNad0ZFOWwxTlV6OTF2ZkZ1NzRCS2RFb2xwbDFoYU11QkduYkwyYkVBMkwzZ1pPS0t4U19TLU5KSm16T0hWbWlN?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBC Sports Bay Area & California"
+      },
+      {
         "headline": "Hall of Famer Rick Adelman, who won more than 1,000 games and took 2 teams to NBA Finals, dies at 79",
         "description": "",
         "published": "2026-06-02T00:43:00+00:00",
@@ -727,15 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "AP News"
-      },
-      {
-        "headline": "Where the latest mocks have Michigan Basketball trio going in NBA Draft",
-        "description": "",
-        "published": "2026-06-01T18:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX2Foa3hWckZyQ01tRGdRUWw1VGQ2c0ZrSFJUeGNLWXdybm5OSlJtcVlxTFNiNHBEb0FPUy1fWHhydnM3bjRTcmtIbFo3NU0xOC1BcWZ1VUZjQlR4VGM1MjNRTm5keWJQY3VrV1NHd3pZN3hYSTdNbDJXTkN3Yk1HbUozWUxXUGk5N25vLXpDdzRlUmhxaDQ4elExLWZHeGVMNHo3bGs3eEJmOFk1bTNwTnROeUU5cF82TmJpY19YSWhpTEtYeTNjQkpqN1lLSzljUFE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Maize n Brew"
       }
     ],
     "games": [
