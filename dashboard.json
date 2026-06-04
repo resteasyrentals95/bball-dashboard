@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T00:59:36.685953+00:00",
+  "generated_at": "2026-06-04T01:22:12.079029+00:00",
   "duke": {
     "news": [
       {
@@ -59,7 +59,7 @@
       {
         "headline": "From Under-Scouted to 5 Stars: Future Duke Standout Cameron Williams Growing Into Spotlight",
         "description": "",
-        "published": "2026-06-03T19:01:42+00:00",
+        "published": "2026-06-03T20:59:32+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMDJIUWtnel8tRTB4Q3YyYmUyQVc1VFgtc3VlNWwxeGtWUnBDX3QzQTdlUkpHU1U1cFp6eXJLV3JUTm9hVW1vX1dTbGFmbEVZbnNub09HaTJhY1g5Ym10R2tNTjZqVjJlUFlfMWxrQkx4d3dNMnFtWC14T2xDT3Jxbms5dmJsN2twVTlYMkxLd19IMkpVWnFkaEJuT1JkQm5uX1dhU0Vhd0lzQQ?oc=5",
         "image": null,
         "recruiting": false,
@@ -120,15 +120,6 @@
         "source": "Sports Illustrated"
       },
       {
-        "headline": "Duke defeats Wolfpack, Tar Heels, and Hokies to land Durham-based athlete Lance Henderson",
-        "description": "",
-        "published": "2026-06-02T19:08:08+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPOVRkTTJDd2VOeGxkeFA2dktjWURqbzBpVVpVVWlmM1BybjhuQzRkcF9IR2lBVDV3N0hXeXBId0Q2OW9sZngyOFlVdXV0QnlqdWtpcVhGNWRKVXE0YlNqaV84TTBWd0FPX0JWSzBhblRyREVkT2JWa0dhQ2xvZkg1SWlvWVRBTXp0cVpHc0lKcTdNVTd3YjFmQXY0aDhCSUR0TFViOUdndlRFZmRRcFJuVG1SS3BnMG1malVpWE4xUGZYV1RrZjlRSE1YcEc1eldLVWd0ZzlMVmt1dw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "247Sports"
-      },
-      {
         "headline": "Duke men's basketball hires KJ Conklin as assistant coach, Alexander Powell as executive director of basketball",
         "description": "",
         "published": "2026-06-02T17:59:18+00:00",
@@ -136,15 +127,6 @@
         "image": null,
         "recruiting": false,
         "source": "The Duke Chronicle"
-      },
-      {
-        "headline": "Scheyer adds Conklin and Powell to Duke Basketball Staff",
-        "description": "",
-        "published": "2026-06-02T17:35:02+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOYlRkUVJISlRhOERNUlllUE9pYm9zOGhVaDcyYWRmS1FHU0p5b25zQjlfVEhvUG81MFB1MWlxOGxPZ3kyZGdqSWdCaE1XcEFNeGJLaWhxZG12RmRmYWU5ZHRTelB1Nm9oQjNfNjVLNjdpLTdWNlg1US1YMVkwV2FVQzVvRWo?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "HoopDirt"
       },
       {
         "headline": "Two New Hires For Duke Basketball, And They\u2019re Both Interesting",
@@ -253,6 +235,24 @@
         "image": null,
         "recruiting": false,
         "source": "Backing The Pack"
+      },
+      {
+        "headline": "2026 NBA draft: Player comps for 12 projected lottery picks",
+        "description": "From best-case ceilings to realistic floors, which NBA players do the top 12 prospects in the 2026 draft most resemble?",
+        "published": "2026-06-01T12:19:37Z",
+        "link": "https://www.espn.com/nba/story/_/id/48902375/nba-draft-2026-player-comps-12-projected-lottery-picks-dybantsa-boozer-acuff-peterson",
+        "image": "https://a.espncdn.com/photo/2026/0528/r1664955_608x342_16-9.jpg",
+        "recruiting": true,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Why Duke's Evans Makes Sense for This Western Conference Team",
+        "description": "",
+        "published": "2026-06-01T12:00:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYm1OZlVFNjV0elJiVXBYeG0xb0FWNGtGZ2MzNnBpVWtmLTRHNTRUTGtVZV9MNFRRZEtyWl9JWjE4c2szandZTXFjSTYzSWZIX1d5SnNtajlNSVBKTTdsc2ZWM0NGNUdOX2JNajlObWtHWUlQRkM4Um16S01oRVo0dENEeE5zQkZNX2tMUU5veDR1T3c?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
       }
     ],
     "games": [
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Knicks vs. Spurs Score, Live Updates, Highlights From Game 1 of NBA Finals",
+        "description": "",
+        "published": "2026-06-04T00:58:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORUdpbTRPQmlsQVhGdDhtUVE3VGk3eXNVUnJnYmFGS0QxTzZwOHZBU1FFLXdYUjJmdHphQlZadDUxTDg0SlFQc09raUpaY29PeHdybVE2Yi1wMzBKM2swM2ZMb3RuUWRmWnJCYXdMMHJlTU4xcmlsU1FjeG5yWnRJNQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "5 reasons Celtics fans should root for Spurs in NBA Finals",
         "description": "",
         "published": "2026-06-04T00:29:00+00:00",
@@ -513,13 +522,13 @@
         "source": "Las Vegas Review-Journal"
       },
       {
-        "headline": "NBA Makes National Anthem Announcement for Finals Game 1",
+        "headline": "Commissioner Adam Silver, at finals, says NBA continues to move toward league in Europe",
         "description": "",
-        "published": "2026-06-03T23:52:12+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbW5JdU56Y1hydmZHMGRWeTcxQmpKRjY5THBMVGVscTRwMTkyMHlCa1dHS1R2ZVRyWm9MaE43NklEcEVDeVJocm9ESGJ4NldXTlBQbGFBNWlIRE1lNHJDa2k3SUZtUEZVWi1uM2dUTEJTOVBrWDN0RFNZNWd3NWZiOVFSZzZlYmlOcnpjcmJscGc?oc=5",
+        "published": "2026-06-03T23:52:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNaHM4QmwxOFZ1MjFMR0VDeTlXSWVnOTBDRnhSTWVURkQ4SVR3ZEoxY2gtRFJXc19oTVlwN2FQZTRZQ0xyV0FaeFRjMG5tNDVGRnlJd0NTLTl5MjVIMnNpczAybEZ5R24yZ2VZYVlkVHFBakxmSlZ2VkJ2UmtaSks5YXRDYXFIdEtjNzg0R0tIcHZfeXZMVm83VXFZUU9BekRhTTVJenlQNnNYYXV1WDdxZGViajU4ay1HdkdmSFlwcjHSAcYBQVVfeXFMT194eTM5eWJ6Z0pMcnhVZ2RpQ2VaTDA2U1lMSVQxdWxpalpSVmVEaUw5ZjB3OTZvaW11ejl1TGxLV3BtQzluMVl2TklYQTZCeVhvdFM5cnJCNEM4bk94OGMtTzd1ZHdnZnZhRGlKemlmYnVtLTVVSEJZZms0TDJvVzBIUDRNTDNGb3NKSE1xNHp4NHgxVGRoSktHY3lUcnZpWTY3ZUlNNmVWT043VUdhSDRtNDUwdk9sZDg0d05GT28yM0JhTmNR?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Yahoo Sports"
+        "source": "FOX 8 News"
       },
       {
         "headline": "Wizards Considering Trading Down in Draft - NBA News | Fantasy Basketball",
@@ -549,6 +558,15 @@
         "source": "NBA.com"
       },
       {
+        "headline": "Looking for NBA Finals seats? The Knicks are making 2 in celebrity row available in an auction",
+        "description": "",
+        "published": "2026-06-03T22:23:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcEtjOFRxYUVRUzVJZFFBREtPNFBBT0pFUkJpV21RaDNzWFloMjlYcjFYVnBMUl8tQTdBakNDb0c5SUVYVDZYczBZWHpPeVp4Q0hLaXZiSDBCUnppQUR3Z1NSbnRJRVpGSFptdHhfU2FuZVlxMHlBekV4b2QzZWJ0ODhDUGR6TlZmSEk2VGdPcDRFUVVLcnlEX2FlZWppRl9IX1E?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "MySA"
+      },
+      {
         "headline": "President Trump scheduled to be in attendance for NBA Finals Game 3 at MSG - The Athletic",
         "description": "",
         "published": "2026-06-03T22:15:01+00:00",
@@ -558,15 +576,6 @@
         "source": "The New York Times"
       },
       {
-        "headline": "Looking for NBA Finals seats? The Knicks are making 2 in celebrity row available in an auction",
-        "description": "",
-        "published": "2026-06-03T22:13:43+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNC1JbElQMktCbXlvUng2MU5OMEEtcjRpN0pTMGliM1NaT05CUm1YZk5nQlZnM2V3M1NVZ1dwMW9MQWJ1d2d1SnFmclFXNzh4TzVwMUcycGJscktjZnMxejZlUTYwYVlGZDlCMU1FT1ZwWUV3NS12c25FS3kyd2g2Y1RvVzhGNzNsaDR6VVZ6Zw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Seattlepi.com"
-      },
-      {
         "headline": "\u2018Not the Type of Basketball They\u2019re Playing Today\u2019 \u2013 Draymond Green Claims 1 Strategic Change Helped Knicks Reach the NBA Finals",
         "description": "",
         "published": "2026-06-03T20:43:21+00:00",
@@ -574,15 +583,6 @@
         "image": null,
         "recruiting": false,
         "source": "PFSN"
-      },
-      {
-        "headline": "Spurs Attempt To Become NBA's Newest Dynasty Stream of National Basketball Association",
-        "description": "",
-        "published": "2026-06-03T20:03:45+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRHVhMy1BSEZER3oyX1RtMGdUOVhOMkozSk1ZMmhOX2RtRFloY1VZM0ttWlZVNld6MzkxelNIME5helh1c2hiQmVrbnd5eXBualJ6ZktWRXZQZkdpNUJ6bmRqcVdKYkk3NnltOHlMY2kxZVU2XzBweWNFZzFMQTlQODlGejllcWpCakpwUjh3?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "CBS Sports"
       },
       {
         "headline": "How to watch 2026 NBA Finals on ABC: Knicks-Spurs schedule",
@@ -702,13 +702,13 @@
         "source": "CNN"
       },
       {
-        "headline": "The Basketball-Crazed Philippines Will Have a Champion When These NBA Finals Are Over",
+        "headline": "The basketball-crazed Philippines will have a champion when these NBA Finals are over",
         "description": "",
-        "published": "2026-06-03T05:39:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQUWxOeHpiWmp3VUFWN3E4eEFUdEpfZlROc3lsNUJYYnFDMlFucXRFS0FTUDMxQ1cwVVJXT2wxODc0a1FBMmpRdmd4bktaS0RZZ3lXOHZwOXRBRHF0X00yT1BObFZ4TmY0ODRQSUhZdThKMVZmUGI1a29DS3Vjak9hSVFDZVRQWGhrcmtudXdodHpuNnZEbkhZOE5Kbml6bFBDeG41QmJ0Qko5VXBSZEVIN2NXOW4wSHVNMWNiUWJxWml3ZDVub3RXNm9hR09DemFXd292QWRCWQ?oc=5",
+        "published": "2026-06-03T05:39:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOMXBodnJMQVY1Ym92b3ZHTkZ3UVpwbG9YQnBvdkVoejdfUW55Yk9qNFFnbmhZSURqaDRyLXdlX1k3akZpNUNhOW5lUzJ1UzhUbVgxOWVMaE5RS3FHbDl3bmx4UTZDbkNzakdRUmhoRHV2S28xS3NfVFFqQWszY2Y4a2RrTjdjNTZQLVd0VWx3eThEUmpaS1hhSWFXV0lsU1NUdXhKRnV3NUl1M0s5ZkxFcE9ReUotM1hfaTFvRmxUTFhFV2hWbjZMaHAydjE3UGc?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "U.S. News & World Report"
+        "source": "Click2Houston"
       },
       {
         "headline": "Dom Amore: Dan Hurley has to root against his favorite team in NBA Finals; \u2018I\u2019m rolling with Steph\u2019",
@@ -720,13 +720,13 @@
         "source": "Hartford Courant"
       },
       {
-        "headline": "College basketball top 25 after NBA Draft deadline: Illinois or Florida at No. 1? - The Athletic",
+        "headline": "Basketball gods blessed fans with most compelling NBA Finals since Warriors-Cavs",
         "description": "",
-        "published": "2026-06-02T11:55:35+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY05EZ1NZbkRQQmRGMjZ2eUNkY0NtenhDSWpWU2tBM3hVaGxpRXB4bzNNcTFkSXNfeFZwT0kxX1R0YkVkNGRIX3N5MEtlRUJaRGR5T3d3RFpSYmpsTkt6Nzg5UVZsQnFpTXBCX3FCVWhPelI0dmxjNlhFc1lFUXcyUVBlTlgwdjVVQldxVEtUVTBvWE52Ym9pT1JNTFFSVE0?oc=5",
+        "published": "2026-06-02T07:54:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRjZPSGNEQ3V4V08xcmlIVXhHdjBKWTZRR1N5aWY2ZGpEY0o0ZTBkV1pQYktPSHFweUVjUWxvdmhxMVN2MVQ3V0lsVlN0VlBZUFlVWU9DWXFaMEFrNTF5MnUzTzdQMUZIdjFjTlZvMHFjNjVuQzVlVVVRMFE2U3RVanJlajVIRlZHTEJlUl8wLV9KT043b0F4MDlUUHhta1MwalN3eXFic9IBrwFBVV95cUxPZWxkMjYxU2J1aXVTcWxmajA2RnFsU0F1eFAyXzRNR001SnN4ZldGQmdvN1pISXNQNW83a2d1UzZZT25icDZMdWh5clhzbjB0U0pvNEdISm1MWGxzT29oaDZKTk1Fd25raHR1dDBOMkNad0ZFOWwxTlV6OTF2ZkZ1NzRCS2RFb2xwbDFoYU11QkduYkwyYkVBMkwzZ1pPS0t4U19TLU5KSm16T0hWbWlN?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "The New York Times"
+        "source": "NBC Sports Bay Area & California"
       },
       {
         "headline": "Where the latest mocks have Michigan Basketball trio going in NBA Draft",
@@ -745,13 +745,13 @@
         "date": "2026-06-04T00:30Z",
         "state": "in",
         "completed": false,
-        "status": "4:13 - 1st",
+        "status": "8:03 - 2nd",
         "competitors": [
           {
             "abbr": "SA",
             "name": "Spurs",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-            "score": "12",
+            "score": "31",
             "homeAway": "home",
             "record": "62-20",
             "winner": false
@@ -760,7 +760,7 @@
             "abbr": "NY",
             "name": "Knicks",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-            "score": "14",
+            "score": "28",
             "homeAway": "away",
             "record": "53-29",
             "winner": false
@@ -769,12 +769,12 @@
         "league": "nba",
         "leaders": {
           "SA": [
-            "Victor Wembanyama \u2014 5 PTS",
-            "Stephon Castle \u2014 4 REB",
-            "Stephon Castle \u2014 1 AST"
+            "Dylan Harper \u2014 10 PTS",
+            "Julian Champagnie \u2014 5 REB",
+            "De'Aaron Fox \u2014 3 AST"
           ],
           "NY": [
-            "OG Anunoby \u2014 5 PTS",
+            "Karl-Anthony Towns \u2014 6 PTS",
             "Josh Hart \u2014 5 REB",
             "Karl-Anthony Towns \u2014 2 AST"
           ]
