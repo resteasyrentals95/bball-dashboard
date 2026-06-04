@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T04:42:16.903394+00:00",
+  "generated_at": "2026-06-04T04:57:23.059424+00:00",
   "duke": {
     "news": [
       {
@@ -486,29 +486,29 @@
   "nba": {
     "news": [
       {
+        "headline": "2026 NBA playoffs: Schedule, scores, news and highlights",
+        "description": "The 2026 NBA Finals are underway. Keep up with all the latest news, scores and analysis from Knicks-Spurs right here.",
+        "published": "2026-06-04T04:55:47Z",
+        "link": "https://www.espn.com/nba/story/_/id/48419498/nba-playoffs-2026-play-finals-schedule-scores-news-highlights-bracket-dates",
+        "image": "https://a.espncdn.com/photo/2026/0604/r1667943_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Fan runs onto court, briefly stopping Game 1 of NBA Finals",
+        "description": "A fan ran onto the Frost Bank Center court during the fourth quarter of Wednesday night's NBA Finals and attempted to take a selfie next to Victor Wembanyama, halting play before the Knicks' 105-95 Game 1 victory.",
+        "published": "2026-06-04T04:46:51Z",
+        "link": "https://www.espn.com/nba/story/_/id/48962549/fan-runs-court-briefly-stopping-game-1-nba-finals",
+        "image": "https://a.espncdn.com/photo/2026/0604/r1667967_600x600_1-1.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "2026 NBA Finals: Biggest takeaways from Knicks-Spurs Game 1",
         "description": "NBA insiders break down the biggest takeaways and what to watch for the Knicks-Spurs series showdown in the Finals.",
         "published": "2026-06-04T04:40:11Z",
         "link": "https://www.espn.com/nba/story/_/id/48940704/2026-nba-finals-biggest-takeaways-highlights-san-antonio-spurs-new-york-knicks-championship",
         "image": "https://a.espncdn.com/photo/2026/0604/r1667922_1296x729_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "Brunson keys late surge as Knicks steal Game 1 in San Antonio",
-        "description": "The Knicks kept it rolling in Game 1 of the NBA Finals, getting 30 points from Jalen Brunson and erasing a 14-point second-half deficit to beat the Spurs 105-95 for their 12th straight playoff win.",
-        "published": "2026-06-04T04:30:38Z",
-        "link": "https://www.espn.com/nba/story/_/id/48962034/brunson-keys-late-surge-knicks-steal-game-1-san-antonio",
-        "image": "https://a.espncdn.com/photo/2026/0604/r1667957_600x400_3-2.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "Jalen Brunson scores 30 and Knicks finish on 11-0 run, steal Game 1 from Spurs with 105-95 win",
-        "description": "\u2014 The New York Knicks' winning streak lives on, and they struck first in the NBA Finals.",
-        "published": "2026-06-04T04:20:01Z",
-        "link": "http://www.espn.com/nba/recap?gameId=401859963",
-        "image": "https://s.espncdn.com/stitcher/sports/basketball/nba/events/401859963.png?templateId=espn.applewatch.awayhome.1",
         "recruiting": false,
         "source": "ESPN"
       },
@@ -531,6 +531,15 @@
         "source": "RealGM"
       },
       {
+        "headline": "Amid talk of Trump at NBA Finals, Silver cites power of sports",
+        "description": "",
+        "published": "2026-06-04T02:25:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNUHdQbVpWQUo1R2ZPMVV2RmdScnpEeXBpUFB6LXEzejRiUGJCd0tQRmtyQ0tfdGpYeVNkWXBkbm5lM3ZUdmEwLV9sbF9uSWMyRDZTMXNHdXdTd3B1RlR0MW9oZUxKQ2xGVFFOY0NPUmI4Z25GQl9ORHI1Z2RKQW1FTjBSd3hhdGxkV2Yxc1RoelIyZzdac1JiR0VvWS1sQQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "Charles Barkley\u2019s biggest Knicks concern after start of NBA Finals: \u2018Terrible\u2019",
         "description": "",
         "published": "2026-06-04T02:13:00+00:00",
@@ -538,6 +547,15 @@
         "image": null,
         "recruiting": false,
         "source": "New York Post"
+      },
+      {
+        "headline": "Wemby vs. the Knicks: It\u2019s fitting that a marquee matchup awaits in the NBA Finals",
+        "description": "",
+        "published": "2026-06-04T01:53:27+00:00",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5jdmRBLUMwVjEtRWh3YXgzUmlPVGw3TkZDbDV4LVlGUDdvS0ZSOF9fWmp6ZUwtVXFSRlFtMkUtMlNYdUJZaGNNeUQ1enhVSFV0cHVsd0hFc1NJZ2Jyam9pS0dIUTBpNFQ3TjVMMEtueTBJYXJPN25TOWdNOA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Boston Herald"
       },
       {
         "headline": "Greatly improved NBA Finals presentation answers prayers of basketball fans",
@@ -585,15 +603,6 @@
         "source": "MySA"
       },
       {
-        "headline": "How to watch 2026 NBA Finals on ABC: Knicks-Spurs schedule",
-        "description": "",
-        "published": "2026-06-03T19:55:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQck1ieG96Uy1oNGo1NUw1TmxqOXZPQjZhOTJCYnVhNkdycEY1VWdXYWhlM0NWcG1xOXc0ZGQ3TTNKZG1WQ1hIaHlwUGxteHJPQk1CZl8zZkRJblpSMVNrdWF3aF94OVZyWHpRSHNKSTRHQTl3eGM1bEREUW5xNURYWnp6WnVuR1lwazY0dHpzOVJzcEFzOFlXMzVKXzY?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "NBA Mock Draft 7.0: The latest on every pick of the draft ahead of the NBA Finals",
         "description": "",
         "published": "2026-06-03T19:07:46+00:00",
@@ -601,15 +610,6 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
-      },
-      {
-        "headline": "2026 NBA playoffs: Schedule, scores, news and highlights",
-        "description": "",
-        "published": "2026-06-03T18:55:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRDc5Y1Q4UktuVDNVQllONDVTRWI0OVZMc21KbnB0RmRDVW90QUpISHdKTktWazBCUTEzWWZYYlE3XzlNQ0M0WDJqSHVrX0ZUUlpQbEpJNmJ1aGp6R1hmdXpyYUE4YVktMUl5LXpUTjctQjJHanZXOTRNX25QTnhHVkFvQ1A4dEE2VTZyTGd4UEJURzRHbElDQzF6RHJ2Wlp6Zy1JY0d3Mlg5d2xkZ00xU0s2el9NSGc4VzZzbg?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
       },
       {
         "headline": "Rozier asks judge to modify release terms as NBA free agency looms",
@@ -637,15 +637,6 @@
         "image": null,
         "recruiting": false,
         "source": "AL.com"
-      },
-      {
-        "headline": "Mitchell Robinson's Injury Clears Path for Fantasy Basketball NBA Finals Sleeper",
-        "description": "",
-        "published": "2026-06-03T17:28:46+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQenhQaEs2VjFXYkxGaWd6RndULWcxUnRpVHcwcE9TU3I3c1NoTmI5eEd1WHhONGRVeUVqWVhlQ0s2RUd4czR5ZnFiRjFsV1RiTUotMXQwMU9EYzNwTGcxNjJMeEsxdnJwYzZydGlSVVdMMHpkdHdJUnVuV2RVSlBMZWtqSzRQUUk5V2xfZVNTUVNONk93LTRIRkpDeXVpcF9zekE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
       },
       {
         "headline": "NBA Finals: Victor Wembanyama, Spurs have already made history",
