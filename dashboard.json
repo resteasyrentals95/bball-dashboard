@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-06-04T01:22:12.079029+00:00",
+  "generated_at": "2026-06-04T01:40:24.920844+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "Duke Basketball: Jon Scheyer earns praise from Jay Bilas",
+        "description": "",
+        "published": "2026-06-04T01:27:36+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNYnREcW9acFhGQnJXSVU2QVBrTkxWcTRQUXp1MjkxN1JwT2YxVFlqQ3VhTEk2TFlqREdoM2tXMjljb1I4MTY5c0xYTG9MSlJxb1VWOGZoeDU0aE96RFUwQ0dINlhEZ1pFNm1TQ2lGd3FHNy0tMWJCTm1JU2NLODJrcUxMZC1uSmNzY0tDMHdWSHMyRlIwTGp0THBWUHlmczFTUWc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "roundtable.io"
+      },
       {
         "headline": "Duke-Michigan Game Is About To Relocate South",
         "description": "",
@@ -244,15 +253,6 @@
         "image": "https://a.espncdn.com/photo/2026/0528/r1664955_608x342_16-9.jpg",
         "recruiting": true,
         "source": "ESPN"
-      },
-      {
-        "headline": "Why Duke's Evans Makes Sense for This Western Conference Team",
-        "description": "",
-        "published": "2026-06-01T12:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYm1OZlVFNjV0elJiVXBYeG0xb0FWNGtGZ2MzNnBpVWtmLTRHNTRUTGtVZV9MNFRRZEtyWl9JWjE4c2szandZTXFjSTYzSWZIX1d5SnNtajlNSVBKTTdsc2ZWM0NGNUdOX2JNajlObWtHWUlQRkM4Um16S01oRVo0dENEeE5zQkZNX2tMUU5veDR1T3c?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
       }
     ],
     "games": [
@@ -486,13 +486,13 @@
   "nba": {
     "news": [
       {
-        "headline": "Knicks vs. Spurs Score, Live Updates, Highlights From Game 1 of NBA Finals",
+        "headline": "Knicks vs. Spurs score and live updates: NBA Finals 2026 Game 1 analysis as Jalen Brunson returns after injuring knee",
         "description": "",
-        "published": "2026-06-04T00:58:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxORUdpbTRPQmlsQVhGdDhtUVE3VGk3eXNVUnJnYmFGS0QxTzZwOHZBU1FFLXdYUjJmdHphQlZadDUxTDg0SlFQc09raUpaY29PeHdybVE2Yi1wMzBKM2swM2ZMb3RuUWRmWnJCYXdMMHJlTU4xcmlsU1FjeG5yWnRJNQ?oc=5",
+        "published": "2026-06-04T01:39:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMnk2Q2tmVTV3T3g2eGtDRS1KTnppd0x5alNBdm02VzBFbndZTnF5Ml9OQmRnRXhjNFBjbTVkU2lPa3VIVVBacDgydDhhNWJvYUlvZnNhT1owTTZaZGJ2azJVYmJ2X0J3OHdRMjdkUHFKNzNlemNtZ0dNQ0FIVnBCcW9HSWVCejl2d1l6R25NandBaXpjbXFsYlhrM0ZoRURqNkpPVUpxc0owWVRiMWY1MDdDY2xYTHhxR0NlMVF1RQ?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Yahoo Sports"
+        "source": "The New York Times"
       },
       {
         "headline": "5 reasons Celtics fans should root for Spurs in NBA Finals",
@@ -538,15 +538,6 @@
         "image": null,
         "recruiting": false,
         "source": "RotoBaller"
-      },
-      {
-        "headline": "NBA finals 2026 Game 1: New York Knicks v San Antonio Spurs \u2013 live",
-        "description": "",
-        "published": "2026-06-03T23:30:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQWs3Nzh1WjVZemdRNE5zV0J5Y1lzemVWVmQtMWxrdU9Qa2dTMkxtZFFqV2FQUmtTMTlnQ1ZFbFZDSW52STVUTUFmVHpVbEgxRzltVXNVMVQ5b20tdkVGckprM0hvMllteXN2Q1F3VXR1YWNud1JJTTM3M1dzUk51bkZScF92VnAxak1uVjBzaG0yM0o1STVuMEhjTjctSVpMeV9neDJiMGh1bU91UnJoSDdKdHlleTZqTkE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Guardian"
       },
       {
         "headline": "Live: Knicks, Spurs ready to tip off Game 1 of the NBA Finals",
@@ -666,15 +657,6 @@
         "source": "New York Post"
       },
       {
-        "headline": "Hall of Fame basketball coach, former NBA player dies at 79",
-        "description": "",
-        "published": "2026-06-03T11:40:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMWNTTHNob2V5WWNicTlWemtCZGNvY1Vud2VmUVRGSlRnb2N3Umc2VW1nYmJvVHQ4ZExLcjQ1ZWgxYWtJeTJKcGxqT1FXUVVVRFBJV1JGY2Vlb3pMSlg0TEp2aERueE9fckJ2UDFOb3hzTmR3ZEl4WFpqSVpBT0MwWmVxQl9iYkQyekR1ZjBnblZOd0RKQmJaalJjazN3cHBIM1RBMTZB0gG6AUFVX3lxTE9ZR0NybzVnRXQ5NzFjekR4VEpPTnhfZXpFNHBZTWNzMklQekd4cS1OR09Qa3l2by1IWU5EYkVDaDVPU09OTjVxNkk5bWhpWFlNMl9GTk8wZ25ETGlCUjJNT25SZUJFbGhaak5Wcm1OeXRCR1lIN0k1VDZjbzMxc1lka0JmVmdTWjJud0t5U2RLb2thWnZOVW1tRkxzanNBMHpHc2tNQmdENlAzaHczZldaLUstT2dxeEFoQQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "PennLive.com"
-      },
-      {
         "headline": "NBA Finals: Victor Wembanyama, Spurs have already made history",
         "description": "",
         "published": "2026-06-03T11:00:00+00:00",
@@ -711,6 +693,15 @@
         "source": "Click2Houston"
       },
       {
+        "headline": "NBA Finals 2026: 'A culmination of what a life's work in basketball comes to' \u2014 How Karl-Anthony Towns' emergence powered the Knicks to the grandest stage",
+        "description": "",
+        "published": "2026-06-03T01:36:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQNmRVa3M1T1VlTGp3eHFYdzYyeEYwTElRU0tTc29YeGpQcm5SWHhTeUNQejRtQmM2dkJsMVVRbFJfZzFkVVNKUGdGcjRiX3dWRXJCbUZBZkN0Z3RWbTE5cE9Ed2tmc1BsQVpKNUtPWURrVW5TbXRUVmM3VzhKRldhWXo2Si1MazVaS0d3YWkxRW5DcDZpOFFESTZETmRObjdkeGtjSkF4SlZDbklVQTJsYU5Vb2FWN215STNKNHJkbzZ5MU1CZGZfVWlVc1JFZVJYR0JFSE12eDdhMmtwS0tOcTh1NDQycjQ1WmRoSW1Ec0pXYW51RmpfR2VRaWdVSWwxVGZTeWE2bDNfTzdFNmZJOGVJX1dBaUdlaksyTmNmbFZYVmZ5Y1R3?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "Dom Amore: Dan Hurley has to root against his favorite team in NBA Finals; \u2018I\u2019m rolling with Steph\u2019",
         "description": "",
         "published": "2026-06-02T16:54:44+00:00",
@@ -729,6 +720,15 @@
         "source": "NBC Sports Bay Area & California"
       },
       {
+        "headline": "Hall of Famer Rick Adelman, former Warriors head coach who is 10th-winningest coach in NBA history, dies at 79",
+        "description": "",
+        "published": "2026-06-01T23:41:31+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQMlViUmE3NkJVZ3RJOHBRMkFDZ2JPS3BiVzItY0ZvS0R4cVNhZ1VpUVdveW1HVjlGYUhxTFpVQm5UU19FZHNpb0JTMDI4cWZ5WFFpQnRndWp0U1JRaGowbk9KVmlURnhwZ2lFX1Vzb3J3dUttcGZ0VFdPa0hyT2hMZHFyQUNPMkp6UzdkdzdYc21VZE5WMURRVXZKZ1JYV0pjajMtY2k0TFNUdlZsbEJDdjcyR1hEVGxNYnZWWTVBX2s4Zm5XblFKZHBJMnM5UXFSMGNV0gHYAUFVX3lxTE0yOERDeXdhdUhyc2xHczE2clVHT2RrZFYtcG5NMFBDemY4MUZ5aWd0QjhoOURwNXpIQmY2TFRLTXo0akZrcDZFT1VsdTZJU29YdnZMSm5YTnpIcHhDaXpaUnZ5WXlTSjNhcEtiZGpZVmlYNS1xZmhrZHZDdTZIZEM0WVFoeWMyUUV0UE8wV05nMmE3aTBZT1FiMDYyY1VxcVg4WlNqLXhOVFFCb29HbmlBbXNvY0xwc0wtT2s4bHd2UTNLZ3pJVzQ4Q3o4WEprQ09EYVJEbG9fTQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Mercury News"
+      },
+      {
         "headline": "Where the latest mocks have Michigan Basketball trio going in NBA Draft",
         "description": "",
         "published": "2026-06-01T18:00:00+00:00",
@@ -745,13 +745,13 @@
         "date": "2026-06-04T00:30Z",
         "state": "in",
         "completed": false,
-        "status": "8:03 - 2nd",
+        "status": "1:58 - 2nd",
         "competitors": [
           {
             "abbr": "SA",
             "name": "Spurs",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-            "score": "31",
+            "score": "47",
             "homeAway": "home",
             "record": "62-20",
             "winner": false
@@ -760,7 +760,7 @@
             "abbr": "NY",
             "name": "Knicks",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-            "score": "28",
+            "score": "43",
             "homeAway": "away",
             "record": "53-29",
             "winner": false
@@ -769,14 +769,14 @@
         "league": "nba",
         "leaders": {
           "SA": [
-            "Dylan Harper \u2014 10 PTS",
-            "Julian Champagnie \u2014 5 REB",
+            "Dylan Harper \u2014 12 PTS",
+            "Dylan Harper \u2014 6 REB",
             "De'Aaron Fox \u2014 3 AST"
           ],
           "NY": [
-            "Karl-Anthony Towns \u2014 6 PTS",
+            "Jalen Brunson \u2014 11 PTS",
             "Josh Hart \u2014 5 REB",
-            "Karl-Anthony Towns \u2014 2 AST"
+            "Josh Hart \u2014 3 AST"
           ]
         }
       },
