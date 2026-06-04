@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T04:27:10.940762+00:00",
+  "generated_at": "2026-06-04T04:42:16.903394+00:00",
   "duke": {
     "news": [
       {
@@ -28,6 +28,15 @@
         "image": null,
         "recruiting": false,
         "source": "Duke Basketball Report"
+      },
+      {
+        "headline": "Broadcast conflict reportedly sends Duke\u2013Michigan to a baseball stadium",
+        "description": "",
+        "published": "2026-06-04T00:08:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM0dhZVN2WnlMNlBNOVhZUkRqeUJzc1dSRmprT2hGUGE1WG9faHZTSml3NTZ5RWhwX0lZdHQ0M2QxN0JFaGNWMjkyVVBwT3lTTmo3bnVnaURXeHRvdUlyUGd3dUdaR3dUeENEN0VJaWpfZzRES3NkdG5jcjhJT0hiMWpJWVlTbHkwdnZIaVRXY2x4d1V5RGdWYnp3YVpHNEtvUEozU3ZtVndmVXJydGc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Awful Announcing"
       },
       {
         "headline": "Duke Basketball: Game vs. Michigan moving to Miami Marlins stadium per report",
@@ -106,6 +115,15 @@
         "description": "",
         "published": "2026-06-03T12:00:02+00:00",
         "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNdnBGckZLd3g5NHFjZHk1b2pOTUg4eWdfa21tbFJNZ2N4NkJvZWxZVmhPeXItQWNyd3RuVFFvODJxNnA4OVN3TVhVU25Zbnc0UVFRcHZtcnpNd0swYjZtTkx4QXVCSU9FNHJBRjd6ZFN5UzdiZGktV0ljSW5tcHA3bXI4amtyS0hzN3c2LTZHZw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Who NBA Scouts Are Comparing Duke's Cameron Boozer To",
+        "description": "",
+        "published": "2026-06-03T11:00:05+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTzUxdGdDaWJjVVU2QldPT2NEZDJKS2VCTnNwRGZNQlNpcnVScjVCOF9peDNfVmhmNko5SmVrN3Mybmh4bXdnQWhQdXVmNEdFR3p4VUEwUmZSakFvWWczMEF6bFBITkRMUlZQQThocnk0a0ZQMWNmbVBaVWNWR2Jfazdob0FDdkpEVldB?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
@@ -235,24 +253,6 @@
         "image": "https://a.espncdn.com/photo/2026/0531/r1666434_2_1296x729_16-9.jpg",
         "recruiting": true,
         "source": "ESPN"
-      },
-      {
-        "headline": "Duke basketball, Jon Scheyer's 2026-27 ACC schedule set",
-        "description": "",
-        "published": "2026-06-01T13:44:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNcmR5RDAxUFpEc1hERVd0YlcyTnlBR3d1WnZ4QldxclhfMDNQZ0NBUkczQ2pZemZpNnRlV2xrN3JOYXVVTEd4Z2NCZkdsNlBYYmV6UjNCYWxEVFpVZ1dxUEg4cDlaWEFWcG1rNTRBUTVCNlRXaHRBMy1sNUFpQTZpZ3ZBNlFnbzZSbWh5ZXB3RWVuQXptVDVyMEpwRm1YZkRrOThnZS15R3ZRQTkwM19rU0NUUjloZ3ZOVjhNZzFNbnB4ME0?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Fayetteville Observer"
-      },
-      {
-        "headline": "NC State\u2019s ACC basketball schedule includes no home games against UNC or Duke",
-        "description": "",
-        "published": "2026-06-01T12:24:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUFh3YzZLUi1lNlFlS08yc0hMZ1lpbTRpbi1CZkRsTE1xVldrQThtWFJ4eE9LWEpKOTNRM0I3dFdFbUVOalFUTjhpa0Z1blFwLXdobWVsLVNpTTI1TE81MkhNTkJUS3hjNmdGOXRaLTVCUGtCQU04c2hjbG80VjM1dG9pWlVqWXZYZWJvbUN0Uy1SUC0zeG5JRl9LWEE1cWFydzNYMk53NWVvMldCbWY0YjEtSE1pM1c1d0tNMTBjdTB0TExQTHFxTmhpc09Jdw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Backing The Pack"
       }
     ],
     "games": [
@@ -487,10 +487,19 @@
     "news": [
       {
         "headline": "2026 NBA Finals: Biggest takeaways from Knicks-Spurs Game 1",
-        "description": "NBA insiders break down the biggest takeaways and what to watch for the Knicks-Spurs Finals series showdown.",
-        "published": "2026-06-04T04:23:59Z",
+        "description": "NBA insiders break down the biggest takeaways and what to watch for the Knicks-Spurs series showdown in the Finals.",
+        "published": "2026-06-04T04:40:11Z",
         "link": "https://www.espn.com/nba/story/_/id/48940704/2026-nba-finals-biggest-takeaways-highlights-san-antonio-spurs-new-york-knicks-championship",
         "image": "https://a.espncdn.com/photo/2026/0604/r1667922_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Brunson keys late surge as Knicks steal Game 1 in San Antonio",
+        "description": "The Knicks kept it rolling in Game 1 of the NBA Finals, getting 30 points from Jalen Brunson and erasing a 14-point second-half deficit to beat the Spurs 105-95 for their 12th straight playoff win.",
+        "published": "2026-06-04T04:30:38Z",
+        "link": "https://www.espn.com/nba/story/_/id/48962034/brunson-keys-late-surge-knicks-steal-game-1-san-antonio",
+        "image": "https://a.espncdn.com/photo/2026/0604/r1667957_600x400_3-2.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
@@ -513,40 +522,22 @@
         "source": "CBS Sports"
       },
       {
-        "headline": "Brunson keys late surge as Knicks steal Game 1 in San Antonio",
-        "description": "The Knicks kept it rolling in Game 1 of the NBA Finals, getting 30 points from Jalen Brunson and erasing a 14-point second-half deficit to beat the Spurs 105-95 for their 12th straight playoff win.",
-        "published": "2026-06-04T04:05:48Z",
-        "link": "https://www.espn.com/nba/story/_/id/48962034/brunson-keys-late-surge-knicks-steal-game-1-san-antonio",
-        "image": "https://a.espncdn.com/photo/2026/0604/r1667957_600x400_3-2.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "These famous faces were spotted at the Frost Bank Center for NBA Finals Game 1",
+        "headline": "NBA Europe Will Feature 12 Permanent Teams, Four Open Qualifying Spots",
         "description": "",
-        "published": "2026-06-04T03:38:51+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQRHk2U0RVNE82bG1UMm4yVnMxaTdsT1VHV2ItRFNCODYxUEZRcHBiSW5wdXdMbngzamtQcEFlZzBRX3htdWVYU0pKR0d0ci02akducEZyUVpEalpnM0N5VUoyWmRyaDhVRjdsOFhIQ2tuWmFKVm1PTVh6QXVkWTh2QTJYNm1YbUkyVHpvd2ZTRkpxWlF0dnpCWmFIX1BMb0lRNk12MERMU0VnUEVFZW9sclRfOGFGUE1VNDNrU1VERQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "KSAT"
-      },
-      {
-        "headline": "The Knicks are the comeback kids \u2014 and now, they\u2019re 3 wins away from an NBA title",
-        "description": "",
-        "published": "2026-06-04T03:22:51+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQOG1nZEdOa0NaOEZpTUNQMHMzZmFMQndkbFNzZVp2OG4wWFgwUnVuME96QWZVTzM5R0l0RXlGR1RqcjF1Q2p5T2QtYzhrc3R2QlR2M29ILTd3NzYtTWNzaE9nckgyZ2pDYUNnb2o3UXFGZmVObEFTZE1YNUxNMUdKSmN4bjRXU21mdlNmSlUwRzRPQjFjd0FQd21VYUJIX0VacElIODFRVmc5QXRqNkh6VFhON1RCTE44V0RTSFhB?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "New York Daily News"
-      },
-      {
-        "headline": "Adam Silver: NBA Not Necessarily Looking To Have Different Champion Every Year",
-        "description": "",
-        "published": "2026-06-04T02:31:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPX29LUWJwVEwtSUowVVlVSXlfNDN6dGc0VUtuekZmeURlUnBfRU81MXBsSlVxY2s0QkZiRkdyb2lyR0VxYWdhNnZ3VzZza1N5ME5uSEQ3cXJhN3hJS0tmekdld1BBYUJtRTdxQk11Z2hDYmQ3Wk1HRlJ2SWlPMEQ3OGRzVUsya1l2WUZzR2xGVWxqVzZYZ2ZQOElLT2tpdEVBbkVxY3NLTFFNRkxTeTB4OFZUMzNLcmRXX0dLZ3lMSQ?oc=5",
+        "published": "2026-06-04T02:50:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOeHpKMFFJc0lWSjRyWktIVEp1OVFJYTR2RThld2w1aDVmYjVrSldPN2l4N3RPMWxXbnVPN3VoV1lRa2FsZ1NIS043UWg2dHRMMkFxeU8zalh5eFJpUl9oa3VuQlAzRTdxVUtoN3hBQkFNTXBaVHpRS2dPZVNsMGx5R2Z6WHVzQ0tfN3B5NkFjQVMwdVprVTJoQk92bWRkMksxUDlBVENoQmZqUHkzR253VlpYV08?oc=5",
         "image": null,
         "recruiting": false,
         "source": "RealGM"
+      },
+      {
+        "headline": "Charles Barkley\u2019s biggest Knicks concern after start of NBA Finals: \u2018Terrible\u2019",
+        "description": "",
+        "published": "2026-06-04T02:13:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaGxEWnp6UDZBSmN5WTYxZmcxcVV6VmVDUGVMZWF5LTRfNGdnd3JIa0cweHAwLV90SVlsSWNMcGEzVVRzRjhmZ28tWXpqT3VicjZzeWJqbWhBb3ctQl93LS1lWk01blJOaHhtRU9LQS1USnBvN29XWmxTYkVDUUZvT0pDdEJGc0NCUGlVOVlXc1RRaXMzZ0JUam91TUc0bExBdjJEUTV3?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "New York Post"
       },
       {
         "headline": "Greatly improved NBA Finals presentation answers prayers of basketball fans",
@@ -567,15 +558,6 @@
         "source": "KCCI"
       },
       {
-        "headline": "Adam Silver anticipates 2027 launch for NBA Europe, with a 16-team league and limited promotion system",
-        "description": "",
-        "published": "2026-06-04T01:02:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOeW1hUW9Cb19hLVRKRnFZZW1DbXNnQk1vU1MwM2hsRU5kdnIzRGRfa2lHM1VvbmxjakFfOUl0N0Y4SGxOcW40RWpCWWw1SWFHbWtwM2pDUllwTml3ei04Y242RnBMU0Q0WVBmLVRyY1FMOE5RRVZPU1YwdUxxc1dIUl8tSjU3VHpsQ2NIakVHTENWZU5LZUdLX1BwQVBVdTVaQXZua0o1WG1JVkJZZktHNFN1VmVKQW5yNjFDMTk0YjZXWUFKZXY5WXpKcWJTTEg5T2FNZmp3MkVYQXVzU3NJUFBYajZCa1hL?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "Adam Silver: NBA interested in multiple groups in Las Vegas, Seattle",
         "description": "",
         "published": "2026-06-04T00:22:00+00:00",
@@ -583,6 +565,15 @@
         "image": null,
         "recruiting": false,
         "source": "Las Vegas Review-Journal"
+      },
+      {
+        "headline": "Commissioner Adam Silver, at finals, says NBA continues to move toward league in Europe",
+        "description": "",
+        "published": "2026-06-03T23:52:08+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNSmZNZlg2VWYyUEhVNE4yejVuS2EwRmR6QjM2SkZtemhxaXpLeV9wNDJCd3VEOHVTN3VqMTRCZ21xYkgxR3lUMkZHUmhta0NqSHloNG02Tmp5ZmxkRUFFdW5CYUs0UksxelVzb2J5eEhURHh5Y2hOY3MwS1VvYzVDZTZmR2cxdHhJbXJidjUxQzUxeHhBNENPekdyVThkVUE1V2lRNnRHQkJUNTV2S2tnb2ZCWGt1bFZGeUdfNTBGUTlfWWM?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "KSAT"
       },
       {
         "headline": "Looking for NBA Finals seats? The Knicks are making 2 in celebrity row available in an auction",
@@ -616,6 +607,15 @@
         "description": "",
         "published": "2026-06-03T18:55:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRDc5Y1Q4UktuVDNVQllONDVTRWI0OVZMc21KbnB0RmRDVW90QUpISHdKTktWazBCUTEzWWZYYlE3XzlNQ0M0WDJqSHVrX0ZUUlpQbEpJNmJ1aGp6R1hmdXpyYUE4YVktMUl5LXpUTjctQjJHanZXOTRNX25QTnhHVkFvQ1A4dEE2VTZyTGd4UEJURzRHbElDQzF6RHJ2Wlp6Zy1JY0d3Mlg5d2xkZ00xU0s2el9NSGc4VzZzbg?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Rozier asks judge to modify release terms as NBA free agency looms",
+        "description": "",
+        "published": "2026-06-03T18:52:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxON1RLZUI1TmdJR2J0enJucnBoQjEtMmpMZkRTLUtIdkctcmppX0dqb0RJczg2RHpMNGxrN1pxN09OU1FkY01lNUxOZUNVZ2xVdDdRb3NvYVdONlg2U2MwQzFGQ1RYMDk5NU4wRmViUUQtbmNWNkMzbnFVY0lZcVoxV2NlQm9Kc0QyU3BRbjFnOER6UGQ3RXVmSTVxVzg1ZFpxVzNzaW9PNGs?oc=5",
         "image": null,
         "recruiting": false,
         "source": "ESPN"
@@ -657,15 +657,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "Ranking every player in the 2026 NBA Finals: Knicks vs. Spurs",
-        "description": "",
-        "published": "2026-06-03T11:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaWtjQnZlMlcwdFUwbnJjeVEwS3pSOHlGQUY1dFh4bkN1MS1ra1VvaDBYNzNXRGZXRXlrV1NXNUZmUENDazNLbDhnMWV3VV9CZHpYMjFQcldBWnlNTjZCWEYwMkNwdmRIUVUzT3JQV2JxRDNwNDhwZE5SeXh0b1hNRzdMcXJqOXdsTTBacGpEQmF3OEx3RnVSWjJkVDhZZlF4bFVEcm5FWVRhQmV2a2s3bEJ2OA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "The basketball-crazed Philippines will have a champion when these NBA Finals are over",
         "description": "",
         "published": "2026-06-03T10:00:00+00:00",
@@ -675,6 +666,15 @@
         "source": "AP News"
       },
       {
+        "headline": "NBA Finals 2026: 'A culmination of what a life's work in basketball comes to' \u2014 How Karl-Anthony Towns' emergence powered the Knicks to the grandest stage",
+        "description": "",
+        "published": "2026-06-03T01:36:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwJBVV95cUxQNmRVa3M1T1VlTGp3eHFYdzYyeEYwTElRU0tTc29YeGpQcm5SWHhTeUNQejRtQmM2dkJsMVVRbFJfZzFkVVNKUGdGcjRiX3dWRXJCbUZBZkN0Z3RWbTE5cE9Ed2tmc1BsQVpKNUtPWURrVW5TbXRUVmM3VzhKRldhWXo2Si1MazVaS0d3YWkxRW5DcDZpOFFESTZETmRObjdkeGtjSkF4SlZDbklVQTJsYU5Vb2FWN215STNKNHJkbzZ5MU1CZGZfVWlVc1JFZVJYR0JFSE12eDdhMmtwS0tOcTh1NDQycjQ1WmRoSW1Ec0pXYW51RmpfR2VRaWdVSWwxVGZTeWE2bDNfTzdFNmZJOGVJX1dBaUdlaksyTmNmbFZYVmZ5Y1R3?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "Dom Amore: Dan Hurley has to root against his favorite team in NBA Finals; \u2018I\u2019m rolling with Steph\u2019",
         "description": "",
         "published": "2026-06-02T16:54:44+00:00",
@@ -682,15 +682,6 @@
         "image": null,
         "recruiting": false,
         "source": "Hartford Courant"
-      },
-      {
-        "headline": "Former NBA coach, Basketball Hall of Famer Rick Adelman dies at 79",
-        "description": "",
-        "published": "2026-06-02T15:11:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZjJnN3RNZXpJb0VYUHgxVFRhVl9MWHZMY0YyUlpoVldjUU5ybTYydExiQTJudUx4clFKZ0FBMkpKSF96VGdVLUkwUk5henNGcTVrRE4zb0VvQ0UwQlRwQ0xaeFR6d2E3SWljZFdzZWh6YUJyOWZLNFhKcjZmM2tDZUN6VzM1NzZwOFVVUUJjbEs0MTVZRmVkMVp5TUE3WGJLV2FHV2FRdEN6dllIRFhkM3lZWQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "USA Today"
       },
       {
         "headline": "Basketball gods blessed fans with most compelling NBA Finals since Warriors-Cavs",
@@ -736,6 +727,15 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Jason Collins, NBA's first openly gay player, dies at 47 of brain tumor",
+        "description": "",
+        "published": "2026-05-12T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jby13SFFxV3ZjS1g1aWVRMWxNZGctbUEyY2ptU0Npa29lc0VUZ0RrTWhlOVBhV0s2MlhjaFhjNGZTY2l1amctbXlZNmdubnJvU3Y1Q09wVVZkZ2x1Q1B1RkRsNFpuNTZGTlp3b3JmZU8tTkE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NPR"
       }
     ],
     "games": [
