@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T17:28:43.928208+00:00",
+  "generated_at": "2026-06-04T17:43:49.813525+00:00",
   "duke": {
     "news": [
       {
@@ -10,6 +10,15 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Business Journal"
+      },
+      {
+        "headline": "NBA Rumor Offers Duke and Michigan Basketball Fans Very Worrisome News",
+        "description": "",
+        "published": "2026-06-04T16:30:59+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUzUycU45eWk0ZHdnV2s5V2dQYWF2ZjZ0WENXVzVqczlwVEtJQjBONTQ0UzRqOWJhUWZFd0U4cmxVS3FWd1lUckFCbTlWcHpNSXJqN2s1WGFvSlpadkhPY1ZOenQteG56eExNRl9GYkdfbHpzMmtDVXluaUhOdE5ieXdTb2tZVWNMWXMxN2tQSkszQTRoeE1IRDRB?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sportsnaut"
       },
       {
         "headline": "Duke-Michigan Hoops Moving to MLB Ballpark to Skirt Rights Issue",
@@ -34,15 +43,6 @@
         "description": "",
         "published": "2026-06-04T15:00:03+00:00",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNUm5CMGJMZGF2VUtpcDZxWnR1Ti1tQjh5TEZPb0JhYjZIcVkwS0I0OVNNLUU2NDROdVNhNGNFYkpCZ1BpWER0d2ZYbmVMbW5tY0J1SzJPUjh4cXlraW9qTzlISHVCeEpNdTQyWGlReEV2YnEwM20tLXdTdDZSdlAwUEd2bDZkYTdpYVJKR2VvS18tc2NaYldXZm1CSVgway0x?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Why Michigan vs. Duke Blockbuster is Moving From The Garden to Marlins Stadium",
-        "description": "",
-        "published": "2026-06-04T15:00:02+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQTkxIdDRCNWVuSEx5SVRRLXM5OC0teVNMOF8tSjVFTzR4SWYzWVpVclBpaTBJaXZIVF9xS1N6UWhjTnE1Vl9XT0hGTnNNUWhKOG5DVFFyZmxYNlh3VnJPTG9NUlA4cHFGZ053NDM2emRQUmhGYzVCUGVSdG5QWVQwUjBTVGtCX3dOWVRZdm4zSHhtQkpoejlpNWxaSUFHN2VPYkhHclhQci1CUk9WajNLVEN4R1VyVVRFclE?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
@@ -75,6 +75,15 @@
         "source": "Sports Illustrated"
       },
       {
+        "headline": "Michigan and Duke Will Reportedly Play Men\u2019s Basketball in a Baseball Stadium",
+        "description": "",
+        "published": "2026-06-04T11:05:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeEw3VkhXa3dVaUtBWFpaUFNzbXpJaDRkd2JrWXF3djd3MGdCMzlfNmlGd3BzaVB3ZGgyNWltdmttTFkwcWpPRURWSVRvR0poYjY5Y1h1MTY4Nk8xWXRNSnZWSnZsX3pnWVh5aXhaZWg5SEhwSHBVRDV4a0dhczd3X1BJczluMkNURDE3N015bDlvaGc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
         "headline": "Duke Basketball Still Being Underrated Despite Stellar Offseason",
         "description": "",
         "published": "2026-06-04T10:00:01+00:00",
@@ -100,15 +109,6 @@
         "image": null,
         "recruiting": false,
         "source": "Duke Basketball Report"
-      },
-      {
-        "headline": "Why Marlins are poised to host a Duke-Michigan basketball game at loanDepot Park",
-        "description": "",
-        "published": "2026-06-03T23:21:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE1tWjNUamJ3cHB3SW9IOHE2M3dpZVZzRFY5d1RWMVlyZXlCcng5UjdTdDI5MWlURjdtVG1OdFRCSnRxOUhDQ2dtekRRMm02eWVYejJ6d0ROT29sTkxiRGVxcmJSbXJjdVXSAWdBVV95cUxQSVdmcEh6OHBJM1BDeVhENkkwSjNRNldBZ2Y1dGlLYmxXM2s0dm5lR0NnSmdCZHhEZ1luWlBBTVBkcWJteUtYdzdIb0kxVGNyemh1dEVwM3ktdlhlLXRhZkx6WVU2RVFj?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Miami Herald"
       },
       {
         "headline": "Highly anticipated Duke-Michigan basketball game reportedly moving from Madison Square Garden to MLB stadium",
@@ -486,20 +486,20 @@
   "nba": {
     "news": [
       {
+        "headline": "Two fans get lifetime bans over selfie quest at Gm.1 of NBA Finals",
+        "description": "Two fans involved in a selfie-seeking incident during Game 1 of the NBA Finals on Wednesday night have been given lifetime bans from all NBA arenas, a league spokesperson said Thursday.",
+        "published": "2026-06-04T17:29:42Z",
+        "link": "https://www.espn.com/nba/story/_/id/48966429/court-storming-fan-gets-life-ban-nba-selfie-quest",
+        "image": "https://a.espncdn.com/photo/2026/0604/r1667967_600x600_1-1.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "NBA championship and Finals MVP odds: Knicks, Brunson new favorites",
         "description": "The New York Knicks are now the championship favorites after their come-from-behind road victory over San Antonio in Game 1.",
         "published": "2026-06-04T17:14:53Z",
         "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
         "image": "https://a.espncdn.com/photo/2026/0604/r1668127_1296x729_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "Two fans get lifetime bans over selfie quest at Gm.1 of NBA Finals",
-        "description": "Two fans involved in a selfie-seeking incident during Game 1 of the NBA Finals on Wednesday night have been given lifetime bans from all NBA arenas, a league spokesperson said Thursday.",
-        "published": "2026-06-04T17:09:33Z",
-        "link": "https://www.espn.com/nba/story/_/id/48966429/court-storming-fan-gets-life-ban-nba-selfie-quest",
-        "image": "https://a.espncdn.com/photo/2026/0604/r1667967_600x600_1-1.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
@@ -648,6 +648,15 @@
         "source": "Las Vegas Review-Journal"
       },
       {
+        "headline": "Looking for NBA Finals seats? The Knicks are making 2 in celebrity row available in an auction",
+        "description": "",
+        "published": "2026-06-03T22:23:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOcEtjOFRxYUVRUzVJZFFBREtPNFBBT0pFUkJpV21RaDNzWFloMjlYcjFYVnBMUl8tQTdBakNDb0c5SUVYVDZYczBZWHpPeVp4Q0hLaXZiSDBCUnppQUR3Z1NSbnRJRVpGSFptdHhfU2FuZVlxMHlBekV4b2QzZWJ0ODhDUGR6TlZmSEk2VGdPcDRFUVVLcnlEX2FlZWppRl9IX1E?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "MySA"
+      },
+      {
         "headline": "A former NBA star spent 13 years homeless until one mayor decided to save him",
         "description": "",
         "published": "2026-06-03T22:21:00+00:00",
@@ -664,6 +673,15 @@
         "image": null,
         "recruiting": false,
         "source": "AL.com"
+      },
+      {
+        "headline": "NBA Finals: Victor Wembanyama, Spurs have already made history",
+        "description": "",
+        "published": "2026-06-03T11:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOdV9wZFNOTGJreU1kNVVMc0tPWGJCd1FKWTIzamlQbzVNQUFfcWRHWWJ5ZWlIMU1NNzVUSHFFdVFaTlVCb2Z5clAwMW5IZzlXUF9icF9UV25KM3ZhRm1OOTVIQkdOb1hNOVRGRGdxT0w2RF82YzBhcTFVZTduUmVDb25vOU5VYThFUDdKM1cwZ2Z4aGhCMGNRSnV6QVBrZDVsQmRYN0owWHpxUjZkaHJPZHBmM0hjSWNQOWRTZHVadUQzckJLQVlnMnJqYTU?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
       },
       {
         "headline": "Dom Amore: Dan Hurley has to root against his favorite team in NBA Finals; \u2018I\u2019m rolling with Steph\u2019",
@@ -718,15 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Jason Collins, NBA's first openly gay player, dies at 47 of brain tumor",
-        "description": "",
-        "published": "2026-05-12T07:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1jby13SFFxV3ZjS1g1aWVRMWxNZGctbUEyY2ptU0Npa29lc0VUZ0RrTWhlOVBhV0s2MlhjaFhjNGZTY2l1amctbXlZNmdubnJvU3Y1Q09wVVZkZ2x1Q1B1RkRsNFpuNTZGTlp3b3JmZU8tTkE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NPR"
       }
     ],
     "games": [
