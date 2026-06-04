@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T23:51:43.551217+00:00",
+  "generated_at": "2026-06-04T00:06:51.657602+00:00",
   "duke": {
     "news": [
       {
@@ -50,11 +50,11 @@
       {
         "headline": "Predicting Duke Basketball's Ceiling and Floor ACC Finishes",
         "description": "",
-        "published": "2026-06-03T16:30:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR1o0U3lnTlItdUphMUJfWlBLWjFFNGtsRklSa2lFTzhzWEozdC1jWFRtdmRQYjA2d2NFWnRKQkJ3aU9PTE1Ib0txR2JqZmtPNjRiemh0OWdvclJtelhwNWJuTjcwb3E3MkRGdlE0ek9DeHZNWXNoWHNTVEUxd3lDZFRJRV9OZVkyb0ZIbGVuYnFfTEVy?oc=5",
+        "published": "2026-06-03T16:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPdF9mWnUtRE45UDljV0piZ2VzZ29Kc04tN0gtY0hGMDBlUjR6SFMzU2RlNmVfb0FGTFd0Z3FQS1EtU2VMa2ExU3MzZmpSSWxJUjRKNE1VTGd2RU5qYnJKZHRqQURmZEpBVjlSaFV2dmp5RFNpVG10ckozYlJuMDN0S1FiekVvbjhINURncUlWVXRZRHdnYlg4?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Yahoo Sports"
+        "source": "Sports Illustrated"
       },
       {
         "headline": "CBS has Duke in a tier of its own in way-too-early ACC basketball power rankings",
@@ -109,15 +109,6 @@
         "image": null,
         "recruiting": false,
         "source": "247Sports"
-      },
-      {
-        "headline": "Jon Scheyer makes 2 cutting-edge additions to his Duke basketball staff with NBA ties",
-        "description": "",
-        "published": "2026-06-02T18:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNdjlaaGpSNzNvUU5wa1hjWWVTYWpnRHFHVGw3LWU4UmRaek9VRWxTVUU1ZlNBaWZmZXk5cVBPRDlBc2VBN3Z2aVdPRG5pYVExdWpfYlBET2xJWGFLYkF3enVZNkwtQlhzNG1DNnZEVnY4ZWJhSlRyWVJ0SjhIVWVNUUJWdWRtY0pOb0lVZ1ZNOUF6UV82c2dwT29WZE9YZEFnQ2hsaUc2bi1PQWNa?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Ball Durham"
       },
       {
         "headline": "Duke men's basketball hires KJ Conklin as assistant coach, Alexander Powell as executive director of basketball",
@@ -253,6 +244,15 @@
         "image": "https://a.espncdn.com/photo/2026/0528/r1664955_608x342_16-9.jpg",
         "recruiting": true,
         "source": "ESPN"
+      },
+      {
+        "headline": "Why Duke's Evans Makes Sense for This Western Conference Team",
+        "description": "",
+        "published": "2026-06-01T12:00:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYm1OZlVFNjV0elJiVXBYeG0xb0FWNGtGZ2MzNnBpVWtmLTRHNTRUTGtVZV9MNFRRZEtyWl9JWjE4c2szandZTXFjSTYzSWZIX1d5SnNtajlNSVBKTTdsc2ZWM0NGNUdOX2JNajlObWtHWUlQRkM4Um16S01oRVo0dENEeE5zQkZNX2tMUU5veDR1T3c?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
       }
     ],
     "games": [
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Knicks vs. Spurs live updates: NBA Finals 2026 Game 1 start time, picks and predictions",
+        "description": "",
+        "published": "2026-06-03T23:40:07+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMnk2Q2tmVTV3T3g2eGtDRS1KTnppd0x5alNBdm02VzBFbndZTnF5Ml9OQmRnRXhjNFBjbTVkU2lPa3VIVVBacDgydDhhNWJvYUlvZnNhT1owTTZaZGJ2azJVYmJ2X0J3OHdRMjdkUHFKNzNlemNtZ0dNQ0FIVnBCcW9HSWVCejl2d1l6R25NandBaXpjbXFsYlhrM0ZoRURqNkpPVUpxc0owWVRiMWY1MDdDY2xYTHhxR0NlMVF1RQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The New York Times"
+      },
+      {
         "headline": "Wizards Considering Trading Down in Draft - NBA News | Fantasy Basketball",
         "description": "",
         "published": "2026-06-03T23:38:46+00:00",
@@ -531,6 +540,15 @@
         "source": "CBS Sports"
       },
       {
+        "headline": "Where to Watch Knicks vs. Spurs in 2026 NBA Finals Live Online",
+        "description": "",
+        "published": "2026-06-03T20:00:22+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEtvME5JSWRnSl9BZndFVlYySEZXU0YzaXZ0Vkt1NlBHRF9qcUJvMTM2RGMyZTd1WlM1Q185UUNTR2JuVF9WaXlhVEFuOHdnaVVhT3ZaZUFxRk9lSDBHZUZwZk9lWTVCclB3Y0gyejJwSS1UcTJ3Z1lUdUxwTGkzSFNrMldORXBUX2xSRF9DSXBldnpmUXVTWUJPN3g3SHR3eG5pend3VnA4MkIxYWU5c3RqUmlkeTQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Hollywood Reporter"
+      },
+      {
         "headline": "How to watch 2026 NBA Finals on ABC: Knicks-Spurs schedule",
         "description": "It's time for the 2026 NBA Finals! The Knicks and Spurs go head-to-head to crown this year's champion. Here's how to catch the action on ABC and the ESPN App.",
         "published": "2026-06-03T19:55:27Z",
@@ -538,15 +556,6 @@
         "image": "https://a.espncdn.com/photo/2026/0603/r1667746_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Recapping the NBA seasons of former Ducks in 2025-26",
-        "description": "",
-        "published": "2026-06-03T19:36:55+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWmEweTZKcTRkSWFza0ZjRUVOQ2YyS3NBeURWUXlRemZ6NmxXTXJ3MnFpMy00Y0NvdzVmTVE0QVhBbFVFZDNFcjY5MmFBSWpfTjc5SndZajJUNEtvYzZCcmNHWWNjN2Nmd3F1b1FGampkUGEzTkRDTVBMaFcxczRhRXhrd2liV01Ga3pLTXhGdFQxUVdRRWNncXpoUVlaYkl6YlhxNzBB?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "247Sports"
       },
       {
         "headline": "Rozier asks judge to modify release terms as NBA free agency looms",
@@ -594,22 +603,13 @@
         "source": "ESPN"
       },
       {
-        "headline": "NBA, Disney providing many ways to watch and experience the 2026 NBA Finals",
+        "headline": "Plenty of Arkansas basketball connections in NBA Finals matchup",
         "description": "",
-        "published": "2026-06-03T18:49:21+00:00",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9KdlVOeUtVT3ltQ05WNmx0b3dsMnhqc1JjZE9uYXNPU0dVMVFtTWFJZ0l4VnRabE1UQjhhTFo1dDhTUG1PTDVQZHN3bUs3bGxBeHpkZEpMbVFvQUxJcVZvaHBSSDJJd2xOZzI4UWRiT0lORDhUSUlsVWhRQQ?oc=5",
+        "published": "2026-06-03T18:03:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOUXZIa2N1cjB0VWMtOHBRYndvbFY3NFVHMmZycXZYUmx2MHYwZm5hWEU0cmdXUXltS2FwdUd2TzIteUoxRk5SdERQdFF2N2xZeGhlZm1Ga1lUbkdxSkFBckY1ZEJwZ3ZZS0tvS2J2ZEVIck00SGlrNWd4b2lSSnRQM0tzcGJfNkxONHpfbHBHbUp6c1Zad3ZRWFBBaDVaUXZqaW5JVXMxRE5yRzBtSjZfV25aZXZUTjlzWkVHMTUzWTFEV2c5ZHBCR0txUG9GOHUySV9mLWpRTnNpSDlhUFZN?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "NBA.com"
-      },
-      {
-        "headline": "Why a Spurs-Knicks NBA Finals can be a frustrating reminder for Kings basketball",
-        "description": "",
-        "published": "2026-06-03T18:24:06+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPQ19oWnZaZ293REpvRVNzc2psalRtN2V1Z29xYkZiMDlramMyLWthaVg0VENBTUJSVHpRQXdPWWNYNUdRTDgtanM4ZFdVZW5OZ3FsSWRsVzVhNUE3TWx1NGRFRFBkRDZ0U291dnQ1NGpLX2QyUVd6ZEF3OFNDMHFHVEFRS29RYktLclE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The New York Times"
+        "source": "247Sports"
       },
       {
         "headline": "Former NBA star rejects Alabama recognition amid Supreme Court map ruling",
@@ -637,15 +637,6 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Free options to watch Spurs against Knicks in NBA Finals",
-        "description": "",
-        "published": "2026-06-03T17:15:38+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNVW1EcVhKRkNZY1ZaWEZkLUxGR3o1dWhnb0tOeE9xdmV3R0Ztdkd1dC0tZnUzelA2WHd4dWZ4ekV5ZmhTMWtwQnhnV216TV9Nc0RqdGdrM1FyRXVRQnJBTU1VUm55bmduSXQzaHdKV3NHUFdQVldwYmdJQlFoOTN5LVlyN3BSZXdQZF9HS18tOUxsT0VYekYtbzduMkszSThSUzlYNzBQVnNMXzRLWGFELXVn?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "KSAT"
       },
       {
         "headline": "Exclusive | President Trump plans to attend Game 3 at MSG as Knicks host first NBA Finals in 27 years",
@@ -736,6 +727,15 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
+      },
+      {
+        "headline": "Dom Amore: Dan Hurley has to root against his favorite team in NBA Finals; \u2018I\u2019m rolling with Steph\u2019",
+        "description": "",
+        "published": "2026-06-02T16:54:44+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPUUViQ2NEcml6NnJTb2g2b3o5elFLd05tRF9SRTE5OFIxTzFmQjNDU2lWYjZaQ1h0c3hJbHlaVlZETkhGbjJhVS1Pb1Z5RjlqUElHZXpFc0x0N05FQnIxckVIRW5VNV92VllrbjBORE9oQzNaQ3FLV1hXeUhBWDlVcEwxMlFHUVdjdGIzWGVDRUx2d1VwVFJDbEtpLXIxMHFSVnk5UjFSSjdPTHExUHJCaGJRa3FnOERtUmNQc3lJQmYxVlFQTnllRVJ3?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Hartford Courant"
       }
     ],
     "games": [
@@ -746,6 +746,47 @@
         "state": "pre",
         "completed": false,
         "status": "6/3 - 8:30 PM EDT",
+        "competitors": [
+          {
+            "abbr": "SA",
+            "name": "Spurs",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
+            "score": "0",
+            "homeAway": "home",
+            "record": "62-20",
+            "winner": false
+          },
+          {
+            "abbr": "NY",
+            "name": "Knicks",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
+            "score": "0",
+            "homeAway": "away",
+            "record": "53-29",
+            "winner": false
+          }
+        ],
+        "league": "nba",
+        "leaders": {
+          "SA": [
+            "Victor Wembanyama \u2014 25.0 PPG",
+            "Victor Wembanyama \u2014 11.5 RPG",
+            "Stephon Castle \u2014 7.4 APG"
+          ],
+          "NY": [
+            "Jalen Brunson \u2014 26.0 PPG",
+            "Karl-Anthony Towns \u2014 11.9 RPG",
+            "Jalen Brunson \u2014 6.8 APG"
+          ]
+        }
+      },
+      {
+        "id": "401859964",
+        "name": "New York Knicks at San Antonio Spurs",
+        "date": "2026-06-06T00:30Z",
+        "state": "pre",
+        "completed": false,
+        "status": "6/5 - 8:30 PM EDT",
         "competitors": [
           {
             "abbr": "SA",
