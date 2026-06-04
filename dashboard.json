@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-06-04T00:06:51.657602+00:00",
+  "generated_at": "2026-06-04T00:22:00.349418+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "Broadcast conflict reportedly sends Duke\u2013Michigan to a baseball stadium",
+        "description": "",
+        "published": "2026-06-04T00:08:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQM0dhZVN2WnlMNlBNOVhZUkRqeUJzc1dSRmprT2hGUGE1WG9faHZTSml3NTZ5RWhwX0lZdHQ0M2QxN0JFaGNWMjkyVVBwT3lTTmo3bnVnaURXeHRvdUlyUGd3dUdaR3dUeENEN0VJaWpfZzRES3NkdG5jcjhJT0hiMWpJWVlTbHkwdnZIaVRXY2x4d1V5RGdWYnp3YVpHNEtvUEozU3ZtVndmVXJydGc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Awful Announcing"
+      },
       {
         "headline": "Duke Basketball: Game vs. Michigan moving to Miami Marlins stadium per report",
         "description": "",
@@ -244,15 +253,6 @@
         "image": "https://a.espncdn.com/photo/2026/0528/r1664955_608x342_16-9.jpg",
         "recruiting": true,
         "source": "ESPN"
-      },
-      {
-        "headline": "Why Duke's Evans Makes Sense for This Western Conference Team",
-        "description": "",
-        "published": "2026-06-01T12:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNYm1OZlVFNjV0elJiVXBYeG0xb0FWNGtGZ2MzNnBpVWtmLTRHNTRUTGtVZV9MNFRRZEtyWl9JWjE4c2szandZTXFjSTYzSWZIX1d5SnNtajlNSVBKTTdsc2ZWM0NGNUdOX2JNajlObWtHWUlQRkM4Um16S01oRVo0dENEeE5zQkZNX2tMUU5veDR1T3c?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
       }
     ],
     "games": [
@@ -486,13 +486,13 @@
   "nba": {
     "news": [
       {
-        "headline": "Knicks vs. Spurs live updates: NBA Finals 2026 Game 1 start time, picks and predictions",
+        "headline": "Knicks vs. Spurs score, live updates, where to watch: NBA Finals tip off with Game 1 from San Antonio",
         "description": "",
-        "published": "2026-06-03T23:40:07+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOMnk2Q2tmVTV3T3g2eGtDRS1KTnppd0x5alNBdm02VzBFbndZTnF5Ml9OQmRnRXhjNFBjbTVkU2lPa3VIVVBacDgydDhhNWJvYUlvZnNhT1owTTZaZGJ2azJVYmJ2X0J3OHdRMjdkUHFKNzNlemNtZ0dNQ0FIVnBCcW9HSWVCejl2d1l6R25NandBaXpjbXFsYlhrM0ZoRURqNkpPVUpxc0owWVRiMWY1MDdDY2xYTHhxR0NlMVF1RQ?oc=5",
+        "published": "2026-06-04T00:02:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOSUU4TW1ncHVPcU9GbEZSSTRVay1QeFh6b1dFUGtwTk5jSy1GVzJqUDMwVzM4MWpFdmxkdXZuTjNLTTl1ZDcxRWU3d09weEJrVHlBVWlVMTlURkt0NnRxUVMzMUZGb0xfSi03TmlydnBLN3ZBNngtanptSW83ZnpTSVFjVUtXUVRrUHhST2VYR3BSSWV4c2Y0Sk1mWkFzYnRqcTNTcE10WkpqUmk5cEhjMU1SejhQa1ByR084bkZCYWNUa2x5YzdTUnpKUFpHMHNzejRxTGpBN05sa0t0SUxj?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "The New York Times"
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Wizards Considering Trading Down in Draft - NBA News | Fantasy Basketball",
@@ -513,6 +513,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "President Trump scheduled to be in attendance for NBA Finals Game 3 at MSG - The Athletic",
+        "description": "",
+        "published": "2026-06-03T22:15:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOaE83bWN2VkxhTVpNWHpMa1lYT21JZ1QwTV8ySWdtUFJacDBjS2dTUTg3QkRVV0RZcS1fM3c5eG5kUTcyT3lBMm9EVlpKR1NJY2xKZGltellYZFpORkZmbXd3bGhBdklhZF9CS21QQjN1LTJhV2UzQTVxNEl1X1ZLaEZDSS1BdGRFYjhCRDRDTjRYQ1U0dnVkQ2pZMTRFQkE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The New York Times"
+      },
+      {
         "headline": "Looking for NBA Finals seats? The Knicks are making 2 in celebrity row available in an auction",
         "description": "",
         "published": "2026-06-03T22:13:43+00:00",
@@ -520,6 +529,15 @@
         "image": null,
         "recruiting": false,
         "source": "Seattlepi.com"
+      },
+      {
+        "headline": "NBA Finals Game 1 Thread",
+        "description": "",
+        "published": "2026-06-03T21:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1mejZfcE9Ta0J5MURRX0pEZHliQkV5VWthMFNyQVFaTVRFcGdGbDJfRHFuam1QNktVZUVWNThCUXB6Q1RZOUgtVVRtZExWWUlkTDAzMDVlZWRKR01senA5NzYwU01mUnYtVDFlS0ZZQk1rNHcyVFM3d1RwNW1lZw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "How to watch Knicks vs. Spurs in 2026 NBA Finals Game 1 live for free",
@@ -538,15 +556,6 @@
         "image": null,
         "recruiting": false,
         "source": "CBS Sports"
-      },
-      {
-        "headline": "Where to Watch Knicks vs. Spurs in 2026 NBA Finals Live Online",
-        "description": "",
-        "published": "2026-06-03T20:00:22+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEtvME5JSWRnSl9BZndFVlYySEZXU0YzaXZ0Vkt1NlBHRF9qcUJvMTM2RGMyZTd1WlM1Q185UUNTR2JuVF9WaXlhVEFuOHdnaVVhT3ZaZUFxRk9lSDBHZUZwZk9lWTVCclB3Y0gyejJwSS1UcTJ3Z1lUdUxwTGkzSFNrMldORXBUX2xSRF9DSXBldnpmUXVTWUJPN3g3SHR3eG5pend3VnA4MkIxYWU5c3RqUmlkeTQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Hollywood Reporter"
       },
       {
         "headline": "How to watch 2026 NBA Finals on ABC: Knicks-Spurs schedule",
@@ -574,15 +583,6 @@
         "image": "https://a.espncdn.com/photo/2026/0603/r1667726_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "NBA Mock Draft 7.0: The latest on every pick of the draft ahead of the NBA Finals",
-        "description": "",
-        "published": "2026-06-03T19:07:46+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOM0xHOVNadVdRVFJBbFB1X0RxYTB5M1J6amtvYmRkN1JPTmJudE9WMlRnNzQxWWtGNmF6el9aVFVFTDdUbUl3X2l2dmdQcTZXa1JFeF9mb2ZXeHZpZGt6UVBIYTAyM1k0ZDliZmFNbWI3SThaQ3lRaHZjREl0bEprbjE4cWFfZmVBLXhSTTI3eG9lOFZUcnpDNVItbkRKWVE4RUhxeGJneExvSVZDTlBmYWY0WWJMS0p0THJXSU5xRGRscThyN2hzZkpoaw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "2026 NBA playoffs: Schedule, scores, news and highlights",
@@ -646,24 +646,6 @@
         "image": null,
         "recruiting": false,
         "source": "New York Post"
-      },
-      {
-        "headline": "Fantasy Basketball Picks: Top DraftKings NBA DFS Showdown Strategy for Spurs vs. Knicks Game 1 on 6/3/26",
-        "description": "",
-        "published": "2026-06-03T16:18:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPV0tkYTZNRXlFWnZtaFh5dURSVnJfYzlFekU3NVZYVTVZc1hyWGZSSG1fZmdVX2RTN0VDUE5XWDFfaE85d1JWdkNKZFMwcU5vdFRJMXMxSEREdmF0REpvdzFRUXEzYkczT0pOMzdYV1B4RFlWdlA0ek9nZWQ1OEZFOUt2MWdQZTZkQ19xOTBjMUZFd1VzOW5uSHl1MVpja3N4MGRVbEhscWNHaG50ajFlN1o0WUw4QzBjRmRoSmN3Y3ZSQ1JHXzZHcFJ3dW5CV01lcVlmenl5LVlzTjV4TkxxUA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "DraftKings Network"
-      },
-      {
-        "headline": "Here\u2019s how basketball fans can save $20 on NBA Finals tickets",
-        "description": "",
-        "published": "2026-06-03T14:37:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNUk4yaHlxaU1DdkpQdWRwZmpWcVVQb3M5eVVKLUFKZ1Vtc1JTYlBiSFRfYVRBanVUQTlzaGtGbjh4UDVZc2dfNGdFUV93NEQ5MlF1QlRQb2l3d0ZrOWhsekdyT3lzTW1XSHRBQjZFQnQzRGNMQk4wSmhRckNlTGlYZzZ4WmdVT2kzc3plX3dqdXBSOXgyajVOaF9pMHV3aXR4Z2VXTThib3Y2R0ctOHlBdTVMMEhwdw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "MLive.com"
       },
       {
         "headline": "Hall of Fame basketball coach, former NBA player dies at 79",
@@ -736,6 +718,24 @@
         "image": null,
         "recruiting": false,
         "source": "Hartford Courant"
+      },
+      {
+        "headline": "Hall of Famer Rick Adelman, who won more than 1,000 games and took 2 teams to NBA Finals, dies at 79",
+        "description": "",
+        "published": "2026-06-02T00:43:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0o5endKd0RvX3cwU3VrYVkzOGJuZURKbVNjcjQ4dFMweWY1OHNSS2dKWnUzaHh4TVI1WWR6bDZudjFJdDh3QmtPaEFkWG51dm85bTFabmJzUEk4eW9qNVlDSUZYM21OZkRjQzdTSGpQc2tyUjZUdHNUY3N1Yjl6amw2aWVUM0pV?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "AP News"
+      },
+      {
+        "headline": "Where the latest mocks have Michigan Basketball trio going in NBA Draft",
+        "description": "",
+        "published": "2026-06-01T18:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX2Foa3hWckZyQ01tRGdRUWw1VGQ2c0ZrSFJUeGNLWXdybm5OSlJtcVlxTFNiNHBEb0FPUy1fWHhydnM3bjRTcmtIbFo3NU0xOC1BcWZ1VUZjQlR4VGM1MjNRTm5keWJQY3VrV1NHd3pZN3hYSTdNbDJXTkN3Yk1HbUozWUxXUGk5N25vLXpDdzRlUmhxaDQ4elExLWZHeGVMNHo3bGs3eEJmOFk1bTNwTnROeUU5cF82TmJpY19YSWhpTEtYeTNjQkpqN1lLSzljUFE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Maize n Brew"
       }
     ],
     "games": [
