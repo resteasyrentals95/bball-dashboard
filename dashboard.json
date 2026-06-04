@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T02:11:11.097379+00:00",
+  "generated_at": "2026-06-04T02:26:19.962389+00:00",
   "duke": {
     "news": [
       {
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Ben Stiller, Manu Ginobili lead NBA playoffs celebrity sightings",
+        "description": "Celebrities have been out in style courtside at the NBA playoffs.",
+        "published": "2026-06-04T02:22:48Z",
+        "link": "https://www.espn.com/nba/story/_/id/48514336/nba-playoffs-2026-celebrity-sightings",
+        "image": "https://a.espncdn.com/photo/2026/0604/r1667920_4_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "2026 NBA playoffs: Schedule, scores, news and highlights",
         "description": "The 2026 NBA Finals are underway. Keep up with all the latest news, scores and analysis from Knicks-Spurs right here.",
         "published": "2026-06-04T02:10:11Z",
@@ -567,38 +576,11 @@
         "source": "MySA"
       },
       {
-        "headline": "\u2018Not the Type of Basketball They\u2019re Playing Today\u2019 \u2013 Draymond Green Claims 1 Strategic Change Helped Knicks Reach the NBA Finals",
-        "description": "",
-        "published": "2026-06-03T20:43:21+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUnVJQURRZFJCcDdMcmhSaUFDbVE5VU4yQ0hQNVc3UVVKQk5ONThwN1otaWVNRWZMdms2UnVrTjZ4bHRsSlJWZDI1SFprUmx0M0RiSjVubEdVQTMwMmZ0WExxZnhKRlVWZXFOeUNpV3FCYmtUVHJWNHc0d2czY1lLTnRYSUJyY2k2QXFGQ05lbm9UTGNxV1RpTllfazZjZEVKUmhxWTVtd1lNWFhITEVTbUo4cFNHQUxvRWpGRW5xMlQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "PFSN"
-      },
-      {
-        "headline": "Where to Watch Knicks vs. Spurs in 2026 NBA Finals Live Online",
-        "description": "",
-        "published": "2026-06-03T20:00:22+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEtvME5JSWRnSl9BZndFVlYySEZXU0YzaXZ0Vkt1NlBHRF9qcUJvMTM2RGMyZTd1WlM1Q185UUNTR2JuVF9WaXlhVEFuOHdnaVVhT3ZaZUFxRk9lSDBHZUZwZk9lWTVCclB3Y0gyejJwSS1UcTJ3Z1lUdUxwTGkzSFNrMldORXBUX2xSRF9DSXBldnpmUXVTWUJPN3g3SHR3eG5pend3VnA4MkIxYWU5c3RqUmlkeTQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Hollywood Reporter"
-      },
-      {
         "headline": "How to watch 2026 NBA Finals on ABC: Knicks-Spurs schedule",
         "description": "It's time for the 2026 NBA Finals! The Knicks and Spurs go head-to-head to crown this year's champion. Here's how to catch the action on ABC and the ESPN App.",
         "published": "2026-06-03T19:55:27Z",
         "link": "https://www.espn.com/nba/story/_/id/48958143/how-watch-2026-nba-finals-abc-knicks-spurs-schedule",
         "image": "https://a.espncdn.com/photo/2026/0603/r1667746_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "Rozier asks judge to modify release terms as NBA free agency looms",
-        "description": "Embattled NBA player Terry Rozier has asked the judge in his gambling case to modify conditions of his release as he seeks to recoup lost salary and pursue free agency.",
-        "published": "2026-06-03T19:22:04Z",
-        "link": "https://www.espn.com/nba/story/_/id/48958363/rozier-asks-judge-modify-release-terms-nba-free-agency-looms",
-        "image": "https://a.espncdn.com/photo/2025/1208/r1586827_600x400_3-2.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
@@ -720,15 +702,6 @@
         "source": "Hartford Courant"
       },
       {
-        "headline": "Former NBA coach, Basketball Hall of Famer Rick Adelman dies at 79",
-        "description": "",
-        "published": "2026-06-02T15:11:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQZjJnN3RNZXpJb0VYUHgxVFRhVl9MWHZMY0YyUlpoVldjUU5ybTYydExiQTJudUx4clFKZ0FBMkpKSF96VGdVLUkwUk5henNGcTVrRE4zb0VvQ0UwQlRwQ0xaeFR6d2E3SWljZFdzZWh6YUJyOWZLNFhKcjZmM2tDZUN6VzM1NzZwOFVVUUJjbEs0MTVZRmVkMVp5TUE3WGJLV2FHV2FRdEN6dllIRFhkM3lZWQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "USA Today"
-      },
-      {
         "headline": "Basketball gods blessed fans with most compelling NBA Finals since Warriors-Cavs",
         "description": "",
         "published": "2026-06-02T07:54:00+00:00",
@@ -736,6 +709,33 @@
         "image": null,
         "recruiting": false,
         "source": "NBC Sports Bay Area & California"
+      },
+      {
+        "headline": "Hall of Famer Rick Adelman, who won more than 1,000 games and took 2 teams to NBA Finals, dies at 79",
+        "description": "",
+        "published": "2026-06-02T00:43:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc0o5endKd0RvX3cwU3VrYVkzOGJuZURKbVNjcjQ4dFMweWY1OHNSS2dKWnUzaHh4TVI1WWR6bDZudjFJdDh3QmtPaEFkWG51dm85bTFabmJzUEk4eW9qNVlDSUZYM21OZkRjQzdTSGpQc2tyUjZUdHNUY3N1Yjl6amw2aWVUM0pV?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "AP News"
+      },
+      {
+        "headline": "Where the latest mocks have Michigan Basketball trio going in NBA Draft",
+        "description": "",
+        "published": "2026-06-01T18:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOX2Foa3hWckZyQ01tRGdRUWw1VGQ2c0ZrSFJUeGNLWXdybm5OSlJtcVlxTFNiNHBEb0FPUy1fWHhydnM3bjRTcmtIbFo3NU0xOC1BcWZ1VUZjQlR4VGM1MjNRTm5keWJQY3VrV1NHd3pZN3hYSTdNbDJXTkN3Yk1HbUozWUxXUGk5N25vLXpDdzRlUmhxaDQ4elExLWZHeGVMNHo3bGs3eEJmOFk1bTNwTnROeUU5cF82TmJpY19YSWhpTEtYeTNjQkpqN1lLSzljUFE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Maize n Brew"
+      },
+      {
+        "headline": "\ud83c\udf1e Things to do in June: NBA Finals, Yellowcard, SpaceCon",
+        "description": "",
+        "published": "2026-06-01T14:42:39+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOTU1GWFgzcm1lWjYwbGNrazU3em9KbDNXMVZyMGFyNndmZk5aTnhiSElma19LVzlkSTBLckVSQVJabnlyakk2czQtekpjTDJzWmQ0eXVMRDFyYldzU09EdEc0V2t0RlNxX19hR1RXeHNPQWhRNzQzSWhFLXh4S0oyUVdHVzFWSHVtWkdkRnBDNTBacEhqM2JmOTlWZw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "KSAT"
       }
     ],
     "games": [
@@ -745,13 +745,13 @@
         "date": "2026-06-04T00:30Z",
         "state": "in",
         "completed": false,
-        "status": "7:04 - 3rd",
+        "status": "2:52 - 3rd",
         "competitors": [
           {
             "abbr": "SA",
             "name": "Spurs",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-            "score": "63",
+            "score": "71",
             "homeAway": "home",
             "record": "62-20",
             "winner": false
@@ -760,7 +760,7 @@
             "abbr": "NY",
             "name": "Knicks",
             "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-            "score": "50",
+            "score": "68",
             "homeAway": "away",
             "record": "53-29",
             "winner": false
@@ -769,14 +769,14 @@
         "league": "nba",
         "leaders": {
           "SA": [
-            "Julian Champagnie \u2014 15 PTS",
+            "Dylan Harper \u2014 16 PTS",
             "Julian Champagnie \u2014 8 REB",
             "De'Aaron Fox \u2014 4 AST"
           ],
           "NY": [
-            "Jalen Brunson \u2014 11 PTS",
-            "Karl-Anthony Towns \u2014 7 REB",
-            "Josh Hart \u2014 4 AST"
+            "Karl-Anthony Towns \u2014 17 PTS",
+            "Karl-Anthony Towns \u2014 10 REB",
+            "Josh Hart \u2014 5 AST"
           ]
         }
       },
