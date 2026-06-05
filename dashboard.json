@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T01:32:14.226319+00:00",
+  "generated_at": "2026-06-05T01:52:35.427061+00:00",
   "duke": {
     "news": [
       {
@@ -75,10 +75,28 @@
         "source": "Yahoo Sports"
       },
       {
+        "headline": "Cameron Williams explains why Duke's Cooper Flagg blueprint sold him on the Blue Devils",
+        "description": "",
+        "published": "2026-06-04T13:58:54+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOWDk5TUhwOGNTczFpVng0dmdrNHUwQkZ1Qnc2MXY5TFRBa1dnMWMtOVRfaUtOSEh3bXZqd2JsbE96MlZCb1NNVkdsMEtXbUozMk5Td20wMVVtU3ItNkRhc2lBR2ctcklsRnBNTHFBeUVYalczMWFNVFI2SXJKWTExbElaTGZTbFltTjk0MzR1MVUxaEw4dkpYWEQzM1JPQTNrVmVOZ3pwU1J6ZlZUd3ZV?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Ball Durham"
+      },
+      {
         "headline": "Predicting Duke Basketball's Biggest Surprise Breakouts Next Season",
         "description": "",
         "published": "2026-06-04T12:00:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMG4xMjhLaWxxQ2pSVlh3cEJyczN2MzJBUjZPR3JYdWJJaWllTmZubTlSTHZsbHFYMDJfX3BfVWZhaFlOU0FzMUMzTVNaTHpNd0hibVczS2RObmNIQzVrczVoSDlFZ0ZUeFJJWjg0RGlDcjR4dE1fNzI4UHEwOGtSazIxZmc3YVhtZmdiNVQ3OS1yTnAzTmpudHlwOEJtR1BsLVNhZEF2TQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Michigan and Duke Will Reportedly Play Men\u2019s Basketball in a Baseball Stadium",
+        "description": "",
+        "published": "2026-06-04T11:05:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeEw3VkhXa3dVaUtBWFpaUFNzbXpJaDRkd2JrWXF3djd3MGdCMzlfNmlGd3BzaVB3ZGgyNWltdmttTFkwcWpPRURWSVRvR0poYjY5Y1h1MTY4Nk8xWXRNSnZWSnZsX3pnWVh5aXhaZWg5SEhwSHBVRDV4a0dhczd3X1BJczluMkNURDE3N015bDlvaGc?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
@@ -109,15 +127,6 @@
         "image": null,
         "recruiting": false,
         "source": "Babcock Hoops"
-      },
-      {
-        "headline": "Duke-Michigan Game Is About To Relocate South",
-        "description": "",
-        "published": "2026-06-04T00:21:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMjU5dHliV3ZuV3U2TEhNVnY3RHp1TWQ2aVpsLXNDUU45SnMwUXRJeFFSV0hqTEJTTVpsQTRyRzJaQ0ZwYTBUckJkZ00tYUI1Y3dHd0xLOGdFV180SF85bHRzN2hvUVZ5Ylh1WE1MZk9QX09QbXI0UU9lT2w1Q0oxOUtQY1p4d21aYWszc1NKNmRoVWdnajN4Yg?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Duke Basketball Report"
       },
       {
         "headline": "Why Duke vs. Michigan is leaving Madison Square Garden and moving to Miami Marlins' baseball stadium",
@@ -181,15 +190,6 @@
         "image": null,
         "recruiting": false,
         "source": "Duke Basketball Report"
-      },
-      {
-        "headline": "Duke basketball expands coaching staff with KJ Conklin, Alexander Powell",
-        "description": "",
-        "published": "2026-06-02T16:46:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUGtRenhtNms3Z3o1TFBIOTNLUDN6THltLVZqMGdrdTNKRk93TFhQc3AzVVMxaGxxV2U4dzhPLXdIRlk1ZUU4SWRWV2J5bjRadnlYeUI4MG8wYjlJaXlnQXgxQTMwVkRyWUFrLTMySXk5UnA4UkdIUS1yRGU4bnk3QXJMSzhvblNwbVJsUVNWSjZrWThxVlNhOWh2OXVVRWtvak55cVJqTV84bndCVkxOSUVYVXZnamJ5M1luMVo1SlpSYVNjMVFFeXFwYTRZT2ZyZmhpclB6WXdqVkdaV1ljcw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Fayetteville Observer"
       },
       {
         "headline": "How many Duke basketball players have been drafted under Jon Scheyer?",
@@ -486,7 +486,7 @@
   "nba": {
     "news": [
       {
-        "headline": "Elmo just wanted the Knicks and Spurs to have fun during the NBA Finals, then chaos ensued",
+        "headline": "Elmo just wanted the Knicks and Spurs to have fun during the NBA Finals but chaos ensued",
         "description": "",
         "published": "2026-06-05T01:15:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxONVQwRXl2OUxMMlUxb285WllUbzJBN2c0Zkk0X0FvcVpHWUpiamFUYWlneG81VDgtaWlZbmVFVzZYQzV6c2VjUVhyY2xkRVVLbTd3N2pGX2RqWjdZdHpacmpraXlGVTBZWlZ4azhzeVFhMnV1eGhvNzI4dENlWkR4emx1Sk8wOEl5bFF2LW9wYzJWU3gyUXJ4QjBlLUp2ajZ1bFNTekVPZE01RTFFUjA0?oc=5",
@@ -639,15 +639,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "Carmelo Anthony surprises young Knicks fan with tickets to NBA Finals: \u2018Truly unbelievable\u2019",
-        "description": "",
-        "published": "2026-06-04T17:14:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUU0zN2gwREhnOXlTUmY4SnhYYjlmQmVxNVVCZmEtdENtLXItN19vNG13eGRvbG5LbGRtVzRKRVZ5bTExQ0k3TFk1NDVka3B0ODB2UmJWZkQwTHJ2NEE0a25MQTJGOTlmUjUzVnpVdFBVRFlXaE1RZ3ZvR0d6elplUnRBQ1F3RnpVV1FlVVYyOTNfd0dVbGpRcVdnSUxNbVJjYlJyMkVJZDVnczdrS2xFTjJjZU1PRjgwSkJZVWZBZGNpVS1qU2p0SnJDVjV0Rzc2MjlkMHZveks1aFU?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Syracuse.com"
-      },
-      {
         "headline": "Houston Rockets unveil new uniforms, updated logo",
         "description": "Houston's new uniforms call back to the \"ketchup and mustard\" era and pay tribute to the city's identity as a hub of the space program.",
         "published": "2026-06-04T16:35:35Z",
@@ -664,6 +655,15 @@
         "image": null,
         "recruiting": false,
         "source": "Duke Basketball Report"
+      },
+      {
+        "headline": "Where Iowa basketball's Bennett Stirtz lands in 2026 NBA mock drafts",
+        "description": "",
+        "published": "2026-06-04T11:01:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS3BfNGhfNjgwVjA0MmpkcWw2QTh1Q2xCQ0JTMjExaHpBOWJzd2hhQnJKNnhBa2EzZjQwS05OdllIeTlOaXpOTGtsM1E4Z25TRDNBUVdINWxxR19rQVB0MEg0dXRQaG5rSzVldURvVDN1ZnB5dU9LQUZhZlpTX2IzWGtweTdGenlsWFBtX25pVWZ6dVFkV3lERUVPVmVXTVNjUTg2SDVKTFJwZHc0NXg2bXdrZFBHT0pQYjBBNmZWZjUtT1h2eEtyVEh3Y0JLVWhUZHZzNQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Hawk Central"
       },
       {
         "headline": "How \u2019Nova Knicks Can Make Basketball History in NBA Finals vs. Spurs",
