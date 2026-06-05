@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T23:54:08.242271+00:00",
+  "generated_at": "2026-06-05T00:09:16.113851+00:00",
   "duke": {
     "news": [
       {
@@ -639,15 +639,6 @@
         "source": "Yahoo Sports"
       },
       {
-        "headline": "How Rick Brunson helped the Knicks steal Game 1 of the NBA Finals: \u2018Leave the refs alone\u2019",
-        "description": "",
-        "published": "2026-06-04T14:53:51+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOdjlLZE9ZM2d3OHZ3MldCR3M0b0hfT3pkOEFndlI2TElfa1VZajkwZzMtZTQyc2QwSGNUdENmNS1UbTNFdVVfT0JiamRlbExkUTN2NTMwMmhyM1VLR244c0NtZWxkMVdtTnlNZWVRV0xtNFNEbU00eGcxUURKbThUVDQtR1ltNGs0?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "New York Daily News"
-      },
-      {
         "headline": "Trump plans to attend NBA Finals in New York City, sources say",
         "description": "",
         "published": "2026-06-04T14:37:00+00:00",
@@ -736,48 +727,18 @@
         "image": null,
         "recruiting": false,
         "source": "AP News"
+      },
+      {
+        "headline": "Former NBA star rejects Alabama recognition amid Supreme Court map ruling",
+        "description": "",
+        "published": "2026-06-03T17:51:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSlBla0VTa0lQeFVRd0xTd2dHRERBNDI0NWFpajhRbzBHbmxPM0N3eV9QcERYZTZHaXdJNXlfeUh6UkdJcUkzN18yblJYTW1YeWlMMjdjOWhINlZIeWpVb0hkX3l3Q1B5al9KbDRlRGhjYjdnMlIzMnFJVTJOeTg4bklqa3RXem1MWk5oekEzZjVGeGpOb2VRTmU5clZweXZkT2VRUVZVdkVVV25TQkw40gHDAUFVX3lxTFBLMHVPYmxXMDlLSVpnRnBLbjZxeWdPXzc1N2R0SkJlQUhDUkw4VmdoWm5SZ2t2QVBkVVVScDNobEtYOUhDeDZabmpZaTVTemU1QkNVM1Z6QjF2dEkyVklCSUVqb19hcHpZeHgwRnhKVEU2cG5TX3lob0kya3YyS1NGbzBoamhpaWVROHZKN0FYa1RURExlY0FvZ19aYkhjYXdzbG9nZURJMnhpQUdPU2dIMEhhU0hyRXBEMW9WQlNvMXh3dw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "AL.com"
       }
     ],
     "games": [
-      {
-        "id": "401859963",
-        "name": "New York Knicks at San Antonio Spurs",
-        "date": "2026-06-04T00:30Z",
-        "state": "post",
-        "completed": true,
-        "status": "Final",
-        "competitors": [
-          {
-            "abbr": "SA",
-            "name": "Spurs",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
-            "score": "95",
-            "homeAway": "home",
-            "record": "62-20",
-            "winner": false
-          },
-          {
-            "abbr": "NY",
-            "name": "Knicks",
-            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
-            "score": "105",
-            "homeAway": "away",
-            "record": "53-29",
-            "winner": true
-          }
-        ],
-        "league": "nba",
-        "leaders": {
-          "NY": [
-            "Jalen Brunson \u2014 30 PTS, 3 REB, 2 AST",
-            "Karl-Anthony Towns \u2014 18 PTS, 12 REB, 4 AST"
-          ],
-          "SA": [
-            "Victor Wembanyama \u2014 26 PTS, 12 REB, 2 AST",
-            "Stephon Castle \u2014 17 PTS, 8 REB, 3 AST"
-          ]
-        }
-      },
       {
         "id": "401859964",
         "name": "New York Knicks at San Antonio Spurs",
