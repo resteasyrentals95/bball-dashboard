@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T04:16:08.292008+00:00",
+  "generated_at": "2026-06-08T04:31:18.196900+00:00",
   "duke": {
     "news": [
       {
@@ -484,10 +484,303 @@
     ]
   },
   "nba": {
-    "news": [],
-    "games": []
+    "news": [
+      {
+        "headline": "With Trump attending Game 3, watch party canceled, NYPD says",
+        "description": "As part of enhanced security measures with President Donald Trump attending Game 3 of the NBA Finals between the Knicks and Spurs on Monday night, there will be no watch party outside Madison Square Garden, the New York Police Department said Sunday.",
+        "published": "2026-06-08T04:29:04Z",
+        "link": "https://www.espn.com/nba/story/_/id/48993930/with-trump-attending-game-3-watch-party-canceled-nypd-says",
+        "image": "https://a.espncdn.com/photo/2026/0607/r1669488_600x600_1-1.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Where could Richie Saunders be selected in the NBA draft?",
+        "description": "",
+        "published": "2026-06-08T02:57:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWFBqRFVUVHdLSnNFWWxNZDlDNjgtMVF1cURSbGZTUnJKMDdwRFdXaGpCUDhWVldfTl82UnFjZFRZNjY0VVFFQnVXbGZQdDFhLUx1MFRRTThmMGRnUHhpR25pT011dWdWZ3ZTbmJoVWJacU0xbnlGWU1RbU9JMkFXYm9nX1hhT1pUcXZTVkVmbjZ0M0puM0E?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Deseret News"
+      },
+      {
+        "headline": "Minnesota Timberwolves unveil new uniforms, logo and courts",
+        "description": "The Timberwolves' new designs are what the team calls a blend of familiar pieces of franchise history.",
+        "published": "2026-06-08T01:12:21Z",
+        "link": "https://www.espn.com/nba/story/_/id/48993624/minnesota-timberwolves-nba-unveil-new-uniforms-2026",
+        "image": "https://a.espncdn.com/photo/2026/0607/r1669535_608x342_16-9.jpg",
+        "recruiting": true,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Jalen Brunson, Knicks keep focus ahead of NBA Finals Game 3",
+        "description": "If the day before Madison Square Garden's first NBA Finals game since June 25, 1999, was any indication, Monday's Game 3 between the Spurs and Knicks will be a madhouse. But Knicks players are doing their best to stay focused.",
+        "published": "2026-06-07T23:41:35Z",
+        "link": "https://www.espn.com/nba/story/_/id/48994872/jalen-brunson-knicks-keep-focus-ahead-nba-finals-game-3",
+        "image": "https://a.espncdn.com/photo/2026/0607/r1669536_600x600_1-1.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Three-time NBA champion and Chicago Bulls legend Stacey King dead at 59",
+        "description": "",
+        "published": "2026-06-07T23:00:53+00:00",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pVU82ZndCeGZFaEg5UVpfMHhxb0sya2dQSGZ5ZTlOS3RKTVppN3BZbkhWb25wTGY3Z0thZF9lM2JEcU1mbFZiTlBRTDhFXzVQWk1IRGNiRUFkMEVmY1NNRnBtV0xaazZiNUQyMVNfSHBuWnkwbVRVMw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "the-sun.com"
+      },
+      {
+        "headline": "One Piece to Unlocking the Houston Rockets This NBA Offseason",
+        "description": "",
+        "published": "2026-06-07T23:00:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNc0UtakJNVkNHMk1tMzBEeURRbFp4THkySUVUeUdBRHI1ZVd6RVBKcWZ6aVo2OHpKd0N5Um5EWW9tQ3RMOExMZTEtMW5Iamlld0VpaHl2QU5tN2NlZFBXRldtSUh2NXY3MzlqUVdSOWN2akhIaXNpd3JDLVpZMHk4WWRzdWFPU2hRN3ZzXw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
+        "headline": "Live Updates: 2026 NBA Finals Media Day, Game 3",
+        "description": "",
+        "published": "2026-06-07T21:43:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQc0w0M1VGa2FDVlEya2xvWTNxaVZJaWdsQ2hfYUhDdWNPcFFnSzloWXN6VTF0YW5TYUNkbFVzd0xEVThxeEVCb01zZGdGU3Jtc3J3U2pSNWhMSDl6WTdfanIxY2k0TkJqTE8tRENkaHZVdktFQXNNcjJfbXJTTjNPTVhoNl9MQVZHd1J1RFJsZGpkMUY3WTZkbmp2T3ZaUGx1bzQ2RERSTWdERmczdjRMWGZZUk1Uc0dqT0U1d1BBUkU0c2NLQ2lLb0g1Nkh4YUtMQnhFeVB3?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
+      },
+      {
+        "headline": "Get ready, New York. The NBA Finals \u2014 with Trump, Wemby and the red-hot Knicks \u2014 are finally back",
+        "description": "",
+        "published": "2026-06-07T21:39:26+00:00",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNckZ6UGlVNFBJYkVSSW44WkJrLXlxb2dlWDNRVWI4VTE4WElXUXo5UWt2Zi1xcFZqMjJ0b1I1MjdYSUY5QVF2RTNubzZQRE9Tcm0tVktqc1UyWWpmQTh5Y2ZRcXllMXBpd2FlZHJ3bWMxWjc5SlZFUkVkQzcxREdxdWNyYmNPUjBvUEtpVFpCWDhxWTlqLUxDN2h1MU9Hc2Zk?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The New York Times"
+      },
+      {
+        "headline": "Spurs confident they can dig out of 2-0 hole in NBA Finals",
+        "description": "Victor Wembanyama and the Spurs are remaining confident in their chances despite a 2-0 deficit in the NBA Finals with Game 3 set for Monday at Madison Square Garden.",
+        "published": "2026-06-07T21:22:53Z",
+        "link": "https://www.espn.com/nba/story/_/id/48994266/spurs-confident-dig-0-2-hole-nba-finals",
+        "image": "https://a.espncdn.com/photo/2026/0607/r1669515_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "With the NBA Finals returning to MSG for the first time in 27 years and the president in attendance, both teams will try to do the impossible: pretend it's just another game",
+        "description": "",
+        "published": "2026-06-07T21:19:23+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixAJBVV95cUxNWnpMZXdnaXg0Z0Y1SkFXcmw2OUpYcnZQUUxORFI5WUNJcDNSRXFzbkFxT3MzdWZZNmYzMXREUUEzdnlqYkt0ZGxZZFBWaVVuejhkOVlnS010Q00wX0tBbk1GSU9Hcm9RQkdEQzR0NmoxT3d1a2JoTERraU5VMDFDSEFTVGVET1FJMlJzMUZ1UjNDcDZ2dkZIMHo2V1JHeG1FWDVZcmhsZ3Y1YmwtWHBaV2lhSTdQVVRqSFdVajJ1eVBETm1RMkVJa1hfNWgxVk5zbnhXc2Jia1BsUEJZX3RURFlnUnhXaDlBdjZwOC15WVJuN2piSjZfcDlLc0RmRnYxV3NzX1VITFdzZEQ0YjZqUEhRbkhRYnZOZjM4ZWNiRGlkMHljRWRYZ2hVN0lJMkNZalo5a3NCUm82MUl6ZTVUbnNHQnI?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
+        "headline": "Stacey King, 3-time NBA champion with Bulls, dies at 59",
+        "description": "Stacey King, a three-time NBA champion with the Chicago Bulls who became a fan favorite on their broadcast team after his playing career, has died at 59.",
+        "published": "2026-06-07T20:46:24Z",
+        "link": "https://www.espn.com/nba/story/_/id/48992706/stacey-king-3-nba-champion-bulls-dies-59",
+        "image": "https://a.espncdn.com/photo/2026/0607/r1669418_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Caitlin Clark cheers for a 7-game NBA Finals, savoring \u2018great basketball\u2019",
+        "description": "",
+        "published": "2026-06-07T20:15:44+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOWV9iTURneHFnSks2NmRMVTBRU2lvVjJXWXZRa2ZuT2dfRElRcUJkWk1ZWk9xLU5NdkpEWjB0eHBfWktJLTh1eS1ialVmcWlPUWFBMVFEMHZxbUp6VlhmVlNSMXV6dngzNG1RXzd1YXMxS2lsUEh3QkxidGFzLVl6M2hiQ2V4X3c4aWdMQ0xiMHZwaDJYRVEwbnlRN3hET2x5WVBqalYzNmNtZw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Hartford Courant"
+      },
+      {
+        "headline": "5 highest-drafted Alabama basketball players in NBA history",
+        "description": "",
+        "published": "2026-06-07T20:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPWVBiOFBtUkx2OThlSWd1czBBVzNwUDZtX3lUX09Ua1B2MzhsZzNpZGJ0YmVBVEtsMXdPdV8tVHlpaXduMWZwX09nWmhDcFVpbDFzZzZndXE0Z3BHal9VS2I4RjY3VnhEeXduYlBOdGlkRjNlVDI4RTc0b3oySE0yZGdUa21UWlRyOUdfYktHQjgwUlN1c1ZpNGhZeUlCV3g4WjdyZzdSelg1eXRQR0Z4V01NSXFJSERleUpRLVA0enBfUW55czBjRkg1b19va2YwMjRCbUxORTI0VjgzaUotbHZFTHV6alQ3UHRZZmFxZ1RwdmJwMmg5dDczMA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Roll Tide Wire"
+      },
+      {
+        "headline": "Three-time NBA champion Stacey King dies at 59",
+        "description": "",
+        "published": "2026-06-07T19:51:27+00:00",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBtdTVvdC1tcTN0LW9uTWVmd2pmNWY1MDI3Y0RhUUQtTHJPcXZQSndQOGdVTVhOY3hxSThhQWhHYm1IRkQ5UnZmU0UyNnA3cm1HajMySTQ1aHNxLVdDc3c3ZUc1RXAyWWVwekFHMExEY1psREMxT3k4Rw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
+      },
+      {
+        "headline": "Stacey King, OU basketball legend, Chicago Bulls' 3-time NBA champion",
+        "description": "",
+        "published": "2026-06-07T19:35:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQcWx4eW5Db2Q1bEtuaXAzYkZSQXloQ0taMzFpM1lqNWZLSGkyRzBXaDhvWDV1NlRtX09nbUtTTnZMNmlDNmhTcjJNTzhvdjlqcVdDd2cyNFhaOGsyZHVpNTlrRE1pMDJSSk5PNmZEVVcxem9yNUpIdmRTeGx6ODE4R25pa05JUjJEN3R4VXdQd0pOOG8tMFRCbmlXaUZENUFURDZUNGF6T0R1OF9Ya2RWVkQ0REJVc1dxTzgwUXQzeklaY1FDVEIyOFlCdzRycXlYZTNsNGdoTHBPWVZUTzExZjVzZUZqS1lHRWpOajZpdGs5eE1l?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Oklahoman"
+      },
+      {
+        "headline": "Zohran Mamdani reacts to Knicks\u2019 James Dolan giving away 500 NBA Finals tickets",
+        "description": "",
+        "published": "2026-06-07T19:27:45+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPWTFPTG9KX3hOaU5zUkpqTTNjeUlVbUZJS25JT2w1cUV4dS1WZlBKZDFkN2xFdHVCQUJ3T3lCeTU1SDJmNlJ6V3AyY3g3bUFkOVJ2ZEFkZ05tWGhDNTVLUlk0SGY5RjF4MHpjUzlSVlBoUFVFQ0twUk5sM2RtOEZVU0t4NkNSejJtRlpB?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
+        "headline": "Stacey King, Chicago Bulls legend and 3-time NBA champion with the team, dies at 59",
+        "description": "",
+        "published": "2026-06-07T18:55:46+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQVVhlQS13OGtCeUlIWndNTnJuNm5NQ1p4M0c5bVVhUG15R0tVYnZYeFZxVTM0ZllvMGF3a21IWHQ4Q1BtejNISUYyMEQtUWZpVF91S1gtaDBCLWhNX09zWHFHSV8yWllQR1JaMld4QTRQOHJDVlVTN1ZIX3pUNWpMVFBXZDlJWTFZNjZWc2tRalBFc3F6X1F30gGcAUFVX3lxTE5sUENVcWw5WnFvRmliVTBYeWo1blM3RE4xaHMyUjdielB5M3RKX1JhUlVYWVRySmFUc2VKX2pESmRPQlRkeXF0eTZmV3VlMmhIQm1zcGRkNEFIakFOTXJOdlVXQzV0Vi1xVzlZRVdQWmRKSzNXNmk5Qy00MHFia0R5SGN1WWRtc0xTLUE3eTZpUDFwLXVINGtlSnZFTA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ABC7 Chicago"
+      },
+      {
+        "headline": "NBA champion and Bulls broadcaster Stacey King dies at 59",
+        "description": "",
+        "published": "2026-06-07T18:15:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObUcwb25ndFJZZzZ5NzBpYXh1LXhmUWRlRFpSYVZmNVg3OFJXekhMczNCYWVselo2aXJtMjBoeVdKUUFpdTU5dDlhWTRVSzd5M2MwV3ZZWGpnMUtYTXBiaWhGV1lCdjZEZHp4RG9ZLXpaOUg3YzlsUmdXMUQtMU9EWU9JWlVfci1EZ2hiN9IBoAFBVV95cUxNYzlUWHBTTFByR3BING1zVjJpbmY5M1prWGxqemZLUkZ2cE90ZXZDZHladjVRSWF0MGU3NXp4TnBZT0N6TnYzOW1HWWNTaWl1d3dKUFM4SWFTUWc0dzlyQTJZWmRfWGxxUUJwMEgxd2NUbFJpWGJIZUtOdmdBYVhuUE9DSTg0ZFhkT1I2aUNMUFhVLTk5NnpFamxJUVMwX3JJ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "WDBJ7"
+      },
+      {
+        "headline": "Stacey King, 3-time NBA champion with Chicago Bulls and later beloved broadcaster, dies at 59",
+        "description": "",
+        "published": "2026-06-07T18:02:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLV9EMExPbzNYMENaNm9lQ1lJeWw1SnZxeWk3NloybmQ3dU9OMjlBWkRONmpaU0xFU1Q5UmhCVE9SUkpPVzlNcjhReUtuQ1dDUDIwMGJvQzlsTGJSS00zS3daVHdVV1l4X21WeVBUeHpUeHhjTWppXzhsYnN6dU5rMXhGOHg1T0w5TkJlUTZxRFdjdw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CBS News"
+      },
+      {
+        "headline": "NBA Legend Stacey King Dead at 59",
+        "description": "",
+        "published": "2026-06-07T17:56:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFB6LVBlcXBlaGpHVmxhbFRyaHJ4MURSdnFxaFdfLXB2VkNvTkRUbzVxLTdLX1Q0MVpVbV9rTVFLTDVNV3JzaWRIRVhTRVdMLUVBWHN4bHpoZjlBX3ln?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "TMZ"
+      },
+      {
+        "headline": "Sources: 76ers promote Jameer Nelson; Elton Brand taking new role",
+        "description": "The 76ers are promoting assistant general manager Jameer Nelson to be team's executive vice president of basketball operations under new president Mike Gansey, making the one-time NBA All-Star the No. 2 executive for the franchise, sources told ESPN.",
+        "published": "2026-06-07T17:33:02Z",
+        "link": "https://www.espn.com/nba/story/_/id/48992547/76ers-promote-jameer-nelson-elton-brand-gm",
+        "image": "https://a.espncdn.com/photo/2026/0607/r1669404_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Iowa State Basketball Star Lands With Celtics in Latest NBA Mock Draft",
+        "description": "",
+        "published": "2026-06-07T16:30:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPTHdCaU1lVjJyNkg1ZEVVemtnZ2J6eVdYMkdKZkh2b19HdGFMcTkwN1QxZHhXMjdHTU5iSlJxS0I2R29BZm0yN2FWaXgxc2U0dDBaOWtNNDhOYWdnNWx3dHZDZWVLZVF5cDlVOGhITmc5cTcxQUsydG1QZE8ySk82QXFmckNCd1Nq?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
+        "headline": "\"I know I'm better than he is and he knows I'm better\" \u2013 Isiah Thomas said the real challenge wasn't facing NBA stars",
+        "description": "",
+        "published": "2026-06-07T01:57:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUFNJOEpjZGQwWkhjem9LdWFPdzZHQTVsTlBSNE1GVlFGR2lKNWlLLUlaNV83U0hZRkpQWGdXVGZURjViTWxGWVFMS3BNOG14TEFzR0phQUw3UnVfQkFVM3FXUi13T1RPSUxuNUd6eVFiT3pQR2tfQ1NCak1vSlFSbG1yalFMNUJRTUxkZjhySUJWVkNCaWF0U0YySXAwZE5IVm1pc2YwWQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Basketball Network"
+      },
+      {
+        "headline": "Where are these Huskies headed? Get latest the NBA Draft projections for UConn\u2019s potential picks",
+        "description": "",
+        "published": "2026-06-06T19:27:20+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX0xPR3VrSS1OV3BGX1lhSHRMS2xncUN5M2pGU2NRN1Z4ZHphVTViV2dEVk9SVmtvWTNZc1pkOGFyT0NYMjRsWXEydXAzRHRPTXFpNE1wNUltMkFfSFl0Umd4N3lJZjUtS3BNMG1sSkhxVjlzUmlOaFlLSHJEWGREY3l3WjhKYnVmalhrWThnY053RUFBeU8zbnNyMDRiZjUta0k2Q0ZMcTdORFZOUlM0Z2kyaDI5TUZJMUVBRGVaN2pTQ1RsQVg2ZFBB?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Hartford Courant"
+      },
+      {
+        "headline": "Yahoo\u2019s Latest NBA Mock Draft is High on Tennessee Basketball Forward Nate Ament",
+        "description": "",
+        "published": "2026-06-06T18:09:47+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPOGZQczV4M3dXT1NEa0ROQXBKZkVvTXlFelhwNWsteVNQQ2U4QUVTTXJwSDF4N2hzQVF2SmZPMWU2SmF3UjZ6UkhQX2RvR1cxUThlX3c3ZTdyRGpqN1p4T09YeGR4M3hoZzVibmJTM2xXQmJqSW93Nm8tSHNQS0p2WHU5OEJaTFBBdkNxTEVpU3FTMDRDMzRXQ2Nab1k1SkRmRjl3MGVFQUJIMVRab01NdDNOVXFEaENFVnpXYm0taU8?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Rocky Top Insider"
+      },
+      {
+        "headline": "82-0 is the best basketball game, to hell with NBA 2K",
+        "description": "",
+        "published": "2026-06-06T14:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04ZnF1dnhEdTVGaXRIR05xUTFtbFI1NTZwMzdiTGhPSTVXOGhWUVNwN1d6bXMtWlNaNHQ0T3ZxYjNuUVdIR3ZySWRodXhXZXd5aGZQeXNuNklRRjQ5VURyX3VIV2dTa2UzOER5d0pwbzRKdjlLRlRZMDBxV24?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Verge"
+      },
+      {
+        "headline": "2026 NBA Finals: Important plays, lessons from Knicks-Spurs Game 2",
+        "description": "",
+        "published": "2026-06-06T11:55:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPMGR4VGY5eDVSenBHdFB1b1E1Y09hZ1UzUzJuNnRldXZhQi15QTl0NXVxS3FDOXdVdUdFNExPMk9HclNjYmMwTTlvS0d0MUUwOWtYUnVwa1kyQmd5RVI2QmN2QzNUamdOc0JJVWZOQWFlZmtObkdGbnZXRy1SU0Z6U01uU2wtRmtzWmVrSERsc1dwc0J6N1dzUEg4R2dYbUVlY3poYVBsNFpQNm4zOUM4bXlEai1QYkdLdEdISFYyLWRBaU1HNnBvbmxDRUlMcWJmZTA0TXZ2S1lGeFZha3FSZGxiNW9fZ0FvTUhHYVFBYng?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Knicks beat Spurs by one point for 2-0 lead in NBA Finals",
+        "description": "",
+        "published": "2026-06-06T05:07:07+00:00",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBERkdHUnNwZ1F2ekdpVUZjNzZVSEs4WmRBUEhpRWNaV193dzF4MXIxUzFFQjlnTGgweXRTNnNaMGJWWGZCaGZtRENNQkw4YlgtZGVCWVBJNnRDNXpTN1JrWTlweW5QWFBjNHUzd2VtNm9yWW5Pc09j?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NPR"
+      }
+    ],
+    "games": [
+      {
+        "id": "401859965",
+        "name": "San Antonio Spurs at New York Knicks",
+        "date": "2026-06-09T00:30Z",
+        "state": "pre",
+        "completed": false,
+        "status": "6/8 - 8:30 PM EDT",
+        "competitors": [
+          {
+            "abbr": "NY",
+            "name": "Knicks",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/ny.png",
+            "score": "0",
+            "homeAway": "home",
+            "record": "53-29",
+            "winner": false
+          },
+          {
+            "abbr": "SA",
+            "name": "Spurs",
+            "logo": "https://a.espncdn.com/i/teamlogos/nba/500/scoreboard/sa.png",
+            "score": "0",
+            "homeAway": "away",
+            "record": "62-20",
+            "winner": false
+          }
+        ],
+        "league": "nba",
+        "leaders": {
+          "NY": [
+            "Jalen Brunson \u2014 26.0 PPG",
+            "Karl-Anthony Towns \u2014 11.9 RPG",
+            "Jalen Brunson \u2014 6.8 APG"
+          ],
+          "SA": [
+            "Victor Wembanyama \u2014 25.0 PPG",
+            "Victor Wembanyama \u2014 11.5 RPG",
+            "Stephon Castle \u2014 7.4 APG"
+          ]
+        }
+      }
+    ]
   },
-  "errors": [
-    "NBA: [Errno 54] Connection reset by peer"
-  ]
+  "errors": []
 }
