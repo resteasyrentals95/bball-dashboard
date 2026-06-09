@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T00:47:12.073058+00:00",
+  "generated_at": "2026-06-09T18:08:52.256989+00:00",
   "duke": {
     "news": [],
     "games": []
@@ -8,7 +8,5 @@
     "news": [],
     "games": []
   },
-  "errors": [
-    "Duke: The read operation timed out"
-  ]
+  "errors": []
 }
