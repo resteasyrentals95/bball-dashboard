@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-09T19:28:23.451391+00:00",
+  "generated_at": "2026-06-09T19:44:41.548960+00:00",
   "duke": {
     "news": [
       {
@@ -102,15 +102,6 @@
         "source": "The Fayetteville Observer"
       },
       {
-        "headline": "With the 22nd pick, could the Sixers select Duke's Isaiah Evans?",
-        "description": "",
-        "published": "2026-06-08T20:08:07+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNeHljN0JCdHdoREhIbUVFTUladG5XLXgtQ09ZaUl2Ri1EYlpvWm1NN1dUZkY2cVdsODBDUUFILVEwLWVCNWhTYTFzVzA1Ym82QVhiWWNxYkZRS2NIRmNoOERvTkhyZkljeF9TVDFyUE5xaVc2eUdIQlhkNlY2NjhWRHBsSDhFM0x2RGhfUUE0dHo3VloyckZ2UVpwOHdmZVViWHF3UFVYcFBaUXp3RldOSWdfMndQNUFBeUk1VFRpVVg2SWFfckIyb2oxZldtU3pVc3fSAdoBQVVfeXFMTnR1QTZ4V1VvYjlEQ01uUHpXTEpLNW5iWFQ4MGx4X09tbWNMM3NxY0RvMFJQdjFjMFp2dWk1b3hrNjc0T0ozQ09HWTQyNkY5RGVOUEpBSzh1SWxJWGJ5NXJLT1gtcWJDVDAxN25lOG5maWdfRnVJZ3BRZlhoTU1sS0dBckJIV3dnbVo1LThIbTZuY3BFd09fLUxmYzJzbjVBNElLZ0xfNGJKVG16TEw0aHB3eGRzS3VTMy1mWTJrYUVVLVpOZi1DcFBxNDJPTUgzZVhwUW4wSUxoZnc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBC Sports Philadelphia"
-      },
-      {
         "headline": "Flemings and Team USA Open U18 AmeriCup Action Tuesday - Duke University",
         "description": "",
         "published": "2026-06-08T13:48:08+00:00",
@@ -181,6 +172,15 @@
         "image": null,
         "recruiting": false,
         "source": "Ball Durham"
+      },
+      {
+        "headline": "Best Part About Duke Basketball's Gauntlet Non-Conference Slate",
+        "description": "",
+        "published": "2026-06-06T12:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaVZTMV9yd2JLOFZJb3l5V0FTZG96cUFvWFJHRzVHMUJoZmdyc1ByaTNSaWoxdjUwRFNRak1KRUVBeGlfMWY2NXRCUkhCdk1YZXRSOGpjdmxSZ2JtNG1jbTdaVC14UjJpQUxveGJzc1cxWjBjOFlneWFFQzd0aE9MYm1UeHdzdGNzUlB3ZjRfRjV6VnFaYnZvNG4yS0FWcUx1a1E?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
       },
       {
         "headline": "Duke to Host South Carolina in 2026 SEC/ACC Challenge - Duke University",
@@ -486,13 +486,31 @@
   "nba": {
     "news": [
       {
-        "headline": "NBA Finals Knicks Spurs Basketball",
+        "headline": "Knicks need a quick response from first loss since April as the Spurs try to even the NBA Finals",
         "description": "",
-        "published": "2026-06-09T18:58:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTnBtbUNjX0Rra281T01KcUFPeEFKUHpEb09QeVQxMmFBc2FOa2R2N01LTEhOb3JwTW1wMERuWHlGcERHV3R4TnUzcG9EaGFDd2RfLVlGTUpSZXE1MmJEX1FPQnJBdmVjdEJncE1tbVo3U2ltdTQzbWNjaFo2bEJEVzFuZ3dKZE5SWVhqNjBNLW1mSlhYQVF3cmtMMkxvMVdVMHBxXzYzSk9FSjVsX2tUZzY4ZEtib28?oc=5",
+        "published": "2026-06-09T19:29:40+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOTjZ0NGkxQkc3UWgzNm9QZFlPQURaVUdHSlJBVFpjWVlzVEtPSW1BaGhCZEhzTVFzbTlIU1dlNjJ1ZjNiejdkOVk0U1Ruekx3dThfYnJMVDdyU2c3ZDlZSlhOZk1IbmxEN1ZFRFZOQWRIUXhDLTRLZjJqT3QwN2Z5cEtXTFF0STl3UW5XYURsdUU2cmxmck1kRVdRZlI0RU9POTljd0QxNE5lY3VPQkN6eEtyamN3WlNxM1RFa09rTkNKNUNFZk840gHMAUFVX3lxTFBvSVhJR3FNYm9taURIV18zNmFNdFNSR0t1UmhFdnhMM25XbVlhZ0s2cHQ2QUxOamxMdy1odmlyM0NTbE9HS0l3aFIwSE9mX1JuMjVxa05PVTVJTEdJdUtEanJXa3JqSmJwVnVJcjctYmUwRXNueVBKU3hIclRyZWRyWU4wZVpLSE5VQm55TjZZNFNoVEI0ZnlkRkg3a2xGYXpuOHdSUk5HQUZXNDVRX2NRdU10QkdoS0I2SFlXUHZla1VlOXJ1NU9GcHM5OQ?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "The Frederick News-Post"
+        "source": "WTNH.com"
+      },
+      {
+        "headline": "'Rowdy' Knicks watch party ends with 8 arrested",
+        "description": "An NBA finals viewing party in Manhattan on Monday turned \"incredibly reckless,\" New York City police claimed, after eight people were arrested.",
+        "published": "2026-06-09T19:29:11Z",
+        "link": "https://www.espn.com/nba/story/_/id/49012308/rowdy-knicks-watch-party-ends-8-arrested",
+        "image": "https://a.espncdn.com/photo/2026/0609/r1670419_600x400_3-2.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "NBA Mock Draft projections for Jayden Quaintance and Otega Oweh",
+        "description": "",
+        "published": "2026-06-09T18:48:13+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOWlIxeE1KZHpiNjl3ckw1QWRJVDhhRnFvN3lPTnhiMWppNWVHdU5IaDJDVVJjcElsSDNHbzhhTURSTW9RTlhJN1M4cVQwa2oyM0tESTVUcWRSSFNOS0JjdDdnWlhYakZTbFNRUzQzZVVuS2pPWnhIQWEyMGp5Zm9qdHBuemtqTWN4bWc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "NBA championship and Finals MVP odds: Knicks maintain odds-on favorite status after Game 3 loss",
@@ -504,6 +522,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "Spurs' Victor Wembanyama shakes off Game 2 miss by taking over Game 3 of the NBA Finals",
+        "description": "",
+        "published": "2026-06-09T18:45:46+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNcFZMMWl3RGFrSThCZVY5SjdhU3psX3g5QUI0NDM3YTJHckhPMzB2WVNWdEU0d0paSlhndWpYVExtT0E4VmpvTERlUi05dlZMek1Dd2FoXzdSRHNhZTlnd0lFOTFKWE1admcydnZYOThxVUhVWmx3a0dBbzVnMW9pS25qaUJGRnJySXlFdUJmMmotd2IzMm05YkxSTkYxNm9lb3l5anJOUHh6ZzZpTnJCbUlOMV9ZS24yUnhfSnZqTEFINnplanZ0S0JHaFYwSXpz?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Washington Post"
+      },
+      {
         "headline": "New basketball arcade game \u2018NBA The Run\u2019 officially launches",
         "description": "",
         "published": "2026-06-09T18:32:40+00:00",
@@ -513,31 +540,13 @@
         "source": "NBA.com"
       },
       {
-        "headline": "NBA THE RUN Wants To Change How Basketball Games Are Played",
+        "headline": "Trump plans to skip Knicks Game 4 of NBA Finals at MSG",
         "description": "",
-        "published": "2026-06-09T18:25:20+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQUXd5OFJ2RUlyWDdpbUxxWHEyb3dNcEtOUU1TTE5Qd2xNTnFTT3FBYS1zUUN3ZS1UcTVmZ0hzMUI3Y2U1cG1vSnlKMUpISk5ISi1yVGlQTGdNVHNMSWdZTGpMdGJkbFBkM0N3SDhXZkhiLUtnVVFnZkVSQ05KaExOamNYU3Nmdi1SenJSTzJYUmc?oc=5",
+        "published": "2026-06-09T17:54:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdTVKeDNNalVCWWxTY1l0UWx0dkszLTk4UG44bDNxLV9ySUU5OERfaE40NGRkNDdSMThWLVZNX2JjN01nRWRJaUxtalZBeXRvMnEwVlNSX19ZOHQyRzZnNU9adkE5RUttZFFaeHkwOVlvZVpiTlZrRTJ0Z043YWJBcGxsbXFLVld4SWc?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "TheXboxHub"
-      },
-      {
-        "headline": "NBA welcomes 2026 HBCU Fellowship class",
-        "description": "",
-        "published": "2026-06-09T18:21:27+00:00",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE91UWVmODJvZUFQLTdwRllITFNZejU3TW9SUkJSbHR6ZUJieEJmS2Z6SGVRMXFJcU10aWVETmRkbDVZQ2h6Nlo4QzAxWjZ6QlIxLUdjX0JmeFZaMWg1WHlNbWVUOW9fS0xhWGQtX1hkWGtGWllzZ1BVNXU4VUUtdw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBA.com"
-      },
-      {
-        "headline": "Victor Wembanyama and the Spurs are undaunted on the road at the Knicks in the NBA Finals",
-        "description": "",
-        "published": "2026-06-09T18:13:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVDROSElxUTh3aF9nQUJfeUVpQ2FhUHM3VERNazFILWJGcjdlOWpscGY2dmpxZWtGOVhfQ0ZoVkVWWXJzRHN2RktOR09ObWxWUVhlZTVPX1VTQUVPUXVyYS1sNUJzOVZPZFR6bUI4N1hnWENzWWtDemNHNUgyeEpXalVVeV9RellaaFVELVFRNVVCckF5Z0s4eVBn?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "AP News"
+        "source": "New York Daily News"
       },
       {
         "headline": "Trump says NBA is 'good entertainment' despite it being 'a little left-wing' after attending Finals",
@@ -558,22 +567,13 @@
         "source": "LancasterOnline"
       },
       {
-        "headline": "Florida basketball\u2019s Thomas Haugh details return to UF over NBA",
+        "headline": "Here\u2019s Who Trump Brought with Him to the NBA Finals",
         "description": "",
-        "published": "2026-06-09T17:11:04+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQWkk1RDVHbk4yc1pOSjJKYk9WMmxmak15TnpYUGFNSmZPcmFSeC1fSDU4aUNlYWZPTjZtTFJCUnpTalg2M2wwZ0pPeWZqWjBNZjYza3QyU2RGemZyN1g4clNlTkQyT091LWpNWWU0M19MdDlQVTJ6M2VyMzJWazg1ZFEtelZEZ0ZZVXFacXQteGIwLTB5TU82Zjk0Z0hxLThnckhxaDRnblYtVHAyS0owZXlMelZ4NjlXM2hoR0RjWUpFbDVZSEhv?oc=5",
+        "published": "2026-06-09T16:25:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNc203c01POUMtUHYxUDZJQmRkMWVndmZpcVktZzN6VjFGTmxKcks5SUN5ajVkdnhxblU1bEsybURvZmFUMk9RaHdySnl0VXo4enN0SDN2aG11RXdMWFZaOUVqOFc2TFRDTWtteFZiVEdLdmp4Y3RCVE9Fa1VOUGJENHlBMnRPaGd5cG1lSkVR?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Gainesville Sun"
-      },
-      {
-        "headline": "'The Hoop Collective': Episodes of Brian Windhorst's NBA podcast",
-        "description": "Here are the top highlights from Brian Windhorst's \"The Hoop Collective\" podcast, from breaking news to the latest intel and reaction from around the NBA.",
-        "published": "2026-06-09T16:36:32Z",
-        "link": "https://www.espn.com/nba/story/_/id/47168192/the-hoop-collective-latest-episodes-brian-windhorst-nba-podcast-archive-best-quotes",
-        "image": "https://a.espncdn.com/photo/2025/1112/r1574751_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
+        "source": "Mediaite"
       },
       {
         "headline": "Which college basketball program would have the best current NBA starting 5",
@@ -585,15 +585,6 @@
         "source": "Maize n Brew"
       },
       {
-        "headline": "BASKETBALL-NBA-NYK-SAS",
-        "description": "",
-        "published": "2026-06-09T15:53:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZi1zbWdFdHJHYUJ0UzZIN1VidElxX184NUwxZHJ4Q0hmM3NkRTZNYzU0Q0NwRm1HYmZIX3VtMW1sd1ozbzdidlduMG4tOWtCdzJEWng5M2xTenZBR2Q5WXVndXU1RUdmcEZ6MHFVblA1TW8tdXJCUHlZR3lqTUhkY0ttS3BYSkdIZ2ljVmlZS3ZEV3R0QWc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Facts"
-      },
-      {
         "headline": "President Trump roundly booed by New York crowd at NBA Finals Game 3 at MSG - The Athletic",
         "description": "",
         "published": "2026-06-09T15:27:00+00:00",
@@ -603,49 +594,49 @@
         "source": "The New York Times"
       },
       {
-        "headline": "Trump Slammed for Appearing to Fall Asleep During NBA Finals Game After Entering to Boos",
+        "headline": "NBA mock draft roundup: Where Michigan\u2019s 3 prospects might land",
         "description": "",
-        "published": "2026-06-09T15:20:10+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMTk2ZUhJRUFxNXdiRjJWek1OcDRXU2Z5WGFlb29QMHZ5clE3aEdhX055WEJNQlZKNzdzdGxkVVpkUFFXaHJTTGpuWjdmUVY5SEJnRS1zSDFQaUJJODZjd2tDaUhIT1J4UElQT2RmYlNSMlowV3luWjg1QnhvRXpnYjFkZmpReEJ1NjdxNVdya05sLU53cmtN?oc=5",
+        "published": "2026-06-09T14:38:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNzBtd1hGTVRPRWkyc0pGVWlWVW9fSTlVVGotUnBfZTczVlNzNFNhVkZDVGtDZUFfal9zbXVZelEwWG85Y2psMThXeTNfXzVqNjB6SW94aTBfNXhKbHUxZGNxV3hQS01KbzdlS19MUzV0T0UtZ0FqaHJ6b3ZZVV9EeVBVVkdvejdBMW9GTXNvOVYwUWZRQ25UMzN1UTBqTENPOUp3UjZJeTdkejktR0dETEluUTEweFVxX2fSAc4BQVVfeXFMTTBNSzhTcDFURnRzQ0pXRmpUNXJsOG9YcUZubllCb1lvNHdpdk50bFVQeUJITDE3WmNSbWg1QzFpZ1hqWE8zVkdyRVBPemZIbVpPaDV1TDZVaWtaWHhKT2tqb0lsenVMV0R3UmhIT1p4SHEyeGN4b05sTXZwaXBHaDBLMmhlRUt6WHJsM0RxSE1KeFRCSUpjUmVJNFJTY2Ewa28wZGhKazZPUGd3bGhWTjZ3T3RIV0dJOF9veGp5SnZuUURXVk9QdzcwXzZmWnc?oc=5",
         "image": null,
-        "recruiting": false,
-        "source": "People.com"
+        "recruiting": true,
+        "source": "MLive.com"
       },
       {
-        "headline": "Trump booed by NBA Finals crowd prior to Game 3",
+        "headline": "Did Trump fall asleep at NBA Finals? Clips spark online debate",
         "description": "",
-        "published": "2026-06-09T15:16:57+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcHVDSGpiY0EtRmQ2VEF3aFZFQkNhSFY1OU9PU190RzhlemFKSF9QdVkwX3VhbmJrZjBmWGVYeVY2VjBWQTlHbVhfZnMteDE5ckplM2NOdVJCeEdBd1E5WFhZY0liNFRqOVB1OVBvZ3hfbjNQNjhOeXQ2RUxHM2puVmdOdHRjSDIxR1JmNkhB?oc=5",
+        "published": "2026-06-09T14:11:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOVdEbkNIOGpwQ290dDNyc1ROMFZOcHhxZmhHOXloZVJRd0pFS3pmTy1RQmRwOUxsUTZpRFBGZmZSbnZaYUdia19ReTJmLWtoWnJFYUpyVGdPc3M4YnRUcmtxUlpjblF3MU5OZDcxdUFhRTQwRDR2cmlmelVzY25FTllEN2JuNUZFT0sybWFoSUJIbE1xUVg5WndjMi1JeHdOVi1HVnQxbDZvOE1zT25aRm95ZThNbTV1?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "PBS"
+        "source": "USA Today"
       },
       {
-        "headline": "President Trump booed at NBA Finals game in NYC",
+        "headline": "\"A war\" - Donald Trump explains why his historic NBA Finals appearance will likely be his last",
         "description": "",
-        "published": "2026-06-09T14:01:08+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQOGl4ajNiRW5HaWJDemhtYmFTMkhUeEJuUHhHeE03T1dhUmkzWkVXVHNnYTRLR1JQSFFtbG1VdnNiS2VSRXFSQ2x0OHlVY0s2dUY3N3FvbEIyR3hMNUtqNnBFVzBoeEJfcEZGVFNhOHFqX2tVRG11Yzl5X01LM1Y0dnF3S3FSMzU0OHZCWlI0UDdUeHEzMkFySTllX0pIY0tLM1E?oc=5",
+        "published": "2026-06-09T13:34:57+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOcGQ3aUJPNzl3X2hjaTloU2cxZHhlNFhJUnhxMzgwQlFYMy0teF9COTJZclBvMmhqVU5XRWtGODI0R1Z5N1BEN0p6NUdVcXR4WmlCRWt1Zmsyb2x0cVdhbFhDOUN2cTh6QlRQQ0VWMmNZckhnQkJhUC0xNktpZFVfa0JZVnQzSF84RG11NXZpLTNiWUtzb0dRUHYtYnFCZ19pWHRHNFJPS3IwU3QwMFl5bTVDcmF0V21vLUdpZmcyUjBIX3pSNEZqazFxNVg?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Denison Forum"
+        "source": "Basketball Network"
       },
       {
-        "headline": "Former UNC basketball star reveals his NBA comparison",
+        "headline": "Trey Lyles Looking To Return To NBA",
         "description": "",
-        "published": "2026-06-09T13:30:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNWnBjYnY3WUJhYndsQ3NqVkdSQWZhQ1ZjN2Z5X1h5ZlBYV2NOV3ZGNEFiaGpvV1JsZFlxRWJJLWdlcmVuUlVYaXlzWGN5LWlRdGEwZ0ZnNWVLcVhrQ1NOV3JTMFo4RlZXTHl4MEdZaHRtOUotYkRvSnVlMzZtZ0FWdnZwaWlrbXdGMEwweUh4Mmx2UUpPMFhLVU1oOTJrYUo3clE1NGhfVHBoTzYxTUlWY2NJRHlzUXpWa0x0eDhLcDhwVzZ3bjlXWVE0QjNQMjdKMzR0a0Q4STE4NmdDYUsxR3ZvWU5tWl9neXc?oc=5",
+        "published": "2026-06-09T13:29:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOZnlxNFh2eFFPeHpwUjhtaUEwZWNWLW5xZFJxd2x4SXhZeTFESDNCQmFfUTRMT1RBVXE4UFJFUHVHUU94UUNFbkkwY0oxdzFjNWV0cHpQeHV4bHVrNjNHUXlGTkdiSXN3Sy0wV3VYS2tQcklKQVBWNzFjazlaTEpwU2xnZmJ1M0k?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Tar Heels Wire"
+        "source": "RealGM"
       },
       {
-        "headline": "The Knicks' epic NBA Finals run is about much more than basketball: Your guide to everything happening on and off the court",
+        "headline": "Seth Meyers breaks down Trump's disastrous decision to attend NBA finals",
         "description": "",
-        "published": "2026-06-09T13:25:12+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihAJBVV95cUxOZU1oSmVhSmRCWmF6VEE1NnRqZnJ2bHdjckpzR3JwcUE2S3p3SndkaFI0ZnBHUlZkcHk5d2Q3UWk0bEhoM21Ndk9wd2RhZllDMnNLWDRudkkzbEx5OXUzRF9zYU1TLTQxSFlqY0VkRjBRVm5QZnB1WU1rWkpMN2VPUE93Yjk1RHVJYmNhNVZqQm9WNUhsWS1rdEtJNFdsNmFnNnNmSm5UbnMyR1B0OU9SRG85b2xBYWJPZF9jMEhMc0V0NEI5d182aUVtTlpydzZ2T2JvRWZrWWxNdGdSbmFTbkpDVDhLdEZTRDI1RTRIR1dnTDRydXg2bENRaDJ0RWQzMDNLaw?oc=5",
+        "published": "2026-06-09T11:58:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQLWdBRzJ5ODFUenJNNVJDVk1tVnlvVWo4MkhlUERSdUVEcGZqUFpTYlA4NGFmZU12Y3F3MzlPeGZjUmF0eXNjeld2V09xVVpROTllaXF2b0pERGJqVXc4d1B3cWRuZXdDZXFoZHYwN0NRUk9YYXdqbU1OOHk4N25aag?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Yahoo"
+        "source": "Mashable"
       },
       {
         "headline": "Trump booed \u2018thunderously\u2019 at NBA Finals: What we know",
@@ -666,67 +657,31 @@
         "source": "ESPN"
       },
       {
-        "headline": "Trump booed at Knicks-Spurs game as he became first US president at NBA Finals",
+        "headline": "NBA Finals Game 3 Highlights: Spurs at Knicks Stream of National Basketball Association",
         "description": "",
-        "published": "2026-06-09T08:46:05+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE40VzFIR3c0ZmN2XzFuS3gyWFJrQklvQ25lQlVTUWYyeXNLUFd2OU1LWDRUUFdYMzRLQkhYSjBQdmhqaHliWTRWNXdOTWdnZENCaGRrZ3NhV2ExQQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "BBC"
-      },
-      {
-        "headline": "OPINION | PHILIP MARTIN: Victor Wembanyama and the NBA giants who changed basketball before him",
-        "description": "",
-        "published": "2026-06-09T07:48:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPZjZwc1ZQa296WUFpUHpTWEhtZ0pEOFZESmNIRlFBU0VOUkZoQkZTay1MLVB1TC1ad1BHZzRIUWhXWUVMT1Z1d0d5dzJFSlRsZWFNVkRXQXZ3c1pKTEh6QmhBM2lBbnd1cWVqMXZJVDBYTnMwcXdwRzdxWFpuODhXa056NUQxTGctTXB6aFU0VFJtNUxfdS12VXFGSHd6Zw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Arkansas Democrat-Gazette"
-      },
-      {
-        "headline": "Victor Wembanyama carries Spurs to 115-111 win that cuts Knicks\u2019 NBA Finals lead to 2-1",
-        "description": "",
-        "published": "2026-06-09T05:23:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVXFzb2xua1E1cVBiSUZ1eEhHcktrbU9yeWt4UEo0R2syMTBUS3l3UkdBUXgzSjd1VFJHYVgtVnhSN0ptR0UwOE50MkdfNGNOeFR1R29oQmNTVzNOWXZmVTdkTjN1VmNIcmhBdTZ5NHZUOGRSeXVXVmdudXVha19NUl9PMmpDcGcyaHZ3N2RtVllyR2ZE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "AP News"
-      },
-      {
-        "headline": "NBA Finals: Spurs bounce back from Game 2 disaster, silence Madison Square Garden in Game 3 thriller over Knicks",
-        "description": "",
-        "published": "2026-06-09T05:05:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNT29ibTdpSVJfTFllT1ctcU1rT1RWTC1xUElKNW1EYm5iblpPeVF1NXpjdjJqbGdiNnhyTGZ2bnY3QmdjMU5OYmpIcGoyT3JrQlZKT2g2UVh6TjZTd2ZzVHdPTzFqMEJhNi15RXk3WW9FaDdRb19iMl9oSmdNc3hDcnJ5WnJZMkhwUzBKVkV2YTA3X0ppOV9FY3UxQWdvR2VjUzJ4cFN4ZlVZWDY2Z2FOUkotR3QtTUxLcFNwVXkzYmxkSkJJclM3UzRDLWEtbWkxd3lTdlZvQkVBVW0zT1N0emhBTVBDZTNaaEZLczZEYXhtaHM?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
-        "headline": "2026 NBA playoff bracket, schedule: Spurs snap Knicks' winning streak in NBA Finals Game 3",
-        "description": "",
-        "published": "2026-06-09T04:51:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPcDY0WUpIMXFTbFotNk8tN0VzXzNTRm9ibTJLczR4MDRzbFlPQkZHdmZ5T1JmbHBnUXZFOUdNcVBaUFBBQ3pSTkRMRVR3TWRPMnBBcUFoUFBTWEpTY01UT2V6QkNKbkxOWDZ2RmNoN01WVlVscHlodlEzbi1nM1c3OVZjek4?oc=5",
+        "published": "2026-06-09T05:31:22+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQeGNKMkkzelhqSEM3VmhfVzhvZl9nbnpjY3ZzNk8xUjlDemhsSFJaZ0dRT3dwVDYtV0Y5YzdOTnZydXZRYjdsMlVvZUZLbU5vNFBXTTdXa1BfUzZXOXhuMGZGUFAwcHFBdjA2M2ZOSm1Pbk55UE01a0dtTVF0bmlvbjZGQ2tsVVBiTzRmdm5SVQ?oc=5",
         "image": null,
         "recruiting": false,
         "source": "CBS Sports"
       },
       {
-        "headline": "Knicks fever sweeps New York for Game 3 of the NBA Finals against the Spurs",
+        "headline": "Donald Trump booed by the crowd during the anthem prior to Game 3 of the NBA Finals",
         "description": "",
-        "published": "2026-06-09T04:14:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObjRGa1dGdmhscXNWVWRlcFlzT1NtcW1kUmIxWlRhY2JjZnlOVkNhYWVfXzVkRGEwNVQ4aWJXUDdRUmQyN3NpZnFJbURWQlU4OF9keXBfZXpEUWk1UHFVLVNPYUF6aEhGNE5adVNGdWlmMGlVNnBxZEF6aXYzdVYwSnpCcjl5eTc0OVp3SVhlZURmYl90?oc=5",
+        "published": "2026-06-09T04:42:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxONzZWQkJ3V0QyUEZ2RE02a08yeW9MYUlOWDdUemxONEpXVXRDVmtta09XWndzQ21OeDFULVdWYTg2ZkNWZjliWHVHVlp2U1prbkZNSy1LNmJkNGZDMC1GbXhtM3hCbENrVmVHSDlaazhnR2lTV3RmUjBDQmNuZGdwbnFjYUtWT0czVTNhVnNGSW9ia0RxdnlR?oc=5",
         "image": null,
         "recruiting": false,
         "source": "AP News"
       },
       {
-        "headline": "2026 NBA playoffs: Schedule, scores, news and highlights",
+        "headline": "Knicks vs. Spurs live updates: NBA Finals score, news and highlights from Game 3",
         "description": "",
-        "published": "2026-06-09T03:39:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRDc5Y1Q4UktuVDNVQllONDVTRWI0OVZMc21KbnB0RmRDVW90QUpISHdKTktWazBCUTEzWWZYYlE3XzlNQ0M0WDJqSHVrX0ZUUlpQbEpJNmJ1aGp6R1hmdXpyYUE4YVktMUl5LXpUTjctQjJHanZXOTRNX25QTnhHVkFvQ1A4dEE2VTZyTGd4UEJURzRHbElDQzF6RHJ2Wlp6Zy1JY0d3Mlg5d2xkZ00xU0s2el9NSGc4VzZzbg?oc=5",
+        "published": "2026-06-09T04:36:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPTHBpc2M3ZUNaVGpTNUQ5aFNpOFY3LU5zRUZ5cmtXcnZyZ05ycV93Ml8wVlJ0UUduZHk0Z3haeGhsMWEweXZ4TWxDeXdpb253MGdyemE1R0VxbXB0MVQ5OWJhSHRiakFuYmVTSndpcFlnRU56SktHY255YThsZnA5VTBna0hUX1BNZ1hNeWlaYzgxb05lRG1LYTB5emxRNWxNZWpRaS1yZV84bmFaUzZOVTk2WGhyZw?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "ESPN"
+        "source": "New York Post"
       },
       {
         "headline": "NBA finals: Wembanyama silences Garden\u2019s party as Spurs beat Knicks in Game 3",
@@ -736,6 +691,51 @@
         "image": null,
         "recruiting": false,
         "source": "The Guardian"
+      },
+      {
+        "headline": "Where to score free food, coffee and more after every Spurs NBA Finals win",
+        "description": "",
+        "published": "2026-06-09T03:34:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ0IwV2Z4eFN6YTRQcU04bVlDOTRfaXl3T2hYSGpSRElmcW5Wal9qVGEzdzdDYWxkZmk4dW5uckowTDZaTEt0TTk5c2M1R1B4OEREQnoyZi1mbGl0VjBMc2xaOVJGbElaYTR0a3M3aGdqNUF2bVlLZm11cVh5bEZ0MXNnN25RRkZwcjJEaHdmVy1qTUxjeUJNa2RHc051TkJ5YlAxeWlNTFczMkxvSmkxMGFON3ptb00w?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "KSAT"
+      },
+      {
+        "headline": "Keba Keita is pushing for NBA future with big dreams of creating better life for his community in Mali",
+        "description": "",
+        "published": "2026-06-09T03:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNazAxX0pzb3RCTThCdWNha0NLSlowRy00Q2VJTXM5NUx3TjhtczZQNXJfLWFMa3FXN3llb2FOcG1pMFdETEt1QUE1VS01RjJ5OGJMQkpSWmoxeGRuQ01PaXpIbkJJWnR4c1gxUlR2dm9SdThiMFRwZ282Q3R3TGNMRGFpeXRhSWUxRzZHa3pURTEzeThCcnVLT21RQkY0U01sQi13QnlxOWItVWNlZEpIM19DWUg?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Deseret News"
+      },
+      {
+        "headline": "Latest NBA mock draft gives center Luigi Suigo no reason to join BYU basketball",
+        "description": "",
+        "published": "2026-06-09T01:01:51+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMzRSNkJuZ3NZQnVOcEtiQk9RdVRNLWt6cGx3NTlBTkdMU1BHTk0zWUVIUFU0Nmw2elZqdmxXMDlucExCNmVmUHNZRDFvRURZeVdrUUoxcVl0djJxT3NPSDRwRlBDS2E5VERhLTdjcGVqd2tEX1JHRHBsTURYeldzOHREQWhld3BEdmJTLWkxOU1ZdmhMcjl5SkYtTVVKdkFBSFJWNkh2cXVHQTA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Lawless Republic"
+      },
+      {
+        "headline": "Where are these Huskies headed? Get latest the NBA Draft projections for UConn\u2019s potential picks",
+        "description": "",
+        "published": "2026-06-06T19:27:20+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNX0xPR3VrSS1OV3BGX1lhSHRMS2xncUN5M2pGU2NRN1Z4ZHphVTViV2dEVk9SVmtvWTNZc1pkOGFyT0NYMjRsWXEydXAzRHRPTXFpNE1wNUltMkFfSFl0Umd4N3lJZjUtS3BNMG1sSkhxVjlzUmlOaFlLSHJEWGREY3l3WjhKYnVmalhrWThnY053RUFBeU8zbnNyMDRiZjUta0k2Q0ZMcTdORFZOUlM0Z2kyaDI5TUZJMUVBRGVaN2pTQ1RsQVg2ZFBB?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Hartford Courant"
+      },
+      {
+        "headline": "82-0 is the best basketball game, to hell with NBA 2K",
+        "description": "",
+        "published": "2026-06-06T14:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE04ZnF1dnhEdTVGaXRIR05xUTFtbFI1NTZwMzdiTGhPSTVXOGhWUVNwN1d6bXMtWlNaNHQ0T3ZxYjNuUVdIR3ZySWRodXhXZXd5aGZQeXNuNklRRjQ5VURyX3VIV2dTa2UzOER5d0pwbzRKdjlLRlRZMDBxV24?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Verge"
       }
     ],
     "games": [
