@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-10T18:53:13.468953+00:00",
+  "generated_at": "2026-06-10T19:08:18.927153+00:00",
   "duke": {
     "news": [
       {
         "headline": "Meet Joaquim Boumtje Boumtje: Duke's 7-foot phenom and next potential No. 1 draft pick",
         "description": "",
-        "published": "2026-06-10T17:22:30+00:00",
+        "published": "2026-06-10T17:56:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWTluS0o0b0NiVUd4dWZaWjFQY2lma1haLWpCZFU1YkZNeHlMOWlDNlcxZERFQTNTTGxtMlZkQnJZYTRkVExVbWktOTEtV0k2ZFNpR2Q2Y1hfVTFQZ21KRkpkVlJOYTAyaDd1b0ZtRVd6Yk82cjA1TmNnRzZRTFZ2Tk01RGgwNll2ZFBiSk1iLWdqZw?oc=5",
         "image": null,
         "recruiting": false,
@@ -118,15 +118,6 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Jon Scheyer's most aggressive portal cycle yet for Duke earns major national praise",
-        "description": "",
-        "published": "2026-06-09T14:00:03+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjgwdlpDN1U0emlLMDZWWDB5UDY4TFVEMGxVZTE4V0RsZWhfUHdpSFhRRUU5dWZ2TFQyTWI2LTJkdTVKQk44cFctVEpsYXNnT2F6eGJ4R1Jza0hVaW9VSXpSWE94eE9SNGJrY05BVFRsbjlfbUN2ak84WFRqQjZOV042VTJqMmdPTHpNd1ltTElqd0NRZzJpMUstdnVDSzNuYXpEYXl3VHY5dw?oc=5",
-        "image": null,
-        "recruiting": true,
-        "source": "Ball Durham"
       },
       {
         "headline": "Men's college basketball transfer class rankings for 2026-27",
@@ -253,6 +244,15 @@
         "image": null,
         "recruiting": false,
         "source": "Ball Durham"
+      },
+      {
+        "headline": "Duke's Full Non-Conference Schedule After ACC/SEC Challenge Release",
+        "description": "",
+        "published": "2026-06-06T11:00:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVG1tS29YdGVZcUw5SV9NVF9NQ1hBb1haOHdPdnZqVkhYUlJ4NHg2My1XdnFldzJXZ2dVclBmSVlhUmRSODJ0X1VhdmdmdGljdWg3cXVtY29veS1lVk52bHM0Y3RCb1VuTHlSX0FPTW1fMm1EQkEyM3RYU0NOUnhTM2hCVE9HTmVScjZXeHpNbnB4Q0R6ajN2LVlNOE51ZlZTRV9BVUI2TQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
       }
     ],
     "games": [
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "New York to keep security tight for NBA finals game between Knicks and Spurs",
+        "description": "",
+        "published": "2026-06-10T17:29:36+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE85Qk4yajJ1RHZwVHVJaVNobG1XWHBoOHV3bVRtdVNVN2NHT04xV1I2MmxLV01rVnZIcUVibTJQcUZ6OGtldlJYOWNmekJHR1hzOGRJNFNFazFmQQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "BBC"
+      },
+      {
         "headline": "NBA Finals betting tips, DFS picks for Game 4: Expect Wembanyama, Brunson, other stars to show out",
         "description": "Eric Moody breaks down Game 4 of the Finals between the Knicks and Spurs and offers his favorite bets and DFS plays.",
         "published": "2026-06-10T17:18:08Z",
@@ -504,6 +513,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "Trump goes after \u2018dumb as a rock\u2019 Stephen A. Smith and invokes Joe Biden as ugly NBA Finals feud spirals",
+        "description": "",
+        "published": "2026-06-10T15:58:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQTEc0eWdvaDBpMzA0d0JCREhxZXhDWFdjZTFxUXVRXzMxM19FNmk2aFFGTmhraFFNVVRuS1czYk92aG80UTdEaTJOVlVPZ3pKcTE2TkRCZjBiQkxtemNiODRvT25sM1hjOFhRZGJJUnBOWUVjNzdPOHdIbHVDaDExdlFBWjVMaFNhbTB2WnRVTDZ0Um5palFqTzFnSTJGaXFJN3N4QlozSVdfQnRia1BHSW9ZNW85eWxJRXFseGN5RFg0S1ZySHpkR3NGZ3ZBSGhIN21RdWNR?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "New York Post"
+      },
+      {
         "headline": "NBA championship and Finals MVP odds: Knicks maintain odds-on favorite status after Game 3 loss",
         "description": "San Antonio's win in Game 3 created a big shift to the odds, but New York remains the favorites as the Knicks head into Game 4 with a 2-1 series lead.",
         "published": "2026-06-10T15:56:37Z",
@@ -511,6 +529,15 @@
         "image": "https://a.espncdn.com/photo/2026/0609/r1670362_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Stephon Castle Reveals He Maneuvered To Spurs Ahead Of 2024 NBA Draft",
+        "description": "",
+        "published": "2026-06-10T15:52:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON1JLT095MEhkY0FzRGMzcVVOb08wQnppc1B1XzRfaHpyaVhlZkpfRG1ROGdtMHdsN3d5T2lvVjhLWU0zUkFZOFphNUJDMXFxUXBUQkJJR2lTVmJaSkpyeGt3ZnJfY19heWdIMXNmR3haTnkxWEotU3RXT3VmaGc3d0xfcUs4UEdHNC05YkU2bGJocEs4MENTbVk1TVBwNGFmclRqNTJlRFN1MGlMXzNPRE5Kb28?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "RealGM"
       },
       {
         "headline": "Knicks and Spurs set for Game 4 of an NBA Finals that have belonged to the road teams",
@@ -522,10 +549,10 @@
         "source": "WTNH.com"
       },
       {
-        "headline": "Knicks fans outraged over Victor Wembanyama escaping NBA punishment for Jalen Brunson shove: \u2018Golden boy\u2019",
+        "headline": "NBA Mock Draft Roundup: How the experts see AJ Dybantsa and the top 5",
         "description": "",
-        "published": "2026-06-10T14:28:38+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPOFFXQnh5anMtbjg3Q0dZQVBWcDQzd21CY2VkNkt6ZWp5YnhmQk1yY002NjQtc21wei1kMEE5bldZLWU3UTkzYTJydUdCMDNZSnRlY08zeFBWM3ZtcWk5NEl3b21Ba1ltYm9zbmE0RE5MOUxETjI2LTB4RVRrTDNuSkxBTmpHN0df?oc=5",
+        "published": "2026-06-10T14:30:57+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdjFxOEZ6MVVjNm53T3kwUUh2ZjRUNl8wNlEwMDkxSmdBZlBlcnVWV202SE5KYWxxSHQ0dWl1emV2d1M4QXlvNDkxQjBEekhFNzFRY1RlZmY2aVVZMGRpd0dJaW1XRzlVQ1dWZVFzVUlSMndDd3lQXzBiUGtFZEF6dVVRS2Uxdw?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
@@ -538,6 +565,15 @@
         "image": null,
         "recruiting": false,
         "source": "ABC7 New York"
+      },
+      {
+        "headline": "Michigan\u2019s 2026 NBA Draft results will be a major recruiting tool for Dusty May",
+        "description": "",
+        "published": "2026-06-10T14:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVlhGWmtBZXJ4YlFERXhFMTdhWFgwTzY4NkFVT3RJbzNWbFlLTUEwaFNqcTM2R0tMZE40elhOcnVTVVdSUng4MmV5SEhLYnp2Mi1MaWU0VlFwd29yZ1ZsWDlROXpmUnJBSUJHeDBjOHNlMjBqY2dkeDlRMEdGcUNpYXI2elhUQnV3cEhMa1I4Q1UzdFZOM0h4bFF0VWhDZVY4X1FNY0JQSGpOMWQ4NmphcE5uS2szOUhJeG4wbDYySVZFMDN2Z3VUMzlhNjI4Yk9PTXV3NnpZNXhNTko0bmRublVSOA?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Maize n Brew"
       },
       {
         "headline": "Former Tennessee Basketball Star Invited To Green Room At NBA Draft",
@@ -666,22 +702,13 @@
         "source": "A Sea Of Blue"
       },
       {
-        "headline": "Trump plans to skip Knicks Game 4 of NBA Finals at MSG",
+        "headline": "NBA THE RUN Review: The Arcade Basketball Revival Is Here",
         "description": "",
-        "published": "2026-06-09T17:54:48+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdTVKeDNNalVCWWxTY1l0UWx0dkszLTk4UG44bDNxLV9ySUU5OERfaE40NGRkNDdSMThWLVZNX2JjN01nRWRJaUxtalZBeXRvMnEwVlNSX19ZOHQyRzZnNU9adkE5RUttZFFaeHkwOVlvZVpiTlZrRTJ0Z043YWJBcGxsbXFLVld4SWc?oc=5",
+        "published": "2026-06-09T18:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hQUlkbkpCZmxENGwyaS1QREZYMXJ6QlJsZ05Xa1lBTWhpQXBfOVFTdkFzdUlYRUhGc0l0ZFNFdEFYWS1OQW5kMVc5RGI5SlJvNHUtVG8waU5fdw?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "New York Daily News"
-      },
-      {
-        "headline": "Trump says NBA is 'good entertainment' despite it being 'a little left-wing' after attending Finals",
-        "description": "",
-        "published": "2026-06-09T17:46:48+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUkU4R2s3NDlBdkV4Q0t4dTh5emVZeHlnTFRHbkh1Q1I2SS1GYVJFWmxDWWJxbFpUMHA5cnlVSXl1Z1pQOUozbXh0bjZaNFRjNnR3aW1GSEtxTUxSUzFJVmdYeW1QNTlZOEt5aUVmcnpIU29BZ2JjaDFBMzFFZWtXTms1MlJfYmQ0S2xwRklueldLT0toUFIta1FZRmtkMXdBbVpWYmZHUnZaQdIBrwFBVV95cUxNWW1kVEVEM3hsWnZIazNqMEVQbFc2RWZkTkxrUWlRd3UtbjhGMm5KX0NCM3AtS3hSNndibWVIdWwtRWZvVTdUMVhDOUZ0aEFjRGs3STJKeE84VDFQakdVbXRXbjZUbWpaRktKbXpGTlVCMTU3VWd3ZG5oamNvekhVM0diTVlPem9XckhNVFR4WkZWdkZPNjdCSFQzVzNqNzFPU1N1UmFZcVNINDVIRmh3?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Fox News"
+        "source": "GameDaily"
       },
       {
         "headline": "Which college basketball program would have the best current NBA starting 5",
@@ -695,7 +722,7 @@
       {
         "headline": "President Trump roundly booed by New York crowd at NBA Finals Game 3 at MSG - The Athletic",
         "description": "",
-        "published": "2026-06-09T15:27:00+00:00",
+        "published": "2026-06-09T15:37:36+00:00",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUTc3ZW5VZm9SV3AtdjdJYUlJVXNNalRsNWxRT1ZGRnlsb2FSblIwOWF5dGtVTGRXQVVqcThuUHUydkRyZ2Fkb0dCOTFVcm9vQUEySk5FUmI0U1hHZHljamhWRFk1T1VDSnFxUng1anNEa1BmUGlFODJTLU53bXlYcG4tZGdUclh5SUV1OGRxYWhpamc?oc=5",
         "image": null,
         "recruiting": false,
@@ -709,33 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "People.com"
-      },
-      {
-        "headline": "Trump booed \u2018thunderously\u2019 at NBA Finals: What we know",
-        "description": "",
-        "published": "2026-06-09T11:40:25+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1JadmtwZnktdDdSdEhzQVFzaVBxNVVFRkRBSldpeTVaSFd4WWp6cjN1dWpMVXRSbjdkLS1RckF0NWExZ3NIcEFCR3kyQ2NvWVFuZGJrYzNad1dXbnk3RUc2RnRWeksxZklGN2NLaWpSY1VqeHVZNFZuVC1QVnJuU0pPaGl2MktXaWN4cnBDODNqM21VdXfSAZsBQVVfeXFMT2Z6bjBnRzh0UjZLOV9xa1ZFQXViWW9CUmprdE5TbVFkZjAwZWJfY3NSQ0pEOGlGQXJCU2VrTkl4ODlKVTNmQnRqZ0FmdGlRYTkxM3h1cmhJZGdVclY4NEhiZmUycTBKUldwVVF0cWdhVC1fUFdpUF9UczJqN0RQVTF1emZrSVZyLU0zWXVIVGU3di1NWmxldWRCblE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Al Jazeera"
-      },
-      {
-        "headline": "Grading bold 2025-26 season predictions for all 30 NBA teams",
-        "description": "",
-        "published": "2026-06-09T10:45:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUFFiVEtGaHBPRmU1WUN0VTJmb1hLUEZteEdvNl81WGg0OFctN2p1VTF0WDQ5eGhrYm82Tl9yY25vclFWVHFqSzhUcGpLbmQwQWJVRko0UjZlOGd3dXZFenFQdWR1eTgyZGc1MzBjY2RZekxOaERmN1VkcEJ4T2NDVHdJbk50dmNTVmd1V3cxeHRfVHVZWUlJRGZSV20xQ2FGZWJOX095bU1XSklaVDBWV1BGNDRUcVBSbE9ZYm1sbG15dw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "Victor Wembanyama carries Spurs to 115-111 win that cuts Knicks\u2019 NBA Finals lead to 2-1",
-        "description": "",
-        "published": "2026-06-09T05:23:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQVXFzb2xua1E1cVBiSUZ1eEhHcktrbU9yeWt4UEo0R2syMTBUS3l3UkdBUXgzSjd1VFJHYVgtVnhSN0ptR0UwOE50MkdfNGNOeFR1R29oQmNTVzNOWXZmVTdkTjN1VmNIcmhBdTZ5NHZUOGRSeXVXVmdudXVha19NUl9PMmpDcGcyaHZ3N2RtVllyR2ZE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "AP News"
       }
     ],
     "games": [
