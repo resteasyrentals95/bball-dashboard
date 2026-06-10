@@ -1,490 +1,20 @@
 {
-  "generated_at": "2026-06-10T19:08:18.927153+00:00",
+  "generated_at": "2026-06-10T19:25:54.703436+00:00",
   "duke": {
-    "news": [
-      {
-        "headline": "Meet Joaquim Boumtje Boumtje: Duke's 7-foot phenom and next potential No. 1 draft pick",
-        "description": "",
-        "published": "2026-06-10T17:56:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWTluS0o0b0NiVUd4dWZaWjFQY2lma1haLWpCZFU1YkZNeHlMOWlDNlcxZERFQTNTTGxtMlZkQnJZYTRkVExVbWktOTEtV0k2ZFNpR2Q2Y1hfVTFQZ21KRkpkVlJOYTAyaDd1b0ZtRVd6Yk82cjA1TmNnRzZRTFZ2Tk01RGgwNll2ZFBiSk1iLWdqZw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "CBS Sports"
-      },
-      {
-        "headline": "GROUNDBREAKING: Duke Basketball HIRES Alexander Powell, TRANSFORMING College Analytics Forever",
-        "description": "",
-        "published": "2026-06-10T17:16:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisgJBVV95cUxPb280OUhNVEhtSkVrNmNYa3pOckhHMXpNdEtVcGp0a2RveWZBcjRDUGQ1TTh4UTBET2RWWnItM1cteWZVTTF4aHd6NWgxOVdzdXhWOWx6clR1N3Nhd09Qb3NMTXBaSnZUU3ZWNTNza0tEMEVIQ0tiTFJkUWQ4LTJKeGR0R1plTUttbE9nRmI4c1Myc1VXOV80eFotNncyejUzQ0U3R3JGdUFDN0NObHVDNWhMV3pvVnd0eHRfUktkWjJhWlhPel9wU3phN3V6RjZWYzFnY3h5RFljckZMUTEzRm1faENEQXYwNWVhN09ESjNHUVVjLVRqWGdic2NIdkZmVXBrRTJyclFESXBjdUd0STJFU1l0Y2hjaFNrMGxhN0JoRlAwOWtGemxlNE04Z29lTHc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "fox61.com"
-      },
-      {
-        "headline": "Duke Basketball Handed Preseason Superlative as Incoming Class Excites",
-        "description": "",
-        "published": "2026-06-10T15:00:03+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRnBjYjF1MEp6RTl5NWd0ZkhKaXcwcnNReVBJQzJjSEoxWWl2T3pDMjR3UWpUU3FuV1hyV2o5WmdNRDdvMzkzNktyNFhrNVcyN2J5T00tNGMxTFVQUjZabWp4Y2prb3R6Y3dWWk01aVZIRXRzS2lKY0NFMVJvYnV4Z0ItZWhfM21VSjdqRWRKNUFUa0hVQkQ1bjlxZWh2ZW1yV2dwbmF3TTFpUQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Where Duke Basketball's Transfer Portal Class Stacks Up Nationally",
-        "description": "",
-        "published": "2026-06-10T14:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXFOaXE0QkZQQ1FkZEhmMlFSYS14RlFKNV80cEhpUmRJUndSQ0J2bW0xeHlHOXNIWWVnUDRxTUExdFl4S3BlSkppSGdiY0R5bzZFd05DRGNyMzlJVHRyaDNMeFdYQjRscDg5U3dmOUREZVM5NFU1aGRWMHZ6RjJXb1g5ZUU5WkNmR2VCLXZtb3d1bXBHYy1CX2VXeXNOS3JaOXdhczNn?oc=5",
-        "image": null,
-        "recruiting": true,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Duke's Cameron Boozer's NBA Comps Show This About Future",
-        "description": "",
-        "published": "2026-06-10T12:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQRFpSN3NyODFHbzUzd2ljZk45c0E4U1l4UGdadGZLSnFFdFA3Y010TllSb0FtZ0ZXTHN5QnMyQ0tXVEd5V1N5anhSWm1BQTJXZ3Axelhxc18wQ1BmQ1c3YkRwRF9SV1RJUF9TdUhST01UNnhxeHJEcGZzMFFGaUF0X194cldPS1ZBbnJfVWxB?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Duke's next international star is about to get a massive opportunity before he ever plays a game for Jon Scheyer",
-        "description": "",
-        "published": "2026-06-10T11:43:56+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcUpzOW5jM1Zxa3dnUUZZdldhbWxzTW5qbEJDTDdnS01SNlpuTWppVW9uckc0NFNRTGpjZDNsanBIeE5WUG9KZkVNNHgtRExrREgzRXlxdjF5eWZmUFViSV9DWEY2M2htd2tZaGI3STdrVEpyTXZXZEZidlBYSHFWUWYwbFRmbFlPcDdnbm91R2d1UDl3dDZjLUpVV3llN1RBSGRnZE9WS2hEcV9uVG1fUmtncWM0TV9TbGY0QXduVUZwZzZYRkZDMmEwR1NnRjFhVVhIVXlLYVp5YlRWUUlCYWZQUlNZdw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Busting Brackets"
-      },
-      {
-        "headline": "Men's transfer portal superlatives: Louisville, Duke, St. John's headline winners",
-        "description": "Which contender improved its chances the most? Which team went from below to above .500 with its additions?",
-        "published": "2026-06-10T11:30:12Z",
-        "link": "https://www.espn.com/mens-college-basketball/story/_/id/49014313/transfer-portal-winners-losers-louisville-duke-st-johns-kentucky-tennessee-2026",
-        "image": "https://a.espncdn.com/photo/2026/0610/r1670679_1296x729_16-9.jpg",
-        "recruiting": true,
-        "source": "ESPN"
-      },
-      {
-        "headline": "YouTube Gold:Duke-Wake Forest, 1987, Featuring The Great Muggsy Bogues",
-        "description": "",
-        "published": "2026-06-10T11:06:06+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLVhzQnJVd00tcG41YWJCTlZyQmtyZDlfa3JBbUVyVC1DUjROcERzQVRpMWZ5c1RTcTEwQ256UXFNN3YxNVFDTlRIdnJzaUJzZ1g5Ty03X1NGMWEyUlhibmhjem5fNkowTkZPdW5MTmFFQ1JzeFlqZm5jMVhORXhLWDdPRFNnM09K?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Duke Basketball Report"
-      },
-      {
-        "headline": "Incoming Duke Basketball Star Rookie Attending Team USA Training Camp",
-        "description": "",
-        "published": "2026-06-10T11:00:09+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZmpFSzQzTTRDOTNrYXpOdVlSenFISGxKU2Nlb1Jvc0NvaEFCQnpGTV9nYklOejlhUkVfS2dXNWEzckpZRXA3SjVzaFVvRHpvbjYyR3dFTnhpaE9ZMnlYQVpiWFdfT2FNSU5VLUc4QzBmUTEycTJNeG53SlZ0eTN6djJrN29sVXo5ZEIzTm53?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
-        "headline": "Why Duke Basketball's Transfer Portal Class Is Underrated",
-        "description": "",
-        "published": "2026-06-10T10:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb3AzSElzNkRUVDBwdXFmS3UwQVJHcFZpb2pPa3JCc1JDR2NDdDFyM195VUdPSUhXYlBKZVQxSFdNanpWbU53SVpwZExfOWhCZjROZnRCWl9kNG82MkJuVHp5Z2UxUTVjdVozdVJmRmswak1lSFFaekR5NkpOVGMtVEZEQllUNzFDYmtyYVhubS1rWWxGeGc?oc=5",
-        "image": null,
-        "recruiting": true,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "SHOWDOWN: Duke Basketball vs. Florida Gators in ACC/SEC Challenge | Preseason Top 2 Teams in COUNTRY",
-        "description": "",
-        "published": "2026-06-10T01:46:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitAJBVV95cUxOUERpbEcyR2RRVWZMYldZQ3NubTFNdV8tdGhuOXZiSnp2bmg1ZXp6akdLbTNZVng0dlRBdGZ5RzBmTm9JNVQ0eFlXcjYyUm8zbE5PZGtiQW9NTlRRZi1YaTRIQm9XVk1heUlDVmt6bGdlam42NklCdHJnekZyVVhkT2VzZWJWeTktdDdyU29yZGJ1QnhCLW5zdWUtLUZnX2J5WWJjMmhMY3YwX3dDXzFISkx6emE3N2x2WV9QNzZNTFhnSmg3amlCNGl1dTZBRm1KdmhkNmF1OWhpNFVGYWhVVnh0V2hsRUpHRFY2X0JVMkNWQU83QzV1WUZITkxrcWxybUpQQlJaTEsxdU1RNS1OZXZ0LTBjQ3V6RC1MTmh2eVVQNzF3ZmVKQnRyZmU3VVhUMmhlcg?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "KTVB"
-      },
-      {
-        "headline": "The ACC Team Duke Basketball Should Fear Most Next Season",
-        "description": "",
-        "published": "2026-06-09T15:30:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOTRGcEJGdXUxNDdZdVBzWVdRcU0tT1pxV2RuX25CVzRGdGVOOXdOTV96XzBhTnlpcnFpcF9ZOTJQaG90UnI5T0hVeW85Z2YyUE9BQUhLRVpHbUtDSlJZUGMzSjJZblFPODRkaHRtb09ldGp1R2hMZVpZMmtnZm1fM005TU1ZSGRfMGhSVXF2MjBGczRrZWFN?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Comparing Duke Basketball's Ceiling With UNC's Next Season",
-        "description": "",
-        "published": "2026-06-09T14:30:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS19qVzl3TTF1SWVTMm1OQm04MkpGcVZ5dGIzX3Q2aGhPM0lvOG8xcTBnVENnSGZpdDJLTTZUWUN0bjRLRmVDVnVxY0tqMW9SMHhqalJkVzhLMUQ3VFcwVk9LcFA3T1BiSEJMN3ZuNF9PSGNheEl2N3l5RkVYb3VNSVlqLWRacFI3N0hCYkZuVUg0dw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Men's college basketball transfer class rankings for 2026-27",
-        "description": "First-year head coaches aren't the only ones who made a splash in the portal. Blue bloods are in the mix, too.",
-        "published": "2026-06-09T12:48:27Z",
-        "link": "https://www.espn.com/mens-college-basketball/story/_/id/48969894/mens-college-basketball-transfer-class-rankings-tennessee-texas-louisville-2026-27",
-        "image": "https://a.espncdn.com/photo/2026/0604/r1668324_1296x729_16-9.jpg",
-        "recruiting": true,
-        "source": "ESPN"
-      },
-      {
-        "headline": "College basketball preseason rankings: Are Florida, Duke, Michigan, Illinois overhyped for 2026-27?",
-        "description": "",
-        "published": "2026-06-09T11:17:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWWVRUWh5Z0tIazBvVXdvTmNaMld3ZGN5ZkpJZk4yVUN5aWg4TTdpOEY5dHRMaHhtWWpWVms4bHNfSEdVY1RhNDJESnhaT3hkUXQ0YjQtcXFfVW9yeVdBeEdlYVdFLUtpWEdBUE1EeExxUkpoWER1c2RZbUF6aldqMWlVZzF4NnQ4Vm9YSEhwbEdZN1Rwck1BVEJjYzFtMm1wdDlDVWZYMzZsU3lwZzlCOTVmWnJleXR0bTY3QjZHTWo5R1pZX0Jyc3hUUEdINGRF?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "247Sports"
-      },
-      {
-        "headline": "Mock Draft Predicts Duke's Isaiah Evans Reuniting With Former Teammate",
-        "description": "",
-        "published": "2026-06-09T11:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNdV9kMEt1bFhSU1NEOWpPc0RSYTFrMjdnYjlpanN4c3QzRnhCNUNBX3F0Y1huWHhBMy1zN0lKMk5tOUpRSms4VUIwSC14X2FKNXo2RGFqbHlXYmdsZjlZdllzM2tCZEhnUmU0RnprTDY1OW5CdkFFTC1MZUVOdmZEa1pWU0FhU0wxVUJ0Wmd3UU90R3dpdmJZaXM2cldYT1Itb1JUSw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "YouTube Gold: Duke-Georgia Tech, 1983",
-        "description": "",
-        "published": "2026-06-09T10:11:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNanBtZzRRZjh1WWFJemNzTnFYbThhVUo3MHJYTjE3d0NJdUp5NF8xRW0wLUFzelB2aG1yMldYems0emo5SWdsbWlLSTNqUElLR3JLdEZwd0llR3dlRHBEOE9rTzREdl9NdzZ1MDZpbHJzQWJtYjNrVEQtWFJxdTNuOGhlUUFJajBUVFFr?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Duke Basketball Report"
-      },
-      {
-        "headline": "One ACC Newcomer Duke Basketball Must Monitor",
-        "description": "",
-        "published": "2026-06-09T10:00:04+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEYzc0p6NzBCbUdPd3JrRFhXOTZMMGNGT05PMnhQcl9pYTEzOXBpdVN0Z0NzUFdfZlNvLXJteWU2cXdMQk10SDNKS2s4V1J4NzF6cGlVejBZWlBVZHRyaGM2ZjhhMVVfUjY2d3YwOFp1WnZLUU0tbkplVFVtb1dLQ1I1dEpzeHZXMnpfMA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Breaking down Duke basketball, Jon Scheyer's 2026-27 non-conference slate",
-        "description": "",
-        "published": "2026-06-09T09:01:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc3Job1ZPY29MdXR0c0VnNGs1QjJxUl81WEpWcXNYWjJzYUFFMXJ4R0lUUnlTYktQWnVwcFRqR1ZWT1JYcWdLVkpkRms0MV9DMXNwV3ZSRG5DRTdkTG9Bd3kwcHlIblFZZzc3UnRLVUxxRm4xUjRLTF9pVFZrbHJWRWNJWjVoQjRWdnZrSTlRSWR6NXdCYkJIc3B3WU9ldE5RMEhhWDBoa1c4NFJrS096VUVSNkVmemxwb1RnaGhjUTRUQQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Fayetteville Observer"
-      },
-      {
-        "headline": "Florida vs Duke atop 2026 ACC/SEC Challenge matchup rankings",
-        "description": "",
-        "published": "2026-06-08T16:41:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxPQXdUeDAyaGYwOHdBbGM5M3BYTzVxa3FrVzFVQ3ppc2JDa2dMdDZQTHVkWWRoVUl0VF9yM1pxemVrbnl1d3VwZkV1RDNlcE5PWjg2Y1JtU3E3NndMVldfY2tvZ1NoLWJjd1BaN0RaeG14VldsQlQ0Yy1jWkJzc2t5RGEwdVg1WlNTSzNKczl5cmUxYUR5aFBMYkRBUE4yczFVNGVvVkJjNjhxbGNTNXQyVUMwY3NKX29CV19fTHdqT24tNzdVaERBZk9pYTk1NUVZYWtzWWlWV01xNW9XTUd6RV9pamtxeVRjUnMzR3UtdmVYQ3lRaTUtZ3dudw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Gators Wire"
-      },
-      {
-        "headline": "Flemings and Team USA Open U18 AmeriCup Action Tuesday - Duke University",
-        "description": "",
-        "published": "2026-06-08T13:48:08+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPM2VhLUNVMlMtY0d2QXdRd012YWVtVDlybzBpYVpwQ091YVluLWRERGdUblBPNDN1cVpZd182TklPMFFfQkxLUVNOdUF5SEdrUHNJYTNnMmlncWhkajVXMjJudU1iRGtRbTRfU1YyMXJsd2xxczFyU1NXbmxuMnhCTktLb25mUlB2a0l5WC1zdHQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "goduke.com"
-      },
-      {
-        "headline": "Why Duke\u2019s Isaiah Evans\u2019 Risky Decision May Prove Costly",
-        "description": "",
-        "published": "2026-06-08T13:00:02+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPOThROXNteHhTcjNBZnZEM3dBRGVra0pvTzFGR3NRQXBSWGFMd04wd2RKYmlBZk1TMjdVZ0FVOWlzdGVPaTI0N3NNM3hkMDlsczBOTHVSSUwzTVdTOW1Xdk9hN0djX2M3blRMVEF2RGU3Q05vRUo0MWNJZ2g4d1d5UzNGSVlkZy1JZE9uOEZVdm9aMmp0NnE0?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "\"Michael's like, 'If you let them in, we'll never come back'\" - Kenny Smith on UNC stars shutting Duke players out of barbershop",
-        "description": "",
-        "published": "2026-06-07T22:16:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZlpiR3FvUERyM0t2bFg2dzdET0hsazVGdGpBcFF3aE1LUmhXLUlERjFQbjNtcng5ZUo1SkJxRlBsNkI2WUZpV2ZFSklkcXVhemJVeXdVWmVEWTRrNXBNTHc5NFZMU0NiWTBZbklSSTU1NHk3OUZLcXlrMGR4c2RteDVqZDJVNWhkXy1BYVFtamI4ZVJBTXNFWFRlUE5JZUJYUHBEX2ZNLWJGcG9wVko2cDFfVQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Basketball Network"
-      },
-      {
-        "headline": "Duke Basketball Being Doubted Against Florida in ACC/SEC Challenge",
-        "description": "",
-        "published": "2026-06-07T13:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM1lYd1dTTkZJellrZTh5bG12NzcxNTFHU1NpdkdmdV9jUWppNlVzSDhMd0I0VE9NcEhDLTR6VnhReGxfSEFzSDNPcW1wSnBZU2J2emQ3bkZxM2FqTFFZTkpPZUtRazhSOURyd29sNEt6UnNIN0s3amVaRWtEUS1ncG02QXlwTWIxd1ZRMVdoUUVnbC1ibzRqcTJB?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Ranking Duke Basketball Incoming Rookies by Immediate Impact",
-        "description": "",
-        "published": "2026-06-07T11:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQZnVITTJnTDJuWGEzQ21JcWk2MUxFZHBRVk1PVk1tbTkyenZxRlVpVERmUmNhczh2QndLME90MHlrNjZwM3NKUk02Y3BJczhUcTVIY0dhWnY2OWVUZ21VWjJpTDRQVnlPOW9mXzczQnNGYTB3REZRbHpNZFZKM2p0SWFnaGlCNXM0UVV3bWl2ZDNBeFRUV0dkSmpQOXQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Most Important Month Stretch for Duke Basketball Next Season",
-        "description": "",
-        "published": "2026-06-07T10:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQVkdEUjVrWFJJTE0tZk1kODNHeGFPUTVFai1TR1NrX1A1MUtZaUJmOVNIZm1BWVpvTWVHNkpkajMySENRMF9RNG81U2JHb1B6SFh2cjRMRExwOTBQWGI0TWo4b2JxbE9ESUplT3Yyd290bUhtYXhXeTMzZ1ZZXzNmS3VJZVZTTUVaQ3FobExicDFDUQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "'Perfect pick' NBA mock draft has Cameron Boozer exactly where Duke fans know he belongs",
-        "description": "",
-        "published": "2026-06-06T21:29:59+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0padDNqNHJGR2xBYW9iVXg5X0pxa1ZsbXUxbUYxWHNlWnc3QTlWU0ZGZ1dtajdJcE1fZ1FXVVpXbTRjeFpuQ1FoQVlKWDhNZzhROTBVanM1WUlRWWhhY1d1S1VDZ1VNeFVjTkRxNW5aWkhTc3duTnlYZzczYmpXcC1ILXN0ZUxlM3gwUVRRYXhRdEpneURfZkV3Z0wxaW1WQVprZm5uU3NoSWpRUVE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Ball Durham"
-      },
-      {
-        "headline": "Duke's Full Non-Conference Schedule After ACC/SEC Challenge Release",
-        "description": "",
-        "published": "2026-06-06T11:00:04+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVG1tS29YdGVZcUw5SV9NVF9NQ1hBb1haOHdPdnZqVkhYUlJ4NHg2My1XdnFldzJXZ2dVclBmSVlhUmRSODJ0X1VhdmdmdGljdWg3cXVtY29veS1lVk52bHM0Y3RCb1VuTHlSX0FPTW1fMm1EQkEyM3RYU0NOUnhTM2hCVE9HTmVScjZXeHpNbnB4Q0R6ajN2LVlNOE51ZlZTRV9BVUI2TQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      }
-    ],
-    "games": [
-      {
-        "id": "401820778",
-        "name": "Duke Blue Devils at NC State Wolfpack",
-        "date": "2026-03-03T00:00Z",
-        "state": "post",
-        "completed": true,
-        "status": "Final",
-        "competitors": [
-          {
-            "abbr": "NCSU",
-            "name": "NC State",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
-            "score": {
-              "value": 64.0,
-              "displayValue": "64"
-            },
-            "homeAway": "home",
-            "record": "",
-            "winner": false
-          },
-          {
-            "abbr": "DUKE",
-            "name": "Duke",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-            "score": {
-              "value": 93.0,
-              "displayValue": "93"
-            },
-            "homeAway": "away",
-            "record": "",
-            "winner": true
-          }
-        ],
-        "league": "mens-college-basketball",
-        "leaders": {
-          "DUKE": [
-            "Cameron Boozer \u2014 26 PTS, 9 REB, 6 AST",
-            "Dame Sarr \u2014 16 PTS, 9 REB, 1 AST"
-          ],
-          "NCSU": [
-            "Darrion Williams \u2014 17 PTS, 1 REB, 0 AST",
-            "Quadir Copeland \u2014 11 PTS, 2 REB, 5 AST"
-          ]
-        }
-      },
-      {
-        "id": "401820788",
-        "name": "North Carolina Tar Heels at Duke Blue Devils",
-        "date": "2026-03-07T23:30Z",
-        "state": "post",
-        "completed": true,
-        "status": "Final",
-        "competitors": [
-          {
-            "abbr": "DUKE",
-            "name": "Duke",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-            "score": {
-              "value": 76.0,
-              "displayValue": "76"
-            },
-            "homeAway": "home",
-            "record": "",
-            "winner": true
-          },
-          {
-            "abbr": "UNC",
-            "name": "North Carolina",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
-            "score": {
-              "value": 61.0,
-              "displayValue": "61"
-            },
-            "homeAway": "away",
-            "record": "",
-            "winner": false
-          }
-        ],
-        "league": "mens-college-basketball",
-        "leaders": {
-          "UNC": [
-            "Derek Dixon \u2014 17 PTS, 1 REB, 3 AST",
-            "Henri Veesaar \u2014 11 PTS, 9 REB, 3 AST"
-          ],
-          "DUKE": [
-            "Cameron Boozer \u2014 26 PTS, 15 REB, 5 AST",
-            "Maliq Brown \u2014 15 PTS, 10 REB, 2 AST"
-          ]
-        }
-      },
-      {
-        "id": "401851179",
-        "name": "Florida State Seminoles at Duke Blue Devils",
-        "date": "2026-03-12T23:00Z",
-        "state": "post",
-        "completed": true,
-        "status": "Final",
-        "competitors": [
-          {
-            "abbr": "DUKE",
-            "name": "Duke",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-            "score": {
-              "value": 80.0,
-              "displayValue": "80"
-            },
-            "homeAway": "home",
-            "record": "",
-            "winner": true
-          },
-          {
-            "abbr": "FSU",
-            "name": "Florida St",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
-            "score": {
-              "value": 79.0,
-              "displayValue": "79"
-            },
-            "homeAway": "away",
-            "record": "",
-            "winner": false
-          }
-        ],
-        "league": "mens-college-basketball",
-        "leaders": {
-          "FSU": [
-            "Lajae Jones \u2014 28 PTS, 5 REB, 1 AST",
-            "Robert McCray V \u2014 25 PTS, 5 REB, 4 AST"
-          ],
-          "DUKE": [
-            "Isaiah Evans \u2014 32 PTS, 6 REB, 3 AST",
-            "Cameron Boozer \u2014 23 PTS, 10 REB, 4 AST"
-          ]
-        }
-      },
-      {
-        "id": "401851182",
-        "name": "Clemson Tigers at Duke Blue Devils",
-        "date": "2026-03-14T01:35Z",
-        "state": "post",
-        "completed": true,
-        "status": "Final",
-        "competitors": [
-          {
-            "abbr": "DUKE",
-            "name": "Duke",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-            "score": {
-              "value": 73.0,
-              "displayValue": "73"
-            },
-            "homeAway": "home",
-            "record": "",
-            "winner": true
-          },
-          {
-            "abbr": "CLEM",
-            "name": "Clemson",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
-            "score": {
-              "value": 61.0,
-              "displayValue": "61"
-            },
-            "homeAway": "away",
-            "record": "",
-            "winner": false
-          }
-        ],
-        "league": "mens-college-basketball",
-        "leaders": {
-          "CLEM": [
-            "RJ Godfrey \u2014 18 PTS, 6 REB, 1 AST",
-            "Jestin Porter \u2014 12 PTS, 2 REB, 1 AST"
-          ],
-          "DUKE": [
-            "Cameron Boozer \u2014 24 PTS, 14 REB, 5 AST",
-            "Cayden Boozer \u2014 16 PTS, 3 REB, 1 AST"
-          ]
-        }
-      },
-      {
-        "id": "401851183",
-        "name": "Virginia Cavaliers at Duke Blue Devils",
-        "date": "2026-03-15T00:40Z",
-        "state": "post",
-        "completed": true,
-        "status": "Final",
-        "competitors": [
-          {
-            "abbr": "DUKE",
-            "name": "Duke",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
-            "score": {
-              "value": 74.0,
-              "displayValue": "74"
-            },
-            "homeAway": "home",
-            "record": "",
-            "winner": true
-          },
-          {
-            "abbr": "UVA",
-            "name": "Virginia",
-            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
-            "score": {
-              "value": 70.0,
-              "displayValue": "70"
-            },
-            "homeAway": "away",
-            "record": "",
-            "winner": false
-          }
-        ],
-        "league": "mens-college-basketball",
-        "leaders": {
-          "UVA": [
-            "Malik Thomas \u2014 18 PTS, 2 REB, 0 AST",
-            "Sam Lewis \u2014 17 PTS, 4 REB, 1 AST"
-          ],
-          "DUKE": [
-            "Isaiah Evans \u2014 20 PTS, 2 REB, 1 AST",
-            "Cayden Boozer \u2014 16 PTS, 5 REB, 4 AST"
-          ]
-        }
-      }
-    ]
+    "news": [],
+    "games": []
   },
   "nba": {
     "news": [
+      {
+        "headline": "NBA ruling keeps Victor Wembanyama\u2019s flagrant total unchanged entering Game 4",
+        "description": "",
+        "published": "2026-06-10T18:44:12+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOaDMwemVDSURYZmxhRjhUaWZVZVAxSVFleldKUGVJZG5ScWhLM3FwQ0pUdEJZQmZVTFdjWUg2eldsbXFIUjhnNG5WVTkyN21qdy1TRkgyZmhnRnI2WGFHMGlKM1JFRzkwckwwSjN4RHNoaUlZeEpqZWJydzFOWEJQbEJjTktyMzBTT3o3aXZoWkZSeFg5SlE1WmRuTHlzVXpJeXBockprTQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "New York Daily News"
+      },
       {
         "headline": "New York to keep security tight for NBA finals game between Knicks and Spurs",
         "description": "",
@@ -502,6 +32,15 @@
         "image": "https://a.espncdn.com/photo/2026/0610/r1670834_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Tennessee basketball's Nate Ament invited to 2026 NBA Draft green room in Brooklyn",
+        "description": "",
+        "published": "2026-06-10T16:18:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNVFp0MTlxUXBva2h3Tmd3dnF4VDJ2ZHFfZ09tUHFuZ0UtZE5fRmdRYlFOTzQ1THI4RU9BU2V0amFqRkVBYW9kcjYzZE41OVBJaXI3WkdwMFo2YTVDMnV6bUNoaEM1THlISnZ0Szl1eXU4VnhrZHNlcl9MOXlSUXFtR3VRazFQbnZWR1JuMmw1ajRwX0VhY1NZTnpzdm0?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "On3"
       },
       {
         "headline": "2026 NBA Finals: Biggest takeaways from Knicks-Spurs Game 3",
@@ -531,15 +70,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "Stephon Castle Reveals He Maneuvered To Spurs Ahead Of 2024 NBA Draft",
-        "description": "",
-        "published": "2026-06-10T15:52:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxON1JLT095MEhkY0FzRGMzcVVOb08wQnppc1B1XzRfaHpyaVhlZkpfRG1ROGdtMHdsN3d5T2lvVjhLWU0zUkFZOFphNUJDMXFxUXBUQkJJR2lTVmJaSkpyeGt3ZnJfY19heWdIMXNmR3haTnkxWEotU3RXT3VmaGc3d0xfcUs4UEdHNC05YkU2bGJocEs4MENTbVk1TVBwNGFmclRqNTJlRFN1MGlMXzNPRE5Kb28?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "RealGM"
-      },
-      {
         "headline": "Knicks and Spurs set for Game 4 of an NBA Finals that have belonged to the road teams",
         "description": "",
         "published": "2026-06-10T14:40:19+00:00",
@@ -556,6 +86,15 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
+      },
+      {
+        "headline": "ESPN NBA Full Court Press: San Antonio Spurs look to even series 2\u20132 against the New York Knicks on Wednesday",
+        "description": "",
+        "published": "2026-06-10T14:15:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPVnJxMDlGU184ckprTHdhNkNCM21UMkNRT3NDNjVkTnVEdmlydWxjejA0UDhCUGZNbWp0SlB0Q0R5eWFmREZGR2ZYQlZnbzFuUWE5cXJGMGVNU2I3X1N2dU10LUpaSXdFVldRR1pKT1Iyd25SWlhaMVJaZW9TeU1nYlliSk1jLWxLTWFDd2tBdUFUaC1OdUo3b2R4TnVBYldmdkdtMHRTbXpLQWYyZk1SZ2ViSWlSQzRWOWtaN1FQQ1k0eHlxRDdzbmcwRXdQTzVqTkVwLTJ5VDlEbnlpb3hwRFoxOEZGSC1UM3hlcHNpclg2Mlk?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN Press Room"
       },
       {
         "headline": "Spurs fan assaulted after NBA Finals Game 3; New York Knicks and San Antonio Spurs players, celebrities condemn attack",
@@ -576,15 +115,6 @@
         "source": "Maize n Brew"
       },
       {
-        "headline": "Former Tennessee Basketball Star Invited To Green Room At NBA Draft",
-        "description": "",
-        "published": "2026-06-10T13:39:11+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWEZSa0xwcUxOYm5nSFA4cDl4azM0WXI5bG96V0lrWGNsMG9EZ1pfMXhIMUVjVmZxUU1aM2FMTUxCTXdNN1ZLQU02NDZRX2NxZFQxRHZucFhTcm9ZR3hnbG1OQkMwRjRIdlZfZHZqMFUzYXBxclZHeUtwd3EzbjJsTDR0cGNIS0NBci0ya1dnWlR1bzVOMDNfQlVhUUNwdFFuWV92SFZvUWh0WVg4eDhYRHZDc2F2dw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Rocky Top Insider"
-      },
-      {
         "headline": "Joshua Jefferson Reported Range in NBA Draft Revealed",
         "description": "",
         "published": "2026-06-10T12:00:01+00:00",
@@ -592,15 +122,6 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Tennessee basketball's growing NBA Draft history under Rick Barnes",
-        "description": "",
-        "published": "2026-06-10T09:52:42+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOV2VuVkdhbW5BUlJoNVhsQ1FaN1hlUEhLM2NpVzJQX0cyOUV3VDY1aGoyY05ZRWRoYzAwUHR5UllvOXJULW5VRXBSWVlna1U5X1BKTmpib093TUxnNXlOV0p3Si1SNU9XaWVUcV93U2Y5LUVhOWh0ZFRFTldOOWtQTWtQdGZKenRDU3BFajBEaGJQOWhKVVJEUjktUjNTaWQ2Y3RNWVNMSHdJdzF0?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "On3"
       },
       {
         "headline": "\"Make sure you don't fall asleep, they do take jewelry\" - Carlos Boozer shares the wild warning he received about NBA groupies",
@@ -628,15 +149,6 @@
         "image": null,
         "recruiting": false,
         "source": "AL.com"
-      },
-      {
-        "headline": "2026 NBA Finals Media Day, Game 4 | Harper: 'We've got a lot of basketball yet to be played'",
-        "description": "",
-        "published": "2026-06-09T21:48:29+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQLS1QRzBxcjRpSGVFZmNJeF9MTzFIRUNfcllfQnM0MW1mMDVtY0RJS0FRNURFLVBIVmpfRUxRblBueFhmTFVFa1Rscjd6R2prOFg0YVJ0dEJuR0RrWUxKZHNUdzhOS1p0akxCTFU4S1JYNVQ2ekJtZWZTVFdjSkliM19EdVNxdHctZ1JuWEpHRnlmNmxvcFY0TTA5Tm1RTFBJMGZScFhuOXFweXRnNG5qYUZLOW5FajVjaVVsUw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBA.com"
       },
       {
         "headline": "Shaquille O\u2019Neal Shines During \u2018Inside the NBA\u2019 Finals Debut",
@@ -702,13 +214,13 @@
         "source": "A Sea Of Blue"
       },
       {
-        "headline": "NBA THE RUN Review: The Arcade Basketball Revival Is Here",
+        "headline": "New basketball arcade game \u2018NBA The Run\u2019 officially launches",
         "description": "",
-        "published": "2026-06-09T18:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE1hQUlkbkpCZmxENGwyaS1QREZYMXJ6QlJsZ05Xa1lBTWhpQXBfOVFTdkFzdUlYRUhGc0l0ZFNFdEFYWS1OQW5kMVc5RGI5SlJvNHUtVG8waU5fdw?oc=5",
+        "published": "2026-06-09T18:32:40+00:00",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5CRlVQaHlEb1B0YWRHeGdobzAzQXdaYjNIcTNNbEpvT0FxYkpSczFvU0hDQlFDcVh1Mmk5TWZ3VU1wdnU0eTI3NzBCd3BuRkxUZ1dEZlBOSUhJSE1ZYUNMOGRNeTFvRmNxMk8waVZxXzY?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "GameDaily"
+        "source": "NBA.com"
       },
       {
         "headline": "Which college basketball program would have the best current NBA starting 5",
@@ -736,6 +248,15 @@
         "image": null,
         "recruiting": false,
         "source": "People.com"
+      },
+      {
+        "headline": "Trump booed \u2018thunderously\u2019 at NBA Finals: What we know",
+        "description": "",
+        "published": "2026-06-09T11:40:25+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1JadmtwZnktdDdSdEhzQVFzaVBxNVVFRkRBSldpeTVaSFd4WWp6cjN1dWpMVXRSbjdkLS1RckF0NWExZ3NIcEFCR3kyQ2NvWVFuZGJrYzNad1dXbnk3RUc2RnRWeksxZklGN2NLaWpSY1VqeHVZNFZuVC1QVnJuU0pPaGl2MktXaWN4cnBDODNqM21VdXfSAZsBQVVfeXFMT2Z6bjBnRzh0UjZLOV9xa1ZFQXViWW9CUmprdE5TbVFkZjAwZWJfY3NSQ0pEOGlGQXJCU2VrTkl4ODlKVTNmQnRqZ0FmdGlRYTkxM3h1cmhJZGdVclY4NEhiZmUycTBKUldwVVF0cWdhVC1fUFdpUF9UczJqN0RQVTF1emZrSVZyLU0zWXVIVGU3di1NWmxldWRCblE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Al Jazeera"
       }
     ],
     "games": [
@@ -782,5 +303,7 @@
       }
     ]
   },
-  "errors": []
+  "errors": [
+    "Duke: The read operation timed out"
+  ]
 }
