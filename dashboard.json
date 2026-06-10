@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T15:52:01.854798+00:00",
+  "generated_at": "2026-06-10T16:07:07.715909+00:00",
   "duke": {
     "news": [
       {
@@ -18,6 +18,15 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXFOaXE0QkZQQ1FkZEhmMlFSYS14RlFKNV80cEhpUmRJUndSQ0J2bW0xeHlHOXNIWWVnUDRxTUExdFl4S3BlSkppSGdiY0R5bzZFd05DRGNyMzlJVHRyaDNMeFdYQjRscDg5U3dmOUREZVM5NFU1aGRWMHZ6RjJXb1g5ZUU5WkNmR2VCLXZtb3d1bXBHYy1CX2VXeXNOS3JaOXdhczNn?oc=5",
         "image": null,
         "recruiting": true,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Best (And Worst) Case Scenario for Duke's 2026 Offense",
+        "description": "",
+        "published": "2026-06-10T13:00:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRUdhNUFMeDdFdmx0aThSamJTN0FxQVIzQjJsSjdoN3F1SHpxUzIxd0hnZGQwZm1JczFzdk8zV0dQbnFwWHRSZW1DNkZrQ2RlNGNWR0RKQlIycUJnUHZlWHNwaVh5LU9aaHZQcjJwcDBHWG5mbmo2cTFuZnl5MVQwWGw5YkdJUnJE?oc=5",
+        "image": null,
+        "recruiting": false,
         "source": "Sports Illustrated"
       },
       {
@@ -226,15 +235,6 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
-      },
-      {
-        "headline": "'Perfect pick' NBA mock draft has Cameron Boozer exactly where Duke fans know he belongs",
-        "description": "",
-        "published": "2026-06-06T21:29:59+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQR0padDNqNHJGR2xBYW9iVXg5X0pxa1ZsbXUxbUYxWHNlWnc3QTlWU0ZGZ1dtajdJcE1fZ1FXVVpXbTRjeFpuQ1FoQVlKWDhNZzhROTBVanM1WUlRWWhhY1d1S1VDZ1VNeFVjTkRxNW5aWkhTc3duTnlYZzczYmpXcC1ILXN0ZUxlM3gwUVRRYXhRdEpneURfZkV3Z0wxaW1WQVprZm5uU3NoSWpRUVE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Ball Durham"
       },
       {
         "headline": "Duke to Host South Carolina in 2026 SEC/ACC Challenge - Duke University",
@@ -488,9 +488,27 @@
       {
         "headline": "LeBron James on GOAT debate: 'I'm not taking nobody over me'",
         "description": "LeBron James, when asked for his take on the basketball GOAT debate, said: \"I'm not taking nobody over me.\"",
-        "published": "2026-06-10T15:37:24Z",
+        "published": "2026-06-10T16:05:19Z",
         "link": "https://www.espn.com/nba/story/_/id/49019758/lebron-james-goat-debate-not-taking-me",
         "image": "https://a.espncdn.com/photo/2026/0419/r1646071_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "2026 NBA Finals: Biggest takeaways from Knicks-Spurs Game 3",
+        "description": "NBA insiders break down the biggest takeaways from Game 3 of the NBA Finals and look ahead to the rest of the Knicks-Spurs showdown.",
+        "published": "2026-06-10T15:58:04Z",
+        "link": "https://www.espn.com/nba/story/_/id/48940704/2026-nba-finals-biggest-takeaways-highlights-san-antonio-spurs-new-york-knicks-championship",
+        "image": "https://a.espncdn.com/photo/2026/0609/r1670092_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "NBA championship and Finals MVP odds: Knicks maintain odds-on favorite status after Game 3 loss",
+        "description": "San Antonio's win in Game 3 created a big shift to the odds, but New York remains the favorites as the Knicks head into Game 4 with a 2-1 series lead.",
+        "published": "2026-06-10T15:56:37Z",
+        "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
+        "image": "https://a.espncdn.com/photo/2026/0609/r1670362_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
@@ -540,15 +558,6 @@
         "source": "ABC7 New York"
       },
       {
-        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
-        "description": "Here's what our NBA insiders are hearing, including the latest on where Giannis Antetokounmpo could end up this offseason.",
-        "published": "2026-06-10T14:01:38Z",
-        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
-        "image": "https://a.espncdn.com/photo/2023/1123/r1256769_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "Michigan\u2019s 2026 NBA Draft results will be a major recruiting tool for Dusty May",
         "description": "",
         "published": "2026-06-10T14:00:00+00:00",
@@ -558,22 +567,13 @@
         "source": "Maize n Brew"
       },
       {
-        "headline": "Former Tennessee Basketball Star Invited To Green Room At NBA Draft",
+        "headline": "Victor Wembanyama gets major NBA Finals decision after Jalen Brunson collision",
         "description": "",
-        "published": "2026-06-10T13:39:11+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWEZSa0xwcUxOYm5nSFA4cDl4azM0WXI5bG96V0lrWGNsMG9EZ1pfMXhIMUVjVmZxUU1aM2FMTUxCTXdNN1ZLQU02NDZRX2NxZFQxRHZucFhTcm9ZR3hnbG1OQkMwRjRIdlZfZHZqMFUzYXBxclZHeUtwd3EzbjJsTDR0cGNIS0NBci0ya1dnWlR1bzVOMDNfQlVhUUNwdFFuWV92SFZvUWh0WVg4eDhYRHZDc2F2dw?oc=5",
+        "published": "2026-06-10T13:23:20+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTkpyTlFYYmcxbm1sbEljMUxUMUJEWXM4OXdQaVBfVnZDWHA1NmVfTG5pdmFpS0ZtSGNobWR5SGRjWGZZVV9PczhvSElBY1FwTUpVcTBub2ZHSlhvclE4Mlg4WlZfWmNNSDdSWmc2WUJ3Z1VqSUZxSWZKS1NreW5UdlUzVEhNVl90?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Rocky Top Insider"
-      },
-      {
-        "headline": "How to watch 2026 NBA Finals on ABC: Knicks-Spurs schedule",
-        "description": "It's time for the 2026 NBA Finals! The Knicks and Spurs go head-to-head to crown this year's champion. Here's how to catch the action on ABC and the ESPN App.",
-        "published": "2026-06-10T13:26:52Z",
-        "link": "https://www.espn.com/nba/story/_/id/48958143/how-watch-2026-nba-finals-abc-knicks-spurs-schedule",
-        "image": "https://a.espncdn.com/photo/2026/0603/r1667746_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Joshua Jefferson Reported Range in NBA Draft Revealed",
@@ -666,15 +666,6 @@
         "source": "Yahoo Sports"
       },
       {
-        "headline": "Where does the money spent on high-priced NBA Finals tickets go?",
-        "description": "",
-        "published": "2026-06-09T19:24:18+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNVzNYbzh5WHFRdm0xY2FaeUVfRmM3bTNYbFlmLUVaenhFMzR1RGd5VHBmV0FZbTVWWXZwTVU5bEVKazJiaFVISzhFY2QxMnB1ajZ3blJHMkRCXzVrbl9taXYzVUZLQjBWLV9XbjFwZnE0TjlCWjQ0UFZmcVY2clFtM0dhSkFrdnNZSGZIVnBjMjY0SXFy0gGaAUFVX3lxTE5CZmVwaUJUcVloX0FWX1RlODhmNzRhSFB3TDF4ajlObTdPa2RZTkF3VEMyRVpmaVcxcGx4ZTZSMVF0djV0R3VQeno2NFR0d1BVQXdJR2k0YmtsS08tNTV5bWxKVHY1NGw4MmRYcHZTNkcyeF8tekkycVoyWmxxbXY1QnF3aElONzFiTTc4R2hvNTB2M3JqTlJUZmc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ABC News - Breaking News, Latest News and Videos"
-      },
-      {
         "headline": "NBA Mock Draft projections for Jayden Quaintance and Otega Oweh",
         "description": "",
         "published": "2026-06-09T18:48:13+00:00",
@@ -711,6 +702,15 @@
         "source": "Fox News"
       },
       {
+        "headline": "21 arrests made in clashes with New York police after Knicks NBA Finals loss",
+        "description": "",
+        "published": "2026-06-09T17:05:56+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNnFqNnBic3JZMzdZdGRybkdPR2x3OWt5X3NKczB0XzU1V2NKQV9ESFEtX1RKRTBTLUpNSFVRdkZzYVByZ1ZKUXVpRWRycDU5TG9wMUlHRVNIZTd0cXlSRE5QRnBqMWpuV2Y4VkRudml0bVNEUTNXTWxDUTU3Q0RGWk5CWVNvWlduQWR6YjRZSXbSAZYBQVVfeXFMUGlTc29tYThpLVdadVBIRUNCcHRBeVJMSmNTNTJ4VWlaaXh2a1MtR3lpRV9OYVdwUlJhWWRGaGV0ZTd5Vk5DbEhsd0N5REFaNkhsNEZfMF9RaUJ6aVhXMmN1cmgxSWhfRHNaQUo4R0JDQVZGYjRTLWJuaGlPbnBlQklVa1VrTWMzdm5RQ25Ed2hyODl1aEF3?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ABC News - Breaking News, Latest News and Videos"
+      },
+      {
         "headline": "2026 NBA Mock Draft: Projecting all 60 picks in Adam Finkelstein's first two-round forecast",
         "description": "",
         "published": "2026-06-09T16:22:51+00:00",
@@ -722,7 +722,7 @@
       {
         "headline": "President Trump roundly booed by New York crowd at NBA Finals Game 3 at MSG - The Athletic",
         "description": "",
-        "published": "2026-06-09T15:27:00+00:00",
+        "published": "2026-06-09T15:37:36+00:00",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQUTc3ZW5VZm9SV3AtdjdJYUlJVXNNalRsNWxRT1ZGRnlsb2FSblIwOWF5dGtVTGRXQVVqcThuUHUydkRyZ2Fkb0dCOTFVcm9vQUEySk5FUmI0U1hHZHljamhWRFk1T1VDSnFxUng1anNEa1BmUGlFODJTLU53bXlYcG4tZGdUclh5SUV1OGRxYWhpamc?oc=5",
         "image": null,
         "recruiting": false,
