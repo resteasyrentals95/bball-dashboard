@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T15:36:56.492191+00:00",
+  "generated_at": "2026-06-10T15:52:01.854798+00:00",
   "duke": {
     "news": [
       {
@@ -59,20 +59,20 @@
       {
         "headline": "Incoming Duke Basketball Star Rookie Attending Team USA Training Camp",
         "description": "",
-        "published": "2026-06-10T11:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVDJ3cTdlSGx6dTUzSFB6QnQxOHJHbV90VkNxeEw3VFlvWXBSU3gxTWtveGRwWGN1Z3ZfLTJFaHkzTXpOc2RwRXJzRjJpa3EtU09SR2NxakI2eHV1YTc0MVVQTTNKbnd4MlZMeWxJNFhkc1JILVduMXk1dGxnWHd4ZDN5WHZ6YlFyM19lVU9wMndmYUtteEJnQ0RQMzNvZkNjXzQxemV4UVp5LTIw?oc=5",
+        "published": "2026-06-10T11:00:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZmpFSzQzTTRDOTNrYXpOdVlSenFISGxKU2Nlb1Jvc0NvaEFCQnpGTV9nYklOejlhUkVfS2dXNWEzckpZRXA3SjVzaFVvRHpvbjYyR3dFTnhpaE9ZMnlYQVpiWFdfT2FNSU5VLUc4QzBmUTEycTJNeG53SlZ0eTN6djJrN29sVXo5ZEIzTm53?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Sports Illustrated"
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Why Duke Basketball's Transfer Portal Class Is Underrated",
         "description": "",
-        "published": "2026-06-10T10:00:06+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdkQ3U25zZWN1NExXcXJ3WERfMFFQbkJod1FlVHVnclp6MGhvaTBITXlCNHdqM2V3WFUzLVBXWGZpTHdTcHBMalBNaUpyXzhkR3ExQmlxa05IRG9SNWIyZVRHTkh5SUpWMDBkVTRfcGRRYmVmSmlCNWl4Vk5WUnZqUWkxekFDdHRHVWI1Y1Z3?oc=5",
+        "published": "2026-06-10T10:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb3AzSElzNkRUVDBwdXFmS3UwQVJHcFZpb2pPa3JCc1JDR2NDdDFyM195VUdPSUhXYlBKZVQxSFdNanpWbU53SVpwZExfOWhCZjROZnRCWl9kNG82MkJuVHp5Z2UxUTVjdVozdVJmRmswak1lSFFaekR5NkpOVGMtVEZEQllUNzFDYmtyYVhubS1rWWxGeGc?oc=5",
         "image": null,
         "recruiting": true,
-        "source": "Yahoo Sports"
+        "source": "Sports Illustrated"
       },
       {
         "headline": "SHOWDOWN: Duke Basketball vs. Florida Gators in ACC/SEC Challenge | Preseason Top 2 Teams in COUNTRY",
@@ -100,6 +100,15 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Jon Scheyer's most aggressive portal cycle yet for Duke earns major national praise",
+        "description": "",
+        "published": "2026-06-09T14:00:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYjgwdlpDN1U0emlLMDZWWDB5UDY4TFVEMGxVZTE4V0RsZWhfUHdpSFhRRUU5dWZ2TFQyTWI2LTJkdTVKQk44cFctVEpsYXNnT2F6eGJ4R1Jza0hVaW9VSXpSWE94eE9SNGJrY05BVFRsbjlfbUN2ak84WFRqQjZOV042VTJqMmdPTHpNd1ltTElqd0NRZzJpMUstdnVDSzNuYXpEYXl3VHY5dw?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Ball Durham"
       },
       {
         "headline": "Men's college basketball transfer class rankings for 2026-27",
@@ -244,15 +253,6 @@
         "image": null,
         "recruiting": false,
         "source": "goduke.com"
-      },
-      {
-        "headline": "Men's Basketball to Host Duke in SEC-ACC Challenge",
-        "description": "",
-        "published": "2026-06-05T16:33:08+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORXk4QWhvbFlQcFFOZW82SVpLQ0lPQ3dURWVaMHkzUjlaOHdBbjhEUW5ZNGtLVjJBb1R0VDNjOEVwb1hRcGNCbGo5MmxCZXRORE1HeWhMOVNibXkzVWRBSjhqd3FfTVV3bklLbUlFcEhId2JTR0hmb29UUS1fWWJGZnE5c21fNV8ybk9jb2hWRlg3QTA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Florida Gators"
       }
     ],
     "games": [
@@ -488,7 +488,7 @@
       {
         "headline": "LeBron James on GOAT debate: 'I'm not taking nobody over me'",
         "description": "LeBron James, when asked for his take on the basketball GOAT debate, said: \"I'm not taking nobody over me.\"",
-        "published": "2026-06-10T15:16:07Z",
+        "published": "2026-06-10T15:37:24Z",
         "link": "https://www.espn.com/nba/story/_/id/49019758/lebron-james-goat-debate-not-taking-me",
         "image": "https://a.espncdn.com/photo/2026/0419/r1646071_1296x729_16-9.jpg",
         "recruiting": false,
@@ -504,13 +504,13 @@
         "source": "ESPN"
       },
       {
-        "headline": "NBA Analyst Makes Disappointing Giannis Antetokounmpo Prediction For Celtics",
+        "headline": "Knicks and Spurs set for Game 4 of an NBA Finals that have belonged to the road teams",
         "description": "",
-        "published": "2026-06-10T14:45:18+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQajk1VXlJeG9QdXgxNy03QVNnelp3RVNuMGwyUy02dkZ1QW5WMHJKSUEwMlZDSjFuaGlNcFBxR3JYbkNjRHR6ZjNLbGU1T3g3ampTSFl0NXBsQkhjcmtEVzByV0I2dmtkV0ktMmtuUVFyVmwteVRsTk05dmhlaG5hMWFEV0d0bVVzeHgyY2EyN2RJZw?oc=5",
+        "published": "2026-06-10T14:40:19+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNS184NVZQaG9YYTUtbThaMmFvTEQxd2s5SURlZlgycDd2LVZqNXRXTFBKbzlhVDZuVmpROEY5alZFTk9aN0Q1ZUFlSU5oYjJvcXJsN0NpNW9wRlJYVTNuQnduMHlCNV9OcW1oQnpWaFpxRjQ2bXBsbG93VEdPV2JhWDhNQnFPODMzT1kzUlNCdU1oYkJxSkhKWGZESXdMLUNXblhLb1VtdGRPZjZubEM0QnhBWFlEOHJC0gG-AUFVX3lxTE1pU2xlWUdjRGVERHVTOHllWTE1OUhWb0YtU1d0YkpQVjNZYjlpVjZfYi1PLWlwcl9BblhYaHFldDdrNVBRWVZtQXlKRFkyZHgzYzNCQ0xDYW5VWE8wWFZuRXlNVEVOcWR4bFBwY0N2Y0xvdndyYjVkNk5vQUlIdTNNTlhkZHlmMnY4MGxaWVZ0YlZRS0prNUZCd0NJMjFVdWVOeFBudHZFZ2xMWHdaWVBXOE53eVY1a0REUzg1Y3c?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Yahoo Sports"
+        "source": "WTNH.com"
       },
       {
         "headline": "'The Hoop Collective': Episodes of Brian Windhorst's NBA podcast",
@@ -547,6 +547,15 @@
         "image": "https://a.espncdn.com/photo/2023/1123/r1256769_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Michigan\u2019s 2026 NBA Draft results will be a major recruiting tool for Dusty May",
+        "description": "",
+        "published": "2026-06-10T14:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNVlhGWmtBZXJ4YlFERXhFMTdhWFgwTzY4NkFVT3RJbzNWbFlLTUEwaFNqcTM2R0tMZE40elhOcnVTVVdSUng4MmV5SEhLYnp2Mi1MaWU0VlFwd29yZ1ZsWDlROXpmUnJBSUJHeDBjOHNlMjBqY2dkeDlRMEdGcUNpYXI2elhUQnV3cEhMa1I4Q1UzdFZOM0h4bFF0VWhDZVY4X1FNY0JQSGpOMWQ4NmphcE5uS2szOUhJeG4wbDYySVZFMDN2Z3VUMzlhNjI4Yk9PTXV3NnpZNXhNTko0bmRublVSOA?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Maize n Brew"
       },
       {
         "headline": "Former Tennessee Basketball Star Invited To Green Room At NBA Draft",
@@ -709,15 +718,6 @@
         "image": null,
         "recruiting": false,
         "source": "CBS Sports"
-      },
-      {
-        "headline": "Which college basketball program would have the best current NBA starting 5",
-        "description": "",
-        "published": "2026-06-09T16:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQd3hyM3Jzemg4eHFjQUQ5c1h5T2twOFpWOWdBcV9IODN5NzIxX0VtVVp5anB2N3ZFOVViSFRZWWtfcEFXM0M3NXZwbzk4eW5FdkozUi1EeUtGMVBFRk1HcXRCMW01UnFpUHJydERaRGYtY2gxTmF3X1pYM1czRHJIc1RQTVN3aFdHTHFyanBPSVJQZXB2OTUzRXgzZC1yZ3g1aXBjU1ZobXZGWTJVTFZFWkQ5SVJuN2hOaDdnWHV3WXZSTDBMWlhqWmcwYV95VnJFY2tvWmtkcVU?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Maize n Brew"
       },
       {
         "headline": "President Trump roundly booed by New York crowd at NBA Finals Game 3 at MSG - The Athletic",
