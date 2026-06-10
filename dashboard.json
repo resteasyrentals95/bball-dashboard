@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T17:07:33.102772+00:00",
+  "generated_at": "2026-06-10T17:22:39.264695+00:00",
   "duke": {
     "news": [
       {
@@ -486,9 +486,9 @@
   "nba": {
     "news": [
       {
-        "headline": "NBA Finals betting tips, DFS picks: Bank on the usual suspects in critical Game 4",
+        "headline": "NBA Finals betting tips, DFS picks for Game 4: Expect Wembanyama, Brunson, other stars to show out",
         "description": "Eric Moody breaks down Game 4 of the Finals between the Knicks and Spurs and offers his favorite bets and DFS plays.",
-        "published": "2026-06-10T16:44:17Z",
+        "published": "2026-06-10T17:18:08Z",
         "link": "https://www.espn.com/fantasy/basketball/story/_/id/49019938/daily-fantasy-basketball-tips-nba-betting-odds-picks-dfs-playoffs-finals-wednesday-6-10-2026",
         "image": "https://a.espncdn.com/photo/2026/0610/r1670834_608x342_16-9.jpg",
         "recruiting": false,
@@ -540,15 +540,6 @@
         "source": "WTNH.com"
       },
       {
-        "headline": "'The Hoop Collective': Episodes of Brian Windhorst's NBA podcast",
-        "description": "Here are the top highlights from Brian Windhorst's \"The Hoop Collective\" podcast, from breaking news to the latest intel and reaction from around the NBA.",
-        "published": "2026-06-10T14:38:30Z",
-        "link": "https://www.espn.com/nba/story/_/id/47168192/the-hoop-collective-latest-episodes-brian-windhorst-nba-podcast-archive-best-quotes",
-        "image": "https://a.espncdn.com/photo/2025/1112/r1574751_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "Spurs fan assaulted after NBA Finals Game 3; New York Knicks and San Antonio Spurs players, celebrities condemn attack",
         "description": "",
         "published": "2026-06-10T14:11:04+00:00",
@@ -567,6 +558,24 @@
         "source": "Maize n Brew"
       },
       {
+        "headline": "Former Tennessee Basketball Star Invited To Green Room At NBA Draft",
+        "description": "",
+        "published": "2026-06-10T13:39:11+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWEZSa0xwcUxOYm5nSFA4cDl4azM0WXI5bG96V0lrWGNsMG9EZ1pfMXhIMUVjVmZxUU1aM2FMTUxCTXdNN1ZLQU02NDZRX2NxZFQxRHZucFhTcm9ZR3hnbG1OQkMwRjRIdlZfZHZqMFUzYXBxclZHeUtwd3EzbjJsTDR0cGNIS0NBci0ya1dnWlR1bzVOMDNfQlVhUUNwdFFuWV92SFZvUWh0WVg4eDhYRHZDc2F2dw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Rocky Top Insider"
+      },
+      {
+        "headline": "Victor Wembanyama gets major NBA Finals decision after Jalen Brunson collision",
+        "description": "",
+        "published": "2026-06-10T13:23:20+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQTkpyTlFYYmcxbm1sbEljMUxUMUJEWXM4OXdQaVBfVnZDWHA1NmVfTG5pdmFpS0ZtSGNobWR5SGRjWGZZVV9PczhvSElBY1FwTUpVcTBub2ZHSlhvclE4Mlg4WlZfWmNNSDdSWmc2WUJ3Z1VqSUZxSWZKS1NreW5UdlUzVEhNVl90?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "Tennessee basketball's growing NBA Draft history under Rick Barnes",
         "description": "",
         "published": "2026-06-10T09:52:42+00:00",
@@ -574,15 +583,6 @@
         "image": null,
         "recruiting": false,
         "source": "On3"
-      },
-      {
-        "headline": "Knicks call New York mayor, NYPD \u2018party poopers\u2019 for NBA Finals Game 4 security measures - The Athletic",
-        "description": "",
-        "published": "2026-06-10T03:56:33+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQcThVODhZNnFMS244djVNeGxUejFXbHJRbDZOdDdzWEd6UVdPX0RfNmtWTklWUGJZYUVsNlB6elg0eDA0ZmQ4R1BySG5Nbl95RXRvc0tUek1QaTYxaWFIRHduYS1lSkVSOTl5VmUwajAtOVVOVDgzdE5WUU9ZZGpzNVFlTkNVbTB2VUx2QUpNNXdWdk5vblowMGg0YkRVb1d0X0xaOA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The New York Times"
       },
       {
         "headline": "\"Make sure you don't fall asleep, they do take jewelry\" - Carlos Boozer shares the wild warning he received about NBA groupies",
@@ -693,6 +693,15 @@
         "source": "GameDaily"
       },
       {
+        "headline": "Trump plans to skip Knicks Game 4 of NBA Finals at MSG",
+        "description": "",
+        "published": "2026-06-09T17:54:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQdTVKeDNNalVCWWxTY1l0UWx0dkszLTk4UG44bDNxLV9ySUU5OERfaE40NGRkNDdSMThWLVZNX2JjN01nRWRJaUxtalZBeXRvMnEwVlNSX19ZOHQyRzZnNU9adkE5RUttZFFaeHkwOVlvZVpiTlZrRTJ0Z043YWJBcGxsbXFLVld4SWc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "New York Daily News"
+      },
+      {
         "headline": "Trump says NBA is 'good entertainment' despite it being 'a little left-wing' after attending Finals",
         "description": "",
         "published": "2026-06-09T17:46:48+00:00",
@@ -727,15 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "The New York Times"
-      },
-      {
-        "headline": "Trump booed \u2018thunderously\u2019 at NBA Finals: What we know",
-        "description": "",
-        "published": "2026-06-09T11:40:25+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1JadmtwZnktdDdSdEhzQVFzaVBxNVVFRkRBSldpeTVaSFd4WWp6cjN1dWpMVXRSbjdkLS1RckF0NWExZ3NIcEFCR3kyQ2NvWVFuZGJrYzNad1dXbnk3RUc2RnRWeksxZklGN2NLaWpSY1VqeHVZNFZuVC1QVnJuU0pPaGl2MktXaWN4cnBDODNqM21VdXfSAZsBQVVfeXFMT2Z6bjBnRzh0UjZLOV9xa1ZFQXViWW9CUmprdE5TbVFkZjAwZWJfY3NSQ0pEOGlGQXJCU2VrTkl4ODlKVTNmQnRqZ0FmdGlRYTkxM3h1cmhJZGdVclY4NEhiZmUycTBKUldwVVF0cWdhVC1fUFdpUF9UczJqN0RQVTF1emZrSVZyLU0zWXVIVGU3di1NWmxldWRCblE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Al Jazeera"
       }
     ],
     "games": [
