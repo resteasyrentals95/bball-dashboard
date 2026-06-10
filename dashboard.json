@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T03:05:59.455938+00:00",
+  "generated_at": "2026-06-10T03:21:06.230766+00:00",
   "duke": {
     "news": [
       {
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Knicks', Spurs' uniform schedule for 2026 NBA Finals",
+        "description": "Here's a look at New York's and San Antonio's uniform schedules for the NBA Finals, plus their records while wearing each thread.",
+        "published": "2026-06-10T03:11:31Z",
+        "link": "https://www.espn.com/nba/story/_/id/48942685/new-york-knicks-san-antonio-spurs-2026-nba-finals-uniform-schedule-breakdown",
+        "image": "https://a.espncdn.com/photo/2026/0602/r1666946_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "LeBron James on not taking anyone in NBA history over himself: \"It\u2019s gonna be hard not to take me\"",
         "description": "",
         "published": "2026-06-10T03:00:04+00:00",
@@ -502,15 +511,6 @@
         "image": "https://a.espncdn.com/photo/2026/0610/r1670599_600x400_3-2.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "The hidden factor that could decide Knicks vs Spurs in Game 4 of the NBA Finals",
-        "description": "",
-        "published": "2026-06-10T02:07:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNYmhrWXA2b2RyZDZ1RDZvSkl0QnN1MlNBUGdWclU1ZnJoeVJ5OFNqZ3ZiVXh0T29wSWo3TjY0LU9lSWJqMTRrdi1hTEJkWmlxV2tGdDFUSm5uWXFkMC1lRnE0M0lOangyNlROR3l4RjFEWElIb2lMRnJOR2tXSVFZZ3ZHYThzZnRYMlAxcDFLZ3hSdmUyd3dDb09iX3ZhTHEzVnpyTldmeTR3c09uM1BLOFFTSXpubGpHc3pDV1h6Vms4M2hxQV9PWGZ5eGJxUHkzaUdXcnJ0ZUrSAdgBQVVfeXFMTVdTOXFaQUtxNncybkdpTGtueEJfMmRMRUdxeHh0WDlMZ2hNNVNEZkRPWmhlS1FlRm5qWHVkOTJlTlEyZkZHYlVqUURsVm9TZzNncUF3SDkwcU0yaThETGxURkdlTlhVSUYtcGR1UzN6dHAyS0FUY1lKRWdWaHJFaGhleTlwa3FoUV9jekNWcVM1ZTJrN3JITWJfN3VHeEhfYkE0SnlERTRfOFpWcmstVzlsbFZBWDVHenZZSzZWTkZYMEdYdFU0c1NjNzREVTZFdzdrMkIxOWtU?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "MARCA"
       },
       {
         "headline": "Rick Pitino\u2019s thoughts on NBA Finals Game 3 officiating",
@@ -556,6 +556,15 @@
         "image": null,
         "recruiting": false,
         "source": "USA Today"
+      },
+      {
+        "headline": "Wembanyama condemns apparent attacks on Spurs fans in New York during NBA finals",
+        "description": "",
+        "published": "2026-06-09T20:04:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPejQyR01YZ0RmT21QWkFGTjRxNEladDljZldPdm5CQ1RwU2duNnZOQm10Y01UNlF4VWI2MXlnTHpPNV9rTi1TbkdRX21PdUkyM0ktUE9mNl81VFhaZVJMeklZTDlsUnczd0hGOGY2TWUtM1c1SGNCQllaV1B5cjRwaXFkdnRLSXp3ZW53b1Q3VGloZVNCbW51d25uQjhVZURma3ZCZkxaX280eGdPT3MxYWRtWWw0OGZYbzFwMnNKcG5MdHlC?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Guardian"
       },
       {
         "headline": "'Rowdy' Knicks watch party ends with 8 arrested",
@@ -675,15 +684,6 @@
         "source": "The New York Times"
       },
       {
-        "headline": "NBA mock draft roundup: Where Michigan\u2019s 3 prospects might land",
-        "description": "",
-        "published": "2026-06-09T14:38:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNNzBtd1hGTVRPRWkyc0pGVWlWVW9fSTlVVGotUnBfZTczVlNzNFNhVkZDVGtDZUFfal9zbXVZelEwWG85Y2psMThXeTNfXzVqNjB6SW94aTBfNXhKbHUxZGNxV3hQS01KbzdlS19MUzV0T0UtZ0FqaHJ6b3ZZVV9EeVBVVkdvejdBMW9GTXNvOVYwUWZRQ25UMzN1UTBqTENPOUp3UjZJeTdkejktR0dETEluUTEweFVxX2fSAc4BQVVfeXFMTTBNSzhTcDFURnRzQ0pXRmpUNXJsOG9YcUZubllCb1lvNHdpdk50bFVQeUJITDE3WmNSbWg1QzFpZ1hqWE8zVkdyRVBPemZIbVpPaDV1TDZVaWtaWHhKT2tqb0lsenVMV0R3UmhIT1p4SHEyeGN4b05sTXZwaXBHaDBLMmhlRUt6WHJsM0RxSE1KeFRCSUpjUmVJNFJTY2Ewa28wZGhKazZPUGd3bGhWTjZ3T3RIV0dJOF9veGp5SnZuUURXVk9QdzcwXzZmWnc?oc=5",
-        "image": null,
-        "recruiting": true,
-        "source": "MLive.com"
-      },
-      {
         "headline": "Trey Lyles Looking To Return To NBA",
         "description": "",
         "published": "2026-06-09T13:29:00+00:00",
@@ -711,6 +711,15 @@
         "source": "Al Jazeera"
       },
       {
+        "headline": "Grading bold 2025-26 season predictions for all 30 NBA teams",
+        "description": "",
+        "published": "2026-06-09T10:45:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUFFiVEtGaHBPRmU1WUN0VTJmb1hLUEZteEdvNl81WGg0OFctN2p1VTF0WDQ5eGhrYm82Tl9yY25vclFWVHFqSzhUcGpLbmQwQWJVRko0UjZlOGd3dXZFenFQdWR1eTgyZGc1MzBjY2RZekxOaERmN1VkcEJ4T2NDVHdJbk50dmNTVmd1V3cxeHRfVHVZWUlJRGZSV20xQ2FGZWJOX095bU1XSklaVDBWV1BGNDRUcVBSbE9ZYm1sbG15dw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "Donald Trump booed by the crowd during the anthem prior to Game 3 of the NBA Finals",
         "description": "",
         "published": "2026-06-09T04:42:00+00:00",
@@ -727,15 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "Bergen Record"
-      },
-      {
-        "headline": "Where to score free food, coffee and more after every Spurs NBA Finals win",
-        "description": "",
-        "published": "2026-06-09T03:34:03+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZ0IwV2Z4eFN6YTRQcU04bVlDOTRfaXl3T2hYSGpSRElmcW5Wal9qVGEzdzdDYWxkZmk4dW5uckowTDZaTEt0TTk5c2M1R1B4OEREQnoyZi1mbGl0VjBMc2xaOVJGbElaYTR0a3M3aGdqNUF2bVlLZm11cVh5bEZ0MXNnN25RRkZwcjJEaHdmVy1qTUxjeUJNa2RHc051TkJ5YlAxeWlNTFczMkxvSmkxMGFON3ptb00w?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "KSAT"
       }
     ],
     "games": [
