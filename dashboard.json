@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T14:36:33.537966+00:00",
+  "generated_at": "2026-06-10T14:51:39.054414+00:00",
   "duke": {
     "news": [
       {
@@ -486,13 +486,22 @@
   "nba": {
     "news": [
       {
-        "headline": "How Victor Wembanyama and the Spurs fought the MSG noise -- and won",
-        "description": "In the biggest city in the NBA, the league's biggest man found a rare moment of peace -- and used it to drive his team back into an NBA Finals most experts said was over.",
-        "published": "2026-06-10T14:28:24Z",
-        "link": "https://www.espn.com/nba/story/_/id/49012293/how-victor-wembanyama-san-antonio-spurs-fought-madison-square-garden-new-york-knicks-noise-won",
-        "image": "https://a.espncdn.com/photo/2026/0609/r1670410_576x324_16-9.jpg",
+        "headline": "'The Hoop Collective': Episodes of Brian Windhorst's NBA podcast",
+        "description": "Here are the top highlights from Brian Windhorst's \"The Hoop Collective\" podcast, from breaking news to the latest intel and reaction from around the NBA.",
+        "published": "2026-06-10T14:38:30Z",
+        "link": "https://www.espn.com/nba/story/_/id/47168192/the-hoop-collective-latest-episodes-brian-windhorst-nba-podcast-archive-best-quotes",
+        "image": "https://a.espncdn.com/photo/2025/1112/r1574751_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Spurs fan assaulted after NBA Finals Game 3; New York Knicks and San Antonio Spurs players, celebrities condemn attack",
+        "description": "",
+        "published": "2026-06-10T14:11:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOUXkyaWNraU5YTkNMazVDaXMyM2RRUUwxdWFjbnA5bERjbkRRTm9jSGZ1Sks5emZENERMWVVzOVBDNjM5RGFUSUM1ZWZBNXRLU0hvUnpLclMzdlBGVTZlQjhyM0J6RWhkRElZSlFIdC1lUEFWZmVoaFYwMFMxSmlZb2Q3dWRad2JVQTFoemxKUm9QeU80ZTQ0OU9PWTNHRXBCUWJqd0QwVUVYSzhFQlZCNzRRNl92N2tqTFZXMU8wa1BPWHM4anUyaHc2S0xsTVHSAdQBQVVfeXFMUExwdzNidklkMG0yT0pyTl94LThkQkc1ZjRLM1JIY285R3U0NmZNQ0dXdWdnWjNsWC1MY2Nxd2FFZTJRV1Z1WWM5S2Z5WkxxRkRWU1FCaGJMcWFkdUZ1NmZSM3QtZjFjcDN2OFY3WDh5RG5FLXhraXpvR2RyOHlBZDMxRmg2cFFEVzExX0thR2NQUFpQUmJQbjhhLVpCLUE1SjRxWm42LTE5UmYtWW5ybkJLdVVqalcxWUJFSGtKeWpya2pjZTBzdkFYbnpuVnJENnNoYTU?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ABC7 New York"
       },
       {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
@@ -547,15 +556,6 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Kentucky basketball got a couple of good ones, according to NBA-bound teammate",
-        "description": "",
-        "published": "2026-06-10T10:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSXViY1NlbkdIQUQ4S2tGeWVld2JEeXpkM0NFbm1MUjJWMldUMFRFWDBXUkpqU1JtRy1VOGxrM2dhZ1hhNVJVdjdUdWlQRjVLUDhJRC1kMzJIX2xXc3NhMDEzNEcwMWZEMXZJUWtjb2ppVEhSd01fbWtmbUxfeElOUkpTNllUcFJWVjlTcG1zeDNpX3ZNRjB3emFJd9IBmwFBVV95cUxOMW12SlVRdzdoaGJ0N0dwcEp0MTZRNmJKV0VUSVNVMVZlT1RrWG1WTHZNWDJHNU11RlptbnkxNElSRklPZ1JIYWMzU01NbVR2Mlp3NkFlZExITHZVYmlRZk1PNU9ZVjdXbklMOVc1SU5vWmlua0ptQ19aMGUxUk1rUFlQX3RtWDg3bVRGVk1uTDdUM19GeHRNeVAtcw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Lexington Herald Leader"
       },
       {
         "headline": "\"Make sure you don't fall asleep, they do take jewelry\" - Carlos Boozer shares the wild warning he received about NBA groupies",
