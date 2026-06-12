@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T23:01:07.149274+00:00",
+  "generated_at": "2026-06-12T23:16:15.661040+00:00",
   "duke": {
     "news": [
       {
@@ -192,6 +192,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "Incoming Duke Basketball Star Rookie Attending Team USA Training Camp",
+        "description": "",
+        "published": "2026-06-10T11:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVDJ3cTdlSGx6dTUzSFB6QnQxOHJHbV90VkNxeEw3VFlvWXBSU3gxTWtveGRwWGN1Z3ZfLTJFaHkzTXpOc2RwRXJzRjJpa3EtU09SR2NxakI2eHV1YTc0MVVQTTNKbnd4MlZMeWxJNFhkc1JILVduMXk1dGxnWHd4ZDN5WHZ6YlFyM19lVU9wMndmYUtteEJnQ0RQMzNvZkNjXzQxemV4UVp5LTIw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
         "headline": "Why Duke Basketball's Transfer Portal Class Is Underrated",
         "description": "",
         "published": "2026-06-10T10:00:00+00:00",
@@ -226,15 +235,6 @@
         "image": "https://a.espncdn.com/photo/2026/0604/r1668324_1296x729_16-9.jpg",
         "recruiting": true,
         "source": "ESPN"
-      },
-      {
-        "headline": "College basketball preseason rankings: Are Florida, Duke, Michigan, Illinois overhyped for 2026-27?",
-        "description": "",
-        "published": "2026-06-09T11:17:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWWVRUWh5Z0tIazBvVXdvTmNaMld3ZGN5ZkpJZk4yVUN5aWg4TTdpOEY5dHRMaHhtWWpWVms4bHNfSEdVY1RhNDJESnhaT3hkUXQ0YjQtcXFfVW9yeVdBeEdlYVdFLUtpWEdBUE1EeExxUkpoWER1c2RZbUF6aldqMWlVZzF4NnQ4Vm9YSEhwbEdZN1Rwck1BVEJjYzFtMm1wdDlDVWZYMzZsU3lwZzlCOTVmWnJleXR0bTY3QjZHTWo5R1pZX0Jyc3hUUEdINGRF?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "247Sports"
       },
       {
         "headline": "Mock Draft Predicts Duke's Isaiah Evans Reuniting With Former Teammate",
@@ -486,6 +486,24 @@
   "nba": {
     "news": [
       {
+        "headline": "Point-Counterpoint: Should Cameron Boozer be the first player selected in the NBA draft?",
+        "description": "",
+        "published": "2026-06-12T23:05:07+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQRWhnQ3pWLU1xOGw2QWNTSDZONzJHd1phc0ZreWpiTVpFeHByV1BDV3RJUVhaVWo5SmlzejVwOXJZSTlOU29URzUzMl8yaGpZMUptVGFDY2xQR2I1ZGlrZG5DUlRmbV9wRGltamlKdXljQU1EamJtRHRYZnVRSFExOW5XTGlfdXh3Y3dpV0lQWnRRUm56NVlZQjJNdGpvb0VqbHp6Ykl1VjFiQ3VqREp2NQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Duke Chronicle"
+      },
+      {
+        "headline": "Selena Gomez fires back at Taylor Swift NBA Finals drama: \u2018It\u2019s a basketball game\u2019",
+        "description": "",
+        "published": "2026-06-12T22:32:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNnUybDl5VHpHb29VcGh5eG1FM1kyaVdjZTFiNjZ3NXNJaFl2MlprNG16ZS1jSHVKb3Y1ZUNobUhkNW4tTENOZVU1VTM0Uk5LMGpGUzhnQ3pGd1gwVUllVzVGbGIzMHdOXzJjWE8yUE9LalphWGNsME1hc3NqWFJHOEVDTTV5ZzlzMTJpaTNxSXpQSjhrcXE1Q3ZR?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "New York Post"
+      },
+      {
         "headline": "ESPN\u2019s coverage of 2026 NBA Finals is setting ratings records for ABC",
         "description": "",
         "published": "2026-06-12T22:09:59+00:00",
@@ -499,6 +517,15 @@
         "description": "",
         "published": "2026-06-12T21:56:15+00:00",
         "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbWs5dFh5RWZrNXJhMk1ERmVQTXUxUWs4NnZZRVFRTFdfclNhU2dkYjJBckVaNkNubHVCelpzc3kxODVqbWM5Z0p4Vm9mZzIwaENXUGNId1k0dHFuYVYwdndIUnc2OGYyN1pETzlUbEdzNFl5NThpQktFMmRRU2NkSUJDakhNcS1m?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
+        "headline": "Advanced stats show OG Anunoby is doing something that has never been done in NBA playoff history",
+        "description": "",
+        "published": "2026-06-12T21:30:53+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQb1NMbGx3RFNZLVBGTGg4b3FZTjc0bW1NUEw5Z1hzQmhaeHpNMHEtenloYUJMRElFdGcxQU9NdVEzcUF1UlpzRVhsb1VmdndRaEFDdjBGT2hnMWQxUno3RlZ4ajVOTHgtZ2J0M21RdWxfclZCU2wwZUhScHBiVWEyYnVKcmJ1QQ?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
@@ -531,15 +558,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "Spurs' Victor Wembanyama makes bold NBA Finals prediction",
-        "description": "",
-        "published": "2026-06-12T19:40:11+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNOHd6QVVBMTY5NnV2QjY0cnA0UHQ2Q3lsYS1WY3ZNMndIUFVLeDNCLWpENllzemcyNlhZZk80OUk1NEZCYl9VUjVnZTREUGt0MXVUT1NOWC1RR3VuMlNmYnhYUkdRS1J0QWkxdURYR2JqZnZLOFRVS3JKaE5fTXFlZHNnTlBMVUpJSG13?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "From Newcomer to NBA Finals: Skechers\u2019 Rapid Rise in the Sporting World",
         "description": "",
         "published": "2026-06-12T18:55:14+00:00",
@@ -547,15 +565,6 @@
         "image": null,
         "recruiting": false,
         "source": "Hypebeast"
-      },
-      {
-        "headline": "Draymond Green makes bold declaration about NBA Finals Game 4",
-        "description": "",
-        "published": "2026-06-12T18:17:21+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQcTNXM2YyYUR2S1A3OGxFb3hIVTdhS29CT1hJZUFNSFV1UWtUSGRaMWplWmppZWFrV0FDdWxudVVuMkU0Tkpwc3JIMXdWbFhmbnBTa0VMeGxCLWdORkxoWFBxbE9TRGlwUTZSckRvTF80aW9UcHFCOXpCakZFNGwwel9VTjc4NlRUQXpzTURmVQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "Oregon Ducks Star Nate Bittle's NBA Draft Future Coming Into Focus",
@@ -684,6 +693,15 @@
         "source": "NPR"
       },
       {
+        "headline": "Spurs' win over Knicks was most-watched NBA Finals Game 3 since 1998 with 23.8 million viewers",
+        "description": "",
+        "published": "2026-06-10T21:47:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOS3BwNWF6U0VjZGNyZWJSVUNtT3l2MlpnRGlJMFNXSDZWZ0dJeGk5aF9NeHNldV9WX0lrYzZjbzFicThHblFqY0lnT3l3WXZLY19haEt6a0cwMDhIb1JXaXpIc3IyTk1UTl9HdHJDdi1yMmh6ZWtKME9KTGtadUw4N3l5c0R5OVVaSHVNajEya2p3RndtMkE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "AP News"
+      },
+      {
         "headline": "Report: Arkansas basketball's Darius Acuff invited to NBA Draft Green Room",
         "description": "",
         "published": "2026-06-10T21:21:00+00:00",
@@ -691,15 +709,6 @@
         "image": null,
         "recruiting": false,
         "source": "Whole Hog Sports"
-      },
-      {
-        "headline": "Mitchell Robinson Is Learning What NBA Finals Basketball Really Feels Like",
-        "description": "",
-        "published": "2026-06-09T23:04:14+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNblhTeEN3NTdaUkpPWTRsdGNER1RjWEU0c0VBZktDQWRnbzB4OHFMRm9qYm9hVklaS2lqUE45c0hJNHczUkRWMnFJa1NNbk5wVk1MbHlycXFEZ1BXY0F5dmF4Tk16dmlvbndTcTFnSDVTUEpIa1ZibEx6aGVHWGNzTEtJcUpxODFROVhhaGxOUzhoV3Q4STBPcnJYbVY4MlRsdFhQQ2I4QVpDdkhqcW9xZHBQVkVLeDh5N2lKR3F0MHV3MDhNczF5NXNSZ0dIbFZKWk1LY1NuOA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Posting and Toasting"
       },
       {
         "headline": "Trump booed \u2018thunderously\u2019 at NBA Finals: What we know",
@@ -727,15 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Way-too-early Top 25 college basketball rankings 8.0: NBA Draft withdrawal deadline passes",
-        "description": "",
-        "published": "2026-05-28T07:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdmtRS3gwV3RTU2VfekRBWUFNYTFFQnROZnpzaGFNRWFPR1VpUXI4LWM2bjJKZTAyWUIxek5KcVZsWDlXNWhwM1hjLTF1V1dCTkxmZUx2RlBQeWRJUGtuaHhlS0ZmN2xzcWVXNG1GZ0k1ZUh5NDB6Uko5bzNUQU9tUnFjRm5SelFudGFPaXQ2MGxXdWZkYkM4azN4WC1QMEpvcHU3dWh2LTlYUUszSExwTU92OXlRZw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "On3"
       }
     ],
     "games": [
