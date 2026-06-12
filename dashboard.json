@@ -1,11 +1,20 @@
 {
-  "generated_at": "2026-06-12T17:11:19.105176+00:00",
+  "generated_at": "2026-06-12T17:26:24.354056+00:00",
   "duke": {
     "news": [
       {
+        "headline": "5-star Duke commit Joaquim Boumtje-Boumtje continues to dominate headlines",
+        "description": "",
+        "published": "2026-06-12T17:15:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxNNG1UMGZjYUtSTWpGRWZaX3BNenBXRjBiNndmRGlVU055WTVNV0NsX3BZRU52UWEtbmJmdVpkU2JXMDY4VjluV2h2bHphMTZvR1lnbmdSdkZYbmFfRVhvZmxWUXpXeVN2VHNMVndVNXkteHRIVFBaV3ZObnh5Yks3elVTaGtfZC04elV3aVQ4VnVrazlFSmxqSU1zYlFRTzJxVk5rU2QxNkJPTnktaUx0MUJqQkpVQWs5T3JBeEp5OUMwaVI3czhseE5obGhnN1FNNmh0TVJyNkFkemR4T1dCSnlOUVNiNy1jRDAwTmVB?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Duke Wire"
+      },
+      {
         "headline": "2027 NCAA Tournament Bracketology: Duke claims No. 1 overall, Kentucky rises in 76-team projection",
         "description": "",
-        "published": "2026-06-12T15:37:56+00:00",
+        "published": "2026-06-12T16:43:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON3VZZFd4bDhUeFpwMkxmajFzc2tkaUhIUGkxclRqUDlweHdob2tFRmQ0RjU1SEozLXRuOWpDYkZJX2dqSUcyMnVHZnlpNThvbFdVZGtqeFFJbkNzS1lHcFYxbEhwUDU1cGVoaHotcVBuMXBtYlF5Q1VTLVMyN05ack1tRTJ1Rld1d0p2QjRPMEZSMlN5Z2l0TEx1X2ZmanFBeENYbkZNWXE0alk?oc=5",
         "image": null,
         "recruiting": false,
@@ -244,15 +253,6 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Breaking down Duke basketball, Jon Scheyer's 2026-27 non-conference slate",
-        "description": "",
-        "published": "2026-06-09T09:01:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc3Job1ZPY29MdXR0c0VnNGs1QjJxUl81WEpWcXNYWjJzYUFFMXJ4R0lUUnlTYktQWnVwcFRqR1ZWT1JYcWdLVkpkRms0MV9DMXNwV3ZSRG5DRTdkTG9Bd3kwcHlIblFZZzc3UnRLVUxxRm4xUjRLTF9pVFZrbHJWRWNJWjVoQjRWdnZrSTlRSWR6NXdCYkJIc3B3WU9ldE5RMEhhWDBoa1c4NFJrS096VUVSNkVmemxwb1RnaGhjUTRUQQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Fayetteville Observer"
       }
     ],
     "games": [
@@ -513,6 +513,15 @@
         "source": "Yahoo Sports"
       },
       {
+        "headline": "The Bounce: Mike Brown\u2019s chaotic journey to the verge of an NBA title",
+        "description": "",
+        "published": "2026-06-12T14:15:29+00:00",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdW1LSEN2N3VuVF9qTGRDekQ4Vmg2UFJ5d2ZJVTRfbnREaWdUaklIcm5LVEc2Zmp1dnd3T0ROOWRaM3BMZEFLbGhwWTF5MjN1ekZEbGFUb3Z4NFBiVGhaaVliNTJocU44Xy1aS0V5dzR1ZnhQZTlwVW5aRjZIYmxZQUlkQXFacFg4R2NfTFBETUhCbTVvMUhtbnJ6VnRoeEU4?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The New York Times"
+      },
+      {
         "headline": "Big3 league to go public after $290 million valuation",
         "description": "The Big3 basketball league, co-founded by rapper Ice Cube, is eyeing a $290 million valuation as it plans to go public later this year.",
         "published": "2026-06-12T14:12:06Z",
@@ -538,6 +547,15 @@
         "image": "https://a.espncdn.com/photo/2025/1208/r1586688_2_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Sixers draft profile: Will Chris Cenac Jr. put it all together in the NBA?",
+        "description": "",
+        "published": "2026-06-12T13:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNTG9qVUFpdXdEX3RvbTFUd1YwaFJxUzdoX294OUQ3eFRQSEZfY0hDTTBpVl9BY2RrbU40NVBkZW1ZOUdYYzZ2dWFNeUpzcllOeEw5emM0Z0ZvdXlHREtqTmhMdTNRM2xCMHk3Wk5rV3RRNDJSbEpsY3QtdFIzdDQyeWVzMkNsMnBmcTk0MUZiemFfVHctWGMyTU5YSFNwY3pIZFhfS1NtYWZuNnV5clVxLTZpdVVkRTJKeEQ1aExLMlVta19vdHfSAc4BQVVfeXFMTndqa045NDgzWVBiWGg1UG5md2gyRUZTSTlacm9xT2RnLUV6ZHBlcXNISG1iS0tIS3EtSXlPYzFsMkhLb3ltTUZsanlGOS1Oa2I5b1VzSUtiZHdjT1hvRXR0eUxUdjZ6V0p2QzF0OHY3d3JlX3lwMXo0SzBxMVFadmVyemthdV9xZ0NTTTEwU0hxNXpvLWh4dm1DaXQ1VXBrdWFBMl9sRmZYUlpyM2ZtdzlZa25ybkViWk1pVmJaamR6bXBmUWZDNjBkYXVDSnc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBC Sports Philadelphia"
       },
       {
         "headline": "NBA Finals 2026: Intel on Knicks-Spurs, Giannis and a flopping fix",
@@ -594,15 +612,6 @@
         "source": "Basketball Network"
       },
       {
-        "headline": "Already an international NBA pipeline, Eurocamp could become college basketball's next recruiting frontier",
-        "description": "",
-        "published": "2026-06-11T20:57:55+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZWtLYjIxektGTmJHc0MtLWZyeFdoTThNUEpXSEJicjRvd3FZc2YzcXl1SlpjZU1hWnhQMFl6ak9QXzNJMzdXXzhkOTNKZGh4M2t4Z3hyRnh6dlk3Zmc4SzV5QXZMVjZFaWlTMHRvTWQtYnQtRDlDaWNrc25ISks1aTFQQWoxM1B6eVhyU054X2VwUm5nUk5HdFhLR3Nod2xIQlNac1dmUENOXzg?oc=5",
-        "image": null,
-        "recruiting": true,
-        "source": "CBS Sports"
-      },
-      {
         "headline": "KSR Happy Hour: Kentucky Basketball's summer plans, NBA Finals, World Cup Mania",
         "description": "",
         "published": "2026-06-11T19:57:34+00:00",
@@ -628,15 +637,6 @@
         "image": null,
         "recruiting": false,
         "source": "Arizona Daily Star"
-      },
-      {
-        "headline": "A closer look at Sydney Sweeney\u2019s rare basketball stilettos from Game 4 of the NBA Finals",
-        "description": "",
-        "published": "2026-06-11T15:43:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNX1g1ZmJYSGh2OEdIb0M3cEJEeXlnLV9jTmtEMXRxZmluUkJvU2NCYklSWXp5SnFVSGNEOHhXeEFwUExHLWlwVkJQUXJ3cFJVUXJZMk5MNHNNNWw4YnBFUFR0ZURTNm9PMWsyVEhjRzFRb3lDRk9PbzBrc2tLN3FMaDNuUTlRYmtWSlUyeGx3b3U0LTM0cHA0SDNzdVBtamdBeFB2VllQVEYtV0doM1dqa19DeTVidWVtQVVNQ2EyYWJTN202YWhz?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Page Six"
       },
       {
         "headline": "NBA offseason 2026: 10 teams that will define the summer",
