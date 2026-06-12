@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-06-12T18:26:47.574714+00:00",
+  "generated_at": "2026-06-12T18:41:53.316132+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "Mike Krzyzewski's best at Duke was always better than Roy Williams' best at UNC",
+        "description": "",
+        "published": "2026-06-12T18:39:57+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQTA4MEtqMkVDU19GYWVaU1gySW04dC1UZHpEcDdVUldOamVTc0tfTTQ4d0I2S250Z1BVeVg0cXZCeGFwVlFTT1FvUHRwS3Q3WGRyclBqck1RUGlfSFhJd0JxMkVpZE5HLVRxWjNMbWRMTXRHd3Rybk9zUEt5TEJrZ0V2a2JCX0txb0ttY2Q2QXhCcC1KQUxsUDZEaDVWRzNmN0ZV?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Ball Durham"
+      },
       {
         "headline": "5-star Duke commit Joaquim Boumtje-Boumtje continues to dominate headlines",
         "description": "",
@@ -68,11 +77,11 @@
       {
         "headline": "Why Recent History Favors Duke Basketball in Bout With Gonzaga",
         "description": "",
-        "published": "2026-06-12T11:00:07+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOREFxcWppWjd5cVRPS1dOYWhjalVTeWcwcTlCY2Q2TGNjNnZ1b0VPc01Ob0FodXBnMzlIQk5QTHh3YW1oWGc2ZjcyUnlJdGJtaDhfUm4xTnpTbXpFamF4TkZSSHN5Z3BMNk03SlpxdTlQRkllSldvdnZWUlV4RWhJLWVGaU9IQQ?oc=5",
+        "published": "2026-06-12T11:00:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGdUdGk2WWNSTmdUNHlPcEIzU0lxYklwX3lEamR4bXRJdVlIbkZSa3MtS3pDSThBSm93WWZ2c1IxOWpta3A5cmcyV01xb3Bfc1BwbjRiUHNzSDVGYWdKOU9RYUdWdHFoR2tGSF9DU3NzZWs0X25IcHlabWhvVS1HU0RTMnQ3akRLQzh4ZmN1Zm1ydXp6QWN2OQ?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Yahoo Sports"
+        "source": "Sports Illustrated"
       },
       {
         "headline": "YouTube Gold: Duke\u2019s Smartest Point Guard Ever?",
@@ -219,6 +228,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "College basketball preseason rankings: Are Florida, Duke, Michigan, Illinois overhyped for 2026-27?",
+        "description": "",
+        "published": "2026-06-09T11:17:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOWWVRUWh5Z0tIazBvVXdvTmNaMld3ZGN5ZkpJZk4yVUN5aWg4TTdpOEY5dHRMaHhtWWpWVms4bHNfSEdVY1RhNDJESnhaT3hkUXQ0YjQtcXFfVW9yeVdBeEdlYVdFLUtpWEdBUE1EeExxUkpoWER1c2RZbUF6aldqMWlVZzF4NnQ4Vm9YSEhwbEdZN1Rwck1BVEJjYzFtMm1wdDlDVWZYMzZsU3lwZzlCOTVmWnJleXR0bTY3QjZHTWo5R1pZX0Jyc3hUUEdINGRF?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "247Sports"
+      },
+      {
         "headline": "Mock Draft Predicts Duke's Isaiah Evans Reuniting With Former Teammate",
         "description": "",
         "published": "2026-06-09T11:00:00+00:00",
@@ -235,24 +253,6 @@
         "image": null,
         "recruiting": false,
         "source": "Duke Basketball Report"
-      },
-      {
-        "headline": "One ACC Newcomer Duke Basketball Must Monitor",
-        "description": "",
-        "published": "2026-06-09T10:00:04+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEYzc0p6NzBCbUdPd3JrRFhXOTZMMGNGT05PMnhQcl9pYTEzOXBpdVN0Z0NzUFdfZlNvLXJteWU2cXdMQk10SDNKS2s4V1J4NzF6cGlVejBZWlBVZHRyaGM2ZjhhMVVfUjY2d3YwOFp1WnZLUU0tbkplVFVtb1dLQ1I1dEpzeHZXMnpfMA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Breaking down Duke basketball, Jon Scheyer's 2026-27 non-conference slate",
-        "description": "",
-        "published": "2026-06-09T09:01:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPc3Job1ZPY29MdXR0c0VnNGs1QjJxUl81WEpWcXNYWjJzYUFFMXJ4R0lUUnlTYktQWnVwcFRqR1ZWT1JYcWdLVkpkRms0MV9DMXNwV3ZSRG5DRTdkTG9Bd3kwcHlIblFZZzc3UnRLVUxxRm4xUjRLTF9pVFZrbHJWRWNJWjVoQjRWdnZrSTlRSWR6NXdCYkJIc3B3WU9ldE5RMEhhWDBoa1c4NFJrS096VUVSNkVmemxwb1RnaGhjUTRUQQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Fayetteville Observer"
       }
     ],
     "games": [
@@ -486,6 +486,24 @@
   "nba": {
     "news": [
       {
+        "headline": "Phoenix Suns 2026 NBA Draft Preview",
+        "description": "",
+        "published": "2026-06-12T18:09:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPN0c0cVo0UV9oaGxrSlppR0NOTTg4bXh1dnBIUUNPNzREM1BGUGRNQU5OVDFNQWlnZzVDSVNaVWNQQm1pS0RYRU1CNmtYazVVY2Q4X0UwYV9vc21zSmo4Q3M5NERLc2tneDRhNExRNVREWGNoQk9PVnhYcDVpNmVWSERR?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
+        "headline": "Spurs Urged By NBA Insiders To Expand Dylan Harper's Role Ahead Of Must-Win Game 5",
+        "description": "",
+        "published": "2026-06-12T16:01:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOaHBSbm80V2ZvNmFRaERiVmpybS1WbzgzcWdQT0Ntbk1BWG5uT2FpRENLRHdpc2NYN09uWTdyLTkwYnZzWkF4Rjk1eC1pdXFpQzM0Q2l5MWtTUERlZDBJWGJRSkNCaFdjT1dnQ183Sjh5Y0xrVDVMckR3Q1AyVlZlWDBQNHFrN1E3T1RhQTFvLTlCRlRLS3EteGt3MXd3RFVIZldFU2RaZ1psQWZ3X3ZGN0hEWHFMOE5meDNZMG9Ha1FxVlBT?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "RealGM"
+      },
+      {
         "headline": "NBA championship and Finals MVP odds: Knicks move to -500; Anunoby in hunt for MVP",
         "description": "The Knicks' shocking comeback win over the Spurs in Game 4 has New York one win away from the NBA championship.",
         "published": "2026-06-12T15:54:01Z",
@@ -493,15 +511,6 @@
         "image": "https://a.espncdn.com/photo/2026/0611/r1671330_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Giannis Antetokounmpo Trade Uncertainty Freezes NBA Activity Ahead Of Draft",
-        "description": "",
-        "published": "2026-06-12T15:50:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOLVBsSnVObU5kOGI2Y21nV2FVdWd3Y0hwMDNaWmZGRllGTnRGTWoyMm84Uk9DY2RqX3BsV3NVd3hNRF9KNUhIUUZ3dmJqZXZ5ZXB6UERMOTlMUmdySFBteFQ2djh2MTFkcER3bGNXaXItRFpoME1XT2tQd2F6Yl95N05ieEgwRDJnZU5EZFlTR2drSlBuRTBLLXZGWnRnancwLXpfMVRRTjA5RkJsdE5ZakdPaXZnRHhzeTdXSw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "RealGM"
       },
       {
         "headline": "The Bounce: Mike Brown\u2019s chaotic journey to the verge of an NBA title",
@@ -576,15 +585,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "NBA Finals: Long Island die-hard basketball fans see rituals as less about logic, all about winning",
-        "description": "",
-        "published": "2026-06-12T10:36:39+00:00",
-        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTFA1WGtEeVQ0Y0RZcHpyS2thd3RnX0p3Q1VSV3RxMVJCNk1WZURERnpBQ0N6SF9PUDJUYW5YUmNhdWVCMl96QThkcGc0VDdNdXhucHlva2ZESFpyWWZOaVZiQWFBTjBxdXFuX2ZSNkNqMFZjMUgyZm5R?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Newsday"
-      },
-      {
         "headline": "NBA reveals it missed foul against Knicks\u2019 Josh Hart in critical part of historic comeback",
         "description": "",
         "published": "2026-06-12T00:28:00+00:00",
@@ -639,6 +639,15 @@
         "source": "Sports Illustrated"
       },
       {
+        "headline": "2026 NBA Finals: The Knicks are one win from a long-awaited title",
+        "description": "",
+        "published": "2026-06-11T12:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNSVFSajhibXo5MzdhWUE4QmF2ajFHenN5Y0w5M1NJam82elJNV1hmLXJIaHVqQ0EyTzkxRGRWZl9iMFNVZzd0R0ZGeG83UHVsVlp2TWdBV2hXQ1o2NEF0bGItTlVmN2RzTmV0dTFDeFlrU212NE91LUEyTU5uR3c5ZkVibVVwTkF0UnVZNjRGWTBaRXBhVzVSSWpWT01PbDRDRldBN2d5RzVtSmhuYUdQYnNlMXlkQkFOQkpjQ0c5dlVsNGZBbkg1anZ3?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "NBA offseason 2026: 10 teams that will define the summer",
         "description": "",
         "published": "2026-06-11T11:20:00+00:00",
@@ -646,15 +655,6 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "NBA Finals: A Wu-Tang prayer, OG Anunoby, Jose Alvarado and the greatest comeback in NBA history",
-        "description": "",
-        "published": "2026-06-11T07:40:15+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcXQwR1JmTHNXbnI0VkEzY18zMlRHVXowTmNsN084aDRLX1Q2RmQ4LThrM3djYjk2akxTcDl6VXk2aHF3VjdVUWNRY0hyS3dnRDVQTDJkaHROcl9TWmZTdF8ya3YyeXhEdjdSM1otOGpnbzc1a3JNcmdFM0txajExdl9LM09SbXFJeDVqTXBOYzFKOFdJaEl6T2xGMDVmeGI0Rll0ZnNrVGhHQUV4Wm9FNjdoREthSUNHQjJiQVI2TVU4bzhvT2d6VXF4N01nSVBfV3k4eE5mZ3pEVU0tMmc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "Report: Arkansas basketball's Darius Acuff invited to NBA Draft Green Room",
@@ -682,6 +682,24 @@
         "image": null,
         "recruiting": false,
         "source": "Al Jazeera"
+      },
+      {
+        "headline": "Grading bold 2025-26 season predictions for all 30 NBA teams",
+        "description": "",
+        "published": "2026-06-09T10:45:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNUFFiVEtGaHBPRmU1WUN0VTJmb1hLUEZteEdvNl81WGg0OFctN2p1VTF0WDQ5eGhrYm82Tl9yY25vclFWVHFqSzhUcGpLbmQwQWJVRko0UjZlOGd3dXZFenFQdWR1eTgyZGc1MzBjY2RZekxOaERmN1VkcEJ4T2NDVHdJbk50dmNTVmd1V3cxeHRfVHVZWUlJRGZSV20xQ2FGZWJOX095bU1XSklaVDBWV1BGNDRUcVBSbE9ZYm1sbG15dw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Trump becomes first sitting president to attend NBA Finals game",
+        "description": "",
+        "published": "2026-06-09T00:36:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPMXBJcE1XeEpjbHF5N3lfYm1QNmZ4ZGlZVEZ4cFY4Q3Q0SDBncWdrcWJXWFN5MUFVREw5Nk5jenZacFNhZWhzXzJDT3V4bkZLaGE5R2JBNndBblBDOVFfQzZobjJoa1VNZVdaelNNLTFHcUlQVExmVHE4eDV4WW9BTFJJblh1eURuMWNhZlFrdDc4ZE93R2dYSVdmam9nZmhhcG1Za3hpUmI?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
       },
       {
         "headline": "82-0 is the best basketball game, to hell with NBA 2K",
