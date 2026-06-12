@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-06-12T15:40:43.726876+00:00",
+  "generated_at": "2026-06-12T15:55:49.842527+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "2027 NCAA Tournament Bracketology: Duke claims No. 1 overall, Kentucky rises in 76-team projection",
+        "description": "",
+        "published": "2026-06-12T15:37:56+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxON3VZZFd4bDhUeFpwMkxmajFzc2tkaUhIUGkxclRqUDlweHdob2tFRmQ0RjU1SEozLXRuOWpDYkZJX2dqSUcyMnVHZnlpNThvbFdVZGtqeFFJbkNzS1lHcFYxbEhwUDU1cGVoaHotcVBuMXBtYlF5Q1VTLVMyN05ack1tRTJ1Rld1d0p2QjRPMEZSMlN5Z2l0TEx1X2ZmanFBeENYbkZNWXE0alk?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CBS Sports"
+      },
       {
         "headline": "One Key Aspect for Duke Basketball To Be Elite Defensively",
         "description": "",
@@ -244,15 +253,6 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Duke Basketball Being Doubted Against Florida in ACC/SEC Challenge",
-        "description": "",
-        "published": "2026-06-07T13:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNM1lYd1dTTkZJellrZTh5bG12NzcxNTFHU1NpdkdmdV9jUWppNlVzSDhMd0I0VE9NcEhDLTR6VnhReGxfSEFzSDNPcW1wSnBZU2J2emQ3bkZxM2FqTFFZTkpPZUtRazhSOURyd29sNEt6UnNIN0s3amVaRWtEUS1ncG02QXlwTWIxd1ZRMVdoUUVnbC1ibzRqcTJB?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
       }
     ],
     "games": [
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "NBA championship and Finals MVP odds: Knicks move to -500; Anunoby in hunt for MVP",
+        "description": "The Knicks' shocking comeback win over the Spurs in Game 4 has New York one win away from the NBA championship.",
+        "published": "2026-06-12T15:54:01Z",
+        "link": "https://www.espn.com/espn/betting/story/_/id/45539787/2026-nba-finals-odds-mvp-2025-26-championship-betting",
+        "image": "https://a.espncdn.com/photo/2026/0611/r1671330_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "Big3 league to go public after $290 million valuation",
         "description": "The Big3 basketball league, co-founded by rapper Ice Cube, is eyeing a $290 million valuation as it plans to go public later this year.",
         "published": "2026-06-12T14:12:06Z",
@@ -500,15 +509,6 @@
         "published": "2026-06-12T13:52:28Z",
         "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
         "image": "https://a.espncdn.com/photo/2025/1208/r1586688_2_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "The New York Knicks' 2026 NBA Finals run through the lens of Ben Stiller",
-        "description": "Lifelong Knicks fan Ben Stiller has documented the team's playoff run with videos on his X account.",
-        "published": "2026-06-12T13:09:53Z",
-        "link": "https://www.espn.com/nba/story/_/id/49035423/new-york-knicks-ben-stiller-nba-playoffs-final-2026-videos-clips-documentary",
-        "image": "https://a.espncdn.com/photo/2026/0611/r1671626_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
@@ -529,6 +529,15 @@
         "image": null,
         "recruiting": false,
         "source": "Newsday"
+      },
+      {
+        "headline": "Already an international NBA pipeline, Eurocamp could become college basketball's next recruiting frontier",
+        "description": "",
+        "published": "2026-06-11T20:57:55+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZWtLYjIxektGTmJHc0MtLWZyeFdoTThNUEpXSEJicjRvd3FZc2YzcXl1SlpjZU1hWnhQMFl6ak9QXzNJMzdXXzhkOTNKZGh4M2t4Z3hyRnh6dlk3Zmc4SzV5QXZMVjZFaWlTMHRvTWQtYnQtRDlDaWNrc25ISks1aTFQQWoxM1B6eVhyU054X2VwUm5nUk5HdFhLR3Nod2xIQlNac1dmUENOXzg?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "CBS Sports"
       },
       {
         "headline": "KSR Happy Hour: Kentucky Basketball's summer plans, NBA Finals, World Cup Mania",
