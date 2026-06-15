@@ -1,16 +1,7 @@
 {
-  "generated_at": "2026-06-15T03:22:06.393801+00:00",
+  "generated_at": "2026-06-15T03:37:11.976259+00:00",
   "duke": {
     "news": [
-      {
-        "headline": "Former Duke center falls just short of first career NBA title",
-        "description": "",
-        "published": "2026-06-14T19:57:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVlJPb3E5Z0ppQ3F0TklfQ05JYkNUQlNQdEs4VzlyVUFDQlFKQ0hhSmhvaHJQZHAxQWVZcWwyUjRHOUlCUGlkZGotQnNvVEpNcG5TaDRTR2Y3dmw3Y0NDTHNJd3JWY0dpdWcwaE04cVUzRW5VYk02OWJQaDlmNUFYWlc3d2JzSmRBX1VUVDNtbUNUcGdkTEQ1NWI5eENVMWs4cVRMNGx1cjN2N3MtUVlHODh6MWF1djlYd2xZbFJOelJpVzBoX1lRSkVOWWx3dkRpQkFHLUF3aTV4ZWd6d0E?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Duke Wire"
-      },
       {
         "headline": "Duke's offseason work just earned a massive vote of confidence in preseason bracketology",
         "description": "",
@@ -253,6 +244,15 @@
         "image": null,
         "recruiting": false,
         "source": "The Fayetteville Observer"
+      },
+      {
+        "headline": "Ranking Every Projected Starter for Duke Basketball",
+        "description": "",
+        "published": "2026-06-05T13:00:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeTB4NVdzUFc1eUhRYnZrZFR5VDJ5bDd5eTJtWk90REtMcnNfZVV1cjM4bEY2Rnl4WS1HN3c4S3JoUHNXWHN6MXVNc1ViNE1RQzZCc3l1ekNfTVVsR1QwZ0hHc1hzUG5kbHQ4aGQ5N1RtZGZPZk9PU2J1MWxteVhfMnZPa21iV0lkc2J2ZVk4NA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
       }
     ],
     "games": [
@@ -486,24 +486,6 @@
   "nba": {
     "news": [
       {
-        "headline": "Gonzaga's Graham Ike NBA Draft profile: Measurements, strengths, weaknesses",
-        "description": "",
-        "published": "2026-06-15T02:49:02+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxONVA2ajEzbVJoVXNOMmdCclpnWDdRS0M2eGtPN3dTU3NBQVEyMmtXRnRrcDRkT2ZtLUh4dEdpUzBRcG1ZRTNFLWdqeHQwNldxYUlnVG9fVloyRXhqcnYyLVlVLU1fSGZoNFZsek5lYXh0RjB1WFdILXU1cjYtblFvT1VaWkpKbXhiUVgwOW1VUGtIeGFPV0U4WVdkckhtNVFuMmFHcjFsMzJvWHR5bktDekFZME5vLTA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "New York Knicks 2025-26 NBA championship season: The Athletic\u2019s best reads",
-        "description": "",
-        "published": "2026-06-14T23:59:54+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPRUZwdGNDSUdUZC0ybmgxQU83SHZrb1RfdW45d3lTOHVua084dVRKbDU5eXNRQ1p0aVI1bFhHXzlxblcxMERBc0kzOXdpSDVPUmdaY0pEQnhTOVpWaTYweExpdjVnR1lQbU02LVV1T2FyZnZOOXVHZUg4UUoybnJSOUgwWGpMal9O?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The New York Times"
-      },
-      {
         "headline": "Jalen Brunson\u2019s sister goes after his critics after Knicks\u2019 NBA title win: \u2018Now what?\u2019",
         "description": "",
         "published": "2026-06-14T21:25:53+00:00",
@@ -531,15 +513,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "Where to Watch Knicks vs. Spurs in the NBA Finals Game 5 Live Online",
-        "description": "",
-        "published": "2026-06-14T20:37:28+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEtvME5JSWRnSl9BZndFVlYySEZXU0YzaXZ0Vkt1NlBHRF9qcUJvMTM2RGMyZTd1WlM1Q185UUNTR2JuVF9WaXlhVEFuOHdnaVVhT3ZaZUFxRk9lSDBHZUZwZk9lWTVCclB3Y0gyejJwSS1UcTJ3Z1lUdUxwTGkzSFNrMldORXBUX2xSRF9DSXBldnpmUXVTWUJPN3g3SHR3eG5pend3VnA4MkIxYWU5c3RqUmlkeTQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Hollywood Reporter"
-      },
-      {
         "headline": "Celtics reportedly make trade offer for NBA superstar Giannis Antetokounmpo",
         "description": "",
         "published": "2026-06-14T19:41:03+00:00",
@@ -558,13 +531,13 @@
         "source": "ESPN"
       },
       {
-        "headline": "After 53 years, the New York Knicks are NBA champions. And the wait sure seemed worth it",
+        "headline": "Jalen Brunson, NBA champion and finals MVP, is officially the greatest Knick ever",
         "description": "",
-        "published": "2026-06-14T17:41:27+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNYjJZdWdHRk5ac3FXNmFnOFU3aXhWVVZQalBoVUo5blNTX1NXanYxYVk1MXpPSExFM1dkcVFtUHBNdFpUbzN6RGd3ZnQ4YmhSWFNyZC1wMEZRQjZ2el8wdTdzeXl2NTJwalNmYUxVT0xQVVhqNE4zN0ZYSzN2VjUzRXd6bkZhRjZNdm9MRHlCbnRfbS11aHk2bzB1c0hSeXlqaWUta2NON3haWlJSb1ZSaF8zaEFPOHJ5MThneEVueFBTRE9VeDRz?oc=5",
+        "published": "2026-06-14T16:20:57+00:00",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVVUtOFZMcWIzNkw3YVNQUVoyQWVCaFRocjhtX0hzRWpsaWtYbGczLUw1cDh4cWVaNExqUG9mdWNId0dFSmMwUTFTMC1pV2xka3FrTGNGbUFTM3Uxbm1KVkI0TGE3a0lXaEx4R3Z3NUd4Z0pUUTJBLVBLdnJJRV9CZWlSUktiQnE2ZjZ0SHJ1cmtHbzVTcVNyRXRzc1l4aV9x?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "The Washington Post"
+        "source": "The New York Times"
       },
       {
         "headline": "Knicks' victory takes them off the list of longest title droughts",
@@ -574,15 +547,6 @@
         "image": "https://a.espncdn.com/photo/2026/0614/r1672795_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Knicks win first NBA championship since 1973, topping Spurs in Game 5",
-        "description": "",
-        "published": "2026-06-14T16:02:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbGJ4NXFfYko2UnRuTGQxVldHem41THFFdlJUdElTZXQ3ZzQwcnpKeEdVTEN3eUhkbW5RNXkzZ1RDc0JsUXByWG8tRnltTjZYWHdmVGwtQ1NLd1VXM1FxcW91c3M1dzlYYTE3Sjg4T3JEUXZhaUloNnBMWEloOFZOOXYtR21Wd0ZqTlZwTVpINkU?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The New York Times"
       },
       {
         "headline": "Kevin McCullar becomes latest Kansas Jayhawks standout to win NBA championship",
@@ -601,15 +565,6 @@
         "image": null,
         "recruiting": false,
         "source": "MySA"
-      },
-      {
-        "headline": "\u2018It\u2019s euphoria\u2019: New York City celebrates Knicks\u2019 NBA title win after 53-year wait",
-        "description": "",
-        "published": "2026-06-14T12:49:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNaFh6azF0RXgwcmU3Nkptay11dVpXSHhydUxRTjMtaW0xaFJhRkJLVmRKZnhiTmVvd0FvZU5XbEM4OVRXRFBYcTloYVNtQTFTdFNsV2gyT0JMSTVMVTk4VFJvSk1LUjVRZHVoaEI1SWhkNjRHeTBjWllaMi1FNHZfVHQyZjE2dmlrSXg1Z1hR?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Guardian"
       },
       {
         "headline": "Trump Congratulates Knicks on NBA Title Run \u2014 Shouts Out \u2018Great Patriot\u2019 on Team",
@@ -675,6 +630,15 @@
         "source": "BBC"
       },
       {
+        "headline": "Game recap: Knicks win first NBA title since 1973 with Game 5 win",
+        "description": "",
+        "published": "2026-06-14T06:02:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYWZ5dkNsdHdxb0plWGp4Ry1leC03bWtzSkE0SHFWX2NWbm1WNEtSNHRBWTNJYkdpZ1h1TkU5T0plSmNQTG56VlVrM0t5cDJFWEZhV0lkZWNxM3A0SXF3SmhleTNfd3piNkk2OEhIOG9nMlo4dlJDby0yUDRmN0dudG5lUXBmRWk2UE04VnVIT09pR2FrZ0JwVTI2alR0dzRqcEh3TVZCYzRLbTB6WGxPdjlSYUZSbmVEdUtBSl9aMjjSAcgBQVVfeXFMUDBQczRIb3MzTXQ2ODB5ZkR4bmQxdlBQVUt2UlViQm4yUGtGRk93dXlfZll4cGwwbUVSRklSN2tsWm1aY2NvMlFLS1E0d0tZM1dsN3RITjR1QWlEeFoyU082TThZSUJqcktKajc1V2J3Mnhaenlhc2RQclFCUnI0U3UtT2QtRmk1MzVzNnlRNjlpa01jWFZCWDZXQjktQVZYUk9yUU5QVjdpN1hTTGlsaW95WWg3WEVONUxnT1dHTDlnVG01YVU0VUc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBC New York"
+      },
+      {
         "headline": "Knicks rally again behind Jalen Brunson's 45 points to defeat Spurs, win franchise's first NBA championship since 1973",
         "description": "",
         "published": "2026-06-14T05:33:00+00:00",
@@ -682,6 +646,15 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
+      },
+      {
+        "headline": "NBA Finals Game 5 Highlights: Knicks at Spurs Stream of National Basketball Association",
+        "description": "",
+        "published": "2026-06-14T05:05:44+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPakM5bk1QSGlsNm9OLVBzYUxxbnhkMS14SjJJQ2lOcE00SDEyRkJsS3ZpUmtkdWVkYVJiTXFhejdEN2hta24ydnM5U0pMOS0xR1V2RHhqc2R4UEFKLUExVXlkby1JT2pfYXViNkdlWkVUNGFjWmZZdmJUdldQZmlKcXlhSUduWkdDak1uYmtMYw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CBS Sports"
       },
       {
         "headline": "Spurs, Thunder Open As Co-Favorites For 2027 NBA Championship",
@@ -700,15 +673,6 @@
         "image": null,
         "recruiting": false,
         "source": "Georgia Tech Athletics"
-      },
-      {
-        "headline": "2026 NBA playoffs: Schedule, scores, news and highlights",
-        "description": "",
-        "published": "2026-06-14T03:36:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRDc5Y1Q4UktuVDNVQllONDVTRWI0OVZMc21KbnB0RmRDVW90QUpISHdKTktWazBCUTEzWWZYYlE3XzlNQ0M0WDJqSHVrX0ZUUlpQbEpJNmJ1aGp6R1hmdXpyYUE4YVktMUl5LXpUTjctQjJHanZXOTRNX25QTnhHVkFvQ1A4dEE2VTZyTGd4UEJURzRHbElDQzF6RHJ2Wlp6Zy1JY0d3Mlg5d2xkZ00xU0s2el9NSGc4VzZzbg?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
       },
       {
         "headline": "Former Ohio State Player, Assistant Coach Chris Jent Wins NBA Championship with New York Knicks",
@@ -736,6 +700,42 @@
         "image": null,
         "recruiting": false,
         "source": "New York Daily News"
+      },
+      {
+        "headline": "Knicks rally again vs. Spurs, capture first NBA title since 1973",
+        "description": "",
+        "published": "2026-06-14T03:10:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbEdEamR4aHZ6VFJicXFaUGZlY3BhOEVkZWF5M0Jyc040UmdJVGlVWTRqT1dkMVlXTnRZZ05Wel9kcDlYVHY3aGg3eldkUGNXZFdUVkZtMTBaYjVORTRsWjh5N1ppemc4UVo4Nm1YOFI2ZHBtMVNYN1czMktSNVpUWW5aUUFYdWRxOUF1aUhsYWhPM2RTSElvZEJLRFRpOUQzc0Rj?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Post-Finals NBA Power Rankings: Stacking 30 teams for 2026-27 season",
+        "description": "",
+        "published": "2026-06-14T03:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWEdEcldmQ3U4R0xMZm0ta1k3X1RsMWZSb2I0d1ZPclVmbXdrWlk1S0hOc015WlhYWFdjOEEyZ3dMYlgxMVExeDBHeUdwaHhPQlY5a1hqR28wMFZCRHBzMXdWaFl3bXpMVmFKTFFHT2pLOVVFZjVsblUyOHZsLXlFOFNHNHN2TWh4X1JsT01ZM1gxUE82ZHJQbDJ3RXBJX1h1aTB3RnkxWG0ycDhkNGNUVTZYZFJ5OVRENzh0U0xCcEEzUGZTWEJiVTkydF94WnhOQVJmRVlHdDF4UEo1Rk53MEpOVQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Charles Barkley clarifies Spurs 'dumbest basketball team' comments after NBA coaches call him",
+        "description": "",
+        "published": "2026-06-14T01:58:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVnpYbTI2UkhxMkR4STk1NWJvRl90eXdGdFI0Y2dMRHBqSUZnUFgzcVQ3TmlpOGhMdTR4RTlTMGxELVR4dlBPNFdUSWgzdXlwNzNzekIzekdmMksxUnZXQUhaYldsSWhiT3pzLTFEbmFIdlgyc3ZZaS1SSGxQSGYzMjdJc3FFaDE3c2dhRk5WNktZYmx4TTdEdmlLY3FZQzZxdEtz?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Awful Announcing"
+      },
+      {
+        "headline": "\"I was not surprised by how racist this country is\" - Andre Iguodala reflected on racism NBA players continue to face",
+        "description": "",
+        "published": "2026-06-13T23:31:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYzFmZUpxd2VNS2M0Rk45QUZxT3hiQ2tCSnE0LVlKcGhMTFcwZU9XVkdIcWZLTXNWMUstQkFKS3QweXlaRmlOSEN2dGVNRzMyMFRJWnhBUDIzZjV5MVVpV2otMXN5M1R0by1SUkMteWZXeFZ0M1VCT1JnT1hCUTJvTmQ3RzVvcHFZaHFiTzZsWUhBSmU1TDFJS3V6OEg4MWNHdDJ6bWpBV1JlTVBqRGZnVg?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Basketball Network"
       }
     ],
     "games": []
