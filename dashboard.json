@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T14:56:15.665146+00:00",
+  "generated_at": "2026-06-15T15:11:21.197733+00:00",
   "duke": {
     "news": [
       {
@@ -7,15 +7,6 @@
         "description": "",
         "published": "2026-06-15T14:00:02+00:00",
         "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTk9vcmxJWmJFNW5oekpyZnphRm0wQ0dLc05jMnFxVDZMTzFtZmhZTDBCWkpiTGxfNE0xcUJiWUlNbWdzVUplTHp3WmhDallTZ05TUlh3ZDZ4d0MzdEhQcTlweUdrb0F5MDExbnVmcnYzU1VUUGVwMjFRVjRWUHFKT29fRzBPV0Rwd1hQUHh5TnFYM01TV2dQdk9QNWQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Best- and Worst-Case Scenarios for 2026 Duke Football Freshmen",
-        "description": "",
-        "published": "2026-06-15T12:00:02+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamtVN2ZPM0ZPa1k2SUFhdkxiR1h4MFpka2w5NHBJeXd1V21YTkpvRXI3VjFPSGl5ZHRzQnIwZ2FVV1hmS1I1dk5fV095T1JEZ0VnU3hIRDltWVdZUnpIUDd3WmNheEM2ajlsV3U5azFZTnRFYTJ2ZWlrMk9XOUUtblBDVlU0cWZkSDBwdWM4eGs0YjFPMlNZ?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
@@ -253,6 +244,15 @@
         "image": null,
         "recruiting": false,
         "source": "Florida Gators"
+      },
+      {
+        "headline": "Predicting Duke Basketball's Biggest Surprise Breakouts Next Season",
+        "description": "",
+        "published": "2026-06-04T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMG4xMjhLaWxxQ2pSVlh3cEJyczN2MzJBUjZPR3JYdWJJaWllTmZubTlSTHZsbHFYMDJfX3BfVWZhaFlOU0FzMUMzTVNaTHpNd0hibVczS2RObmNIQzVrczVoSDlFZ0ZUeFJJWjg0RGlDcjR4dE1fNzI4UHEwOGtSazIxZmc3YVhtZmdiNVQ3OS1yTnAzTmpudHlwOEJtR1BsLVNhZEF2TQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
       }
     ],
     "games": [
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Why Nate Ament could contribute to a championship in latest NBA draft projections",
+        "description": "",
+        "published": "2026-06-15T15:01:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxNbjZGNHVUQ2NId1ZXV004ZnlfaW1mTmxOU0FhNjB4YlAwNW1vSjUtaWRPMnc5cHFJTXB1Njl6RGZXT0tRVDlBZU9PTjdKNnNSSFVJZWU1Y09teWJKbTBPZHlLc3JpX3dOa1ZrNkZIRXlsNmtpSHdSZWVyb1ZLU1JoMzlacFRtbDFkVWVMcHcxZGktNTRkandobXhHeW5tSEVRaVVNWTNKX1hqSzVCM2NBOV92TEVJdFFkYkd6Y3psM1RTcktxVXdqSHdQdmZkbGdpMXZYaVlUMXBOTXM5ZVQyclVsQ2gxaTJrM2ZIcUdvcU0xWmdDRXBpeWdJMTl6M2VlRWQwdllwZFc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Knoxville News Sentinel"
+      },
+      {
         "headline": "Sources: Darryn Peterson visits Wizards, won't meet other teams",
         "description": "Top NBA draft prospect Darryn Peterson has visited the Wizards but does not plan to grant another team a meeting, sources told ESPN.",
         "published": "2026-06-15T14:52:03Z",
@@ -520,6 +529,15 @@
         "image": "https://a.espncdn.com/photo/2025/1208/r1586688_2_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "New York Knicks Will Celebrate Their NBA Title With the Wu-Tang Clan on \u2018Fallon\u2019",
+        "description": "",
+        "published": "2026-06-15T14:09:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUUs1TVp0OUtNSGxsTVVNSnVaSFZQQl8tUjI4YmFHQ2NZZ2xScTdfYlVFcFFuRVRpd0dMdFVTa09aOHIySG5FUGRNbzNyZ1NKdlJ1QklCQTZqdkhONVluLVpxd3pTeFZ5V0x6QTB1Q0dOZU9Gc1RQRUV5TG5GemJlVnl1U3AwdUE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Where could Arkansas basketball's Darius Acuff Jr., Meleek Thomas go in NBA Draft?",
@@ -630,15 +648,6 @@
         "source": "The Guardian"
       },
       {
-        "headline": "Kevin McCullar becomes latest Kansas Jayhawks standout to win NBA championship",
-        "description": "",
-        "published": "2026-06-14T15:08:49+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUEwwbERrT29HNXlFMWRhcGJCWmpoSmdQMDhaYmlLSlFKZEtiT0NFVElaQU5iWm5KUXF5Z0dfQlRwaVpWdkhEUGZWQWtZcEVFTHdLLUotSDJEaldCQzhaOW5UUnlmNDF0MjBBOHVSUGxLZG95eHlmcVR0Q3IzS1YzM2xwMVlZSVc4VGR2NVNWOG9taHlCNFHSAZYBQVVfeXFMUGozM0hBdkFPaGV0eHAwR0RFWU5xSDFuTFI4cWs0VWZtZ1gzdHVCSjVZOVZXbDNodXJBdzk0OGREWDJJTHczNGlXWFNsdkEzeG5hZHRndnIxNU1sVVJER21ObWV1alFDanR0cGtXM0pWNlJRX2p0SWhSTHItMHlxbTdvUlFUb21ZR2RZNGdtWnhDLWtLNDF3?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Kansas City Star"
-      },
-      {
         "headline": "\u2018Biggest lesson of my life\u2019: Takeaways for Spurs following crushing NBA finals loss",
         "description": "",
         "published": "2026-06-14T14:57:44+00:00",
@@ -727,15 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "Awful Announcing"
-      },
-      {
-        "headline": "\"I was not surprised by how racist this country is\" - Andre Iguodala reflected on racism NBA players continue to face",
-        "description": "",
-        "published": "2026-06-13T23:31:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYzFmZUpxd2VNS2M0Rk45QUZxT3hiQ2tCSnE0LVlKcGhMTFcwZU9XVkdIcWZLTXNWMUstQkFKS3QweXlaRmlOSEN2dGVNRzMyMFRJWnhBUDIzZjV5MVVpV2otMXN5M1R0by1SUkMteWZXeFZ0M1VCT1JnT1hCUTJvTmQ3RzVvcHFZaHFiTzZsWUhBSmU1TDFJS3V6OEg4MWNHdDJ6bWpBV1JlTVBqRGZnVg?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Basketball Network"
       }
     ],
     "games": []
