@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-06-15T03:07:00.062365+00:00",
+  "generated_at": "2026-06-15T03:22:06.393801+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "Former Duke center falls just short of first career NBA title",
+        "description": "",
+        "published": "2026-06-14T19:57:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVlJPb3E5Z0ppQ3F0TklfQ05JYkNUQlNQdEs4VzlyVUFDQlFKQ0hhSmhvaHJQZHAxQWVZcWwyUjRHOUlCUGlkZGotQnNvVEpNcG5TaDRTR2Y3dmw3Y0NDTHNJd3JWY0dpdWcwaE04cVUzRW5VYk02OWJQaDlmNUFYWlc3d2JzSmRBX1VUVDNtbUNUcGdkTEQ1NWI5eENVMWs4cVRMNGx1cjN2N3MtUVlHODh6MWF1djlYd2xZbFJOelJpVzBoX1lRSkVOWWx3dkRpQkFHLUF3aTV4ZWd6d0E?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Duke Wire"
+      },
       {
         "headline": "Duke's offseason work just earned a massive vote of confidence in preseason bracketology",
         "description": "",
@@ -244,15 +253,6 @@
         "image": null,
         "recruiting": false,
         "source": "The Fayetteville Observer"
-      },
-      {
-        "headline": "Ranking Every Projected Starter for Duke Basketball",
-        "description": "",
-        "published": "2026-06-05T13:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeTB4NVdzUFc1eUhRYnZrZFR5VDJ5bDd5eTJtWk90REtMcnNfZVV1cjM4bEY2Rnl4WS1HN3c4S3JoUHNXWHN6MXVNc1ViNE1RQzZCc3l1ekNfTVVsR1QwZ0hHc1hzUG5kbHQ4aGQ5N1RtZGZPZk9PU2J1MWxteVhfMnZPa21iV0lkc2J2ZVk4NA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
       }
     ],
     "games": [
@@ -504,15 +504,6 @@
         "source": "The New York Times"
       },
       {
-        "headline": "2026 NBA Play-in Tournament, Playoffs & Finals Schedule",
-        "description": "",
-        "published": "2026-06-14T22:49:29+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE5zWkdfa0RYQ2tGWnFJUk9IQjZDd19TTUhXd2VLQUtoUzRWVnFmUUhEUXIxckUzOTc5ZmdRakZQc2FsOGZnNHViaVFWTzhFSkJ5QUxYaXpjdDh2TU94TkU3aw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBA.com"
-      },
-      {
         "headline": "Jalen Brunson\u2019s sister goes after his critics after Knicks\u2019 NBA title win: \u2018Now what?\u2019",
         "description": "",
         "published": "2026-06-14T21:25:53+00:00",
@@ -540,18 +531,9 @@
         "source": "ESPN"
       },
       {
-        "headline": "How much extra money Knicks players make for winning NBA championship",
-        "description": "",
-        "published": "2026-06-14T20:08:56+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNdDlrS0JWTGZrVlE4eW10aGJNaFMtT1FKZ0YxNEhWcmswcHZsS0NkaGc3WGtZZ0JIMDhVTW80S1hwRTYxckRPdmdfb1cxRGE1QmpxY2I1UFYweXRYTkZlQ2t3cDQ4SjQzcFFFbWtQTXU1NXhQVFktemlPWEdLOVVPSDFMNERGNmM?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "Where to Watch Knicks vs. Spurs in the NBA Finals Game 5 Live Online",
         "description": "",
-        "published": "2026-06-14T19:48:28+00:00",
+        "published": "2026-06-14T20:37:28+00:00",
         "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWEtvME5JSWRnSl9BZndFVlYySEZXU0YzaXZ0Vkt1NlBHRF9qcUJvMTM2RGMyZTd1WlM1Q185UUNTR2JuVF9WaXlhVEFuOHdnaVVhT3ZaZUFxRk9lSDBHZUZwZk9lWTVCclB3Y0gyejJwSS1UcTJ3Z1lUdUxwTGkzSFNrMldORXBUX2xSRF9DSXBldnpmUXVTWUJPN3g3SHR3eG5pend3VnA4MkIxYWU5c3RqUmlkeTQ?oc=5",
         "image": null,
         "recruiting": false,
@@ -592,6 +574,15 @@
         "image": "https://a.espncdn.com/photo/2026/0614/r1672795_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Knicks win first NBA championship since 1973, topping Spurs in Game 5",
+        "description": "",
+        "published": "2026-06-14T16:02:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbGJ4NXFfYko2UnRuTGQxVldHem41THFFdlJUdElTZXQ3ZzQwcnpKeEdVTEN3eUhkbW5RNXkzZ1RDc0JsUXByWG8tRnltTjZYWHdmVGwtQ1NLd1VXM1FxcW91c3M1dzlYYTE3Sjg4T3JEUXZhaUloNnBMWEloOFZOOXYtR21Wd0ZqTlZwTVpINkU?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The New York Times"
       },
       {
         "headline": "Kevin McCullar becomes latest Kansas Jayhawks standout to win NBA championship",
@@ -736,6 +727,15 @@
         "image": null,
         "recruiting": false,
         "source": "NBC News"
+      },
+      {
+        "headline": "New York City, this 2026 Knicks\u2019 NBA championship is for you",
+        "description": "",
+        "published": "2026-06-14T03:29:53+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOamR6SU5zdVFWa05GYVdXUkJYQWpoT3VQZjQzNmtqcHZwZHJwMUdnOFNUMUJNalZBWWxnZlZXSHBrTmhtR3BXT2FBRWtDR3ctY0s5QTBlS3JHbXdBQmQ3c1RKaDRkLXlpUDUzVVYtWXlKSG1VVTZEeWN6TVFqcDB3bTlGU25oTF9OYWhXRVNyX21za2V2QWJxQU1nd1RZRkk?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "New York Daily News"
       }
     ],
     "games": []
