@@ -1,19 +1,561 @@
 {
-  "generated_at": "2026-06-15T06:15:53.366479+00:00",
+  "generated_at": "2026-06-15T14:10:55.782966+00:00",
   "duke": {
-    "news": [],
-    "games": []
+    "news": [
+      {
+        "headline": "Underrated Factor That Should Keep Duke's Boozer in Top Pick Debate",
+        "description": "",
+        "published": "2026-06-15T14:00:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTk9vcmxJWmJFNW5oekpyZnphRm0wQ0dLc05jMnFxVDZMTzFtZmhZTDBCWkpiTGxfNE0xcUJiWUlNbWdzVUplTHp3WmhDallTZ05TUlh3ZDZ4d0MzdEhQcTlweUdrb0F5MDExbnVmcnYzU1VUUGVwMjFRVjRWUHFKT29fRzBPV0Rwd1hQUHh5TnFYM01TV2dQdk9QNWQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Best- and Worst-Case Scenarios for 2026 Duke Football Freshmen",
+        "description": "",
+        "published": "2026-06-15T12:00:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPamtVN2ZPM0ZPa1k2SUFhdkxiR1h4MFpka2w5NHBJeXd1V21YTkpvRXI3VjFPSGl5ZHRzQnIwZ2FVV1hmS1I1dk5fV095T1JEZ0VnU3hIRDltWVdZUnpIUDd3WmNheEM2ajlsV3U5azFZTnRFYTJ2ZWlrMk9XOUUtblBDVlU0cWZkSDBwdWM4eGs0YjFPMlNZ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Isaiah Evans unboxes gift from Duke ahead of 2026 NBA Draft",
+        "description": "",
+        "published": "2026-06-15T11:02:29+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOemwyOXZsem95ZmxjTmxYVEhMdlhmdm5KcTVieDh6MWNmMkFvQ3h4M2lPakZKQjVFbGhid0ItV3hpZUhBVFBEMjFVYzZYYjZnU1FDQjN4YzY3UWpoc0hUejJBZTBVb3h6TDZxRXktaGptRjItb2drUlVWZnR1U0pmaGxjX2VDZw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
+        "headline": "Lofty Expectations for Duke Basketball Only Continue To Rise",
+        "description": "",
+        "published": "2026-06-15T11:00:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOLUdHd3ZTQk1pT2hmTm5KM0R1SHpwZE5lWXZpTk9rVDFYVmk3VVFsck1mTlhhOUdaODZpQ0NqWHM1bDl1M0Z0ZmVkMkNfRHNtMEhOZEtvaHNwMzNhQzkzX2hKU3hnOEtjT2M4a1k4eGNKSjluaG9sRWI3OEFQV1dLWWQydUNpaG9xY200OUxhQWxLQi1vQ3ZR?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Projecting Dame Sarr's 2026 Ceiling With Duke Basketball",
+        "description": "",
+        "published": "2026-06-15T10:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR2VGNHNHZFhOMlQwVkIxU0p5WmVpbHEzOW4tb2M2bVhYTV9PUWk1ZjR4cjlCTzkwRk9zTkktalZLeENhaWx3WndYRDJvRXhDYnZ5aXVoRkkwUDZCYldweXoxZ0hESFU3UkR5Y2VEejlKY2xXcW1QY2F3UGVDWmdDLTFqQnliZzN6S3I0LVZGUmt4Zw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Duke's offseason work just earned a massive vote of confidence in preseason bracketology",
+        "description": "",
+        "published": "2026-06-14T14:23:34+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQN0w4ZjBXR1dLUmFYdXByb0puamxDMnQyS212eXY1a2dTdlhzUFNTLVRsbzZ5blk5Zjh5TDVMMXdpdzFlTlY4NlVZMjVRazBYcFBzTU93UzFKaWVibkVxdFFoV2pyTFE4REVjSTFoMmdOOWFSem5ET2V2ZVh3SFFkZ3RSWURXZ3RTNkJrT1hfdHpTRzl5TVQyb243ejBETVFlem1GSGc1TWVsQlpMTHBSYg?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Ball Durham"
+      },
+      {
+        "headline": "Duke Basketball Eyes Top-Shelf 2028 Big Man Yann Kamagate",
+        "description": "",
+        "published": "2026-06-13T19:16:36+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZU9sWjV1X2hTaVRya0VVamRCNlp0bTZkc0ZzVUVldlItWlRWdDVvQXhLNFRCanh2LTdRbzdES0FDX1pfUExqc24xR1lUQVlmLUlkTmdPdEdJZGRtNXNCV0lBTXZDMjhUc1QweU41NWhoRUZUV1h5UUNSZ0JKOXZ2bDJGaGtDZw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
+        "headline": "The Real Reason Patrick Ngongba Just Saved Duke 2026 Title Hopes",
+        "description": "",
+        "published": "2026-06-13T10:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdVdTazlnRThnaS1mSEpsZ1FTUHJqXzVLSy1jOG1KTVI1bzdrbm1qZ1dSSnROUWFGM05ETUwydVZTWlZza2NqN1dSeVNQdTJzZzdBZ2RCVjhHR29tekt0UHJsUHh4MEh5ZlhMVXB4NmJPZG1WalNXR3RMTFl0STk1WWF6ZE5qODFEbmpYTzRONHVZZEEtd1E1aVZXN3ptTUZ6?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Duke Tournament of Champions Summer 2026 \u2013 First Round",
+        "description": "",
+        "published": "2026-06-13T09:52:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN3hvOExyNHVqRFRxRVhBSUcybldIYUlUYWtMMlZXTk00LVgzTjV5RDFMamZ4QXR6VFhUZUlKMFRpd2puMXpmT2JVNjg0dnN6OHZ2U3dGb3ZqV1BOQ0ZTYmMwMHJTNHo2R0RGYVpBYTRXWmxWLTRvaEh1cHJCbF91aHBOR0FPMThFLV80cXVFb09UYWZjcTJjdFF0V0g2NWRoaGctUkpQZTM2eDJhWF9ISkFtLWRvUQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "247Sports"
+      },
+      {
+        "headline": "One Key Aspect for Duke Basketball To Be Elite Defensively",
+        "description": "",
+        "published": "2026-06-12T15:00:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOV0NRcU5uWTJBd05uUzZvazltSE1fS3pQbWpVbjZ0OFBuXzNuU1FBWlQwb3ZsX0UwTkVmMGlrbXI5YUhsSU1mRjRqRHpoRzA3YjEtc1otMlFoNTVEN3lFUWd2MHlnblJvUFE1RG9wWHR6OXZ6U0dBZFRJQVRKdkV1NG9wMzhJY1VTeW55RzZ1N3YyWjF3?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Why 'One-and-Done' Label at Duke Is Officially Dead",
+        "description": "",
+        "published": "2026-06-12T12:00:06+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOdDhTV3VSaHJvRzEzbUs3ZUlFRTJsZEJvbTZZVVNZYm9WS3RjLXA4MWNLS1BteERneDNsR2JiNUp3RTgxQXg5QUJTeFZPeHBQWVZheGlJSW50a0kyNkFlSGxhVGNxTkRwelJxNk92aDlyMHpVdFp4Qk5yQlZkd1d3UWNhSG8?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "YouTube Gold: Duke\u2019s Smartest Point Guard Ever?",
+        "description": "",
+        "published": "2026-06-12T10:38:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeUJYMEhpWWptNFR4MkNuNG9pOG1JLVhXSjI0Y2xNYTJ6RnFZWDNWYzFMTjlNYW1uOWlnUVRhdmlQYWQ1R1NfNXVRbDh1aXJyeFF3TFVKVnJISkdVVjl4bHJmM3pmVDBYZjBZQTdXOXRaQllPcE1KNWFpcnNJSUpCdFJtRDdYejhuVm9ma1BKaGYzcXJmVmRzUDRB?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Duke Basketball Report"
+      },
+      {
+        "headline": "How Duke Basketball's Best Recruit Flying Under the Radar",
+        "description": "",
+        "published": "2026-06-12T10:00:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPOVdmVnpTVFVrQjZZbkdCeW95QTV5TnN6ZnZ2ejJRVnE0R2JYZWgwYUVnWjJiR3JySjdEc0d3M1BDZUJSVWU1TDlTemQ3TGtldlJRay1IbjJRblF1bVR3eU9oVU9uRm1sOHduTjNRbzFSTkJlOEgwSE45Z2pKeUFVLWsyVm5nLWdpVWNmSGVyb3ZuemVB?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "At NBPA Top 100 Camp, top boys high school recruits embrace a new reality",
+        "description": "In the transfer portal era, college coaches are pitching roles, development and winning rather than immediate star status.",
+        "published": "2026-06-11T18:13:31Z",
+        "link": "https://www.espn.com/mens-college-basketball/story/_/id/49024381/nbapa-top-100-camp-top-recruits-college-basketball",
+        "image": "https://a.espncdn.com/photo/2026/0611/r1671402_608x342_16-9.jpg",
+        "recruiting": true,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Boumtje Boumtje Is Going To Make Duke Fans Really Happy",
+        "description": "",
+        "published": "2026-06-11T12:52:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YaUlIRlVOTElyQmQ2RURGalo5amp4TFF3UnMyRnBjX0VhTnZFQV95ZnUyNnV6N1hIU2doRU81TlFueFVmdUpsNjM2MFFkS2pOM0c3VlRxbldqMFZPZ3VfcVMxUTEtY0NtQ2hpWHAxamRGQXljSUdGOVRB?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Duke Basketball Report"
+      },
+      {
+        "headline": "Why Duke Basketball Can Earn 1-Seed in 2027 NCAA Tournament",
+        "description": "",
+        "published": "2026-06-11T10:00:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOUUduTS0taGtzM1h2UlJESlB3NHg2SWJiNFlKVEJwSU5oVGlHYlJiSXZ6VnJqWWs2NmhWdC1YUG9nWUNLY0t4UDE4c2pLUHBqOGg2dnBsbnF2LTZHbW5xbzRUclBkSWd5NmQ1ZlZsb2lmVUluZFM3NkVuNENjVnNWZkRPdU5lbVgzSk9OaGx0ZzFhRFV0djRUWjBMRQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Meet Joaquim Boumtje Boumtje: Duke's 7-foot phenom and next potential No. 1 draft pick",
+        "description": "",
+        "published": "2026-06-10T17:56:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWTluS0o0b0NiVUd4dWZaWjFQY2lma1haLWpCZFU1YkZNeHlMOWlDNlcxZERFQTNTTGxtMlZkQnJZYTRkVExVbWktOTEtV0k2ZFNpR2Q2Y1hfVTFQZ21KRkpkVlJOYTAyaDd1b0ZtRVd6Yk82cjA1TmNnRzZRTFZ2Tk01RGgwNll2ZFBiSk1iLWdqZw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CBS Sports"
+      },
+      {
+        "headline": "Duke Basketball Handed Preseason Superlative as Incoming Class Excites",
+        "description": "",
+        "published": "2026-06-10T15:00:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRnBjYjF1MEp6RTl5NWd0ZkhKaXcwcnNReVBJQzJjSEoxWWl2T3pDMjR3UWpUU3FuV1hyV2o5WmdNRDdvMzkzNktyNFhrNVcyN2J5T00tNGMxTFVQUjZabWp4Y2prb3R6Y3dWWk01aVZIRXRzS2lKY0NFMVJvYnV4Z0ItZWhfM21VSjdqRWRKNUFUa0hVQkQ1bjlxZWh2ZW1yV2dwbmF3TTFpUQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Duke's next international star is about to get a massive opportunity before he ever plays a game for Jon Scheyer",
+        "description": "",
+        "published": "2026-06-10T11:43:56+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcUpzOW5jM1Zxa3dnUUZZdldhbWxzTW5qbEJDTDdnS01SNlpuTWppVW9uckc0NFNRTGpjZDNsanBIeE5WUG9KZkVNNHgtRExrREgzRXlxdjF5eWZmUFViSV9DWEY2M2htd2tZaGI3STdrVEpyTXZXZEZidlBYSHFWUWYwbFRmbFlPcDdnbm91R2d1UDl3dDZjLUpVV3llN1RBSGRnZE9WS2hEcV9uVG1fUmtncWM0TV9TbGY0QXduVUZwZzZYRkZDMmEwR1NnRjFhVVhIVXlLYVp5YlRWUUlCYWZQUlNZdw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Busting Brackets"
+      },
+      {
+        "headline": "Men's transfer portal superlatives: Louisville, Duke, St. John's headline winners",
+        "description": "Which contender improved its chances the most? Which team went from below to above .500 with its additions?",
+        "published": "2026-06-10T11:30:12Z",
+        "link": "https://www.espn.com/mens-college-basketball/story/_/id/49014313/transfer-portal-winners-losers-louisville-duke-st-johns-kentucky-tennessee-2026",
+        "image": "https://a.espncdn.com/photo/2026/0610/r1670679_1296x729_16-9.jpg",
+        "recruiting": true,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Why Duke Basketball's Transfer Portal Class Is Underrated",
+        "description": "",
+        "published": "2026-06-10T10:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQb3AzSElzNkRUVDBwdXFmS3UwQVJHcFZpb2pPa3JCc1JDR2NDdDFyM195VUdPSUhXYlBKZVQxSFdNanpWbU53SVpwZExfOWhCZjROZnRCWl9kNG82MkJuVHp5Z2UxUTVjdVozdVJmRmswak1lSFFaekR5NkpOVGMtVEZEQllUNzFDYmtyYVhubS1rWWxGeGc?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "The ACC Team Duke Basketball Should Fear Most Next Season",
+        "description": "",
+        "published": "2026-06-09T15:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQOTRGcEJGdXUxNDdZdVBzWVdRcU0tT1pxV2RuX25CVzRGdGVOOXdOTV96XzBhTnlpcnFpcF9ZOTJQaG90UnI5T0hVeW85Z2YyUE9BQUhLRVpHbUtDSlJZUGMzSjJZblFPODRkaHRtb09ldGp1R2hMZVpZMmtnZm1fM005TU1ZSGRfMGhSVXF2MjBGczRrZWFN?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Comparing Duke Basketball's Ceiling With UNC's Next Season",
+        "description": "",
+        "published": "2026-06-09T14:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS19qVzl3TTF1SWVTMm1OQm04MkpGcVZ5dGIzX3Q2aGhPM0lvOG8xcTBnVENnSGZpdDJLTTZUWUN0bjRLRmVDVnVxY0tqMW9SMHhqalJkVzhLMUQ3VFcwVk9LcFA3T1BiSEJMN3ZuNF9PSGNheEl2N3l5RkVYb3VNSVlqLWRacFI3N0hCYkZuVUg0dw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Men's college basketball transfer class rankings for 2026-27",
+        "description": "First-year head coaches aren't the only ones who made a splash in the portal. Blue bloods are in the mix, too.",
+        "published": "2026-06-09T12:48:27Z",
+        "link": "https://www.espn.com/mens-college-basketball/story/_/id/48969894/mens-college-basketball-transfer-class-rankings-tennessee-texas-louisville-2026-27",
+        "image": "https://a.espncdn.com/photo/2026/0604/r1668324_1296x729_16-9.jpg",
+        "recruiting": true,
+        "source": "ESPN"
+      },
+      {
+        "headline": "One ACC Newcomer Duke Basketball Must Monitor",
+        "description": "",
+        "published": "2026-06-09T10:00:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEYzc0p6NzBCbUdPd3JrRFhXOTZMMGNGT05PMnhQcl9pYTEzOXBpdVN0Z0NzUFdfZlNvLXJteWU2cXdMQk10SDNKS2s4V1J4NzF6cGlVejBZWlBVZHRyaGM2ZjhhMVVfUjY2d3YwOFp1WnZLUU0tbkplVFVtb1dLQ1I1dEpzeHZXMnpfMA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Ranking Every Projected Starter for Duke Basketball",
+        "description": "",
+        "published": "2026-06-05T13:00:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeTB4NVdzUFc1eUhRYnZrZFR5VDJ5bDd5eTJtWk90REtMcnNfZVV1cjM4bEY2Rnl4WS1HN3c4S3JoUHNXWHN6MXVNc1ViNE1RQzZCc3l1ekNfTVVsR1QwZ0hHc1hzUG5kbHQ4aGQ5N1RtZGZPZk9PU2J1MWxteVhfMnZPa21iV0lkc2J2ZVk4NA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Men's Basketball to Host Duke in SEC-ACC Challenge",
+        "description": "",
+        "published": "2026-06-05T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORXk4QWhvbFlQcFFOZW82SVpLQ0lPQ3dURWVaMHkzUjlaOHdBbjhEUW5ZNGtLVjJBb1R0VDNjOEVwb1hRcGNCbGo5MmxCZXRORE1HeWhMOVNibXkzVWRBSjhqd3FfTVV3bklLbUlFcEhId2JTR0hmb29UUS1fWWJGZnE5c21fNV8ybk9jb2hWRlg3QTA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Florida Gators"
+      },
+      {
+        "headline": "Predicting Duke Basketball's Biggest Surprise Breakouts Next Season",
+        "description": "",
+        "published": "2026-06-04T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMG4xMjhLaWxxQ2pSVlh3cEJyczN2MzJBUjZPR3JYdWJJaWllTmZubTlSTHZsbHFYMDJfX3BfVWZhaFlOU0FzMUMzTVNaTHpNd0hibVczS2RObmNIQzVrczVoSDlFZ0ZUeFJJWjg0RGlDcjR4dE1fNzI4UHEwOGtSazIxZmc3YVhtZmdiNVQ3OS1yTnAzTmpudHlwOEJtR1BsLVNhZEF2TQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      }
+    ],
+    "games": [
+      {
+        "id": "401820778",
+        "name": "Duke Blue Devils at NC State Wolfpack",
+        "date": "2026-03-03T00:00Z",
+        "state": "post",
+        "completed": true,
+        "status": "Final",
+        "competitors": [
+          {
+            "abbr": "NCSU",
+            "name": "NC State",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/152.png",
+            "score": {
+              "value": 64.0,
+              "displayValue": "64"
+            },
+            "homeAway": "home",
+            "record": "",
+            "winner": false
+          },
+          {
+            "abbr": "DUKE",
+            "name": "Duke",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+            "score": {
+              "value": 93.0,
+              "displayValue": "93"
+            },
+            "homeAway": "away",
+            "record": "",
+            "winner": true
+          }
+        ],
+        "league": "mens-college-basketball",
+        "leaders": {
+          "DUKE": [
+            "Cameron Boozer \u2014 26 PTS, 9 REB, 6 AST",
+            "Dame Sarr \u2014 16 PTS, 9 REB, 1 AST"
+          ],
+          "NCSU": [
+            "Darrion Williams \u2014 17 PTS, 1 REB, 0 AST",
+            "Quadir Copeland \u2014 11 PTS, 2 REB, 5 AST"
+          ]
+        }
+      },
+      {
+        "id": "401820788",
+        "name": "North Carolina Tar Heels at Duke Blue Devils",
+        "date": "2026-03-07T23:30Z",
+        "state": "post",
+        "completed": true,
+        "status": "Final",
+        "competitors": [
+          {
+            "abbr": "DUKE",
+            "name": "Duke",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+            "score": {
+              "value": 76.0,
+              "displayValue": "76"
+            },
+            "homeAway": "home",
+            "record": "",
+            "winner": true
+          },
+          {
+            "abbr": "UNC",
+            "name": "North Carolina",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/153.png",
+            "score": {
+              "value": 61.0,
+              "displayValue": "61"
+            },
+            "homeAway": "away",
+            "record": "",
+            "winner": false
+          }
+        ],
+        "league": "mens-college-basketball",
+        "leaders": {
+          "UNC": [
+            "Derek Dixon \u2014 17 PTS, 1 REB, 3 AST",
+            "Henri Veesaar \u2014 11 PTS, 9 REB, 3 AST"
+          ],
+          "DUKE": [
+            "Cameron Boozer \u2014 26 PTS, 15 REB, 5 AST",
+            "Maliq Brown \u2014 15 PTS, 10 REB, 2 AST"
+          ]
+        }
+      },
+      {
+        "id": "401851179",
+        "name": "Florida State Seminoles at Duke Blue Devils",
+        "date": "2026-03-12T23:00Z",
+        "state": "post",
+        "completed": true,
+        "status": "Final",
+        "competitors": [
+          {
+            "abbr": "DUKE",
+            "name": "Duke",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+            "score": {
+              "value": 80.0,
+              "displayValue": "80"
+            },
+            "homeAway": "home",
+            "record": "",
+            "winner": true
+          },
+          {
+            "abbr": "FSU",
+            "name": "Florida St",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/52.png",
+            "score": {
+              "value": 79.0,
+              "displayValue": "79"
+            },
+            "homeAway": "away",
+            "record": "",
+            "winner": false
+          }
+        ],
+        "league": "mens-college-basketball",
+        "leaders": {
+          "FSU": [
+            "Lajae Jones \u2014 28 PTS, 5 REB, 1 AST",
+            "Robert McCray V \u2014 25 PTS, 5 REB, 4 AST"
+          ],
+          "DUKE": [
+            "Isaiah Evans \u2014 32 PTS, 6 REB, 3 AST",
+            "Cameron Boozer \u2014 23 PTS, 10 REB, 4 AST"
+          ]
+        }
+      },
+      {
+        "id": "401851182",
+        "name": "Clemson Tigers at Duke Blue Devils",
+        "date": "2026-03-14T01:35Z",
+        "state": "post",
+        "completed": true,
+        "status": "Final",
+        "competitors": [
+          {
+            "abbr": "DUKE",
+            "name": "Duke",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+            "score": {
+              "value": 73.0,
+              "displayValue": "73"
+            },
+            "homeAway": "home",
+            "record": "",
+            "winner": true
+          },
+          {
+            "abbr": "CLEM",
+            "name": "Clemson",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/228.png",
+            "score": {
+              "value": 61.0,
+              "displayValue": "61"
+            },
+            "homeAway": "away",
+            "record": "",
+            "winner": false
+          }
+        ],
+        "league": "mens-college-basketball",
+        "leaders": {
+          "CLEM": [
+            "RJ Godfrey \u2014 18 PTS, 6 REB, 1 AST",
+            "Jestin Porter \u2014 12 PTS, 2 REB, 1 AST"
+          ],
+          "DUKE": [
+            "Cameron Boozer \u2014 24 PTS, 14 REB, 5 AST",
+            "Cayden Boozer \u2014 16 PTS, 3 REB, 1 AST"
+          ]
+        }
+      },
+      {
+        "id": "401851183",
+        "name": "Virginia Cavaliers at Duke Blue Devils",
+        "date": "2026-03-15T00:40Z",
+        "state": "post",
+        "completed": true,
+        "status": "Final",
+        "competitors": [
+          {
+            "abbr": "DUKE",
+            "name": "Duke",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/150.png",
+            "score": {
+              "value": 74.0,
+              "displayValue": "74"
+            },
+            "homeAway": "home",
+            "record": "",
+            "winner": true
+          },
+          {
+            "abbr": "UVA",
+            "name": "Virginia",
+            "logo": "https://a.espncdn.com/i/teamlogos/ncaa/500/258.png",
+            "score": {
+              "value": 70.0,
+              "displayValue": "70"
+            },
+            "homeAway": "away",
+            "record": "",
+            "winner": false
+          }
+        ],
+        "league": "mens-college-basketball",
+        "leaders": {
+          "UVA": [
+            "Malik Thomas \u2014 18 PTS, 2 REB, 0 AST",
+            "Sam Lewis \u2014 17 PTS, 4 REB, 1 AST"
+          ],
+          "DUKE": [
+            "Isaiah Evans \u2014 20 PTS, 2 REB, 1 AST",
+            "Cayden Boozer \u2014 16 PTS, 5 REB, 4 AST"
+          ]
+        }
+      }
+    ]
   },
   "nba": {
     "news": [
       {
-        "headline": "Three teams ahead of champion Knicks in 2027 NBA title odds",
-        "description": "Three teams -- the Spurs, Thunder and Celtics -- have better odds to win the 2027 NBA championship than the Knicks at sportsbooks around the nation.",
-        "published": "2026-06-14T21:16:09Z",
-        "link": "https://www.espn.com/nba/story/_/id/49061191/three-teams-ahead-champion-knicks-2027-title-odds",
-        "image": "https://a.espncdn.com/photo/2026/0614/r1672887_1296x729_16-9.jpg",
+        "headline": "Which former UCLA Bruins have won an NBA title over the past decade?",
+        "description": "",
+        "published": "2026-06-15T13:53:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWkFLM2ZYaTNnTTRDZnpLZXlMM2ZKTXdIVTItMTczUTFpQkFtVmNVR3Z4S3Y2cGFBQ1JNdUtMbTJ5c3hiUzBpQm11cnlsYnc1bmFZRWk5TFhaeVFhYklJNXppVk9Nd2lZbU1USkJIaDZrbkZPVGZIV3h6OTgyejNieHJjUmN2M09lVW9RbDM5TVBMRmFtNk9GSkl1REdzUHdmY2wyV2kwMXdFdHFUTnBtNTJPRjlDRW1VRVdYSFExWUQwcndTS0Frb2RSSWI4TWIzaWtHRnd6UFRyZ0tUNEhhdEZnTm1aZjFUQmlnMkpMUk5wbXlMaF9ZTkJ0Nm5IYm1VWlBXLTBGaTA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "UCLA Wire"
+      },
+      {
+        "headline": "Sources: Darryn Peterson visits Wizards, won't meet other teams",
+        "description": "Top NBA draft prospect Darryn Peterson has visited the Wizards but does not plan to grant another team a meeting, sources told ESPN.",
+        "published": "2026-06-15T13:36:43Z",
+        "link": "https://www.espn.com/nba/story/_/id/49071272/sources-darryn-peterson-visits-wizards-meet-other-teams",
+        "image": "https://a.espncdn.com/photo/2026/0507/r1655021_1296x729_16-9.jpg",
+        "recruiting": true,
+        "source": "ESPN"
+      },
+      {
+        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
+        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on Giannis Antetokounmpo ahead of trade season.",
+        "published": "2026-06-15T13:35:16Z",
+        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+        "image": "https://a.espncdn.com/photo/2025/1208/r1586688_2_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "2026 NBA mock draft: Projecting all 60 picks in Rounds 1 and 2",
+        "description": "We have an updated 2026 mock draft, predicting all 60 picks as trade talks heat up a week out from draft night.",
+        "published": "2026-06-15T13:11:12Z",
+        "link": "https://www.espn.com/nba/story/_/id/49041464/2026-nba-mock-draft-projecting-60-picks-draft-night-trade-talks-boozer-peterson-dybantsa-acuff",
+        "image": "https://a.espncdn.com/photo/2026/0614/nba_mock_draft_16x9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "'Gross' - ESPN ripped for using AI 'slop' images following NBA Finals to celebrate New York Knicks championship",
+        "description": "",
+        "published": "2026-06-15T12:29:35+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQT0dxbEIxUE1ndlNYdUdZcEdfVDVOZk5INHNHR2lraG9Fd0kxZDZ3MXVtai1sYXRHM1FmZTRPZnNiXzFFU3Q0eE9qU25VUWkteVVRR0pjS0JCcDN1VUhPUHB1dTlnUEhFRGkyYlJ1MTgwVFZHalBzZnFNSWpCT1JWdGNpY1J1dw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "the-sun.com"
+      },
+      {
+        "headline": "No other pair of teammates in @NBA history has \u2026",
+        "description": "",
+        "published": "2026-06-15T12:09:57+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPenJUZUhrRFBCWTAwWGhkdlRhUVprYTRPRm80VmNSRWhGZ256Nk5lZDFYS0ZveUxha3BGdUxnelJIT25tZTNJVmlhYWhyek1fcDBocnRGblFySWNFVTVWcURMRVMyRWg4czlpanUwLWZnVW5vVTZ4MERUektLcy1DN1ln?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
+        "headline": "ESPN analyst calls Victor Wembanyama \"soft\" for not shaking Jalen Brunson's hand after NBA Finals loss",
+        "description": "",
+        "published": "2026-06-15T12:05:08+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNckxUZmxrMWhVM1hVM0ZMcVpDZ0FjMnlIQ3AwVlo2S1hISVVzTWMyUmhzNlhXTzUxYmsyQ2tMNDlqQUNpY0Nxdk85VE9QaVpNaENUZE9KWE1oNUY1dWxsRmZQY3BZRGNIMTR4ZHdhQWl4REtTVFl4dmU3b2c2NzFhY3Y4RmJnNUVESFJ1Z3NR?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
+        "headline": "Top 10 Basketball Shoes of the 2025-26 NBA Season",
+        "description": "",
+        "published": "2026-06-15T11:51:46+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOcnA2eHRkMEl1dzBhbTVfVEhMRWJQYkg5Q242UFNIeDR6Q1VRNHdsTHA2Z2xsVXphMHoyaVZsN1lhOVZSekFLajVUTEZWR1FjQ1o2Q2hlU01UY3F1bmJRMDZqbERkSEtETUNlaDBpRjExQXpjaElrWEJoVndob0ZUM0N6YjNFemNVZURlS0N4eTZEMU0?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
       },
       {
         "headline": "2027 NBA championship odds: Spurs early favorites to win it all, followed by Thunder and Celtics",
@@ -25,15 +567,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "NBA Rumors: Jaylen Brown trade talks heating up, Lakers at risk of losing another star",
-        "description": "",
-        "published": "2026-06-14T20:34:05+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONndkOHJoeGtaNGJ0VjVSNEtybnRLZ2c4SF9NcENEVWFpQzlSVS1GNC1HMUdGdkVsNXQycnlBYVdOMERJN3FLWFhhVWl0LURrbWlMTDJELXQ5aDhEeVEzRkpvcU9pWU5mbjExXzBlbnhUclYwbWFWa0pFWTF0UmM1UnoxZ1k?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "Celtics reportedly make trade offer for NBA superstar Giannis Antetokounmpo",
         "description": "",
         "published": "2026-06-14T19:41:03+00:00",
@@ -41,24 +574,6 @@
         "image": null,
         "recruiting": false,
         "source": "Boston Herald"
-      },
-      {
-        "headline": "Inside a Knicks celebration a half-century in the making",
-        "description": "For decades, the Knicks flailed and chased -- for quick fixes, superstars, splashy hires. But then they chose Jalen Brunson, and the rest is history.",
-        "published": "2026-06-14T18:55:35Z",
-        "link": "https://www.espn.com/nba/story/_/id/49061940/inside-new-york-knicks-celebration-53-years-making-2026-nba-finals-san-antonio-spurs",
-        "image": "https://a.espncdn.com/photo/2026/0614/r1672934_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "Jalen Brunson, NBA champion and finals MVP, is officially the greatest Knick ever",
-        "description": "",
-        "published": "2026-06-14T16:20:57+00:00",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVVUtOFZMcWIzNkw3YVNQUVoyQWVCaFRocjhtX0hzRWpsaWtYbGczLUw1cDh4cWVaNExqUG9mdWNId0dFSmMwUTFTMC1pV2xka3FrTGNGbUFTM3Uxbm1KVkI0TGE3a0lXaEx4R3Z3NUd4Z0pUUTJBLVBLdnJJRV9CZWlSUktiQnE2ZjZ0SHJ1cmtHbzVTcVNyRXRzc1l4aV9x?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The New York Times"
       },
       {
         "headline": "The NBA offseason begins, with lots of eyes on Giannis Antetokounmpo, LeBron James and more",
@@ -70,24 +585,6 @@
         "source": "Click2Houston"
       },
       {
-        "headline": "Knicks' victory takes them off the list of longest title droughts",
-        "description": "Before Saturday night, the last time the Knicks won a title was 1973.",
-        "published": "2026-06-14T16:11:10Z",
-        "link": "https://www.espn.com/nba/story/_/id/49054611/longest-title-droughts-nba-finals-mlb-world-series-nfl-super-bowl-nhl-stanley-cup",
-        "image": "https://a.espncdn.com/photo/2026/0614/r1672795_1296x729_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "Knicks win first NBA championship since 1973, topping Spurs in Game 5",
-        "description": "",
-        "published": "2026-06-14T16:02:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbGJ4NXFfYko2UnRuTGQxVldHem41THFFdlJUdElTZXQ3ZzQwcnpKeEdVTEN3eUhkbW5RNXkzZ1RDc0JsUXByWG8tRnltTjZYWHdmVGwtQ1NLd1VXM1FxcW91c3M1dzlYYTE3Sjg4T3JEUXZhaUloNnBMWEloOFZOOXYtR21Wd0ZqTlZwTVpINkU?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The New York Times"
-      },
-      {
         "headline": "McCullar wins NBA title as member of Knicks",
         "description": "",
         "published": "2026-06-14T15:32:55+00:00",
@@ -95,6 +592,15 @@
         "image": null,
         "recruiting": false,
         "source": "KU Sports"
+      },
+      {
+        "headline": "Knicks in five and the NBA is alive: New York\u2019s era-defining title is a win for the believers",
+        "description": "",
+        "published": "2026-06-14T15:20:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOd3FxckFSa2MxZWdFbFJJV2xWMmZGUURWSmVYak9FS2dpbmpIeFI0LUpiMU9UR1RjeTUzdG1mS1A2ZWVkZkdtY3RvZmdfNmxVSlRPS0pFd2FOUXRwSFVEZkNtTHBRdU50ZmF4NDlDdHBEaU0yM19JMzY3QmZMSE43Q3RlQjVFYkdUdmN4UTlKc0VaejJfNGJHOWVtZFY?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Guardian"
       },
       {
         "headline": "Kevin McCullar becomes latest Kansas Jayhawks standout to win NBA championship",
@@ -115,58 +621,13 @@
         "source": "MySA"
       },
       {
-        "headline": "Trump Congratulates Knicks on NBA Title Run \u2014 Shouts Out \u2018Great Patriot\u2019 on Team",
+        "headline": "Three teams ahead of champion Knicks in 2027 NBA title odds",
         "description": "",
-        "published": "2026-06-14T12:46:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeVNjcDBPY2U4emszM3RvZ0diLWJZOWxuNksxTUZDcmNmMTQyQlFPWjIxM2VNQ1ZXWUtPUXcwbXUzNlBrX0h1cHBPODQ3a21JWk8zNHdoczJKcFFWbWZEOE44VXgxV2FmX1NBVEFGSHhHRy1lcEkzUF8tVmQ3LWFHdmIwWUFLWDFqeC1VaEh4X21HUlFWRTItdTdMZTVlUVo3VEhHaFJxemozbUVCZ1drUnVPMA?oc=5",
+        "published": "2026-06-14T14:43:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaWNKQ0NpNHFINFFvWjFFQmdBQkJxM0djdWZrLXAtRHNfeGhwdXBwUmFCOHpscWEyMWZSUkFlX0RwT09icE1lWENuM0dzWVNmMGU0NXdWbTZWeTRoU1dwdzkyWUNJRV9BMUdWRl8ydWZDM3gyRzQwSEl6aXdTS3ZqcFBZMFoxUXZvcWhIRU1QZUpDUmMwU3lGLURB?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Mediaite"
-      },
-      {
-        "headline": "Knicks win NBA Finals, and Karl-Anthony Towns is a champion",
-        "description": "",
-        "published": "2026-06-14T11:15:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOVnBGZkpnQjZXNHZIQS1BWmd1XzY3VDFWN0h4dkZWZFU2eGgtb2tnRUVrbGtJSzhRWmRFQWtNc29vTUZaRXJ3UC1JRGFrT0Z5N3BPX0xveTVsY2pickhjdjB2NU01aDlFLVJlVVRnTFV2SS1NYmhKTEd3RDZEdllBTzVCWUp0NEkxVG5sNHM2TE8xYWdFeG9WYjQzOU96X0N3NzBkTUJXZWtUbDNBc1FNZDln?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "A Sea Of Blue"
-      },
-      {
-        "headline": "Mayhem breaks out, arrests made in New York City after Knicks win NBA championship",
-        "description": "",
-        "published": "2026-06-14T09:10:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc21NX1pRdjFkRUFGaU1qdkd2MXBzYi05VnRNMHE1RmFLcTk1OE1faEF4V2pwNVRqUHJaRjdlRFdjOGo4UFNkZ3hXSHB5ZVhSa2N6M3l0UEdaNDdwbDJYZUNuaDFpWWwxUUh4Wnl6a1Y2LUdrNUxTZTJrY0UxM0J2QTZoS2Z0TFNER3dKVjg2TjBmWF93V25kZW9neGVZcUZZRU1ESi16ZTcwZ3hhSWhjVklNZlHSAcgBQVVfeXFMUHZndWczQ3Nod2NQVTNKcTJFSDBfQXhYeEpCUjFNRlRRei0xeHFtWGZVTHR4dEtZNDJxcU9XRzZPMklGN2VsUW1HWnpPU1ZVaE5zcktPTXhKNlJqYWwyclEwZDByaVU1MG9TU19ld3BVRVpVaEY5Y0YzVDh3QTNwS0YyUUF3SzZFNjFpM2c1N1lpMEpuNF8wMGVKcGZ1bU5zcTd6UTFVZGpCc3NhSHRfb3MzcVlZdGhVd05CREVBUElKT1dCdk9tYmg?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "fox10tv.com"
-      },
-      {
-        "headline": "Crazy Victor Wembanyama second-place streak continues after NBA Finals loss",
-        "description": "",
-        "published": "2026-06-14T07:48:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYUNtb0EtMVhWTWpJaDdlYTZNNmtHc1pYY2cwalRFYmQ0bTBtanNuV2VOX2dIcWc2TlNDZUcwWHYxM0ZDSV9Cb0FKOTRISzIzVXpwdXRUZVdtVmVxZDlvOTNkUmEzR3NCX3N0ZUNSdXRoM2FrNkRGZVQ5VUkzS0VyUV9DbkRTYXlTSlA4Y3JjVXJaMHVfS3c4RjhScHotYTc4ekFWTlJOMDJpdXFnVzlQeThnMWRyUQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "BasketNews.com"
-      },
-      {
-        "headline": "NBA Finals: New York Knicks beat San Antonio Spurs to win championship",
-        "description": "",
-        "published": "2026-06-14T07:12:58+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBxWmV6SkRLMVA4T1YxYlpSdV9SYmNBX2FnOWpYQ3o5c28zZzhaOEJoNW0zYllpcnBwRmotbF9uMGN5SldyOFZyWEhyN2hDc2Z6VWdlSV9pZGxZdFlhaF9GSEdhYS1EWGVRWnc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "BBC"
-      },
-      {
-        "headline": "Jalen Brunson wins Bill Russell trophy as 2026 NBA Finals MVP",
-        "description": "",
-        "published": "2026-06-14T06:52:22+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZU91SlVLbEpGWTIwZHNVdU13ZEpLT25IaXVmVGpUZDd5SkhuTllVcVI3OVR2T2pSeEFDelNOX3F5N0JPZ1lDN3VJVFZiN1hZdlVtaUNtbTQ4TFUzWW5mM1lFUmhRQ0Npekp4T0FqVlN0UFZEa3ljMTJseTBkSE90Sk80WHYydGZwYmVEMkdMaw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBA.com"
+        "source": "ESPN"
       },
       {
         "headline": "Game recap: Knicks win first NBA title since 1973 with Game 5 win",
@@ -187,24 +648,6 @@
         "source": "KSAT"
       },
       {
-        "headline": "Knicks rally again behind Jalen Brunson's 45 points to defeat Spurs, win franchise's first NBA championship since 1973",
-        "description": "",
-        "published": "2026-06-14T05:33:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOTllXckpVWGlqTWtLZUpsOG9XX2N5ZWhQWVo2SWtCZTY3VGg2YURud3M4ZUVHRzV6QVgxaGZyQUw0VDhzZ0I5RVV4aHdBT1pzdEU4NHpSWU93bUxmajB5WGcwY1Z2WGJFSk1UWDNSN2lJanliQUFpYXRHZ0RsaVVULXNoNEdidTBGdkpadWxWNmFGR3Z5alFqaTdSYnVrdTFsQ3VuNTlscFAwdzdtUlQ0MkZYdEFmcmxfdWp0QWhiRl9mcG5qUkRDSGVFS1BHQXQyS055eUZDd3ZLQVJTRXpoeWRWQ3lQeDVS?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
-        "headline": "Spurs, Thunder Open As Co-Favorites For 2027 NBA Championship",
-        "description": "",
-        "published": "2026-06-14T04:10:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQV2owQWhBbVRCWVQ3UkFaQ1RLNGk3RHlQd0pmcTdyZXhKY2N4dGpRcmNOVnFBMDRfMm5CZ0VUSlZVOHNSV0d2S2VVMHotckQ1UGZrZVN6Z0VyUHlBeGRQUE9zdm9DaW9jTDZ1WGZab1B0eFZfZTdTQm9iWHBZUEttQ2swT253dWhGS19XU05qdVhyT3hKY2x6MVZyWDY1ME0zY1BPT0puOUs?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "RealGM"
-      },
-      {
         "headline": "Jose Alvarado Wins NBA Championship",
         "description": "",
         "published": "2026-06-14T03:59:01+00:00",
@@ -212,15 +655,6 @@
         "image": null,
         "recruiting": false,
         "source": "Georgia Tech Athletics"
-      },
-      {
-        "headline": "A night of raw emotion and chaos: 63 arrested as Knicks fans celebrate NBA championship",
-        "description": "",
-        "published": "2026-06-14T03:37:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zY3E3R0dEZ1ZrX2c0WjBtZlE1b045UHhJT3hrNU83WjVMQ3hINjZnZDlfVXg1MkRzRVJtWWZsLWx6bWgxVnZkZmxUTjV5UFVVMm5DRHlpOWh5OWpsbVJNRVA5MmxRei12bnk0dlA0UjBacnRESlE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "CNN"
       },
       {
         "headline": "Knicks win first NBA championship since 1973, beat Spurs 94-90 in Game 5",
@@ -232,6 +666,24 @@
         "source": "NBC News"
       },
       {
+        "headline": "New York Knicks win 2026 NBA Finals: Their path to a championship",
+        "description": "",
+        "published": "2026-06-14T03:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRUc4SjRWNWVDNnRHTjg2ejB3Yk13dkxNQVJPdUV2bm5HWXdRdVB3V1NWSWJFY0VDMElDdWR3eldPZU5uUmlVZVFoYXc1bnAtT19LeG01X2ZnRGltSExwdmdvdGZSZUlPeGY4eUhKcUxmVUM1cHhnRG1hTzYxbk5BME9obXNtY2pOWDY0b1RGZDBhek9MRllhLU56a0s3bkljNE90TFR2RDMtSm1mNTRWOXNzUUc3Sk1US0dvMmdMa1lOcDZoY0V4bndn?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Knicks rally again vs. Spurs, capture first NBA title since 1973",
+        "description": "",
+        "published": "2026-06-14T03:10:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPbEdEamR4aHZ6VFJicXFaUGZlY3BhOEVkZWF5M0Jyc040UmdJVGlVWTRqT1dkMVlXTnRZZ05Wel9kcDlYVHY3aGg3eldkUGNXZFdUVkZtMTBaYjVORTRsWjh5N1ppemc4UVo4Nm1YOFI2ZHBtMVNYN1czMktSNVpUWW5aUUFYdWRxOUF1aUhsYWhPM2RTSElvZEJLRFRpOUQzc0Rj?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "Post-Finals NBA Power Rankings: Stacking 30 teams for 2026-27 season",
         "description": "",
         "published": "2026-06-14T03:00:00+00:00",
@@ -241,10 +693,10 @@
         "source": "ESPN"
       },
       {
-        "headline": "Charles Barkley clarifies Spurs 'dumbest basketball team' comments after NBA coaches call him",
+        "headline": "Charles Barkley clarifies Spurs \u2018dumbest basketball team\u2019 comments after NBA coaches call him",
         "description": "",
         "published": "2026-06-14T01:58:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVnpYbTI2UkhxMkR4STk1NWJvRl90eXdGdFI0Y2dMRHBqSUZnUFgzcVQ3TmlpOGhMdTR4RTlTMGxELVR4dlBPNFdUSWgzdXlwNzNzekIzekdmMksxUnZXQUhaYldsSWhiT3pzLTFEbmFIdlgyc3ZZaS1SSGxQSGYzMjdJc3FFaDE3c2dhRk5WNktZYmx4TTdEdmlLY3FZQzZxdEtz?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVnpYbTI2UkhxMkR4STk1NWJvRl90eXdGdFI0Y2dMRHBqSUZnUFgzcVQ3TmlpOGhMdTR4RTlTMGxELVR4dlBPNFdUSWgzdXlwNzNzekIzekdmMksxUnZXQUhaYldsSWhiT3pzLTFEbmFIdlgyc3ZZaS1SSGxQSGYzMjdJc3FFaDE3c2dhRk5WNktZYmx4TTdEdmlLY3FZQzZxdEtz0gGoAUFVX3lxTE1seXV4a2RUZjlQNTM3WktXaW8wUzdUSmZKVzdKNVN1eDNaRVJVZmFjOVExdEU2Y1JRX3FMLUc5RFVCNS11bWhxWHFoTGJ0RkZva0FuS0NKUmZJRUtLemdtN2N0cmIzb0pDTmVoUTNvU2dYTkRNSDdpTmtVeTEyZXd1dXUzU1JSd3VzWTB2N3hnSDVoa2FNNkRiY214Z253WlgzT2RwcDBiVw?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Awful Announcing"
@@ -257,11 +709,36 @@
         "image": null,
         "recruiting": false,
         "source": "Basketball Network"
+      },
+      {
+        "headline": "Inside 8 Championship-Worthy Homes of Past and Present NBA Players",
+        "description": "",
+        "published": "2026-06-12T16:47:27+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOeGtyalZxS2FDRHIwZ2pKSmJEM1FzZm9rb1RWU3NaWkhIWWFkTGFOWF82aEZlM3I2a1NOYVllc1NnQ2JKZEdEdml1aTNLaVZSRldydlFXcHZDazFwQUZ3c2ZwWkhzVEk2Y1VhVDVUeXFkdmhSVnBPeHBEdmFSVFRKbEcwX3A4MzQ3d3VMLTNOWjgtWHNGTGhVb3NxTHlLWHlUcHQxRzItUmwxQmIy?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Architectural Digest"
+      },
+      {
+        "headline": "Trump booed \u2018thunderously\u2019 at NBA Finals: What we know",
+        "description": "",
+        "published": "2026-06-09T11:40:25+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1JadmtwZnktdDdSdEhzQVFzaVBxNVVFRkRBSldpeTVaSFd4WWp6cjN1dWpMVXRSbjdkLS1RckF0NWExZ3NIcEFCR3kyQ2NvWVFuZGJrYzNad1dXbnk3RUc2RnRWeksxZklGN2NLaWpSY1VqeHVZNFZuVC1QVnJuU0pPaGl2MktXaWN4cnBDODNqM21VdXfSAZsBQVVfeXFMT2Z6bjBnRzh0UjZLOV9xa1ZFQXViWW9CUmprdE5TbVFkZjAwZWJfY3NSQ0pEOGlGQXJCU2VrTkl4ODlKVTNmQnRqZ0FmdGlRYTkxM3h1cmhJZGdVclY4NEhiZmUycTBKUldwVVF0cWdhVC1fUFdpUF9UczJqN0RQVTF1emZrSVZyLU0zWXVIVGU3di1NWmxldWRCblE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Al Jazeera"
+      },
+      {
+        "headline": "The path of a Knicks-Spurs NBA Finals basketball starts with all 30 teams",
+        "description": "",
+        "published": "2026-06-05T14:23:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa01ZbGViekZIY3B1U3ltWjN4cDNRQWwxVXNoX1dIdHpTeVZrc3Vjdm1mbi1yS1BSTTM4bS0tT2NweVNjdVJWTVVMWHBra0RGVmNVN1lHNXlFRjFzZXRZQlhBQmxMRWFzeHp5ZkdaQXk5b2N4WGxadFNLS0hPenh6bFlBTU4yQzkyQVFTSm16cmVpWmFIcGZHYTRFOA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
       }
     ],
     "games": []
   },
-  "errors": [
-    "Duke: The read operation timed out"
-  ]
+  "errors": []
 }
