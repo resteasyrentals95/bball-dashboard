@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-15T21:03:31.100573+00:00",
+  "generated_at": "2026-06-15T21:37:29.324303+00:00",
   "duke": {
     "news": [
       {
         "headline": "Duke is expected to outperform UNC in every notable measure during the 2026 NBA Draft",
         "description": "",
-        "published": "2026-06-15T17:28:57+00:00",
+        "published": "2026-06-15T17:15:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmVSSkNEcm1PeUkwNFZ3dkJBdG51c19DcURrT01QaGNVX21yUjJFTnhHUG9hS2ZKVjU4N0kxRkVCMmxEdVFURl81TFBQVURuR1c4eDNDN0pSZFM1dGIzMUdRZWpsb3dtek5vUnkzYTM4MVhNTlBMMkkwZ3RsSHVXU0dQVllycUpoY29VU0w0YkdjdHJWZDBLVVNmOS1xcU5LZmZiQUdBMDlxRHZM?oc=5",
         "image": null,
         "recruiting": false,
@@ -486,13 +486,40 @@
   "nba": {
     "news": [
       {
-        "headline": "The Knicks made a championship run that will be remembered in New York and in NBA history",
+        "headline": "Cameron Boozer: Most NBA-Ready 2026 Prospect? Stream of National Basketball Association",
         "description": "",
-        "published": "2026-06-15T20:15:42+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdU1Ub1ByTGlpSzdQelVFUDE4NXFod1IxZWtYcmpndWVfRWhMSnBCODVqcFVDWVc5QldabnBqUXBNY3hLTWxHQ3pxeTBmU1Q0aHhFQVh4T00wSC1UQl9QTG5iZG9VS2RTRGN4TEtiNnJ6N1B3cnhqWTh4cEVURTRveGxpN1FFS3BONUIydWk5ZkZqZ3lGVm9mTFBrRlp3VEJOODhraTYwN21rNzR3TktHZjZxQTFtSUN6UGtWMmxjSzBnQQ?oc=5",
+        "published": "2026-06-15T21:35:24+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcUhiNzF2STBtNVVJUXBGbTBqc3ltckJiY1NPczRrUWs0M0htQ0NoeWJtZXJ1WXFWSVppZVBROFFCWGMtY1pqN1FtTVNmM0UtNFJKSGlGMXFaLTY2RzVhVWZYaVVuR3V4cWV5NDFJdENpR2d2d1VLZmdaNTRHNHE3Y2VqN3lDNGlDYzhycE13?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "CBS Sports"
+      },
+      {
+        "headline": "Mavericks head coaching search reportedly enters next phase as NBA draft nears",
+        "description": "",
+        "published": "2026-06-15T21:35:18+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLVdHNW9oWkdFcnNPRWpQaFdyS0lXOGwxbUIybTU1NVk4R0pKSnlRZEllQ2dRZ0VJVWZ3RjVyWWxVVFc0MGlISUFYbUk4WU9MemZEV3lKdEVfM1RXcWVYeVJkaHE5YlpTR1BPZkJxLTNmOElyWEtwQ1FFb3VQRXZFSnhXSFZvaW5McHNHUm9sYXk5Nm92UU11YWRua2toMWJVZXVuUXFHemRYWE9Fc0NDUw?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "The Washington Post"
+        "source": "Dallas News"
+      },
+      {
+        "headline": "Knicks have only the 4th-best NBA championship odds for 2027",
+        "description": "",
+        "published": "2026-06-15T21:10:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9TZjZyN09vNHFSdzlZRGxqTmVqeVI1NXhlREhwRGhLajhnTGNaYUd2XzhUS1BnOWdlLW1odk1uMWhFM3dSMi1KVkFFMFJSWVBWSmprUXpTOGh5dzNxUzVweXJjbmRycjIxMHpOVzZwM2xmQk42OHllQ0wya3NTUQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
+        "headline": "Lakers\u2019 Dalton Knecht Hosts First Youth Basketball Camp After Two NBA Seasons",
+        "description": "",
+        "published": "2026-06-15T21:06:52+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbnkxQkFpTEZmaG9EZEZncS1KZnZXZ0paYVFoendUNFZHRjZLZ3pVSDNGYkRzNnJ1OTYwV2hIbzRTQ1RvZlV3MDVEQmpITmxKb18xcU1OUmlqOHFDT1JyZ2dnakJKX0lEYWpUeF9qbWYycmI4S2V2eGYxR2ptc2pyVWwwby1PWndx?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Iowa basketball's Bennett Stirtz invited to attend 2026 NBA Draft",
@@ -502,24 +529,6 @@
         "image": null,
         "recruiting": false,
         "source": "Hawk Central"
-      },
-      {
-        "headline": "Knicks Burn Sportsbooks on Road to NBA Championship",
-        "description": "",
-        "published": "2026-06-15T19:29:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNSGZIVm0zT0dTRWNncGxsODBLWVJLV1N6WXdmYTR4b2o3UVFZX0Zudm1neTVkU2NkSjVEYUhRam9EUHMybk9LODVrX0JkQ3lhVTZRNHloZEdFOWFCS1BsdXh5Zmp5N3lfRmR4Z1ozbHJUTUktLXl4Z0k1bDFjXzRtakh4VmZtTWpM?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
-        "headline": "2027 NBA Finals Predictions & Top Futures: 3 Teams to Target Now",
-        "description": "",
-        "published": "2026-06-15T19:18:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUlNELU5hMnJCeFNLM1N4TFdQdDdJOU9WRERZRV9YZzR2aUlQWTFza284cmdnZnA2bGxxSV92YjJHYkVlVUdBblkzdjNGUGl1UnpXc3lXQ0Foa3g1VXAzLTVPQnJrRjA2dnpNTENpLXdRV3BlSjZoNUdmbmR6U0VPNlZyUG5ORHc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "Trey Kaufman-Renn impressing during NBA Draft process by showing more than he did at Purdue",
@@ -540,13 +549,13 @@
         "source": "Rocky Top Insider"
       },
       {
-        "headline": "New York Knicks players earn unprecedented bonuses by winning the NBA Finals",
+        "headline": "NBA champion Knicks' Karl-Anthony Towns, Jose Alvarado inspire pride in Long Island's Dominican, Puerto Rican communities",
         "description": "",
-        "published": "2026-06-15T18:33:30+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQS3VJTzJ2MDRsakZ5emYyZXhadzNZR0pTanpRV1d1T295WlhaTmZoT3hlVzM5aWViWFRKdmRZSTBLQkZKSVRsOU51VVVqLUR6MktEcm44d3F3RWdXSlFWZjZ1R0FYRkJjbUNjTUJkckhfRW81ZDBlTmxYdnJ5aGJ5eFQwQ2JldTl3cFhvRnFmdkIwV1BCQzYyeWtrajVRRUU3VEJuZmRFX0pzeHByc3BLWUtRTUNSQ1JLX1Q1TUpZV0drdE5ZdGJGbDVRSTRKa3Zkdm9tVUtDb3phdy0xZm85WXlB0gHiAUFVX3lxTE5KMEwzY1B1azNvOWhUdnI4WXpEWjNDeFQtQlR3OWFkM3NtdjhWMThxSnhFLUdSRnJibUZvTzYzeGhjeHp6Z29Ca1JzNnBRSUx3dTh5ZjFUclBsMFNBNl80Vy1tSmFySFJwOXIxNVFDTFg2REU2emhyVlNiV3psXzRKd0FlVlR2VHF4bE1rdEdpYklQZnZRQVpHeU4xcGoxQzBvcXRpRGNzOVI1NjJQSzVadGNIdm5WRC1TVVV2U2F0WDVWTXJJU3ZING82ZjU4WER1dEdKVFFLeURWQ1Y2ZlBrY2c?oc=5",
+        "published": "2026-06-15T19:01:27+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbUQ3RU5uaFFGVlYtZ1BVQVh5bFJvd2JtUjJlWldDQlBmbW1XUHNXSkxFRl9wanlyS01uU1MzZUFHMDQ3YUdSNk4xMkROckZId2FaTFJIRWVRSkVKSkpVNldwLTJ6dDZyRXRWZFVPdXRzUURFT3p2bkdvVTkwZmI3UGtyX3RRZlNtQTdxSUhVZXZydzNOZ05oMFNXYjZkMUJQdTdyUWRrQjNWcVk2bXlEMS1kV2J0WUwzSUVWd19B?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "MARCA"
+        "source": "Newsday"
       },
       {
         "headline": "2026 NBA Mock Draft: The Safest and Riskiest Incoming Fantasy Basketball Rookies",
@@ -603,15 +612,6 @@
         "source": "Yahoo Sports"
       },
       {
-        "headline": "KU basketball\u2019s Darryn Peterson will only work out with one NBA team, report says",
-        "description": "",
-        "published": "2026-06-15T16:43:40+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcVBjM0JXN2ZMN21sMVY5UXdISGtCRGQ5LTJBb19SYktTbFUyVS14NWQ3bGxkYjVvUWQtYTBRNGVHcE5kWkp2N3UtcmZ2UEpQMExnQ01jcWF4NGM4OTlSX2tUTUgtUGxxS2EtSnQtbWJMRGZvbEJ0U1RUb08zZ0NGQ2ttX3hNN19xcXJ5TENJRGFoc3hqNWfSAZYBQVVfeXFMT3JoSnZkb0hDdmxnWURhUTQxcFBnRjZWUG94Ql9ZYmFobExyV2FISTlsN3hFdE5kazF0bUJVOWJFLUoyLXhILXVBcWhqTnE3QUZFdzcySU9BQ2NGNnhBT012ZldfN0NIOUJCYURyN3FwcUcwTjhwVE01NlNiRlJZX09mVGVBWHQyM0JFRGxzZG9aRGxKUmJB?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Kansas City Star"
-      },
-      {
         "headline": "New details of James Harden\u2019s gun arrest emerge as NBA star\u2019s mugshot released",
         "description": "",
         "published": "2026-06-15T16:39:00+00:00",
@@ -628,6 +628,15 @@
         "image": null,
         "recruiting": false,
         "source": "People.com"
+      },
+      {
+        "headline": "NBA: OG Anunoby eyes UK basketball boom after New York Knicks' Finals win",
+        "description": "",
+        "published": "2026-06-15T15:58:39+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DZkdKZXM5dFZEYWxNLWFJMnlDY2lyUUg4enNlODhjXzlVbmdxS1hEOVJwVkFNZ3pYV0tMelQyelBQWXNfbXUzNElnTEtIenVDMks3Y21fdi0zbThxT201QjJVcmZGSXhhMFE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "BBC"
       },
       {
         "headline": "Jalen Brunson\u2019s title run inspires next generation of NBA guards",
@@ -693,15 +702,6 @@
         "source": "the-sun.com"
       },
       {
-        "headline": "Top 3 NBA Draft landing spots where Keaton Wagler will thrive the most",
-        "description": "",
-        "published": "2026-06-14T19:07:59+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQSm9Tb2Z1X1RrdmV6WXJ0c0RxdlM4NjlSZEZyaTRwNnpyMTZ1UDhGZ09vY2plWHRWNGpDZzRyLUJMazkzeXZZd08wN0Q0Uzh3VHpOd25TTk1CbkhEeEpzUkJqOTViUnpVLVdKY1dEU3RpVjg3dVVQYTRaR2xCWjhFdzkzNnlEaWVVcEdHQlZqbzNsUnZHaUNMV0tUV0w?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Writing Illini"
-      },
-      {
         "headline": "The NBA offseason begins, with lots of eyes on Giannis Antetokounmpo, LeBron James and more",
         "description": "",
         "published": "2026-06-14T16:17:00+00:00",
@@ -711,13 +711,13 @@
         "source": "AP News"
       },
       {
-        "headline": "Jalen Brunson wins Bill Russell trophy as 2026 NBA Finals MVP",
+        "headline": "McCullar wins NBA title as member of Knicks",
         "description": "",
-        "published": "2026-06-14T06:52:22+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZU91SlVLbEpGWTIwZHNVdU13ZEpLT25IaXVmVGpUZDd5SkhuTllVcVI3OVR2T2pSeEFDelNOX3F5N0JPZ1lDN3VJVFZiN1hZdlVtaUNtbTQ4TFUzWW5mM1lFUmhRQ0Npekp4T0FqVlN0UFZEa3ljMTJseTBkSE90Sk80WHYydGZwYmVEMkdMaw?oc=5",
+        "published": "2026-06-14T15:32:55+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNmk1QkZDeXQzQkt2dzJoaVVhYUNCWWNmOFZOV3dhbGhmVjZOQjkzMlVWSlEwRm9XRE02RkVMYmtXVHZSdmp5WmVOWmtzNGRaMlNYa1NyVzlHTHNjc3Jjamg3bEFfazB1VVlGYXNBOUp0WGRsWDBLOGVtWVVJcExNS3JzLVVPTjJkbDdGNFQwa1dVaHRSMHZSaUIxQkhKRVRRUUdENmFwRFdvSjB1X0VSVWRkMA?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "NBA.com"
+        "source": "KU Sports"
       },
       {
         "headline": "Jose Alvarado Wins NBA Championship",
@@ -729,13 +729,13 @@
         "source": "Georgia Tech Athletics"
       },
       {
-        "headline": "Charles Barkley clarifies Spurs \u2018dumbest basketball team\u2019 comments after NBA coaches call him",
+        "headline": "Trump booed \u2018thunderously\u2019 at NBA Finals: What we know",
         "description": "",
-        "published": "2026-06-14T01:58:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVnpYbTI2UkhxMkR4STk1NWJvRl90eXdGdFI0Y2dMRHBqSUZnUFgzcVQ3TmlpOGhMdTR4RTlTMGxELVR4dlBPNFdUSWgzdXlwNzNzekIzekdmMksxUnZXQUhaYldsSWhiT3pzLTFEbmFIdlgyc3ZZaS1SSGxQSGYzMjdJc3FFaDE3c2dhRk5WNktZYmx4TTdEdmlLY3FZQzZxdEtz0gGoAUFVX3lxTE1seXV4a2RUZjlQNTM3WktXaW8wUzdUSmZKVzdKNVN1eDNaRVJVZmFjOVExdEU2Y1JRX3FMLUc5RFVCNS11bWhxWHFoTGJ0RkZva0FuS0NKUmZJRUtLemdtN2N0cmIzb0pDTmVoUTNvU2dYTkRNSDdpTmtVeTEyZXd1dXUzU1JSd3VzWTB2N3hnSDVoa2FNNkRiY214Z253WlgzT2RwcDBiVw?oc=5",
+        "published": "2026-06-09T11:40:25+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1JadmtwZnktdDdSdEhzQVFzaVBxNVVFRkRBSldpeTVaSFd4WWp6cjN1dWpMVXRSbjdkLS1RckF0NWExZ3NIcEFCR3kyQ2NvWVFuZGJrYzNad1dXbnk3RUc2RnRWeksxZklGN2NLaWpSY1VqeHVZNFZuVC1QVnJuU0pPaGl2MktXaWN4cnBDODNqM21VdXfSAZsBQVVfeXFMT2Z6bjBnRzh0UjZLOV9xa1ZFQXViWW9CUmprdE5TbVFkZjAwZWJfY3NSQ0pEOGlGQXJCU2VrTkl4ODlKVTNmQnRqZ0FmdGlRYTkxM3h1cmhJZGdVclY4NEhiZmUycTBKUldwVVF0cWdhVC1fUFdpUF9UczJqN0RQVTF1emZrSVZyLU0zWXVIVGU3di1NWmxldWRCblE?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Awful Announcing"
+        "source": "Al Jazeera"
       }
     ],
     "games": []
