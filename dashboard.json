@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-06-15T17:12:09.085012+00:00",
+  "generated_at": "2026-06-15T18:45:09.377920+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "Duke is expected to outperform UNC in every notable measure during the 2026 NBA Draft",
+        "description": "",
+        "published": "2026-06-15T17:15:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNVmVSSkNEcm1PeUkwNFZ3dkJBdG51c19DcURrT01QaGNVX21yUjJFTnhHUG9hS2ZKVjU4N0kxRkVCMmxEdVFURl81TFBQVURuR1c4eDNDN0pSZFM1dGIzMUdRZWpsb3dtek5vUnkzYTM4MVhNTlBMMkkwZ3RsSHVXU0dQVllycUpoY29VU0w0YkdjdHJWZDBLVVNmOS1xcU5LZmZiQUdBMDlxRHZM?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Ball Durham"
+      },
       {
         "headline": "Duke commit Joaquim Boumtje-Boumtje on overseas development, Jon Scheyer\u2019s recruitment, and rising expectations",
         "description": "",
@@ -55,15 +64,6 @@
         "image": null,
         "recruiting": false,
         "source": "Ball Durham"
-      },
-      {
-        "headline": "Duke Tournament of Champions Summer 2026 \u2013 First Round",
-        "description": "",
-        "published": "2026-06-14T07:37:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPN3hvOExyNHVqRFRxRVhBSUcybldIYUlUYWtMMlZXTk00LVgzTjV5RDFMamZ4QXR6VFhUZUlKMFRpd2puMXpmT2JVNjg0dnN6OHZ2U3dGb3ZqV1BOQ0ZTYmMwMHJTNHo2R0RGYVpBYTRXWmxWLTRvaEh1cHJCbF91aHBOR0FPMThFLV80cXVFb09UYWZjcTJjdFF0V0g2NWRoaGctUkpQZTM2eDJhWF9ISkFtLWRvUQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "247Sports"
       },
       {
         "headline": "Duke Basketball Eyes Top-Shelf 2028 Big Man Yann Kamagate",
@@ -201,15 +201,6 @@
         "source": "Sports Illustrated"
       },
       {
-        "headline": "Comparing Duke Basketball's Ceiling With UNC's Next Season",
-        "description": "",
-        "published": "2026-06-09T14:30:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS19qVzl3TTF1SWVTMm1OQm04MkpGcVZ5dGIzX3Q2aGhPM0lvOG8xcTBnVENnSGZpdDJLTTZUWUN0bjRLRmVDVnVxY0tqMW9SMHhqalJkVzhLMUQ3VFcwVk9LcFA3T1BiSEJMN3ZuNF9PSGNheEl2N3l5RkVYb3VNSVlqLWRacFI3N0hCYkZuVUg0dw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
         "headline": "Men's college basketball transfer class rankings for 2026-27",
         "description": "First-year head coaches aren't the only ones who made a splash in the portal. Blue bloods are in the mix, too.",
         "published": "2026-06-09T12:48:27Z",
@@ -217,15 +208,6 @@
         "image": "https://a.espncdn.com/photo/2026/0604/r1668324_1296x729_16-9.jpg",
         "recruiting": true,
         "source": "ESPN"
-      },
-      {
-        "headline": "One ACC Newcomer Duke Basketball Must Monitor",
-        "description": "",
-        "published": "2026-06-09T10:00:04+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOTEYzc0p6NzBCbUdPd3JrRFhXOTZMMGNGT05PMnhQcl9pYTEzOXBpdVN0Z0NzUFdfZlNvLXJteWU2cXdMQk10SDNKS2s4V1J4NzF6cGlVejBZWlBVZHRyaGM2ZjhhMVVfUjY2d3YwOFp1WnZLUU0tbkplVFVtb1dLQ1I1dEpzeHZXMnpfMA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
       },
       {
         "headline": "Ranking Every Projected Starter for Duke Basketball",
@@ -253,6 +235,24 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Men's NCAA basketball 2026-27 Way-Too-Early Top 25 rankings",
+        "description": "The Wildcats added the top-ranked transfer to rise into the top 25 alongside the Jayhawks and Tar Heels.",
+        "published": "2026-06-02T12:15:12Z",
+        "link": "https://www.espn.com/mens-college-basketball/story/_/id/48931769/mens-ncaa-basketball-2026-27-way-too-early-top-25-rankings-nba-draft-withdrawal",
+        "image": "https://a.espncdn.com/photo/2026/0602/r1667031_1296x729_16-9.jpg",
+        "recruiting": true,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Transfers, recruits and roster moves for key men's NCAA basketball teams",
+        "description": "We're tracking all the player movement across key programs during the offseason ahead of 2026-27.",
+        "published": "2026-06-01T13:53:25Z",
+        "link": "https://www.espn.com/mens-college-basketball/story/_/id/48676027/mens-college-basketball-rosters-transfers-recruits-freshmen-2026-2027",
+        "image": "https://a.espncdn.com/photo/2026/0531/r1666434_2_1296x729_16-9.jpg",
+        "recruiting": true,
+        "source": "ESPN"
       }
     ],
     "games": [
@@ -486,6 +486,60 @@
   "nba": {
     "news": [
       {
+        "headline": "2026 NBA Mock Draft: The Safest and Riskiest Incoming Fantasy Basketball Rookies",
+        "description": "",
+        "published": "2026-06-15T18:31:10+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWU5kRl9wMjk4TGw0cjZ1X09ROFZyeWVDdm51bjVWNnQ3eVRlZjBmTkRINkJneFZteWdGUGlMTkVHNFZNdEdEZHhpVDg5NXhEMWJ0VWhzLW5DR2djTVJfdTdSMHJBQk9sRE1RSGo5dkJkcldSWnRXc2l5dTg4ZktiYnEwdFlzYnhTaGJHb2pmbXhYSEI4UVN3U3Y1cm8?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Wizards' Alex Sarr has surgery after fracturing right foot",
+        "description": "Wizards center Alex Sarr has undergone surgery to repair a fractured right foot and is expected to be healthy for the start of the season, the team announced Monday.",
+        "published": "2026-06-15T18:15:23Z",
+        "link": "https://www.espn.com/nba/story/_/id/49073891/sources-wizards-alex-sarr-surgery-fracturing-foot",
+        "image": "https://a.espncdn.com/photo/2025/0326/r1469656_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Report: Celtics Assistant Among Two Finalists For NBA Head-Coaching Job After Bulls, Tiago Splitter News",
+        "description": "",
+        "published": "2026-06-15T18:04:41+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSXpBMTZ4clExNWktUWhJalhOb1I5ZVBSODRHOGhORlFLSm5xME9RMUZlMjhnd2U5d2tERHpURVE0U2hLRjllVHBCNHZoUDFJTGN0M0xoRV92ZGM1bkJwT0J5YmJ6TEtpc1p5eXhIOFhDQ2Y5NzBibnU0aUVoaklQblVNSUE0aDhTRUYw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
+        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
+        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on Giannis Antetokounmpo ahead of trade season.",
+        "published": "2026-06-15T18:02:58Z",
+        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+        "image": "https://a.espncdn.com/photo/2025/1208/r1586688_2_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "The Knicks made a championship run that will be remembered in New York and in NBA history",
+        "description": "",
+        "published": "2026-06-15T17:46:51+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdU1Ub1ByTGlpSzdQelVFUDE4NXFod1IxZWtYcmpndWVfRWhMSnBCODVqcFVDWVc5QldabnBqUXBNY3hLTWxHQ3pxeTBmU1Q0aHhFQVh4T00wSC1UQl9QTG5iZG9VS2RTRGN4TEtiNnJ6N1B3cnhqWTh4cEVURTRveGxpN1FFS3BONUIydWk5ZkZqZ3lGVm9mTFBrRlp3VEJOODhraTYwN21rNzR3TktHZjZxQTFtSUN6UGtWMmxjSzBnQQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Washington Post"
+      },
+      {
+        "headline": "NBA Draft prospect Darryn Peterson reportedly visits Wizards, but won't meet with other teams",
+        "description": "",
+        "published": "2026-06-15T17:29:57+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWC1vYVdvOUktWV9PbWJfX3ZqdEU2Q29vWEFjYXQ2QlZ6R0dWN1lOMHlYZ01rSC13WEQ0ZDZqRDRkUzNDXzFoYy1JMW5OMnJzMHh1SktMOUVVb21VeEdjUXc0WUwxbTdfUWx1WU4zeHFaOUswNmdsS0VjMml4d1lBWjhfS3Iyczd5eXBjdl9hR3FYdWQxZW0zc0ZuUHNDdEh2QWtEMmVuYTU2WUdIVlk5X2RXSHhhVTlDU1ZhbWJNMEtoVlI4a01WWHZJVnZPanRyVlIyZm9tcnRlQk0?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "Knicks Offseason Outlook After NBA Title Stream of National Basketball Association",
         "description": "",
         "published": "2026-06-15T17:05:56+00:00",
@@ -493,15 +547,6 @@
         "image": null,
         "recruiting": false,
         "source": "CBS Sports"
-      },
-      {
-        "headline": "The Knicks made a championship run that will be remembered in New York and in NBA history",
-        "description": "",
-        "published": "2026-06-15T17:00:18+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdU1Ub1ByTGlpSzdQelVFUDE4NXFod1IxZWtYcmpndWVfRWhMSnBCODVqcFVDWVc5QldabnBqUXBNY3hLTWxHQ3pxeTBmU1Q0aHhFQVh4T00wSC1UQl9QTG5iZG9VS2RTRGN4TEtiNnJ6N1B3cnhqWTh4cEVURTRveGxpN1FFS3BONUIydWk5ZkZqZ3lGVm9mTFBrRlp3VEJOODhraTYwN21rNzR3TktHZjZxQTFtSUN6UGtWMmxjSzBnQQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Washington Post"
       },
       {
         "headline": "NBA offseason 2026: 10 teams that will define the summer",
@@ -540,15 +585,6 @@
         "source": "New York Post"
       },
       {
-        "headline": "Sources: Bulls finalizing hire of Tiago Splitter as head coach",
-        "description": "Chicago is finalizing the hire of Tiago Splitter, who guided the Trail Blazers to a 42-20 record, to succeed Billy Donovan as the Bulls' head coach, sources told ESPN.",
-        "published": "2026-06-15T16:31:53Z",
-        "link": "https://www.espn.com/nba/story/_/id/49072541/sources-bulls-finalizing-hire-tiago-splitter-head-coach",
-        "image": "https://a.espncdn.com/photo/2026/0615/r1673538_1296x729_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "Karl-Anthony Towns Deems Jordyn Woods\u2019 Lucky Bag the \u2018Greatest\u2019 in 'History\u2019 After NBA Finals Win",
         "description": "",
         "published": "2026-06-15T16:28:42+00:00",
@@ -558,31 +594,13 @@
         "source": "People.com"
       },
       {
-        "headline": "NBA title winner Anunoby predicts UK basketball boom",
+        "headline": "Jeremy Sochan, NBA Champion",
         "description": "",
-        "published": "2026-06-15T16:01:59+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOemhiTXNjNVV1ZEZPNVc3NFZyUzBrQy1vMGtJTUhidnJ5UVg5ZHRYV0x3WXJFOXF6Tk8taERrZWRGQVJhV1FmNHJubGt5MkdPNTFXdC1icEdBMXBYRWlHRU5yeTYwUGptTUNlMDRsd0RmanZmbUhiSDRYb3ktZTdGZm55NkwzWGxua1E?oc=5",
+        "published": "2026-06-15T15:28:49+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOVdIMmtkUGZ3eG11VGZBZmVfaFRUU0V2Y3l4RzY0VVBEYlNqb3Y2S3FaVG1yMlgxV3BqdjZhdnltSnc5V2pUcnZqVmxqZUx5bGdVX25hVDVLdUkzRG9YSmFqU3VES3U4QUVOVTd1aGFMR0wtQVBEeVJORTY4c05hbA?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
-      },
-      {
-        "headline": "NBA: OG Anunoby eyes UK basketball boom after New York Knicks' Finals win",
-        "description": "",
-        "published": "2026-06-15T15:58:39+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DZkdKZXM5dFZEYWxNLWFJMnlDY2lyUUg4enNlODhjXzlVbmdxS1hEOVJwVkFNZ3pYV0tMelQyelBQWXNfbXUzNElnTEtIenVDMks3Y21fdi0zbThxT201QjJVcmZGSXhhMFE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "BBC"
-      },
-      {
-        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
-        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on Giannis Antetokounmpo ahead of trade season.",
-        "published": "2026-06-15T15:58:36Z",
-        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
-        "image": "https://a.espncdn.com/photo/2025/1208/r1586688_2_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
       },
       {
         "headline": "Knicks superstar Jalen Brunson just led New York to an NBA title\u2014and says his basketball legend dad got him ready for the moment",
@@ -603,22 +621,49 @@
         "source": "Knoxville News Sentinel"
       },
       {
-        "headline": "Clemson Basketball Alum Wins NBA Championship With New York Knicks",
+        "headline": "Knicks stars Jalen Brunson, Karl Anthony Towns, OG Anunoby talk NBA Championship win: 'Once in a lifetime event'",
         "description": "",
-        "published": "2026-06-15T14:28:36+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZDhWYlJhc3FoNFRQb19YdzlsT1phZEVlcTJlZUdpUURFTGxRUkUxQXUzUEZ5cUxXZlVaYmhzcWFuQVRpdnZrUzJBaXdMZ1E0YzBOU3NESDdfRFUtQWg1ZWRKX0FsaVFtanFxRmVwR2V3aHVZb0JXREdyNjZibUF0ZHF3Z3lEQ0dneGFOaUNzOHlJcHREM3dDSjV3VnV4bmN2UlZqTWQ4dWd6NmhqbTBFeU9sYU80RmlXeUtj?oc=5",
+        "published": "2026-06-15T14:20:41+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNbHVvS2FSVHZGQUxMUkdjTXdmeEJ1QzRLNFVpYnVpSFRXWG1Qa0VjM1JHRU9YQlNHMVN0ZFJGSEIwclItMnRMYmZKUF94alZNUnRXQzgxbWtJXzFsd1JzTk9uOEJfVDZYQThmVkJBZ0E1YldDZm5XdFI1ZlFOeEE5LVJlS0F0eGFPUVhuV2tubzlJMW1qcFFWb1RZcXdtelBRVUdGQlR30gGrAUFVX3lxTE5Kd0pyNlNZZFpiU0VtNlRSRXJ1NFR6M2gyMUF4X0NENEdYTUFjQ2NDelhONmdLSEMwZTRwR2k3aWpkdy1QRUJfbUtWb01sWmYxcWFUcUh4QzlrdFJXdWZsMFdIZGFoZFlNY3lSQ3ktdXVHb29VaGU5ellrSzNuZGNSTkZGSlB1SkpiYnQ3OW92S0xBVXdIaExhVEQzM1ZjTUNCMzRPRERvLTE2WQ?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Sports Illustrated"
+        "source": "ABC News - Breaking News, Latest News and Videos"
       },
       {
-        "headline": "The Bounce: The Knicks enjoy the biggest NBA celebration ever. What\u2019s next?",
+        "headline": "Boeheim\u2019s Army adds Wes Johnson, a former Big East player of the year, 10-year NBA vet",
         "description": "",
-        "published": "2026-06-15T14:15:52+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWU4wSDZGSC1KT05kLVlwUDJQZllLS3h3X3RubWhUNER2V1c2VEJlQTQ5ZXZvOFcyUzc4RW5aa1pfYmFXWTJDOUgwbV9HdFdUR0JURHdNemZWQVZIa09DWUZLOUtiakg1RUVKM1R2Yzh4S1JLZUJKNjFHS1pIbXQ0N0RuTERjOVlYQXJsNHdFR3VlVk9HblpKYWhzZkN1dTk2cTJLXw?oc=5",
+        "published": "2026-06-15T13:57:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVXFuMnNwTTluYXBtTExmaE9DQ1pSckpFcTFfUy1uY3FDTFd0TzJKanB0MXpickhLZUpsX1pEWDRKeWJ1dS1EMjVpZm9Qc2Fob08xaFdOVXo3TjdEem03VlNEVGdzXzF1V2JMeE8wYXRCaWswa2dMMVJTY1l5WmFTMDQtQ0ZtdTduVTMyTmJiTkUwUnR4akRKcWJXdWVVbUY0YzJBMFlJUjYxaTdYVU90YzNsd2RIWWJzemExOXNRQ3FtYU5kblpLQjh6ZlFtdnYxMGc?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "The New York Times"
+        "source": "Syracuse.com"
+      },
+      {
+        "headline": "Which former UCLA Bruins have won an NBA title over the past decade?",
+        "description": "",
+        "published": "2026-06-15T13:53:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPWkFLM2ZYaTNnTTRDZnpLZXlMM2ZKTXdIVTItMTczUTFpQkFtVmNVR3Z4S3Y2cGFBQ1JNdUtMbTJ5c3hiUzBpQm11cnlsYnc1bmFZRWk5TFhaeVFhYklJNXppVk9Nd2lZbU1USkJIaDZrbkZPVGZIV3h6OTgyejNieHJjUmN2M09lVW9RbDM5TVBMRmFtNk9GSkl1REdzUHdmY2wyV2kwMXdFdHFUTnBtNTJPRjlDRW1VRVdYSFExWUQwcndTS0Frb2RSSWI4TWIzaWtHRnd6UFRyZ0tUNEhhdEZnTm1aZjFUQmlnMkpMUk5wbXlMaF9ZTkJ0Nm5IYm1VWlBXLTBGaTA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "UCLA Wire"
+      },
+      {
+        "headline": "\u201cThey said it couldn\u2019t be done in Skechers\u201d \u2013 OG Anunoby makes NBA history with his shoes",
+        "description": "",
+        "published": "2026-06-15T13:05:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTFF6cWxzNGZqSDc3TUkwdGV3WE1QekxobTg0OUFMRklCTS1RTmJ6ZFpzRVlWOVRZbGpHZHF1ZklmUlYyYzgxN3l4cjZTLVRrLWMzU29FTDhvNGVhX1pBaVBTQmlNV1pxendoRXBPc09NMGhjMlZ5ak1zd3dWV19MMjRXUDgzVG9RRW5BdkpBSjRPeXZ4Smc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Basketball Network"
+      },
+      {
+        "headline": "NC State's NBA Champions",
+        "description": "",
+        "published": "2026-06-15T12:45:55+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHh3NVFKQWp3ZkVDYk1WMWZOVjFQNDZpX2VBR3VvdUU3a2MyUEdaaUx4ME1rWEJzM1Q2bnc4VnUzdGhPdXRKQV9NREpoeGRueXhvcU9TZmRHOUh6WGhrWHZ0eFZvZFJPZkJndnJvRXIwb2hrYjg5R3l1QXVZMEFETEZtdw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "PackInsider"
       },
       {
         "headline": "'Gross' - ESPN ripped for using AI 'slop' images following NBA Finals to celebrate New York Knicks championship",
@@ -628,15 +673,6 @@
         "image": null,
         "recruiting": false,
         "source": "the-sun.com"
-      },
-      {
-        "headline": "Knicks stars celebrate historic NBA championship, emotional return to NYC",
-        "description": "",
-        "published": "2026-06-15T11:48:46+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZmVNSVJfUk5IWloyQmZkRHNBcjMwQ2hLZE9ndURza2hISW9PZngzaW56bU5vbjlZUjRQcVd0aHVMMlZaN0tQUjJHeUpaU3RRZTJPclhibEVVRXg1QjczNWk0R1N5cXJaQ25vTGU3VXg1cV9URU43SVFiMFVsYlByRjEzelNtSERRUnB5SDhCR3RESnpnQUJHVHVQbnZDWkNRa2M2X1ZzOWRpanY3QmJCZdIBtgFBVV95cUxPRTd1YWNoYmoxLUUzekNVZW1fMHAtWXJCaktVZms1RUxSbGNESEREZzNkcldwVXNxSDMzUU5aMzRZUDhrQ3d6UHk1TENNQ21rbWpiRG9yZEYwSEJNTkpYZ0JlYXJ0UjFaV3BqV3dPcXdJUEktb3B5SFdxNk1fcDg5bmE1RGhiYzdCQmFScnlxY0JnMXBvbktUX1YxUUNhdFRrcjlYU25zNkxIbmN4Q25PUzU2NnFpZw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Good Morning America"
       },
       {
         "headline": "Celtics reportedly make trade offer for NBA superstar Giannis Antetokounmpo",
@@ -666,40 +702,22 @@
         "source": "KU Sports"
       },
       {
-        "headline": "Three teams ahead of champion Knicks in 2027 NBA title odds",
+        "headline": "4 takeaways: Jalen Brunson delivers in the 4th to carry Knicks to the NBA championship",
         "description": "",
-        "published": "2026-06-14T14:43:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaWNKQ0NpNHFINFFvWjFFQmdBQkJxM0djdWZrLXAtRHNfeGhwdXBwUmFCOHpscWEyMWZSUkFlX0RwT09icE1lWENuM0dzWVNmMGU0NXdWbTZWeTRoU1dwdzkyWUNJRV9BMUdWRl8ydWZDM3gyRzQwSEl6aXdTS3ZqcFBZMFoxUXZvcWhIRU1QZUpDUmMwU3lGLURB?oc=5",
+        "published": "2026-06-14T06:10:49+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9WeHlsbW9PU3ktS1pieVBFY2xUWTVUVWNzQTVlMVJHM0RNX2NHdVV6ZFBlRUZNOGFJV3VvUldiZlQ1WkpnSUR3WXhwdTBVQlNPT0xpUjVGZ2FBa3dpR2czN2hMeXRuc2c?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "ESPN"
+        "source": "NBA.com"
       },
       {
-        "headline": "Former Ohio State basketball coach wins an NBA championship",
+        "headline": "Too soon: Young Spurs\u2019 season ended in Game 5 as Knicks crowned NBA champions",
         "description": "",
-        "published": "2026-06-14T14:09:22+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPR3RJTFZRZ1FrSWt4TGR5cDVWbklqenJCZnZ5THQwWmZiSXJ2N3p4bnRaWWxISlA0M25FRWxIb2dhR2NYUnhtdkN2ekN6YWlxZ19iR2FXek40dlNsTVpLYllGb2dMSllVN1dHWjFUS0RfOGFVRzF2TnlhZnh1MVNESnFmdFlXbk5lVGhxQTlJYw?oc=5",
+        "published": "2026-06-14T05:36:56+00:00",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLdTVfaWl1Vl90RDdfVXdtX0pGcks0ai03eTJHX01LbjgxYzdzdlZTUTlkS2ZGQk40WVZ0ZDRtRDZQRXNtU3ZWamlUbHdKQWl2bWVHVWhEa3RtT0ZEcXUtZHBXcU5UM3JQYzFKT0NuS2hPUjQ5bmtZVA?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Scarlet and Game"
-      },
-      {
-        "headline": "Victor Wembanyama's first NBA Finals trip ends with regrets",
-        "description": "",
-        "published": "2026-06-14T11:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPQ0lZZ2I0aHIzTXNHWlAxbEZVQjlpX2hGZDBER2Z5WFNlU1FlYXF3Y0paeC01bmdtU0NLNkNZOEowRGZSQVFaT3g3Q1VZSkhFNlkzUE9Bam9meVpHcUNjVElLQTdNRHhjUnBncnNJdXhKS0JvalFac1RjZEU3MUpCalZCQmlZdmh2OVpmMjkxWTIyVlIzR19xem1maHNiT1dnNWdJcF9DOEJuQWhDdUw0?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "Game recap: Knicks win first NBA title since 1973 with Game 5 win",
-        "description": "",
-        "published": "2026-06-14T06:02:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYWZ5dkNsdHdxb0plWGp4Ry1leC03bWtzSkE0SHFWX2NWbm1WNEtSNHRBWTNJYkdpZ1h1TkU5T0plSmNQTG56VlVrM0t5cDJFWEZhV0lkZWNxM3A0SXF3SmhleTNfd3piNkk2OEhIOG9nMlo4dlJDby0yUDRmN0dudG5lUXBmRWk2UE04VnVIT09pR2FrZ0JwVTI2alR0dzRqcEh3TVZCYzRLbTB6WGxPdjlSYUZSbmVEdUtBSl9aMjjSAcgBQVVfeXFMUDBQczRIb3MzTXQ2ODB5ZkR4bmQxdlBQVUt2UlViQm4yUGtGRk93dXlfZll4cGwwbUVSRklSN2tsWm1aY2NvMlFLS1E0d0tZM1dsN3RITjR1QWlEeFoyU082TThZSUJqcktKajc1V2J3Mnhaenlhc2RQclFCUnI0U3UtT2QtRmk1MzVzNnlRNjlpa01jWFZCWDZXQjktQVZYUk9yUU5QVjdpN1hTTGlsaW95WWg3WEVONUxnT1dHTDlnVG01YVU0VUc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBC New York"
+        "source": "KSAT"
       },
       {
         "headline": "Jose Alvarado Wins NBA Championship",
@@ -718,24 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "WV Sports Now"
-      },
-      {
-        "headline": "Knicks win first NBA championship since 1973, beat Spurs 94-90 in Game 5",
-        "description": "",
-        "published": "2026-06-14T03:31:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1zYkY3VE5ZS1NJUi0tVkppUzVTOWNPS3BYNm82RTJrVHJPVC05ZEJWZTNBMUp4dHpSUXFWaUI1eGd4YTJ5akVJWWdvREZJTGxtclRYcUJfa1l1QVpidDU2UXg3cXVlTVdWajVKbjR5T0M2Vk41?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBC News"
-      },
-      {
-        "headline": "Post-Finals NBA Power Rankings: Stacking 30 teams for 2026-27 season",
-        "description": "",
-        "published": "2026-06-14T03:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWEdEcldmQ3U4R0xMZm0ta1k3X1RsMWZSb2I0d1ZPclVmbXdrWlk1S0hOc015WlhYWFdjOEEyZ3dMYlgxMVExeDBHeUdwaHhPQlY5a1hqR28wMFZCRHBzMXdWaFl3bXpMVmFKTFFHT2pLOVVFZjVsblUyOHZsLXlFOFNHNHN2TWh4X1JsT01ZM1gxUE82ZHJQbDJ3RXBJX1h1aTB3RnkxWG0ycDhkNGNUVTZYZFJ5OVRENzh0U0xCcEEzUGZTWEJiVTkydF94WnhOQVJmRVlHdDF4UEo1Rk53MEpOVQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
       }
     ],
     "games": []
