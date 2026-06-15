@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T16:26:49.545000+00:00",
+  "generated_at": "2026-06-15T16:41:56.763272+00:00",
   "duke": {
     "news": [
       {
@@ -156,21 +156,21 @@
         "source": "Sports Illustrated"
       },
       {
-        "headline": "Meet Joaquim Boumtje Boumtje: Duke's 7-foot phenom and next potential No. 1 draft pick",
-        "description": "",
-        "published": "2026-06-10T17:56:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOWTluS0o0b0NiVUd4dWZaWjFQY2lma1haLWpCZFU1YkZNeHlMOWlDNlcxZERFQTNTTGxtMlZkQnJZYTRkVExVbWktOTEtV0k2ZFNpR2Q2Y1hfVTFQZ21KRkpkVlJOYTAyaDd1b0ZtRVd6Yk82cjA1TmNnRzZRTFZ2Tk01RGgwNll2ZFBiSk1iLWdqZw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "CBS Sports"
-      },
-      {
         "headline": "Duke Basketball Handed Preseason Superlative as Incoming Class Excites",
         "description": "",
         "published": "2026-06-10T15:00:03+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRnBjYjF1MEp6RTl5NWd0ZkhKaXcwcnNReVBJQzJjSEoxWWl2T3pDMjR3UWpUU3FuV1hyV2o5WmdNRDdvMzkzNktyNFhrNVcyN2J5T00tNGMxTFVQUjZabWp4Y2prb3R6Y3dWWk01aVZIRXRzS2lKY0NFMVJvYnV4Z0ItZWhfM21VSjdqRWRKNUFUa0hVQkQ1bjlxZWh2ZW1yV2dwbmF3TTFpUQ?oc=5",
         "image": null,
         "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Where Duke Basketball's Transfer Portal Class Stacks Up Nationally",
+        "description": "",
+        "published": "2026-06-10T14:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXFOaXE0QkZQQ1FkZEhmMlFSYS14RlFKNV80cEhpUmRJUndSQ0J2bW0xeHlHOXNIWWVnUDRxTUExdFl4S3BlSkppSGdiY0R5bzZFd05DRGNyMzlJVHRyaDNMeFdYQjRscDg5U3dmOUREZVM5NFU1aGRWMHZ6RjJXb1g5ZUU5WkNmR2VCLXZtb3d1bXBHYy1CX2VXeXNOS3JaOXdhczNn?oc=5",
+        "image": null,
+        "recruiting": true,
         "source": "Sports Illustrated"
       },
       {
@@ -486,13 +486,31 @@
   "nba": {
     "news": [
       {
+        "headline": "NBA coaching carousel: Firings, hirings, what's next for each job",
+        "description": "Chicago, Orlando, New Orleans and Milwaukee have found their next coaches, while Dallas and Portland's searches continue. Here's what lies ahead for each franchise.",
+        "published": "2026-06-15T16:40:02Z",
+        "link": "https://www.espn.com/nba/story/_/id/48413861/nba-coaching-carousel-firings-hirings-next-job",
+        "image": "https://a.espncdn.com/photo/2025/1025/r1565559_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "Sources: Bulls finalizing hire of Tiago Splitter as head coach",
         "description": "Chicago is finalizing the hire of Tiago Splitter, who guided the Trail Blazers to a 42-20 record, to succeed Billy Donovan as the Bulls' head coach, sources told ESPN.",
-        "published": "2026-06-15T16:25:41Z",
+        "published": "2026-06-15T16:31:53Z",
         "link": "https://www.espn.com/nba/story/_/id/49072541/sources-bulls-finalizing-hire-tiago-splitter-head-coach",
         "image": "https://a.espncdn.com/photo/2026/0615/r1673538_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Karl-Anthony Towns Deems Jordyn Woods\u2019 Lucky Bag the \u2018Greatest\u2019 in 'History\u2019 After NBA Finals Win",
+        "description": "",
+        "published": "2026-06-15T16:28:42+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYVdXUGZvVWNnbkUzUXdqS1pCczhuOGxpS3p3UnNkSXUxalV3TWdwRVJRdzVnV1BUcGpOX3lBS1o1R21PRTBRVjJjRHFFQjRZX3JoSnpGWmVLT1F6X1ZhWktSeVJWWlBDb0ZzdTFBQ3d4YktncWhSRmM0S3VQbkx4UE9YWjc0WHBRbGVyUXJyWFNMM1BhZXFMajJSM1FUaFROaWNsYkVWQWl0ZGxFS2Z3QThqRDZCRklnUVdkQw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "People.com"
       },
       {
         "headline": "The Knicks made a championship run that will be remembered in New York and in NBA history",
@@ -502,15 +520,6 @@
         "image": null,
         "recruiting": false,
         "source": "The Washington Post"
-      },
-      {
-        "headline": "NBA title winner Anunoby predicts UK basketball boom",
-        "description": "",
-        "published": "2026-06-15T16:01:59+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQRFN3RXpZUHkwdVAyaGdLQWpiZGdvSkJkRWRsUTE2RHE4Nl94a3lqOUFRdDQ3MVExYWV6NVdXRXAyWklla2lYdFExYlpaRHVhczBUUE5aSnlhcGVSWElvcFhoaFkyam16R1dLaUY1eWozNERvY3FtWjR3ZkVyWUlWbTV1d2ZrVEpF?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports Canada"
       },
       {
         "headline": "NBA: OG Anunoby eyes UK basketball boom after New York Knicks' Finals win",
@@ -531,7 +540,7 @@
         "source": "ESPN"
       },
       {
-        "headline": "How Jalen Brunson\u2019s NBA legend dad helped prepare him for a Knicks title",
+        "headline": "Knicks superstar Jalen Brunson just led New York to an NBA title\u2014and says his basketball legend dad got him ready for the moment",
         "description": "",
         "published": "2026-06-15T15:20:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTFdNWTFfUHVrMHNqWEs0eWZjeW5WNmhMWnczWGMweElvSHlhTDY0U18yNVVLdy1zUWt5Y29nQVU5a3JTRi1IWVdtS1lCNHRwZHZ1MVdtZGNfZF9aeHFWTEFqcFJPaVRGOFpMS3RtMEdIek5YS0Z4aUprcVJmbkFpM25OaFgwbGZlUW1JV2p3RXdWb1BZWjBnVXlVS2dlWkVHSHlyTU92TS0temEydHlId3BiandXOWZ5WEZGTjJDM3d5UQ?oc=5",
@@ -558,15 +567,6 @@
         "source": "Knoxville News Sentinel"
       },
       {
-        "headline": "Sources: Darryn Peterson visits Wizards, won't meet other teams",
-        "description": "Top NBA draft prospect Darryn Peterson has visited the Wizards but does not plan to grant another team a meeting, sources told ESPN.",
-        "published": "2026-06-15T14:52:03Z",
-        "link": "https://www.espn.com/nba/story/_/id/49071272/sources-darryn-peterson-visits-wizards-meet-other-teams",
-        "image": "https://a.espncdn.com/photo/2026/0507/r1655021_1296x729_16-9.jpg",
-        "recruiting": true,
-        "source": "ESPN"
-      },
-      {
         "headline": "Clemson Basketball Alum Wins NBA Championship With New York Knicks",
         "description": "",
         "published": "2026-06-15T14:28:36+00:00",
@@ -574,15 +574,6 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
-      },
-      {
-        "headline": "The Bounce: The Knicks enjoy the biggest NBA celebration ever. What\u2019s next?",
-        "description": "",
-        "published": "2026-06-15T14:15:52+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWU4wSDZGSC1KT05kLVlwUDJQZllLS3h3X3RubWhUNER2V1c2VEJlQTQ5ZXZvOFcyUzc4RW5aa1pfYmFXWTJDOUgwbV9HdFdUR0JURHdNemZWQVZIa09DWUZLOUtiakg1RUVKM1R2Yzh4S1JLZUJKNjFHS1pIbXQ0N0RuTERjOVlYQXJsNHdFR3VlVk9HblpKYWhzZkN1dTk2cTJLXw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The New York Times"
       },
       {
         "headline": "New York Knicks Will Celebrate Their NBA Title With the Wu-Tang Clan on \u2018Fallon\u2019",
@@ -594,22 +585,13 @@
         "source": "Yahoo Sports"
       },
       {
-        "headline": "Jalen Brunson is one of the five worst NBA Finals MVPs ever according to one key stat",
+        "headline": "Where could Arkansas basketball's Darius Acuff Jr., Meleek Thomas go in NBA Draft?",
         "description": "",
-        "published": "2026-06-15T13:07:30+00:00",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeE5zajFSYmZNTHg5Qm9VUDVGeFk1dlJzSTE4Y2xSQlBMVUtBa1lRTTFqTFNpaWJjMWhhUnBtcXJBd0ZtU1lpdlZHb0dSZXlud1k3WUtwRGJHRzdndjlyWHJWU1QtcFRzWER6d0tNUUl2LXk5TkRmZWEzYUFzYldLMGpNQQ?oc=5",
+        "published": "2026-06-15T13:34:49+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcmhFLXd1c3ZQclR5ZHZKTzBtWGlhUl9fMmRBVTZ0LU1ReDhRMUhZeGZJelozYmc5VW1zbzE1cFR4RjdoaWd2RUM2OWxiOUd0cmticFRvUDNmSjNyR2NWNDF4eEFPNkl6Slk2Y2g4aEJPQ1VQMkU5N19obE1nYjlsTG1kYU8xUEJYVW5VWmFKYWR1QQ?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
-      },
-      {
-        "headline": "NBA Draft: Top 5 draft prospects from outside the high-major ranks",
-        "description": "",
-        "published": "2026-06-15T13:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTzN2OGQ0emdPWXNhTW1UbVdKY1FEb3RaVFA0MmM1ZWFlaDhmVFJsR05KdWxKRGF3RW01QWZDS0hJRmJoV002OTlELUtyeURsUUZmTjNJbE5oN1V0ajc2bGxVT25vbzFOckt0M3VxSXd3V1lHYThhS2c3UDlPaHl5ellFQjluS1FlS1VnekVlUDVxd3VXNXRIcDN4SWx6V1NqUmtocTRvSQ?oc=5",
-        "image": null,
-        "recruiting": true,
-        "source": "Busting Brackets"
       },
       {
         "headline": "'Gross' - ESPN ripped for using AI 'slop' images following NBA Finals to celebrate New York Knicks championship",
@@ -628,6 +610,15 @@
         "image": null,
         "recruiting": false,
         "source": "Good Morning America"
+      },
+      {
+        "headline": "Where could Former UVA Center Ugonna Onyenso Land in the 2026 NBA Draft?",
+        "description": "",
+        "published": "2026-06-15T11:00:08+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT003Xzc4Xy1hVWVwWXZlRGNZWUxfTmNCVDRVVWU3QkVXRGkyMWdpOEVtRkRST19ibHpvcVRid1hqNnRuTDQ4aTZKSWxuRkEycy1DQkpzbU9zRHFaMFp1bENhWGp6OVZpZlVHLThKM1E4OVBZWGktWXFvZEFYQnpmSTRUczY?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Celtics reportedly make trade offer for NBA superstar Giannis Antetokounmpo",
@@ -702,15 +693,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "Too soon: Young Spurs\u2019 season ended in Game 5 as Knicks crowned NBA champions",
-        "description": "",
-        "published": "2026-06-14T05:36:56+00:00",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBLdTVfaWl1Vl90RDdfVXdtX0pGcks0ai03eTJHX01LbjgxYzdzdlZTUTlkS2ZGQk40WVZ0ZDRtRDZQRXNtU3ZWamlUbHdKQWl2bWVHVWhEa3RtT0ZEcXUtZHBXcU5UM3JQYzFKT0NuS2hPUjQ5bmtZVA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "KSAT"
-      },
-      {
         "headline": "Jose Alvarado Wins NBA Championship",
         "description": "",
         "published": "2026-06-14T03:59:01+00:00",
@@ -718,6 +700,15 @@
         "image": null,
         "recruiting": false,
         "source": "Georgia Tech Athletics"
+      },
+      {
+        "headline": "Former WVU Basketball G Miles McBride Wins NBA Championship",
+        "description": "",
+        "published": "2026-06-14T03:52:07+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNS2FCMDFTY3ZkRU1JRGl3TTdaSEtyalo4bXBwUWpuREx4cXlCczV3cjJDZ2JGck11NV9Yb2s3dFZpUURWeVJiX0NUSlVSYkpaQjJYTFpTakJaR3ZxZUx4dkVIOHpjcEVMTFhXTy13Y0VrbGhIVFRVT2d4dGtGVEFucXVucmw2NUEtSjdGWg?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "WV Sports Now"
       },
       {
         "headline": "Knicks win first NBA championship since 1973, beat Spurs 94-90 in Game 5",
@@ -736,6 +727,15 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Charles Barkley clarifies Spurs \u2018dumbest basketball team\u2019 comments after NBA coaches call him",
+        "description": "",
+        "published": "2026-06-14T01:58:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVnpYbTI2UkhxMkR4STk1NWJvRl90eXdGdFI0Y2dMRHBqSUZnUFgzcVQ3TmlpOGhMdTR4RTlTMGxELVR4dlBPNFdUSWgzdXlwNzNzekIzekdmMksxUnZXQUhaYldsSWhiT3pzLTFEbmFIdlgyc3ZZaS1SSGxQSGYzMjdJc3FFaDE3c2dhRk5WNktZYmx4TTdEdmlLY3FZQzZxdEtz0gGoAUFVX3lxTE1seXV4a2RUZjlQNTM3WktXaW8wUzdUSmZKVzdKNVN1eDNaRVJVZmFjOVExdEU2Y1JRX3FMLUc5RFVCNS11bWhxWHFoTGJ0RkZva0FuS0NKUmZJRUtLemdtN2N0cmIzb0pDTmVoUTNvU2dYTkRNSDdpTmtVeTEyZXd1dXUzU1JSd3VzWTB2N3hnSDVoa2FNNkRiY214Z253WlgzT2RwcDBiVw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Awful Announcing"
       }
     ],
     "games": []
