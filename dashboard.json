@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T03:37:11.976259+00:00",
+  "generated_at": "2026-06-15T03:52:17.859797+00:00",
   "duke": {
     "news": [
       {
@@ -192,6 +192,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "YouTube Gold:Duke-Wake Forest, 1987, Featuring The Great Muggsy Bogues",
+        "description": "",
+        "published": "2026-06-10T11:06:06+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQLVhzQnJVd00tcG41YWJCTlZyQmtyZDlfa3JBbUVyVC1DUjROcERzQVRpMWZ5c1RTcTEwQ256UXFNN3YxNVFDTlRIdnJzaUJzZ1g5Ty03X1NGMWEyUlhibmhjem5fNkowTkZPdW5MTmFFQ1JzeFlqZm5jMVhORXhLWDdPRFNnM09K?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Duke Basketball Report"
+      },
+      {
         "headline": "Why Duke Basketball's Transfer Portal Class Is Underrated",
         "description": "",
         "published": "2026-06-10T10:00:00+00:00",
@@ -244,15 +253,6 @@
         "image": null,
         "recruiting": false,
         "source": "The Fayetteville Observer"
-      },
-      {
-        "headline": "Ranking Every Projected Starter for Duke Basketball",
-        "description": "",
-        "published": "2026-06-05T13:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeTB4NVdzUFc1eUhRYnZrZFR5VDJ5bDd5eTJtWk90REtMcnNfZVV1cjM4bEY2Rnl4WS1HN3c4S3JoUHNXWHN6MXVNc1ViNE1RQzZCc3l1ekNfTVVsR1QwZ0hHc1hzUG5kbHQ4aGQ5N1RtZGZPZk9PU2J1MWxteVhfMnZPa21iV0lkc2J2ZVk4NA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
       }
     ],
     "games": [
@@ -579,10 +579,10 @@
         "headline": "New York Knicks earn first NBA championship in 53 years",
         "description": "",
         "published": "2026-06-14T12:01:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVWNaWnJpRF9wbEZmWW91ZWhDZFRwVlFnZTBrR0phNUtGSTdXMHlqWmtFaGhiYU9COW04ZXNXRmxRcVZhaEJGLUZYMHhsY0lkVnRCbEV1MDZVTnVDN2tlZlZfSVIwcXRJdFNmRTNtTzBmUnZxNVVsM3Nxb0d3S0tFeG1nem1GSThfVG9mNWdONHh6Mm9oUVFQWg?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQcVF5bVBvQ1VPN3hoTFZJRUNFeExuUkdmZWdyYjdvZ0xsNGRBSzhWbUhhS3hZbGlYWHB6TE4zQWdab0xha2J6ZHZfb3QyUUtqQ1ZqaEVCZlF1bWE5dXVxZHZhb21fTWV2aGZ4eDQtSWNMTUtFa251VGtrVEREbjlDVl9ZUVdpajgtcW1COEZDUHZPUGFMY2dCbg?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "WGAL"
+        "source": "KOCO"
       },
       {
         "headline": "Knicks win NBA Finals, and Karl-Anthony Towns is a champion",
@@ -675,6 +675,15 @@
         "source": "Georgia Tech Athletics"
       },
       {
+        "headline": "A night of raw emotion and chaos: 63 arrested as Knicks fans celebrate NBA championship",
+        "description": "",
+        "published": "2026-06-14T03:37:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5zY3E3R0dEZ1ZrX2c0WjBtZlE1b045UHhJT3hrNU83WjVMQ3hINjZnZDlfVXg1MkRzRVJtWWZsLWx6bWgxVnZkZmxUTjV5UFVVMm5DRHlpOWh5OWpsbVJNRVA5MmxRei12bnk0dlA0UjBacnRESlE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CNN"
+      },
+      {
         "headline": "Former Ohio State Player, Assistant Coach Chris Jent Wins NBA Championship with New York Knicks",
         "description": "",
         "published": "2026-06-14T03:31:06+00:00",
@@ -727,15 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "Awful Announcing"
-      },
-      {
-        "headline": "\"I was not surprised by how racist this country is\" - Andre Iguodala reflected on racism NBA players continue to face",
-        "description": "",
-        "published": "2026-06-13T23:31:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYzFmZUpxd2VNS2M0Rk45QUZxT3hiQ2tCSnE0LVlKcGhMTFcwZU9XVkdIcWZLTXNWMUstQkFKS3QweXlaRmlOSEN2dGVNRzMyMFRJWnhBUDIzZjV5MVVpV2otMXN5M1R0by1SUkMteWZXeFZ0M1VCT1JnT1hCUTJvTmQ3RzVvcHFZaHFiTzZsWUhBSmU1TDFJS3V6OEg4MWNHdDJ6bWpBV1JlTVBqRGZnVg?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Basketball Network"
       }
     ],
     "games": []
