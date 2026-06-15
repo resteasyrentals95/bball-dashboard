@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T14:41:08.667007+00:00",
+  "generated_at": "2026-06-15T14:56:15.665146+00:00",
   "duke": {
     "news": [
       {
@@ -111,6 +111,15 @@
         "source": "Sports Illustrated"
       },
       {
+        "headline": "Why Recent History Favors Duke Basketball in Bout With Gonzaga",
+        "description": "",
+        "published": "2026-06-12T11:00:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGdUdGk2WWNSTmdUNHlPcEIzU0lxYklwX3lEamR4bXRJdVlIbkZSa3MtS3pDSThBSm93WWZ2c1IxOWpta3A5cmcyV01xb3Bfc1BwbjRiUHNzSDVGYWdKOU9RYUdWdHFoR2tGSF9DU3NzZWs0X25IcHlabWhvVS1HU0RTMnQ3akRLQzh4ZmN1Zm1ydXp6QWN2OQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
         "headline": "YouTube Gold: Duke\u2019s Smartest Point Guard Ever?",
         "description": "",
         "published": "2026-06-12T10:38:00+00:00",
@@ -172,15 +181,6 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Duke's next international star is about to get a massive opportunity before he ever plays a game for Jon Scheyer",
-        "description": "",
-        "published": "2026-06-10T11:43:56+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNcUpzOW5jM1Zxa3dnUUZZdldhbWxzTW5qbEJDTDdnS01SNlpuTWppVW9uckc0NFNRTGpjZDNsanBIeE5WUG9KZkVNNHgtRExrREgzRXlxdjF5eWZmUFViSV9DWEY2M2htd2tZaGI3STdrVEpyTXZXZEZidlBYSHFWUWYwbFRmbFlPcDdnbm91R2d1UDl3dDZjLUpVV3llN1RBSGRnZE9WS2hEcV9uVG1fUmtncWM0TV9TbGY0QXduVUZwZzZYRkZDMmEwR1NnRjFhVVhIVXlLYVp5YlRWUUlCYWZQUlNZdw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Busting Brackets"
       },
       {
         "headline": "Men's transfer portal superlatives: Louisville, Duke, St. John's headline winners",
@@ -486,9 +486,18 @@
   "nba": {
     "news": [
       {
+        "headline": "Sources: Darryn Peterson visits Wizards, won't meet other teams",
+        "description": "Top NBA draft prospect Darryn Peterson has visited the Wizards but does not plan to grant another team a meeting, sources told ESPN.",
+        "published": "2026-06-15T14:52:03Z",
+        "link": "https://www.espn.com/nba/story/_/id/49071272/sources-darryn-peterson-visits-wizards-meet-other-teams",
+        "image": "https://a.espncdn.com/photo/2026/0507/r1655021_1296x729_16-9.jpg",
+        "recruiting": true,
+        "source": "ESPN"
+      },
+      {
         "headline": "The Knicks made a championship run that will be remembered in New York and in NBA history",
         "description": "",
-        "published": "2026-06-15T14:30:53+00:00",
+        "published": "2026-06-15T14:46:51+00:00",
         "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdU1Ub1ByTGlpSzdQelVFUDE4NXFod1IxZWtYcmpndWVfRWhMSnBCODVqcFVDWVc5QldabnBqUXBNY3hLTWxHQ3pxeTBmU1Q0aHhFQVh4T00wSC1UQl9QTG5iZG9VS2RTRGN4TEtiNnJ6N1B3cnhqWTh4cEVURTRveGxpN1FFS3BONUIydWk5ZkZqZ3lGVm9mTFBrRlp3VEJOODhraTYwN21rNzR3TktHZjZxQTFtSUN6UGtWMmxjSzBnQQ?oc=5",
         "image": null,
         "recruiting": false,
@@ -513,15 +522,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "Sources: Darryn Peterson visits Wizards, won't meet other teams",
-        "description": "Top NBA draft prospect Darryn Peterson has visited the Wizards but does not plan to grant another team a meeting, sources told ESPN.",
-        "published": "2026-06-15T14:21:59Z",
-        "link": "https://www.espn.com/nba/story/_/id/49071272/sources-darryn-peterson-visits-wizards-meet-other-teams",
-        "image": "https://a.espncdn.com/photo/2026/0507/r1655021_1296x729_16-9.jpg",
-        "recruiting": true,
-        "source": "ESPN"
-      },
-      {
         "headline": "Where could Arkansas basketball's Darius Acuff Jr., Meleek Thomas go in NBA Draft?",
         "description": "",
         "published": "2026-06-15T13:34:49+00:00",
@@ -538,6 +538,15 @@
         "image": "https://a.espncdn.com/photo/2026/0614/nba_mock_draft_16x9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Jalen Brunson is one of the five worst NBA Finals MVPs ever according to one key stat",
+        "description": "",
+        "published": "2026-06-15T13:07:30+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNeE5zajFSYmZNTHg5Qm9VUDVGeFk1dlJzSTE4Y2xSQlBMVUtBa1lRTTFqTFNpaWJjMWhhUnBtcXJBd0ZtU1lpdlZHb0dSZXlud1k3WUtwRGJHRzdndjlyWHJWU1QtcFRzWER6d0tNUUl2LXk5TkRmZWEzYUFzYldLMGpNQQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "NBA Draft: Top 5 draft prospects from outside the high-major ranks",
@@ -558,15 +567,6 @@
         "source": "the-sun.com"
       },
       {
-        "headline": "No other pair of teammates in @NBA history has \u2026",
-        "description": "",
-        "published": "2026-06-15T12:09:57+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPenJUZUhrRFBCWTAwWGhkdlRhUVprYTRPRm80VmNSRWhGZ256Nk5lZDFYS0ZveUxha3BGdUxnelJIT25tZTNJVmlhYWhyek1fcDBocnRGblFySWNFVTVWcURMRVMyRWg4czlpanUwLWZnVW5vVTZ4MERUektLcy1DN1ln?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "2027 NBA championship odds: Spurs early favorites to win it all, followed by Thunder and Celtics",
         "description": "With the 2025-26 season wrapped up, here's an early look at the odds for the 2027 NBA Finals.",
         "published": "2026-06-14T21:14:20Z",
@@ -583,6 +583,15 @@
         "image": null,
         "recruiting": false,
         "source": "Boston Herald"
+      },
+      {
+        "headline": "The Knicks just won their first NBA title in 53 years. Here's everything happening on and off the court.",
+        "description": "",
+        "published": "2026-06-14T18:29:31+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWE9sejlyQlFEMklJeDVqeXc4UDdFV045NGx0Q2hoem81Y0NfdHJGT09JQVBNWkZKZmxBODd4czVkUFlUbHA0UUZMN3R3dk0tWW11UnJ5NVlGcUNfUXFJU05nbUZ6T3hKZ09nLTJFOHBJeFlhMkN4c3JBeWN3STQxdFRnZVR6MHpSZGYxenB3dkxITDhtN1JWMzZYRTd6SVFsZmNpNW85VlFBTnRaTE1DUmp3bVpOM2RMNWs3WTZSM1hleFUyT0FwdW9KbTFfaTdOdV82dHk3ckpjMFdLU19aLW5MMENqOG1MeGc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo"
       },
       {
         "headline": "Jalen Brunson, NBA champion and finals MVP, is officially the greatest Knick ever",
@@ -691,15 +700,6 @@
         "image": null,
         "recruiting": false,
         "source": "NBC News"
-      },
-      {
-        "headline": "New York Knicks win 2026 NBA Finals: Their path to a championship",
-        "description": "",
-        "published": "2026-06-14T03:30:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRUc4SjRWNWVDNnRHTjg2ejB3Yk13dkxNQVJPdUV2bm5HWXdRdVB3V1NWSWJFY0VDMElDdWR3eldPZU5uUmlVZVFoYXc1bnAtT19LeG01X2ZnRGltSExwdmdvdGZSZUlPeGY4eUhKcUxmVUM1cHhnRG1hTzYxbk5BME9obXNtY2pOWDY0b1RGZDBhek9MRllhLU56a0s3bkljNE90TFR2RDMtSm1mNTRWOXNzUUc3Sk1US0dvMmdMa1lOcDZoY0V4bndn?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
       },
       {
         "headline": "Knicks rally again vs. Spurs, capture first NBA title since 1973",
