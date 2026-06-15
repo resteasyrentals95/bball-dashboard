@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-06-15T16:57:02.943762+00:00",
+  "generated_at": "2026-06-15T17:12:09.085012+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "Duke commit Joaquim Boumtje-Boumtje on overseas development, Jon Scheyer\u2019s recruitment, and rising expectations",
+        "description": "",
+        "published": "2026-06-15T14:16:44+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdnF1QUV1LTlTQzB2ckl6azRHX0hSb0Y4VW4za3B1cHZ4VldBWjA1RFNORDh6b0ctaTNXSlYtMk9ETzk0ZWl3OEp5YjY1ZEdqQlgxUHdBR09TLVFWUzRjZzN3VDhfLTNjRElOa0RaUHk4UURQY3l0Ml9Rd3pBVFR5aHUwamd4YVBHWVBmVzVyc0JrVktGeFpGZFdTbUdYdUFXVldMOGJWT19uNW1GaEpzZUxHWUU1MFJLMFp1ajRtc2xPVjljc2Q4cGIza29JWjhNaUlMRW1SejQ?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "On3"
+      },
       {
         "headline": "Underrated Factor That Should Keep Duke's Boozer in Top Pick Debate",
         "description": "",
@@ -162,15 +171,6 @@
         "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRnBjYjF1MEp6RTl5NWd0ZkhKaXcwcnNReVBJQzJjSEoxWWl2T3pDMjR3UWpUU3FuV1hyV2o5WmdNRDdvMzkzNktyNFhrNVcyN2J5T00tNGMxTFVQUjZabWp4Y2prb3R6Y3dWWk01aVZIRXRzS2lKY0NFMVJvYnV4Z0ItZWhfM21VSjdqRWRKNUFUa0hVQkQ1bjlxZWh2ZW1yV2dwbmF3TTFpUQ?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Where Duke Basketball's Transfer Portal Class Stacks Up Nationally",
-        "description": "",
-        "published": "2026-06-10T14:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQXFOaXE0QkZQQ1FkZEhmMlFSYS14RlFKNV80cEhpUmRJUndSQ0J2bW0xeHlHOXNIWWVnUDRxTUExdFl4S3BlSkppSGdiY0R5bzZFd05DRGNyMzlJVHRyaDNMeFdYQjRscDg5U3dmOUREZVM5NFU1aGRWMHZ6RjJXb1g5ZUU5WkNmR2VCLXZtb3d1bXBHYy1CX2VXeXNOS3JaOXdhczNn?oc=5",
-        "image": null,
-        "recruiting": true,
         "source": "Sports Illustrated"
       },
       {
@@ -486,6 +486,33 @@
   "nba": {
     "news": [
       {
+        "headline": "Knicks Offseason Outlook After NBA Title Stream of National Basketball Association",
+        "description": "",
+        "published": "2026-06-15T17:05:56+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPX0tvamZ1ZF9jWWNKaG1jSU90S291aWhJb3ZmMkVUamRCQTAwRE5sS2dfUXVLbXlXLXZsNmVNVjgyeW5md1dBX2Rrb1pnU05icWRlejE5Vk9FajNtZ3gtUGJpcXlXYXZONmNKVThWbHlmQ2p5NE9uenBWQzhKbmVIVGZhQVp0NWJpdFE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CBS Sports"
+      },
+      {
+        "headline": "The Knicks made a championship run that will be remembered in New York and in NBA history",
+        "description": "",
+        "published": "2026-06-15T17:00:18+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdU1Ub1ByTGlpSzdQelVFUDE4NXFod1IxZWtYcmpndWVfRWhMSnBCODVqcFVDWVc5QldabnBqUXBNY3hLTWxHQ3pxeTBmU1Q0aHhFQVh4T00wSC1UQl9QTG5iZG9VS2RTRGN4TEtiNnJ6N1B3cnhqWTh4cEVURTRveGxpN1FFS3BONUIydWk5ZkZqZ3lGVm9mTFBrRlp3VEJOODhraTYwN21rNzR3TktHZjZxQTFtSUN6UGtWMmxjSzBnQQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Washington Post"
+      },
+      {
+        "headline": "NBA offseason 2026: 10 teams that will define the summer",
+        "description": "With LeBron and Giannis' futures uncertain and contender questions looming large, these 10 teams could decide how the NBA offseason unfolds.",
+        "published": "2026-06-15T16:57:11Z",
+        "link": "https://www.espn.com/nba/story/_/id/49013444/nba-offseason-2026-lebron-lakers-giannis-bucks-heat-thunder-10-most-interesting-teams",
+        "image": "https://a.espncdn.com/photo/2026/0609/r1670490_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "NBA coaching carousel: Firings, hirings, what's next for each job",
         "description": "Chicago, Orlando, New Orleans and Milwaukee have found their next coaches, while Dallas and Portland's searches continue. Here's what lies ahead for each franchise.",
         "published": "2026-06-15T16:50:46Z",
@@ -495,15 +522,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "Knicks Offseason Outlook After NBA Title Stream of National Basketball Association",
-        "description": "",
-        "published": "2026-06-15T16:47:21+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYUZXWGlnQkZ6N0VUeEhSYlktWTJ2QS1wLWhPR19ZQ1l4Z0dCQ1ptN0s0RUxyZVl0T3VTZFBEVWdYS0lyT3QxQWMxREFzZTNib0dialdmTkoyVkZpaFlTbGFqS21sekQ3dWhVbXNyRU82Vm82YW14MDdITkZsWk40WnI3OEdfclQyQ0pTV3VWOA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "CBS Sports"
-      },
-      {
         "headline": "KU basketball\u2019s Darryn Peterson will only work out with one NBA team, report says",
         "description": "",
         "published": "2026-06-15T16:43:40+00:00",
@@ -511,6 +529,15 @@
         "image": null,
         "recruiting": false,
         "source": "Kansas City Star"
+      },
+      {
+        "headline": "New details of James Harden\u2019s gun arrest emerge as NBA star\u2019s mugshot released",
+        "description": "",
+        "published": "2026-06-15T16:39:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVhUOUhwT0I0Z3RIZFBmWkVuREYwcE5JOUJFamh6S0ljS3NHamFON2tfYnh0eldXbDZXeFgwU2pNeExRYmNpRFo2LXFGczBiNGhXMDVabS15N2ZIcTY5UU1rS1Q1R0gtTFpsaGNZSS1USGhtcnR3VXZ0T1JnXzh0MFFwVm1pS2xVU0xlWW1KZXlVNlZ4QmZRZWU1ZDhGYlNfSW5DVllGeXRtTWN3eG94d0ZpVG8?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "New York Post"
       },
       {
         "headline": "Sources: Bulls finalizing hire of Tiago Splitter as head coach",
@@ -529,15 +556,6 @@
         "image": null,
         "recruiting": false,
         "source": "People.com"
-      },
-      {
-        "headline": "The Knicks made a championship run that will be remembered in New York and in NBA history",
-        "description": "",
-        "published": "2026-06-15T16:16:51+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNdU1Ub1ByTGlpSzdQelVFUDE4NXFod1IxZWtYcmpndWVfRWhMSnBCODVqcFVDWVc5QldabnBqUXBNY3hLTWxHQ3pxeTBmU1Q0aHhFQVh4T00wSC1UQl9QTG5iZG9VS2RTRGN4TEtiNnJ6N1B3cnhqWTh4cEVURTRveGxpN1FFS3BONUIydWk5ZkZqZ3lGVm9mTFBrRlp3VEJOODhraTYwN21rNzR3TktHZjZxQTFtSUN6UGtWMmxjSzBnQQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Washington Post"
       },
       {
         "headline": "NBA title winner Anunoby predicts UK basketball boom",
@@ -576,15 +594,6 @@
         "source": "Fortune"
       },
       {
-        "headline": "'The Hoop Collective': Episodes of Brian Windhorst's NBA podcast",
-        "description": "Here are the top highlights from Brian Windhorst's \"The Hoop Collective\" podcast, from breaking news to the latest intel and reaction from around the NBA.",
-        "published": "2026-06-15T15:18:24Z",
-        "link": "https://www.espn.com/nba/story/_/id/47168192/the-hoop-collective-latest-episodes-brian-windhorst-nba-podcast-archive-best-quotes",
-        "image": "https://a.espncdn.com/photo/2025/1112/r1574751_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "Why Nate Ament could contribute to a championship in latest NBA draft projections",
         "description": "",
         "published": "2026-06-15T15:01:00+00:00",
@@ -603,13 +612,13 @@
         "source": "Sports Illustrated"
       },
       {
-        "headline": "New York Knicks Will Celebrate Their NBA Title With the Wu-Tang Clan on \u2018Fallon\u2019",
+        "headline": "The Bounce: The Knicks enjoy the biggest NBA celebration ever. What\u2019s next?",
         "description": "",
-        "published": "2026-06-15T14:09:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUUs1TVp0OUtNSGxsTVVNSnVaSFZQQl8tUjI4YmFHQ2NZZ2xScTdfYlVFcFFuRVRpd0dMdFVTa09aOHIySG5FUGRNbzNyZ1NKdlJ1QklCQTZqdkhONVluLVpxd3pTeFZ5V0x6QTB1Q0dOZU9Gc1RQRUV5TG5GemJlVnl1U3AwdUE?oc=5",
+        "published": "2026-06-15T14:15:52+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWU4wSDZGSC1KT05kLVlwUDJQZllLS3h3X3RubWhUNER2V1c2VEJlQTQ5ZXZvOFcyUzc4RW5aa1pfYmFXWTJDOUgwbV9HdFdUR0JURHdNemZWQVZIa09DWUZLOUtiakg1RUVKM1R2Yzh4S1JLZUJKNjFHS1pIbXQ0N0RuTERjOVlYQXJsNHdFR3VlVk9HblpKYWhzZkN1dTk2cTJLXw?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Yahoo Sports"
+        "source": "The New York Times"
       },
       {
         "headline": "'Gross' - ESPN ripped for using AI 'slop' images following NBA Finals to celebrate New York Knicks championship",
@@ -639,15 +648,6 @@
         "source": "Boston Herald"
       },
       {
-        "headline": "The Knicks just won their first NBA title in 53 years. Here's everything happening on and off the court.",
-        "description": "",
-        "published": "2026-06-14T18:29:31+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOWE9sejlyQlFEMklJeDVqeXc4UDdFV045NGx0Q2hoem81Y0NfdHJGT09JQVBNWkZKZmxBODd4czVkUFlUbHA0UUZMN3R3dk0tWW11UnJ5NVlGcUNfUXFJU05nbUZ6T3hKZ09nLTJFOHBJeFlhMkN4c3JBeWN3STQxdFRnZVR6MHpSZGYxenB3dkxITDhtN1JWMzZYRTd6SVFsZmNpNW85VlFBTnRaTE1DUmp3bVpOM2RMNWs3WTZSM1hleFUyT0FwdW9KbTFfaTdOdV82dHk3ckpjMFdLU19aLW5MMENqOG1MeGc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo"
-      },
-      {
         "headline": "The NBA offseason begins, with lots of eyes on Giannis Antetokounmpo, LeBron James and more",
         "description": "",
         "published": "2026-06-14T16:17:00+00:00",
@@ -655,15 +655,6 @@
         "image": null,
         "recruiting": false,
         "source": "AP News"
-      },
-      {
-        "headline": "Victor Wembanyama's woes, Spurs NBA Finals collapse highlight championship lessons that must be addressed",
-        "description": "",
-        "published": "2026-06-14T15:55:44+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQV1VvdkF3WVZxaGotQ3JncGhNNEdMNnVGT0MyQ1VGWFdGVWRhUXFUcER4c09vbG11TVpiSDRhUVJrQ0dOaldzU3dhcHJILVNBWmpBdUljMVRYNFU1d2dtZWU1UV9Qc1NXYjY4NVR2MGNqTWF0UEt6TDBxVkdqREZxR1Fobko3QjFXS2tZNVljYUd2WE5iTUNxMFBmaXFqbDRLRGktNDN5TUtHeUVpZHpLaQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ClutchPoints"
       },
       {
         "headline": "McCullar wins NBA title as member of Knicks",
@@ -700,6 +691,15 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Game recap: Knicks win first NBA title since 1973 with Game 5 win",
+        "description": "",
+        "published": "2026-06-14T06:02:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOYWZ5dkNsdHdxb0plWGp4Ry1leC03bWtzSkE0SHFWX2NWbm1WNEtSNHRBWTNJYkdpZ1h1TkU5T0plSmNQTG56VlVrM0t5cDJFWEZhV0lkZWNxM3A0SXF3SmhleTNfd3piNkk2OEhIOG9nMlo4dlJDby0yUDRmN0dudG5lUXBmRWk2UE04VnVIT09pR2FrZ0JwVTI2alR0dzRqcEh3TVZCYzRLbTB6WGxPdjlSYUZSbmVEdUtBSl9aMjjSAcgBQVVfeXFMUDBQczRIb3MzTXQ2ODB5ZkR4bmQxdlBQVUt2UlViQm4yUGtGRk93dXlfZll4cGwwbUVSRklSN2tsWm1aY2NvMlFLS1E0d0tZM1dsN3RITjR1QWlEeFoyU082TThZSUJqcktKajc1V2J3Mnhaenlhc2RQclFCUnI0U3UtT2QtRmk1MzVzNnlRNjlpa01jWFZCWDZXQjktQVZYUk9yUU5QVjdpN1hTTGlsaW95WWg3WEVONUxnT1dHTDlnVG01YVU0VUc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBC New York"
       },
       {
         "headline": "Jose Alvarado Wins NBA Championship",
