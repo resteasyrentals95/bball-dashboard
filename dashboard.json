@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T15:41:32.543341+00:00",
+  "generated_at": "2026-06-15T15:56:38.025952+00:00",
   "duke": {
     "news": [
       {
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Sources: Bulls finalizing hire of Tiago Splitter as head coach",
+        "description": "Chicago is finalizing the hire of Tiago Splitter, who guided the Trail Blazers to a 42-20 record, to succeed Billy Donovan as the Bulls' head coach, sources told ESPN.",
+        "published": "2026-06-15T15:55:08Z",
+        "link": "https://www.espn.com/nba/story/_/id/49072541/sources-bulls-finalizing-hire-tiago-splitter-head-coach",
+        "image": "https://a.espncdn.com/photo/2026/0615/r1673538_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "'The Hoop Collective': Episodes of Brian Windhorst's NBA podcast",
         "description": "Here are the top highlights from Brian Windhorst's \"The Hoop Collective\" podcast, from breaking news to the latest intel and reaction from around the NBA.",
         "published": "2026-06-15T15:18:24Z",
@@ -540,22 +549,13 @@
         "source": "Sports Illustrated"
       },
       {
-        "headline": "New York Knicks Will Celebrate Their NBA Title With the Wu-Tang Clan on \u2018Fallon\u2019",
+        "headline": "Where could Arkansas basketball's Darius Acuff Jr., Meleek Thomas go in NBA Draft?",
         "description": "",
-        "published": "2026-06-15T14:09:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNUUs1TVp0OUtNSGxsTVVNSnVaSFZQQl8tUjI4YmFHQ2NZZ2xScTdfYlVFcFFuRVRpd0dMdFVTa09aOHIySG5FUGRNbzNyZ1NKdlJ1QklCQTZqdkhONVluLVpxd3pTeFZ5V0x6QTB1Q0dOZU9Gc1RQRUV5TG5GemJlVnl1U3AwdUE?oc=5",
+        "published": "2026-06-15T13:34:49+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcmhFLXd1c3ZQclR5ZHZKTzBtWGlhUl9fMmRBVTZ0LU1ReDhRMUhZeGZJelozYmc5VW1zbzE1cFR4RjdoaWd2RUM2OWxiOUd0cmticFRvUDNmSjNyR2NWNDF4eEFPNkl6Slk2Y2g4aEJPQ1VQMkU5N19obE1nYjlsTG1kYU8xUEJYVW5VWmFKYWR1QQ?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
-      },
-      {
-        "headline": "2026 NBA mock draft: Projecting all 60 picks in Rounds 1 and 2",
-        "description": "We have an updated 2026 mock draft, predicting all 60 picks as trade talks heat up a week out from draft night.",
-        "published": "2026-06-15T13:11:12Z",
-        "link": "https://www.espn.com/nba/story/_/id/49041464/2026-nba-mock-draft-projecting-60-picks-draft-night-trade-talks-boozer-peterson-dybantsa-acuff",
-        "image": "https://a.espncdn.com/photo/2026/0614/nba_mock_draft_16x9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
       },
       {
         "headline": "Jalen Brunson is one of the five worst NBA Finals MVPs ever according to one key stat",
@@ -585,15 +585,6 @@
         "source": "Good Morning America"
       },
       {
-        "headline": "Where could Former UVA Center Ugonna Onyenso Land in the 2026 NBA Draft?",
-        "description": "",
-        "published": "2026-06-15T11:00:08+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT003Xzc4Xy1hVWVwWXZlRGNZWUxfTmNCVDRVVWU3QkVXRGkyMWdpOEVtRkRST19ibHpvcVRid1hqNnRuTDQ4aTZKSWxuRkEycy1DQkpzbU9zRHFaMFp1bENhWGp6OVZpZlVHLThKM1E4OVBZWGktWXFvZEFYQnpmSTRUczY?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "Celtics reportedly make trade offer for NBA superstar Giannis Antetokounmpo",
         "description": "",
         "published": "2026-06-14T19:41:03+00:00",
@@ -610,6 +601,15 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo"
+      },
+      {
+        "headline": "Jalen Brunson, NBA champion and finals MVP, is officially the greatest Knick ever",
+        "description": "",
+        "published": "2026-06-14T16:20:57+00:00",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVVUtOFZMcWIzNkw3YVNQUVoyQWVCaFRocjhtX0hzRWpsaWtYbGczLUw1cDh4cWVaNExqUG9mdWNId0dFSmMwUTFTMC1pV2xka3FrTGNGbUFTM3Uxbm1KVkI0TGE3a0lXaEx4R3Z3NUd4Z0pUUTJBLVBLdnJJRV9CZWlSUktiQnE2ZjZ0SHJ1cmtHbzVTcVNyRXRzc1l4aV9x?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The New York Times"
       },
       {
         "headline": "The NBA offseason begins, with lots of eyes on Giannis Antetokounmpo, LeBron James and more",
