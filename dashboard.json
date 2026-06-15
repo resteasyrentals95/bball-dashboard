@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T16:41:56.763272+00:00",
+  "generated_at": "2026-06-15T16:57:02.943762+00:00",
   "duke": {
     "news": [
       {
@@ -488,11 +488,29 @@
       {
         "headline": "NBA coaching carousel: Firings, hirings, what's next for each job",
         "description": "Chicago, Orlando, New Orleans and Milwaukee have found their next coaches, while Dallas and Portland's searches continue. Here's what lies ahead for each franchise.",
-        "published": "2026-06-15T16:40:02Z",
+        "published": "2026-06-15T16:50:46Z",
         "link": "https://www.espn.com/nba/story/_/id/48413861/nba-coaching-carousel-firings-hirings-next-job",
         "image": "https://a.espncdn.com/photo/2025/1025/r1565559_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Knicks Offseason Outlook After NBA Title Stream of National Basketball Association",
+        "description": "",
+        "published": "2026-06-15T16:47:21+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQYUZXWGlnQkZ6N0VUeEhSYlktWTJ2QS1wLWhPR19ZQ1l4Z0dCQ1ptN0s0RUxyZVl0T3VTZFBEVWdYS0lyT3QxQWMxREFzZTNib0dialdmTkoyVkZpaFlTbGFqS21sekQ3dWhVbXNyRU82Vm82YW14MDdITkZsWk40WnI3OEdfclQyQ0pTV3VWOA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CBS Sports"
+      },
+      {
+        "headline": "KU basketball\u2019s Darryn Peterson will only work out with one NBA team, report says",
+        "description": "",
+        "published": "2026-06-15T16:43:40+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcVBjM0JXN2ZMN21sMVY5UXdISGtCRGQ5LTJBb19SYktTbFUyVS14NWQ3bGxkYjVvUWQtYTBRNGVHcE5kWkp2N3UtcmZ2UEpQMExnQ01jcWF4NGM4OTlSX2tUTUgtUGxxS2EtSnQtbWJMRGZvbEJ0U1RUb08zZ0NGQ2ttX3hNN19xcXJ5TENJRGFoc3hqNWfSAZYBQVVfeXFMT3JoSnZkb0hDdmxnWURhUTQxcFBnRjZWUG94Ql9ZYmFobExyV2FISTlsN3hFdE5kazF0bUJVOWJFLUoyLXhILXVBcWhqTnE3QUZFdzcySU9BQ2NGNnhBT012ZldfN0NIOUJCYURyN3FwcUcwTjhwVE01NlNiRlJZX09mVGVBWHQyM0JFRGxzZG9aRGxKUmJB?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Kansas City Star"
       },
       {
         "headline": "Sources: Bulls finalizing hire of Tiago Splitter as head coach",
@@ -520,6 +538,15 @@
         "image": null,
         "recruiting": false,
         "source": "The Washington Post"
+      },
+      {
+        "headline": "NBA title winner Anunoby predicts UK basketball boom",
+        "description": "",
+        "published": "2026-06-15T16:01:59+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOemhiTXNjNVV1ZEZPNVc3NFZyUzBrQy1vMGtJTUhidnJ5UVg5ZHRYV0x3WXJFOXF6Tk8taERrZWRGQVJhV1FmNHJubGt5MkdPNTFXdC1icEdBMXBYRWlHRU5yeTYwUGptTUNlMDRsd0RmanZmbUhiSDRYb3ktZTdGZm55NkwzWGxua1E?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "NBA: OG Anunoby eyes UK basketball boom after New York Knicks' Finals win",
@@ -585,15 +612,6 @@
         "source": "Yahoo Sports"
       },
       {
-        "headline": "Where could Arkansas basketball's Darius Acuff Jr., Meleek Thomas go in NBA Draft?",
-        "description": "",
-        "published": "2026-06-15T13:34:49+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOcmhFLXd1c3ZQclR5ZHZKTzBtWGlhUl9fMmRBVTZ0LU1ReDhRMUhZeGZJelozYmc5VW1zbzE1cFR4RjdoaWd2RUM2OWxiOUd0cmticFRvUDNmSjNyR2NWNDF4eEFPNkl6Slk2Y2g4aEJPQ1VQMkU5N19obE1nYjlsTG1kYU8xUEJYVW5VWmFKYWR1QQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "'Gross' - ESPN ripped for using AI 'slop' images following NBA Finals to celebrate New York Knicks championship",
         "description": "",
         "published": "2026-06-15T12:29:35+00:00",
@@ -603,22 +621,13 @@
         "source": "the-sun.com"
       },
       {
-        "headline": "Knicks starting 5 call NBA Championship win a 'once in a lifetime event'",
+        "headline": "Knicks stars celebrate historic NBA championship, emotional return to NYC",
         "description": "",
         "published": "2026-06-15T11:48:46+00:00",
         "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNZmVNSVJfUk5IWloyQmZkRHNBcjMwQ2hLZE9ndURza2hISW9PZngzaW56bU5vbjlZUjRQcVd0aHVMMlZaN0tQUjJHeUpaU3RRZTJPclhibEVVRXg1QjczNWk0R1N5cXJaQ25vTGU3VXg1cV9URU43SVFiMFVsYlByRjEzelNtSERRUnB5SDhCR3RESnpnQUJHVHVQbnZDWkNRa2M2X1ZzOWRpanY3QmJCZdIBtgFBVV95cUxPRTd1YWNoYmoxLUUzekNVZW1fMHAtWXJCaktVZms1RUxSbGNESEREZzNkcldwVXNxSDMzUU5aMzRZUDhrQ3d6UHk1TENNQ21rbWpiRG9yZEYwSEJNTkpYZ0JlYXJ0UjFaV3BqV3dPcXdJUEktb3B5SFdxNk1fcDg5bmE1RGhiYzdCQmFScnlxY0JnMXBvbktUX1YxUUNhdFRrcjlYU25zNkxIbmN4Q25PUzU2NnFpZw?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Good Morning America"
-      },
-      {
-        "headline": "Where could Former UVA Center Ugonna Onyenso Land in the 2026 NBA Draft?",
-        "description": "",
-        "published": "2026-06-15T11:00:08+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNT003Xzc4Xy1hVWVwWXZlRGNZWUxfTmNCVDRVVWU3QkVXRGkyMWdpOEVtRkRST19ibHpvcVRid1hqNnRuTDQ4aTZKSWxuRkEycy1DQkpzbU9zRHFaMFp1bENhWGp6OVZpZlVHLThKM1E4OVBZWGktWXFvZEFYQnpmSTRUczY?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "Celtics reportedly make trade offer for NBA superstar Giannis Antetokounmpo",
@@ -727,15 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Charles Barkley clarifies Spurs \u2018dumbest basketball team\u2019 comments after NBA coaches call him",
-        "description": "",
-        "published": "2026-06-14T01:58:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVnpYbTI2UkhxMkR4STk1NWJvRl90eXdGdFI0Y2dMRHBqSUZnUFgzcVQ3TmlpOGhMdTR4RTlTMGxELVR4dlBPNFdUSWgzdXlwNzNzekIzekdmMksxUnZXQUhaYldsSWhiT3pzLTFEbmFIdlgyc3ZZaS1SSGxQSGYzMjdJc3FFaDE3c2dhRk5WNktZYmx4TTdEdmlLY3FZQzZxdEtz0gGoAUFVX3lxTE1seXV4a2RUZjlQNTM3WktXaW8wUzdUSmZKVzdKNVN1eDNaRVJVZmFjOVExdEU2Y1JRX3FMLUc5RFVCNS11bWhxWHFoTGJ0RkZva0FuS0NKUmZJRUtLemdtN2N0cmIzb0pDTmVoUTNvU2dYTkRNSDdpTmtVeTEyZXd1dXUzU1JSd3VzWTB2N3hnSDVoa2FNNkRiY214Z253WlgzT2RwcDBiVw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Awful Announcing"
       }
     ],
     "games": []
