@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-06-15T02:21:41.809125+00:00",
+  "generated_at": "2026-06-15T02:36:47.947821+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "Former Duke center falls just short of first career NBA title",
+        "description": "",
+        "published": "2026-06-14T19:57:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVlJPb3E5Z0ppQ3F0TklfQ05JYkNUQlNQdEs4VzlyVUFDQlFKQ0hhSmhvaHJQZHAxQWVZcWwyUjRHOUlCUGlkZGotQnNvVEpNcG5TaDRTR2Y3dmw3Y0NDTHNJd3JWY0dpdWcwaE04cVUzRW5VYk02OWJQaDlmNUFYWlc3d2JzSmRBX1VUVDNtbUNUcGdkTEQ1NWI5eENVMWs4cVRMNGx1cjN2N3MtUVlHODh6MWF1djlYd2xZbFJOelJpVzBoX1lRSkVOWWx3dkRpQkFHLUF3aTV4ZWd6d0E?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Duke Wire"
+      },
       {
         "headline": "Duke's offseason work just earned a massive vote of confidence in preseason bracketology",
         "description": "",
@@ -19,15 +28,6 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Duke's Dame Sarr appears focused on the final piece of his NBA Draft puzzle",
-        "description": "",
-        "published": "2026-06-13T20:31:10+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdDRhbnBvNm5fSHNzOUN4Z2lLc2tEM0xtWVQxOTA3SS15LXV3NVNoSFZCdFdNQzBmNFVHVHlUNldFQ3JZYUlhZ2QySzA5SlVkRXVZaE90RVh2MEFWOTRjY2FYUTFBaTJqMm92dklkd08ybHhQX3daZVljRDNwMm4zZzdKOS0xTzhHMlhkS2htNUoxOXZPRmtWdHZKNmdEN3c?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Ball Durham"
       },
       {
         "headline": "Duke Basketball Eyes Top-Shelf 2028 Big Man Yann Kamagate",
@@ -549,6 +549,15 @@
         "source": "The Washington Post"
       },
       {
+        "headline": "Jalen Brunson, NBA champion and finals MVP, is officially the greatest Knick ever",
+        "description": "",
+        "published": "2026-06-14T16:20:57+00:00",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVVUtOFZMcWIzNkw3YVNQUVoyQWVCaFRocjhtX0hzRWpsaWtYbGczLUw1cDh4cWVaNExqUG9mdWNId0dFSmMwUTFTMC1pV2xka3FrTGNGbUFTM3Uxbm1KVkI0TGE3a0lXaEx4R3Z3NUd4Z0pUUTJBLVBLdnJJRV9CZWlSUktiQnE2ZjZ0SHJ1cmtHbzVTcVNyRXRzc1l4aV9x?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The New York Times"
+      },
+      {
         "headline": "Knicks' victory takes them off the list of longest title droughts",
         "description": "Before Saturday night, the last time the Knicks won a title was 1973.",
         "published": "2026-06-14T16:11:10Z",
@@ -727,15 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Charles Barkley clarifies Spurs 'dumbest basketball team' comments after NBA coaches call him",
-        "description": "",
-        "published": "2026-06-14T01:58:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVnpYbTI2UkhxMkR4STk1NWJvRl90eXdGdFI0Y2dMRHBqSUZnUFgzcVQ3TmlpOGhMdTR4RTlTMGxELVR4dlBPNFdUSWgzdXlwNzNzekIzekdmMksxUnZXQUhaYldsSWhiT3pzLTFEbmFIdlgyc3ZZaS1SSGxQSGYzMjdJc3FFaDE3c2dhRk5WNktZYmx4TTdEdmlLY3FZQzZxdEtz?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Awful Announcing"
       }
     ],
     "games": []
