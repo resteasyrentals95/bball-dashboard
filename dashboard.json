@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-06-16T13:54:04.532294+00:00",
+  "generated_at": "2026-06-16T14:09:11.276912+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "Breaking Down Impact of Duke Basketball's Key Returners",
+        "description": "",
+        "published": "2026-06-16T14:00:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNzQ2X0Y4RElTS0xpT202N3FIYTN6ak8tUkdzaTc1LS1yWVFsRkxVTHBBSFJDSW9XaVdfckQ1QWMyX1BQU1RCUjBDTVM3eUdoeDJ5c09BeDlHdnNTRXVERlpkbzIydklOUHl4SDJUa204elhmNkEyVmVDMXZjaWRRMF9fM29xQjFhSUczdHdqaVh4UG8?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
       {
         "headline": "Transfers, recruits and roster moves for key men's NCAA basketball teams",
         "description": "We're tracking all the player movement across key programs during the offseason ahead of 2026-27.",
@@ -46,15 +55,6 @@
         "image": null,
         "recruiting": true,
         "source": "Duke Basketball Report"
-      },
-      {
-        "headline": "Knicks workout Duke shooter Isaiah Evans",
-        "description": "",
-        "published": "2026-06-16T03:56:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOd3otdU9kVVFOR3FOZXh6N1BBSHRkTlV1YTNYMi1fMUgyZmxFeFU4S2xMMXBDVmUwT2g0Uzg1XzlMMjM3aGd6bkpBZjNjbm01VVo5LWhtWXdFbDRWQjl2MWdDSWZXTk45REJ0bDM3eUw1b2dzcDZ1YmlxMms5aXl4RzNON3A5bF9Ec3Rj?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "Duke commit Joaquim Boumtje-Boumtje on overseas development, Jon Scheyer\u2019s recruitment, and rising expectations",
@@ -486,6 +486,24 @@
   "nba": {
     "news": [
       {
+        "headline": "Where Does the 2026 NBA Draft Get Interesting? Stream of National Basketball Association",
+        "description": "",
+        "published": "2026-06-16T14:03:23+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVjFYUWZadkRLaWprM3ZlTFJDV2hWTXFwOEJseWstTk80S2NUdVFRMTNCbEJZXzYtZGxyMVFmRzhtbHVRS1lGQWEyMUhYRmFfVTZubkt2ZEFGcU9WOXVQMmozeGN5Um42OW4ySWltTkFxRnktX2xFX1dlU0ZCT29kb3VpdUlTeVBwaEc1bFdhNmxNM0NFLUE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CBS Sports"
+      },
+      {
+        "headline": "Darryn Peterson's Surprising 2026 NBA Draft Strategy Stream of National Basketball Association",
+        "description": "",
+        "published": "2026-06-16T14:00:45+00:00",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdzRrZjFENk1KMlNuZnBlUWF3SUZHNGF2akVsSmFxOWtudHRidER6SDFrcXRIVEExejZlel9fZ2JPNHE1R2l6LVpybnNzekZhR0QtTVo1TWpVeXVMR3Zvc29MSmJHcTVjM0E2enhZeTVpM3Y1Y3I3M2ZGSkZNcFZ6RkZ4QlJ4aXZfNE1JdWNhZUtaa1J2MTRGYlVmcDJVUQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CBS Sports"
+      },
+      {
         "headline": "Could Peterson still go No. 1? A look at recent NBA mock drafts",
         "description": "",
         "published": "2026-06-16T13:48:20+00:00",
@@ -502,6 +520,15 @@
         "image": "https://a.espncdn.com/photo/2025/1208/r1586688_2_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "3 NBA Draft night trades we want to see",
+        "description": "",
+        "published": "2026-06-16T13:10:16+00:00",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5pMkhyWGphLXozX0g4NThwekZhbWpWMjNpWkktTmtoT2UtV0VuMVkyMll0dkxubjdTdGloTlNWWW5wQ3FrS1lRLUxSOHhKWlhmakxnLUNRTTVCT05YNDJIZDFhanNpb190SDdMTkZlNDJYaVZ4OTZYZm95UVlEQQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "The enduring legacy of 'Sirius,' the Chicago Bulls' entrance anthem",
@@ -522,15 +549,6 @@
         "source": "Duke Basketball Report"
       },
       {
-        "headline": "Iowa basketball PG Bennett Stirtz invited to NBA Draft green room",
-        "description": "",
-        "published": "2026-06-16T11:45:24+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOY1lsbmM1SWdpdWt5LWd2TThFMEE1TTd2WkNCaElFLUw1enJrRy0xS0M2OU5SNG5sTU9FdFVYLURuZFlhUU9jY0hVWjgwM1JEMzhRM0lMaEFtemNxeVMzdFQtQWZacVljQklCTWdpbTVNRWdyM2JfN3U1RzFPMlJnTldtMWtfNFJOdFE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "Why losing the NBA Finals may be the best thing that happened to the Spurs",
         "description": "",
         "published": "2026-06-16T11:27:22+00:00",
@@ -549,6 +567,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "2026 NBA Draft scouting report: Keaton Wagler",
+        "description": "",
+        "published": "2026-06-16T11:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQaGlkano3bzAwSnNGcnppUDUxRWVfbzhuOFo5a3dFTUREVXZGUElubFZ2anZtSmc1X2d1Y0xDdTdCUko1SzlFVmZlV0pQME9wMFNBbmVudkRHNHdSNzJ0UnNhcUltd2hFal9nT1k2OWNFNG5hMUctaXQzTmVyMTRyU3Eyc3Y4dw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "NBA champion John Salley defends dreamers all across America: \u2018There\u2019s no excuses\u2019",
         "description": "",
         "published": "2026-06-16T11:00:00+00:00",
@@ -556,24 +583,6 @@
         "image": null,
         "recruiting": false,
         "source": "New York Post"
-      },
-      {
-        "headline": "NBA champion Knicks' Karl-Anthony Towns, Jose Alvarado inspire pride in Long Island's Dominican, Puerto Rican communities",
-        "description": "",
-        "published": "2026-06-16T10:30:30+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbUQ3RU5uaFFGVlYtZ1BVQVh5bFJvd2JtUjJlWldDQlBmbW1XUHNXSkxFRl9wanlyS01uU1MzZUFHMDQ3YUdSNk4xMkROckZId2FaTFJIRWVRSkVKSkpVNldwLTJ6dDZyRXRWZFVPdXRzUURFT3p2bkdvVTkwZmI3UGtyX3RRZlNtQTdxSUhVZXZydzNOZ05oMFNXYjZkMUJQdTdyUWRrQjNWcVk2bXlEMS1kV2J0WUwzSUVWd19B?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Newsday"
-      },
-      {
-        "headline": "How Donovan Mitchell, Louisville basketball alums fared in NBA season",
-        "description": "",
-        "published": "2026-06-16T09:10:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNzByVnE1cWdVc2lTZndPS0R3UkkwZnVoVXJTc3ZETFEzUXU3NFNEcEpSZEtOcEVFWkZ2dkZ3Q0pSamF0UHAxWFlJdlhVX2dFWjFZSmpxcVFsczVZbHZYVllMMksxWS04cXItZlpMd3ZyMGd0bWhSVVpCNXBfYVJXdWVJRnRVZnAzVFdJSGpzalRQcFFMQm9SVkpWZFFSWXd0a19lS3doejlNWFpTdzF5SmR0QVBiOHlyWDZzTk1BZXdadktlVFgtaGhodGZHajZCZzBFNUdWZVV3QjJUUkJTUzNCbVlGYWhOWGtmSFpZTkJlcUVDbzFSTXEySjQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Courier-Journal"
       },
       {
         "headline": "Dolan asked Knicks to sacrifice for title in April speech",
@@ -648,13 +657,13 @@
         "source": "Sports Illustrated"
       },
       {
-        "headline": "NBA Draft prospect Darryn Peterson reportedly visits Wizards, but won't meet with other teams",
+        "headline": "NBA champion Knicks' Karl-Anthony Towns, Jose Alvarado inspire pride in Long Island's Dominican, Puerto Rican communities",
         "description": "",
-        "published": "2026-06-15T17:29:57+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWC1vYVdvOUktWV9PbWJfX3ZqdEU2Q29vWEFjYXQ2QlZ6R0dWN1lOMHlYZ01rSC13WEQ0ZDZqRDRkUzNDXzFoYy1JMW5OMnJzMHh1SktMOUVVb21VeEdjUXc0WUwxbTdfUWx1WU4zeHFaOUswNmdsS0VjMml4d1lBWjhfS3Iyczd5eXBjdl9hR3FYdWQxZW0zc0ZuUHNDdEh2QWtEMmVuYTU2WUdIVlk5X2RXSHhhVTlDU1ZhbWJNMEtoVlI4a01WWHZJVnZPanRyVlIyZm9tcnRlQk0?oc=5",
+        "published": "2026-06-15T19:03:31+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbUQ3RU5uaFFGVlYtZ1BVQVh5bFJvd2JtUjJlWldDQlBmbW1XUHNXSkxFRl9wanlyS01uU1MzZUFHMDQ3YUdSNk4xMkROckZId2FaTFJIRWVRSkVKSkpVNldwLTJ6dDZyRXRWZFVPdXRzUURFT3p2bkdvVTkwZmI3UGtyX3RRZlNtQTdxSUhVZXZydzNOZ05oMFNXYjZkMUJQdTdyUWRrQjNWcVk2bXlEMS1kV2J0WUwzSUVWd19B?oc=5",
         "image": null,
-        "recruiting": true,
-        "source": "Yahoo Sports"
+        "recruiting": false,
+        "source": "Newsday"
       },
       {
         "headline": "Fans call for Spike Lee to get a Knicks NBA championship ring along with the team",
@@ -711,6 +720,15 @@
         "source": "Syracuse.com"
       },
       {
+        "headline": "The Knicks made a championship run that will be remembered in New York and in NBA history",
+        "description": "",
+        "published": "2026-06-15T13:14:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcnVYVWxXVEJRUlBVb3B4UTI2Vzc2VXBwellzTFlPVFdvM0NLdnVNZGpSRmZOT1dwcXNqbXNHZWVUVHFVQVVkV1NyVDE5ZGh3ZS1tUDJWTFU3WnFNRmhHbXhHbU81WjM3QUpPT1VQMWx4RUdjMnVuRGYzVVkwR3FYYXZHQ2lVNWJyb0Mw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "AP News"
+      },
+      {
         "headline": "\u201cThey said it couldn\u2019t be done in Skechers\u201d \u2013 OG Anunoby makes NBA history with his shoes",
         "description": "",
         "published": "2026-06-15T13:05:00+00:00",
@@ -718,24 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "Basketball Network"
-      },
-      {
-        "headline": "NC State's NBA Champions",
-        "description": "",
-        "published": "2026-06-15T12:45:55+00:00",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHh3NVFKQWp3ZkVDYk1WMWZOVjFQNDZpX2VBR3VvdUU3a2MyUEdaaUx4ME1rWEJzM1Q2bnc4VnUzdGhPdXRKQV9NREpoeGRueXhvcU9TZmRHOUh6WGhrWHZ0eFZvZFJPZkJndnJvRXIwb2hrYjg5R3l1QXVZMEFETEZtdw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "PackInsider"
-      },
-      {
-        "headline": "2026 NBA mock draft: Projecting all 60 picks in Rounds 1 and 2",
-        "description": "",
-        "published": "2026-06-15T12:45:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcnBYdEpWNktFQ2RQdGdKazZxSkhkbEVYRDBBLVA1U0hoNXhaS0N1Um9oYm5oYlRVSEplYjl0SllJUmhaV2I0dk9qQUxpRzZGUnUyeGZDTlVrYVhQQVZnRGlWNUVYMlFqTG1lbGhjZEpidGZXWE9ZczRzenB3b1I1UVVhdkhFWkNPcnRPYVlNRXlBaFlXXzhhNTRxeWZzdXVpeU8taEVNbWFqVTlOSU8zMkhPNGFwcmJKdUVGUTBPN2I0MG9RZEpYTVo2OXA2VUptZnRnU1V3?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
       }
     ],
     "games": []
