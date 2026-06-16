@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T18:53:07.052139+00:00",
+  "generated_at": "2026-06-16T19:08:13.381424+00:00",
   "duke": {
     "news": [
       {
@@ -486,9 +486,18 @@
   "nba": {
     "news": [
       {
+        "headline": "NBA Offseason Trade Candidates Stream of National Basketball Association",
+        "description": "",
+        "published": "2026-06-16T19:04:13+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaEhrU1o4Z0t5WHpvcHJjVGVvbXlESVFVSjJWTWtLa3A3cVZTRDREc0dfMFhSU2Nha0lsVzYxdVl5MVhkQlZ0SVlsNmtQQXVyOHlGSFpRRWt0MTlGOVVyRHhGR2REZG1sakttdDAxSkhsdk0wRm1ERFRXQXFoeERSWWp3?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CBS Sports"
+      },
+      {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
         "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on Giannis Antetokounmpo ahead of trade season.",
-        "published": "2026-06-16T18:40:58Z",
+        "published": "2026-06-16T19:00:35Z",
         "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
         "image": "https://a.espncdn.com/photo/2025/1208/r1586688_2_608x342_16-9.jpg",
         "recruiting": false,
@@ -504,22 +513,13 @@
         "source": "Yahoo Sports Canada"
       },
       {
-        "headline": "Windhorst: Six storylines already shaping the NBA offseason",
-        "description": "Why is this Giannis trade taking so long? What are the Lakers' plans? Here are some of the biggest topics of discussion two weeks before free agency.",
-        "published": "2026-06-16T17:30:22Z",
-        "link": "https://www.espn.com/nba/story/_/id/49074649/2026-nba-offseason-storylines-lakers-giannis-nba-draft-free-agency-aspiration-expansion-windhorst",
-        "image": "https://a.espncdn.com/photo/2026/0616/r1673922_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "Darryn Peterson's Surprising 2026 NBA Draft Strategy Stream of National Basketball Association",
+        "headline": "Karl-Anthony Towns calls Knicks' NBA title 'a healing experience' for fans, alumni and players alike",
         "description": "",
-        "published": "2026-06-16T14:00:45+00:00",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdzRrZjFENk1KMlNuZnBlUWF3SUZHNGF2akVsSmFxOWtudHRidER6SDFrcXRIVEExejZlel9fZ2JPNHE1R2l6LVpybnNzekZhR0QtTVo1TWpVeXVMR3Zvc29MSmJHcTVjM0E2enhZeTVpM3Y1Y3I3M2ZGSkZNcFZ6RkZ4QlJ4aXZfNE1JdWNhZUtaa1J2MTRGYlVmcDJVUQ?oc=5",
+        "published": "2026-06-16T17:58:36+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUzNRSFhNam1mSGNCWEdncmpHQzRUY2NsQ2wweVk0aE5Qcms5NlFKSzdFSWZXbE9ndE4xX3hmQk1xcmd1b2VwZDFOSnVibENnVTNkRGxYX1laTjZZTHdnbzFJQ3RJMHU3TEprakNrdnhvenM2b216UVJUbnRQVjNtdEtqOS0wU1hBWl93X2VBTm8tYm9V?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "CBS Sports"
+        "source": "Newsday"
       },
       {
         "headline": "Could Peterson still go No. 1? A look at recent NBA mock drafts",
@@ -576,6 +576,15 @@
         "source": "On3"
       },
       {
+        "headline": "Latest NBA Draft projections for trio of Razorbacks",
+        "description": "",
+        "published": "2026-06-16T11:05:08+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSkdsTjBsYk90bjlZUl9XZTVUalY2aUlYekRIdzFkdnItS1Nib25WSWY2VHJka3VmUVNqMl9qak1CUWtHTGRsMXY4eGI5UmYzN3ViVnN1Qk42Sy1MUVM2MDQxUTdDWDZEbzFZbVFZUDU3aVBqLWF1bnNmTVpNVmR6V3lHZGtpcFhOQms2YVdRaEwwMTV4QlpJbmxPeE1meFgzQ2FaeEkwdVhfSTNpM25sZnVRbm5GOFpPdkw4XzR3MURiVmh0bmdNUnpRSThXUUE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "247Sports"
+      },
+      {
         "headline": "NBA champion John Salley defends dreamers all across America: \u2018There\u2019s no excuses\u2019",
         "description": "",
         "published": "2026-06-16T11:00:00+00:00",
@@ -583,6 +592,15 @@
         "image": null,
         "recruiting": false,
         "source": "New York Post"
+      },
+      {
+        "headline": "Where Kentucky's Jayden Quaintance, Otega Oweh land in NBA mock drafts",
+        "description": "",
+        "published": "2026-06-16T09:11:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNF8xeFJuNldGMXdaVlV4aFFYbUF6bmlIMmx2NXhUazZBOUg0NDdUZkFtdDVCVVBoUzlOc3BfV3kzMG0wUUtRdkRSb1JTaVkzMGczb3pxam05NjZ3WHFnMXBnMnZYZlBNTWFXQ0hla2VQOHBqdlpQaFRFcTlCZE1uR3hwRW1OSm1BYUtNa2NiTnlEcEFZc0Q5bG1WUm5jTFJHOTQxN1VZeTY5TmdqSDhxcExGT2t2ZTBJSUZpSDZZWmdKeGJjUVJBYkdrN3A3LW1OYm5UM21DV3RLcXFpcTNBb2pMekNJWnkyRDdDQnJudlFhR1RuQUZrOG5RU0pkcE5Ba29XTkpwMkllZTFCQlE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Courier-Journal"
       },
       {
         "headline": "Why losing the NBA Finals may be the best thing that happened to the Spurs",
@@ -684,15 +702,6 @@
         "source": "Rocky Top Insider"
       },
       {
-        "headline": "After Knicks Win 2026 NBA Championship on 6/13, Jewish Basketball Fans Notice Ties to Judaism",
-        "description": "",
-        "published": "2026-06-15T16:57:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ0puUDVIUTdTZmhjNDU1dEhGVW8yckx2OWNuYzZEMW9ubmhZUE03Qmd5NGtNaDZULUVucW91Z1RRdVQxS2pRM2RFR0I1blhVRG12LVotMF9CMnJuTWw4QVFvaE1zTE11M0tXYVJWWmNCcjhUc1dwUkRYaWJQWnhGWnE0REJ0Zk1Pd0N3RlVYUVIyZUxTSUNwUEd4b2VSTFhTQXFPNTRxZGI2bV9FVGtNZ3lLWVg1ZUVaRWtR?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Algemeiner.com"
-      },
-      {
         "headline": "Jalen Brunson just led the Knicks to an NBA title\u2014and credits his famous dad\u2019s work ethic for preparing him for the job",
         "description": "",
         "published": "2026-06-15T15:20:00+00:00",
@@ -711,13 +720,13 @@
         "source": "ESPN"
       },
       {
-        "headline": "Post-Finals NBA Power Rankings: Stacking 30 teams for 2026-27 season",
+        "headline": "NBA offseason storylines to watch: Giannis' future, Knicks' title response and LeBron's free agency",
         "description": "",
-        "published": "2026-06-14T03:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWEdEcldmQ3U4R0xMZm0ta1k3X1RsMWZSb2I0d1ZPclVmbXdrWlk1S0hOc015WlhYWFdjOEEyZ3dMYlgxMVExeDBHeUdwaHhPQlY5a1hqR28wMFZCRHBzMXdWaFl3bXpMVmFKTFFHT2pLOVVFZjVsblUyOHZsLXlFOFNHNHN2TWh4X1JsT01ZM1gxUE82ZHJQbDJ3RXBJX1h1aTB3RnkxWG0ycDhkNGNUVTZYZFJ5OVRENzh0U0xCcEEzUGZTWEJiVTkydF94WnhOQVJmRVlHdDF4UEo1Rk53MEpOVQ?oc=5",
+        "published": "2026-06-14T04:47:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQi1VX3dSZWc4QkwxSFUxVnZhREdnd1NpdnpBankxX1E3eTJoXy1YUkNfOElJUTJLdTR1X3pINS1abWNxd2tOWEhCaHNaYVdoMld1N3ViVHB0bnRtcklacU1udWZhWWVUTjBFUUFXeDBHYVZuY1ZpNlpycTRGOTN6QlZxbHI3dE5QVjhZcG9GQVNTTmlTYVVGQ0VVMnJ1NHM0VThXWFE2SVJrMkRPd2dldkl6c0pZVnJ3THplRVhXMHJQbE4yRlJFZWhtWXREbXJmLUhkVW1RMjVPY2pMeHBv?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "ESPN"
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Charles Barkley clarifies Spurs \u2018dumbest basketball team\u2019 comments after NBA coaches call him",
@@ -727,15 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "Awful Announcing"
-      },
-      {
-        "headline": "Trump booed \u2018thunderously\u2019 at NBA Finals: What we know",
-        "description": "",
-        "published": "2026-06-09T11:40:25+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1JadmtwZnktdDdSdEhzQVFzaVBxNVVFRkRBSldpeTVaSFd4WWp6cjN1dWpMVXRSbjdkLS1RckF0NWExZ3NIcEFCR3kyQ2NvWVFuZGJrYzNad1dXbnk3RUc2RnRWeksxZklGN2NLaWpSY1VqeHVZNFZuVC1QVnJuU0pPaGl2MktXaWN4cnBDODNqM21VdXfSAZsBQVVfeXFMT2Z6bjBnRzh0UjZLOV9xa1ZFQXViWW9CUmprdE5TbVFkZjAwZWJfY3NSQ0pEOGlGQXJCU2VrTkl4ODlKVTNmQnRqZ0FmdGlRYTkxM3h1cmhJZGdVclY4NEhiZmUycTBKUldwVVF0cWdhVC1fUFdpUF9UczJqN0RQVTF1emZrSVZyLU0zWXVIVGU3di1NWmxldWRCblE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Al Jazeera"
       }
     ],
     "games": []
