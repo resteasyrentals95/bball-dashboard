@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T13:38:57.363062+00:00",
+  "generated_at": "2026-06-16T13:54:04.532294+00:00",
   "duke": {
     "news": [
       {
@@ -219,15 +219,6 @@
         "source": "Sports Illustrated"
       },
       {
-        "headline": "Comparing Duke Basketball's Ceiling With UNC's Next Season",
-        "description": "",
-        "published": "2026-06-09T14:30:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS19qVzl3TTF1SWVTMm1OQm04MkpGcVZ5dGIzX3Q2aGhPM0lvOG8xcTBnVENnSGZpdDJLTTZUWUN0bjRLRmVDVnVxY0tqMW9SMHhqalJkVzhLMUQ3VFcwVk9LcFA3T1BiSEJMN3ZuNF9PSGNheEl2N3l5RkVYb3VNSVlqLWRacFI3N0hCYkZuVUg0dw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
         "headline": "Men's college basketball transfer class rankings for 2026-27",
         "description": "First-year head coaches aren't the only ones who made a splash in the portal. Blue bloods are in the mix, too.",
         "published": "2026-06-09T12:48:27Z",
@@ -253,6 +244,15 @@
         "image": null,
         "recruiting": false,
         "source": "Florida Gators"
+      },
+      {
+        "headline": "Men's NCAA basketball 2026-27 Way-Too-Early Top 25 rankings",
+        "description": "The Wildcats added the top-ranked transfer to rise into the top 25 alongside the Jayhawks and Tar Heels.",
+        "published": "2026-06-02T12:15:12Z",
+        "link": "https://www.espn.com/mens-college-basketball/story/_/id/48931769/mens-ncaa-basketball-2026-27-way-too-early-top-25-rankings-nba-draft-withdrawal",
+        "image": "https://a.espncdn.com/photo/2026/0602/r1667031_1296x729_16-9.jpg",
+        "recruiting": true,
+        "source": "ESPN"
       }
     ],
     "games": [
@@ -486,6 +486,24 @@
   "nba": {
     "news": [
       {
+        "headline": "Could Peterson still go No. 1? A look at recent NBA mock drafts",
+        "description": "",
+        "published": "2026-06-16T13:48:20+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3JhNmYzVGJxLThuS0ZsRTZSSElSeHQ4MWJPV3dCbUpGNml6aTRoQThzNDZPNXFzaFVqT2JzZFZPMk1lR2VSeVJtRnhiMTZfd0xaMGs5Q0hnSFBrckdJRjFSVnhnLXRDQjIwQUhZVlF3eVlPc05weWczUjRzblctaWh6TUNlRVlDS1g5MElmODUzdTB3SUtQQ19vR183d1B3eG1VSm5nMTFiODlIZGUtV3Q1U3paVXItZ1ZLZ2syNmV4LWFiZUdVTEF3?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "KU Sports"
+      },
+      {
+        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
+        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on Giannis Antetokounmpo ahead of trade season.",
+        "published": "2026-06-16T13:40:42Z",
+        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+        "image": "https://a.espncdn.com/photo/2025/1208/r1586688_2_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "The enduring legacy of 'Sirius,' the Chicago Bulls' entrance anthem",
         "description": "Thirty years after Chicago's historic run, the story of \"Sirius\" is also the story of how music helped build one of the most iconic brands in sports.",
         "published": "2026-06-16T12:50:13Z",
@@ -549,6 +567,15 @@
         "source": "Newsday"
       },
       {
+        "headline": "How Donovan Mitchell, Louisville basketball alums fared in NBA season",
+        "description": "",
+        "published": "2026-06-16T09:10:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNzByVnE1cWdVc2lTZndPS0R3UkkwZnVoVXJTc3ZETFEzUXU3NFNEcEpSZEtOcEVFWkZ2dkZ3Q0pSamF0UHAxWFlJdlhVX2dFWjFZSmpxcVFsczVZbHZYVllMMksxWS04cXItZlpMd3ZyMGd0bWhSVVpCNXBfYVJXdWVJRnRVZnAzVFdJSGpzalRQcFFMQm9SVkpWZFFSWXd0a19lS3doejlNWFpTdzF5SmR0QVBiOHlyWDZzTk1BZXdadktlVFgtaGhodGZHajZCZzBFNUdWZVV3QjJUUkJTUzNCbVlGYWhOWGtmSFpZTkJlcUVDbzFSTXEySjQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Courier-Journal"
+      },
+      {
         "headline": "Dolan asked Knicks to sacrifice for title in April speech",
         "description": "Knicks owner James Dolan delivered an impassioned speech in front of his team before the playoffs, urging the players to \"leave nothing on the table\" in the pursuit of a title.",
         "published": "2026-06-16T02:09:24Z",
@@ -594,15 +621,6 @@
         "source": "the-sun.com"
       },
       {
-        "headline": "NBA Power Rankings: The Knicks are champs. What\u2019s next for all 30 teams?",
-        "description": "",
-        "published": "2026-06-15T20:59:41+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQdlZ4ajAzSS1qcGZZNGpQSGZMcWo5MWJjNzFnd3ktN0FLSTVGc1lPNUJvVk1yUmlqLXhYazh6VURzdlowS3BIMmU5T25zZ3dWcU02djJkTXFMaWYtVHlJNHR1VzFUVGVKUTFHS0twTi04eEhfaU92YU0tU2lfQzJUSHJxb2g1dFF0S2xMaGNIWVY4Zw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The New York Times"
-      },
-      {
         "headline": "NBA insider points out two potential 'stumbling blocks' in Celtics' pursuit of Giannis Antetokounmpo",
         "description": "",
         "published": "2026-06-15T20:11:00+00:00",
@@ -630,13 +648,13 @@
         "source": "Sports Illustrated"
       },
       {
-        "headline": "Trey Kaufman-Renn impressing during NBA Draft process by showing more than he did at Purdue",
+        "headline": "NBA Draft prospect Darryn Peterson reportedly visits Wizards, but won't meet with other teams",
         "description": "",
-        "published": "2026-06-15T19:17:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMjA1c0p2dUlVemlBelJOVGVaUS0xY2JlZHZGZm9QTXVQdlluV1h6VE9uNy1MWi1ScmRiUmt1TzBSYWpkckFueEZnZ3BESG80RGdOQ2ZCak5obFJvU2x1c3Vadk10SUJETE1Xczdzdk5YRF9tbHo2cmtvVUlYUGFyTV9rQ3VSdVZVZTJMVDZQVmZTZ19NVnJUQmhLbTRKdlg3V2I1REVhTU8xRkU1RS1VYk5IOXJMa3RQbUVkRFRQbzc4dnVsdlNGNWxxRDV3YXloZmp6STAzOVljbVRVRlM2bDZsWDA?oc=5",
+        "published": "2026-06-15T17:29:57+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNWC1vYVdvOUktWV9PbWJfX3ZqdEU2Q29vWEFjYXQ2QlZ6R0dWN1lOMHlYZ01rSC13WEQ0ZDZqRDRkUzNDXzFoYy1JMW5OMnJzMHh1SktMOUVVb21VeEdjUXc0WUwxbTdfUWx1WU4zeHFaOUswNmdsS0VjMml4d1lBWjhfS3Iyczd5eXBjdl9hR3FYdWQxZW0zc0ZuUHNDdEh2QWtEMmVuYTU2WUdIVlk5X2RXSHhhVTlDU1ZhbWJNMEtoVlI4a01WWHZJVnZPanRyVlIyZm9tcnRlQk0?oc=5",
         "image": null,
-        "recruiting": false,
-        "source": "IndyStar"
+        "recruiting": true,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Fans call for Spike Lee to get a Knicks NBA championship ring along with the team",
@@ -693,15 +711,6 @@
         "source": "Syracuse.com"
       },
       {
-        "headline": "The Knicks made a championship run that will be remembered in New York and in NBA history",
-        "description": "",
-        "published": "2026-06-15T13:14:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcnVYVWxXVEJRUlBVb3B4UTI2Vzc2VXBwellzTFlPVFdvM0NLdnVNZGpSRmZOT1dwcXNqbXNHZWVUVHFVQVVkV1NyVDE5ZGh3ZS1tUDJWTFU3WnFNRmhHbXhHbU81WjM3QUpPT1VQMWx4RUdjMnVuRGYzVVkwR3FYYXZHQ2lVNWJyb0Mw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "AP News"
-      },
-      {
         "headline": "\u201cThey said it couldn\u2019t be done in Skechers\u201d \u2013 OG Anunoby makes NBA history with his shoes",
         "description": "",
         "published": "2026-06-15T13:05:00+00:00",
@@ -727,15 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "NBA offseason storylines to watch: Giannis' future, Knicks' title response and LeBron's free agency",
-        "description": "",
-        "published": "2026-06-14T04:47:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQi1VX3dSZWc4QkwxSFUxVnZhREdnd1NpdnpBankxX1E3eTJoXy1YUkNfOElJUTJLdTR1X3pINS1abWNxd2tOWEhCaHNaYVdoMld1N3ViVHB0bnRtcklacU1udWZhWWVUTjBFUUFXeDBHYVZuY1ZpNlpycTRGOTN6QlZxbHI3dE5QVjhZcG9GQVNTTmlTYVVGQ0VVMnJ1NHM0VThXWFE2SVJrMkRPd2dldkl6c0pZVnJ3THplRVhXMHJQbE4yRlJFZWhtWXREbXJmLUhkVW1RMjVPY2pMeHBv?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       }
     ],
     "games": []
