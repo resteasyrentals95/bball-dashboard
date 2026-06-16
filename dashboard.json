@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T14:24:17.218019+00:00",
+  "generated_at": "2026-06-16T14:39:23.128678+00:00",
   "duke": {
     "news": [
       {
@@ -10,6 +10,15 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
+      },
+      {
+        "headline": "NCAA Bracketology: Predicting the 2027 men's March Madness field",
+        "description": "Can one player be the difference between a first-round exit and Sweet 16 run? Kentucky's projections say yes.",
+        "published": "2026-06-16T13:44:15Z",
+        "link": "https://www.espn.com/espn/feature/story/_/page/bracketology/ncaa-bracketology-2027-march-madness-men-field-predictions",
+        "image": "https://a.espncdn.com/photo/2026/0615/r1673658_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
       },
       {
         "headline": "Transfers, recruits and roster moves for key men's NCAA basketball teams",
@@ -59,7 +68,7 @@
       {
         "headline": "Duke commit Joaquim Boumtje-Boumtje on overseas development, Jon Scheyer\u2019s recruitment, and rising expectations",
         "description": "",
-        "published": "2026-06-16T01:54:12+00:00",
+        "published": "2026-06-16T03:11:15+00:00",
         "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNdnF1QUV1LTlTQzB2ckl6azRHX0hSb0Y4VW4za3B1cHZ4VldBWjA1RFNORDh6b0ctaTNXSlYtMk9ETzk0ZWl3OEp5YjY1ZEdqQlgxUHdBR09TLVFWUzRjZzN3VDhfLTNjRElOa0RaUHk4UURQY3l0Ml9Rd3pBVFR5aHUwamd4YVBHWVBmVzVyc0JrVktGeFpGZFdTbUdYdUFXVldMOGJWT19uNW1GaEpzZUxHWUU1MFJLMFp1ajRtc2xPVjljc2Q4cGIza29JWjhNaUlMRW1SejQ?oc=5",
         "image": null,
         "recruiting": true,
@@ -244,15 +253,6 @@
         "image": null,
         "recruiting": false,
         "source": "Florida Gators"
-      },
-      {
-        "headline": "Men's NCAA basketball 2026-27 Way-Too-Early Top 25 rankings",
-        "description": "The Wildcats added the top-ranked transfer to rise into the top 25 alongside the Jayhawks and Tar Heels.",
-        "published": "2026-06-02T12:15:12Z",
-        "link": "https://www.espn.com/mens-college-basketball/story/_/id/48931769/mens-ncaa-basketball-2026-27-way-too-early-top-25-rankings-nba-draft-withdrawal",
-        "image": "https://a.espncdn.com/photo/2026/0602/r1667031_1296x729_16-9.jpg",
-        "recruiting": true,
-        "source": "ESPN"
       }
     ],
     "games": [
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
+        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on Giannis Antetokounmpo ahead of trade season.",
+        "published": "2026-06-16T14:33:49Z",
+        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+        "image": "https://a.espncdn.com/photo/2025/1208/r1586688_2_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "Where Does the 2026 NBA Draft Get Interesting? Stream of National Basketball Association",
         "description": "",
         "published": "2026-06-16T14:20:57+00:00",
@@ -493,15 +502,6 @@
         "image": null,
         "recruiting": false,
         "source": "CBS Sports"
-      },
-      {
-        "headline": "The Bounce: The NBA offseason frenzy arrives. Plus, mocking the top-10 draft picks",
-        "description": "",
-        "published": "2026-06-16T14:15:11+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUFktQ2FiQVZzSEZGcTlnQjViR0o4SE1OT056U3p2aHgzc3FUZXJJaDE5ZUVGcmhibkNpV3hfRkdXTjhKb2Q1dXhMTXdMZEE2ZHIyVjZEUlc4N00zOHZYNmJSX0lZNHdJNXo0MUJKNjM1eVB2WkZBT0c1S1QtZmRIaGZZOWlHalN4UndRd0Jn?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The New York Times"
       },
       {
         "headline": "Darryn Peterson's Surprising 2026 NBA Draft Strategy Stream of National Basketball Association",
@@ -522,15 +522,6 @@
         "source": "KU Sports"
       },
       {
-        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
-        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on Giannis Antetokounmpo ahead of trade season.",
-        "published": "2026-06-16T13:40:42Z",
-        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
-        "image": "https://a.espncdn.com/photo/2025/1208/r1586688_2_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "The enduring legacy of 'Sirius,' the Chicago Bulls' entrance anthem",
         "description": "Thirty years after Chicago's historic run, the story of \"Sirius\" is also the story of how music helped build one of the most iconic brands in sports.",
         "published": "2026-06-16T12:50:13Z",
@@ -538,6 +529,15 @@
         "image": "https://a.espncdn.com/photo/2026/0615/nba_bulls-intro_fc_16x9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "2027 NBA Championship Odds: Spurs favored but Knicks, Pacers, and a Surprise Long Shot Worth a Bet",
+        "description": "",
+        "published": "2026-06-16T11:58:07+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZW1OSFV3Si1EZkN2a0xCRXgtTXZ0MEhRdm81SVZLdVk1bEd4QlhScTNRRkt3WnVXZ3R3SUUxeGVMNUx3eTZOMFB6bFlwMHJocmZCNzUyb2FGWGc0cGI0cUpia0I5ZlZlblc1cWRLdEJGRXpnbGR5VGxlQkUyenVjX2ZzR25tdEdR?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "2026 NBA Draft Links Run",
@@ -558,13 +558,13 @@
         "source": "Yahoo Sports"
       },
       {
-        "headline": "Why losing the NBA Finals may be the best thing that happened to the Spurs",
+        "headline": "Latest NBA Draft projections for trio of Razorbacks",
         "description": "",
-        "published": "2026-06-16T11:27:22+00:00",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBhWVpWT3FNendnQnNOQjJLMzNMSWxIOUdfQnNtdW5idmRNanltR3NMMjRJYzFDdUlmbEI5emY3QWFGaFFoZW5HSzdoRW1NUmM3SnRqcldmaWRFWkduY0s2YURWSEEybnNYaVlMVnRxT0JuemNSOFBhaFctSW5ZSE0?oc=5",
+        "published": "2026-06-16T11:05:08+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNSkdsTjBsYk90bjlZUl9XZTVUalY2aUlYekRIdzFkdnItS1Nib25WSWY2VHJka3VmUVNqMl9qak1CUWtHTGRsMXY4eGI5UmYzN3ViVnN1Qk42Sy1MUVM2MDQxUTdDWDZEbzFZbVFZUDU3aVBqLWF1bnNmTVpNVmR6V3lHZGtpcFhOQms2YVdRaEwwMTV4QlpJbmxPeE1meFgzQ2FaeEkwdVhfSTNpM25sZnVRbm5GOFpPdkw4XzR3MURiVmh0bmdNUnpRSThXUUE?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Yahoo Sports"
+        "source": "247Sports"
       },
       {
         "headline": "Windhorst: Six storylines already shaping the NBA offseason",
@@ -729,13 +729,13 @@
         "source": "Syracuse.com"
       },
       {
-        "headline": "The Knicks made a championship run that will be remembered in New York and in NBA history",
+        "headline": "\u201cThey said it couldn\u2019t be done in Skechers\u201d \u2013 OG Anunoby makes NBA history with his shoes",
         "description": "",
-        "published": "2026-06-15T13:14:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcnVYVWxXVEJRUlBVb3B4UTI2Vzc2VXBwellzTFlPVFdvM0NLdnVNZGpSRmZOT1dwcXNqbXNHZWVUVHFVQVVkV1NyVDE5ZGh3ZS1tUDJWTFU3WnFNRmhHbXhHbU81WjM3QUpPT1VQMWx4RUdjMnVuRGYzVVkwR3FYYXZHQ2lVNWJyb0Mw?oc=5",
+        "published": "2026-06-15T13:05:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTFF6cWxzNGZqSDc3TUkwdGV3WE1QekxobTg0OUFMRklCTS1RTmJ6ZFpzRVlWOVRZbGpHZHF1ZklmUlYyYzgxN3l4cjZTLVRrLWMzU29FTDhvNGVhX1pBaVBTQmlNV1pxendoRXBPc09NMGhjMlZ5ak1zd3dWV19MMjRXUDgzVG9RRW5BdkpBSjRPeXZ4Smc?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "AP News"
+        "source": "Basketball Network"
       }
     ],
     "games": []
