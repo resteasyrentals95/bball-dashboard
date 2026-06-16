@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T21:28:27.259560+00:00",
+  "generated_at": "2026-06-16T21:43:32.897509+00:00",
   "duke": {
     "news": [
       {
@@ -192,15 +192,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "Boumtje Boumtje Is Going To Make Duke Fans Really Happy",
-        "description": "",
-        "published": "2026-06-11T12:52:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9YaUlIRlVOTElyQmQ2RURGalo5amp4TFF3UnMyRnBjX0VhTnZFQV95ZnUyNnV6N1hIU2doRU81TlFueFVmdUpsNjM2MFFkS2pOM0c3VlRxbldqMFZPZ3VfcVMxUTEtY0NtQ2hpWHAxamRGQXljSUdGOVRB?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Duke Basketball Report"
-      },
-      {
         "headline": "Men's transfer portal superlatives: Louisville, Duke, St. John's headline winners",
         "description": "Which contender improved its chances the most? Which team went from below to above .500 with its additions?",
         "published": "2026-06-10T11:30:12Z",
@@ -208,6 +199,15 @@
         "image": "https://a.espncdn.com/photo/2026/0610/r1670679_1296x729_16-9.jpg",
         "recruiting": true,
         "source": "ESPN"
+      },
+      {
+        "headline": "Comparing Duke Basketball's Ceiling With UNC's Next Season",
+        "description": "",
+        "published": "2026-06-09T14:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS19qVzl3TTF1SWVTMm1OQm04MkpGcVZ5dGIzX3Q2aGhPM0lvOG8xcTBnVENnSGZpdDJLTTZUWUN0bjRLRmVDVnVxY0tqMW9SMHhqalJkVzhLMUQ3VFcwVk9LcFA3T1BiSEJMN3ZuNF9PSGNheEl2N3l5RkVYb3VNSVlqLWRacFI3N0hCYkZuVUg0dw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
       },
       {
         "headline": "Men's college basketball transfer class rankings for 2026-27",
@@ -486,6 +486,24 @@
   "nba": {
     "news": [
       {
+        "headline": "NFL, NFLPA, NBPA tell Congress it backs college sports bill",
+        "description": "The NFL, NFLPA and NBPA on Tuesday sent statements to Congress supporting the Protect College Sports Act and lauding specific provisions it includes while also encouraging further \"negotiations\" during the legislative process.",
+        "published": "2026-06-16T21:42:27Z",
+        "link": "https://www.espn.com/college-sports/story/_/id/49085786/nflpa-nbapa-tell-congress-backs-college-sports-bill",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Lawrence Tanter retiring after 40 years with the Lakers",
+        "description": "Longtime Lakers public address announcer Lawrence Tanter is retiring from his position after more than 40 years manning the microphone at Lakers home games, the team announced Tuesday.",
+        "published": "2026-06-16T21:42:23Z",
+        "link": "https://www.espn.com/nba/story/_/id/49086321/lakers-lawrence-tanter-retiring-40-years-microphone",
+        "image": "https://a.espncdn.com/photo/2020/0619/r710131_600x400_3-2.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
         "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on Giannis Antetokounmpo ahead of trade season.",
         "published": "2026-06-16T21:14:36Z",
@@ -495,13 +513,22 @@
         "source": "ESPN"
       },
       {
-        "headline": "NFLPA, NBAPA tell Congress it backs college sports bill",
-        "description": "The NFL, NFLPA and NBPA on Tuesday sent statements to Congress supporting the Protect College Sports Act and lauding specific provisions it includes while also encouraging further \"negotiations\" during the legislative process.",
-        "published": "2026-06-16T21:13:21Z",
-        "link": "https://www.espn.com/college-sports/story/_/id/49085786/nflpa-nbapa-tell-congress-backs-college-sports-bill",
+        "headline": "New York Knicks-Inspired Baby Names May Become More Popular After Basketball Team Wins the NBA Finals, According to Experts",
+        "description": "",
+        "published": "2026-06-16T21:13:51+00:00",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5VdE9qME9nM0gwYm5nZF9TRHliUGMycTB4azVkYWpxS2MyWkRtenEzUVZnSng0ZW9ySnk4T2JDRFBoYU5PcU93MGFwc1ZteHdNUTh6Y2tUTlhqUm9MQkRmcTdkMHB0UkZIM3RWdkh3eVlzck5JbHhfVTM2LXBaUQ?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "ESPN"
+        "source": "Yahoo Life UK"
+      },
+      {
+        "headline": "NBA champion Knicks bring title party to 2026 World Cup",
+        "description": "",
+        "published": "2026-06-16T21:13:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdkRlZlVqb0pQVi1GS2ZUcnR6NGNnSmNTcll0Zm5xaUV0UlNYX2tHRzhaMG0wSmxmR3R6a1UzV3RyTUpiUU5CcFIxbzRQbTRZTVI5U2s0ZTJIY2FuWGxNSThOSUdudkJiV1NXbUt1Q0JPLWNZTWJCZWpsY3ppYmNuTW9OcjRObm8?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Jets: Knicks' title run 'added motivation' amid 57-year drought",
@@ -531,31 +558,22 @@
         "source": "Florida Politics"
       },
       {
-        "headline": "Post-Finals NBA mock draft roundup for the Sixers",
+        "headline": "Forged by battles against NBA talent, Oscar Goodman prepares for his breakout with Michigan basketball",
         "description": "",
-        "published": "2026-06-16T18:01:26+00:00",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaVd2cUR5RHV0Z0RVOGR6WWt5bGtjWFl6dUZSTGVYaWVDNFc1cEpOVnZlVFFYbnRlRlNqaktzdW5qN0RCRS0yUk42VW1oU1NsWFg2WWg0SktlUUNiWXRPMS14WXgtekUzRFJiaVB6b19NNTcyV3BpVXh4c2Z3c2J3Ug?oc=5",
+        "published": "2026-06-16T18:17:05+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUFdDYzNScEtrc3RaQzdSMWk1MDJCTmM0WkJxSElXODg2QWdOSUxqdS1WYmtxdS0zbGJwazVHZ0M4WXAyQlBMclZqWWRMOGFHbGFIQlNkUjRCbm41c01GWVJhNC1SSzBZdDcwQnBWTkI1S1VfeVQ3N3p2YW1nbHpBNzQyUWh0Y1BPUEdnVlhzdVkyd01pS2xzb1FQcmdPVm94dXFwWnAxcEV2cF9aYTdrRzhEOWRnSjdoMG5VaDBGZjNRRXU5QjFQY1NrOFhvNko5T3JlcHFoV3BTN1hwd3QzdThYUU5NeGJjMHU3M09GcTk?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "247Sports"
+      },
+      {
+        "headline": "NBA Bulls confirm Splitter as new coach",
+        "description": "",
+        "published": "2026-06-16T16:29:54+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOaVhiQVBEcXNpZzRmTkJySVRmWUdQZGpvcmVaQzlfN1lrdjRRUWhjcnpMTUx4WEFHUkNxR3pTVlZwSGpka1owdGFGeFhHLXNXQjlyb0JSRk9ZTDJ0MVFVS2pQZExHUVJhcGx3czcyWVl1S3JQZmhTX05PN1BnWndlaUJsOGtOWjFE?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
-      },
-      {
-        "headline": "2026 NBA Draft: Rockets have to nail this year\u2019s second round pick",
-        "description": "",
-        "published": "2026-06-16T16:48:04+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeUlZbmN4WU1IbmZ5Q3E3MDNSVUpVWVpyQkJWWHIzbG10dGtBNEU4MGpBTHdSRHplOWhfaXJYR3B6enZTcVVIUXhickxTekd6MnNQenNvVXl6RnJuckExVmpWTVQ5eWlKbnEwU2FfdGtxSFdtdjFzRkRVSHVzUTMtUkZB?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
-        "headline": "O\u2019Donnell: Will \u2018The Unknown Brazilian\u2019 lead the Bulls out of the NBA\u2019s southern hemisphere?",
-        "description": "",
-        "published": "2026-06-16T15:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWXl1MzU1Y3gxdThYeWh0aUtBZmhiNGxCNGhVb284Ty1mQmc1eHBqX0s4SFdEMnJMZXFycVJNTW9zdWtoYzBfbEpIRW9FVHRnNUJ6MGRITWI4ZzBqSGFFQWNBTTZveTJiZ252T2pfYzJXbmdHLW1RRXdYRnEtV1R2a1BOY2p0cXN1ckY3SWtSd3hrdFoxMENhSThhSkFoRER2NzR1bzJiOUZUdk5ETVNZNzJVSTFROE1Ca2p2VEg4T2dUazB1eEpHb0ZaTjJNNGc4TkxucA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Daily Herald"
       },
       {
         "headline": "Program History: Michigan Looks to Capture Rare NBA Draft Feat For First Time in 36 Years",
@@ -612,15 +630,6 @@
         "source": "New York Post"
       },
       {
-        "headline": "Where Kentucky's Jayden Quaintance, Otega Oweh land in NBA mock drafts",
-        "description": "",
-        "published": "2026-06-16T09:11:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijgJBVV95cUxNNF8xeFJuNldGMXdaVlV4aFFYbUF6bmlIMmx2NXhUazZBOUg0NDdUZkFtdDVCVVBoUzlOc3BfV3kzMG0wUUtRdkRSb1JTaVkzMGczb3pxam05NjZ3WHFnMXBnMnZYZlBNTWFXQ0hla2VQOHBqdlpQaFRFcTlCZE1uR3hwRW1OSm1BYUtNa2NiTnlEcEFZc0Q5bG1WUm5jTFJHOTQxN1VZeTY5TmdqSDhxcExGT2t2ZTBJSUZpSDZZWmdKeGJjUVJBYkdrN3A3LW1OYm5UM21DV3RLcXFpcTNBb2pMekNJWnkyRDdDQnJudlFhR1RuQUZrOG5RU0pkcE5Ba29XTkpwMkllZTFCQlE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Courier-Journal"
-      },
-      {
         "headline": "From Chicago\u2019s suburbs to MVP: Jalen Brunson\u2019s road to NBA championship",
         "description": "",
         "published": "2026-06-16T01:18:57+00:00",
@@ -666,13 +675,13 @@
         "source": "Deseret News"
       },
       {
-        "headline": "Iowa Basketball: Bennett Stirtz Invited to NBA Draft",
+        "headline": "Knicks stars set to lose more than HALF of bonuses after winning NBA title",
         "description": "",
-        "published": "2026-06-15T21:14:56+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjNJbkRCRkx4X3NzQXlacXRVbDJCbkt1b0haX1A2bi1fS282SnZ5S2N2TUxXTGxUZHVmbExYWEtlQ2N5Q1BPS0tXaExnajMxX1ZtUDBuQlE4YWE5aTZCLUJIbVVUMlNSN3NTa1psVk9icDFRNTlrVmkxcjFUckI1MnNTQ1hSV2Z1TUpPLTA1QzdvbVYxM3NpTDVYR3FwZE4tRVJRMkhWZTBVZkJhYWdaUTVEc3NidE9PSlE?oc=5",
+        "published": "2026-06-15T21:06:31+00:00",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tQmdRdWoxeVY4eUZ5V0lpY19iRXlYb1BDUWxtYS1WZGNxa2trZXR4S29rYVhqb1RiUnhUalNEeTBoR3hIZ3ZTT1Q3c0ZsQ20xNkQzUHdmVi04ei1zUHZ3UVN2cWVpSDVBbGl1bmUxa01NaTU5TVE0RUFKN2dsN2s?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "247Sports"
+        "source": "the-sun.com"
       },
       {
         "headline": "The Knicks made a championship run that will be remembered in New York and in NBA history",
@@ -682,6 +691,15 @@
         "image": null,
         "recruiting": false,
         "source": "AP News"
+      },
+      {
+        "headline": "Iowa basketball's Bennett Stirtz invited to attend 2026 NBA Draft",
+        "description": "",
+        "published": "2026-06-15T19:54:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ1NzcE9MclRQd0JYcTRSbTBNYmtHYTlzeE41VXk2cUJfVzdWN1IwaENTLXFVNXZxU2hrejBUVWVYSnFERHhFYlE2eFRBd3VVMzZEN29fdUpzd3pfTEdpc3NwdThFUlVxWWJocmZBX1AtR0M4dk1PTmcwbXFuZkRHS2YwQWpWM09rYkJKeVFzWEZ1MEszbXZXTGFSYlJQY0YwRnpWcDNzUHBQdXFwbHExTFZwcGpDWnJOOHFvS3lWWE1WVVFIMWUxRkNwMlBkRVZZaFNOdg?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Hawk Central"
       },
       {
         "headline": "Chicago Bulls hire former NBA center Tiago Splitter as coach",
@@ -702,40 +720,22 @@
         "source": "ESPN"
       },
       {
-        "headline": "Post-Finals NBA Power Rankings: Stacking 30 teams for 2026-27 season",
+        "headline": "Jalen Brunson, NBA champion and finals MVP, is officially the greatest Knick ever - The Athletic",
         "description": "",
-        "published": "2026-06-14T03:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWEdEcldmQ3U4R0xMZm0ta1k3X1RsMWZSb2I0d1ZPclVmbXdrWlk1S0hOc015WlhYWFdjOEEyZ3dMYlgxMVExeDBHeUdwaHhPQlY5a1hqR28wMFZCRHBzMXdWaFl3bXpMVmFKTFFHT2pLOVVFZjVsblUyOHZsLXlFOFNHNHN2TWh4X1JsT01ZM1gxUE82ZHJQbDJ3RXBJX1h1aTB3RnkxWG0ycDhkNGNUVTZYZFJ5OVRENzh0U0xCcEEzUGZTWEJiVTkydF94WnhOQVJmRVlHdDF4UEo1Rk53MEpOVQ?oc=5",
+        "published": "2026-06-14T16:20:57+00:00",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVVUtOFZMcWIzNkw3YVNQUVoyQWVCaFRocjhtX0hzRWpsaWtYbGczLUw1cDh4cWVaNExqUG9mdWNId0dFSmMwUTFTMC1pV2xka3FrTGNGbUFTM3Uxbm1KVkI0TGE3a0lXaEx4R3Z3NUd4Z0pUUTJBLVBLdnJJRV9CZWlSUktiQnE2ZjZ0SHJ1cmtHbzVTcVNyRXRzc1l4aV9x?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "ESPN"
+        "source": "The New York Times"
       },
       {
-        "headline": "Charles Barkley clarifies Spurs \u2018dumbest basketball team\u2019 comments after NBA coaches call him",
+        "headline": "Jose Alvarado Wins NBA Championship",
         "description": "",
-        "published": "2026-06-14T01:58:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVnpYbTI2UkhxMkR4STk1NWJvRl90eXdGdFI0Y2dMRHBqSUZnUFgzcVQ3TmlpOGhMdTR4RTlTMGxELVR4dlBPNFdUSWgzdXlwNzNzekIzekdmMksxUnZXQUhaYldsSWhiT3pzLTFEbmFIdlgyc3ZZaS1SSGxQSGYzMjdJc3FFaDE3c2dhRk5WNktZYmx4TTdEdmlLY3FZQzZxdEtz0gGoAUFVX3lxTE1seXV4a2RUZjlQNTM3WktXaW8wUzdUSmZKVzdKNVN1eDNaRVJVZmFjOVExdEU2Y1JRX3FMLUc5RFVCNS11bWhxWHFoTGJ0RkZva0FuS0NKUmZJRUtLemdtN2N0cmIzb0pDTmVoUTNvU2dYTkRNSDdpTmtVeTEyZXd1dXUzU1JSd3VzWTB2N3hnSDVoa2FNNkRiY214Z253WlgzT2RwcDBiVw?oc=5",
+        "published": "2026-06-14T03:59:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1KOU9HNEtjZFdfa1NpN2lCcjN0Y1ZQTkdJaFVHMTFBRk9NWkNNcVJYdktqTlhVa1hyTmt3SGkwVjBCYjFxQU1ORV9BXy00RE9FSGxKMGRmMksxRTYweGdJQnZRWXhyQlBzczdmb3FLNm54UDZS?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Awful Announcing"
-      },
-      {
-        "headline": "Trump booed \u2018thunderously\u2019 at NBA Finals: What we know",
-        "description": "",
-        "published": "2026-06-09T11:40:25+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1JadmtwZnktdDdSdEhzQVFzaVBxNVVFRkRBSldpeTVaSFd4WWp6cjN1dWpMVXRSbjdkLS1RckF0NWExZ3NIcEFCR3kyQ2NvWVFuZGJrYzNad1dXbnk3RUc2RnRWeksxZklGN2NLaWpSY1VqeHVZNFZuVC1QVnJuU0pPaGl2MktXaWN4cnBDODNqM21VdXfSAZsBQVVfeXFMT2Z6bjBnRzh0UjZLOV9xa1ZFQXViWW9CUmprdE5TbVFkZjAwZWJfY3NSQ0pEOGlGQXJCU2VrTkl4ODlKVTNmQnRqZ0FmdGlRYTkxM3h1cmhJZGdVclY4NEhiZmUycTBKUldwVVF0cWdhVC1fUFdpUF9UczJqN0RQVTF1emZrSVZyLU0zWXVIVGU3di1NWmxldWRCblE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Al Jazeera"
-      },
-      {
-        "headline": "The path of a Knicks-Spurs NBA Finals basketball starts with all 30 teams",
-        "description": "",
-        "published": "2026-06-05T14:23:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa01ZbGViekZIY3B1U3ltWjN4cDNRQWwxVXNoX1dIdHpTeVZrc3Vjdm1mbi1yS1BSTTM4bS0tT2NweVNjdVJWTVVMWHBra0RGVmNVN1lHNXlFRjFzZXRZQlhBQmxMRWFzeHp5ZkdaQXk5b2N4WGxadFNLS0hPenh6bFlBTU4yQzkyQVFTSm16cmVpWmFIcGZHYTRFOA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
+        "source": "Georgia Tech Athletics"
       }
     ],
     "games": []
