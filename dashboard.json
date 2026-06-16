@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-06-16T18:38:01.007410+00:00",
+  "generated_at": "2026-06-16T18:53:07.052139+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "Rising Duke prospect named to Team USA's U17 FIBA World Cup roster",
+        "description": "",
+        "published": "2026-06-16T18:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOdWNHeVNDQ0xJWEZuQ3NSelhIMXhMZ2Vfb0FxQVdJdVloNlBiY0hLVmwtLW1hbjZiX3B5TF91c0dmOHRJdFNqZHFaVGlhQWhTV1BFWTZwZ2dfMERhNkJBeVZ1LW9rSWFUWWk5ekJ5ckdzWnM0dVBhQUYxS1JMeDFDNzgtTjJMRGg4cHgzU0RObUhhMUUwMHpxS1R0M2FBeVloZlhEblZwd2M2TVVrWkNjOGFwU1EzTkU4NE9DbG1GYTdDR19WY1hKXzJRaUtFTFBIMHhBME5mSzRRanE4RDNZb1lRWQ?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Duke Wire"
+      },
       {
         "headline": "Joe Lunardi's latest Duke projection comes with a compelling twist for John Blackwell",
         "description": "",
@@ -244,15 +253,6 @@
         "image": null,
         "recruiting": false,
         "source": "Florida Gators"
-      },
-      {
-        "headline": "Men's NCAA basketball 2026-27 Way-Too-Early Top 25 rankings",
-        "description": "The Wildcats added the top-ranked transfer to rise into the top 25 alongside the Jayhawks and Tar Heels.",
-        "published": "2026-06-02T12:15:12Z",
-        "link": "https://www.espn.com/mens-college-basketball/story/_/id/48931769/mens-ncaa-basketball-2026-27-way-too-early-top-25-rankings-nba-draft-withdrawal",
-        "image": "https://a.espncdn.com/photo/2026/0602/r1667031_1296x729_16-9.jpg",
-        "recruiting": true,
-        "source": "ESPN"
       }
     ],
     "games": [
@@ -486,13 +486,22 @@
   "nba": {
     "news": [
       {
-        "headline": "Karl-Anthony Towns calls Knicks' NBA title 'a healing experience' for fans, alumni and players alike",
+        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
+        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on Giannis Antetokounmpo ahead of trade season.",
+        "published": "2026-06-16T18:40:58Z",
+        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+        "image": "https://a.espncdn.com/photo/2025/1208/r1586688_2_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Kentucky Basketball reacts to Karl-Anthony Towns' NBA championship",
         "description": "",
-        "published": "2026-06-16T17:58:36+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUzNRSFhNam1mSGNCWEdncmpHQzRUY2NsQ2wweVk0aE5Qcms5NlFKSzdFSWZXbE9ndE4xX3hmQk1xcmd1b2VwZDFOSnVibENnVTNkRGxYX1laTjZZTHdnbzFJQ3RJMHU3TEprakNrdnhvenM2b216UVJUbnRQVjNtdEtqOS0wU1hBWl93X2VBTm8tYm9V?oc=5",
+        "published": "2026-06-16T18:33:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNN0RBNUh6T1UzMWMyMWhBd0NEUHJjM1Rvall2ZGhraTBCRkhxcnFWdzNrLUJRTVJ4UUF3NTFBR1BXZHNaVjcydlpoWjh1M3BNUjNFNDFZaHA1Q0R2Xy1kcU5QZnRMYjZuTDFGOGNNNEtpdHFiRzh6SUpBWkdkdnBnMlI5a1FTTDlqYXJSZHRzZWo?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Newsday"
+        "source": "Yahoo Sports Canada"
       },
       {
         "headline": "Windhorst: Six storylines already shaping the NBA offseason",
@@ -500,15 +509,6 @@
         "published": "2026-06-16T17:30:22Z",
         "link": "https://www.espn.com/nba/story/_/id/49074649/2026-nba-offseason-storylines-lakers-giannis-nba-draft-free-agency-aspiration-expansion-windhorst",
         "image": "https://a.espncdn.com/photo/2026/0616/r1673922_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
-        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on Giannis Antetokounmpo ahead of trade season.",
-        "published": "2026-06-16T16:29:35Z",
-        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
-        "image": "https://a.espncdn.com/photo/2025/1208/r1586688_2_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
@@ -538,15 +538,6 @@
         "image": null,
         "recruiting": false,
         "source": "RealGM"
-      },
-      {
-        "headline": "Warriors linked to Michigan trio as NBA Draft approaches",
-        "description": "",
-        "published": "2026-06-16T12:50:29+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOE5jSWllVE5kSGtlTk43VVZqa1AxSkpVLTVKck9mOTdZVTF5bFU2STMwTUVoclh2TzBVSXpEby1hLWJPWE9wVThlX1RvRzA5d0thMnRldXQwdHhnU3dGX291aDlBQzVGQjc1V1ZJdnRxQlZ4czM1OElfMGJVbzBGU2ZGUnBjLXE1T0E?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "The enduring legacy of 'Sirius,' the Chicago Bulls' entrance anthem",
@@ -675,15 +666,6 @@
         "source": "NBC 5 Chicago"
       },
       {
-        "headline": "Trey Kaufman-Renn Offers Incredible Defense of Braden Smith as an NBA Point Guard",
-        "description": "",
-        "published": "2026-06-15T19:25:23+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa3VXc2NkdGx3aS1oQTRZd0FtYXJfUXFBWG9BdG9UVHRzbkhZWkwtRjVLelJWQXpxWXZCU1Q2T1RSc04wam1IMHRvNmJPNXZsbVFNbWpjZTIwSzI5NmhsNDJTUUdHWUdKZm9RZjl4M09oRW0zWUxKOWFvekQ2UXFKYUlDUjg4X052dDJaVDBvbEJXSFE1WlNzS0ZvU1FHWEd3bVdBWmg3WGt3MFBfZWkwb2lNdlFjSGl0dXdyU0RsbzBrZE90MEg1eFJGY3kwNVBq?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
         "headline": "Trey Kaufman-Renn impressing during NBA Draft process by showing more than he did at Purdue",
         "description": "",
         "published": "2026-06-15T19:17:00+00:00",
@@ -736,6 +718,24 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Charles Barkley clarifies Spurs \u2018dumbest basketball team\u2019 comments after NBA coaches call him",
+        "description": "",
+        "published": "2026-06-14T01:58:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVnpYbTI2UkhxMkR4STk1NWJvRl90eXdGdFI0Y2dMRHBqSUZnUFgzcVQ3TmlpOGhMdTR4RTlTMGxELVR4dlBPNFdUSWgzdXlwNzNzekIzekdmMksxUnZXQUhaYldsSWhiT3pzLTFEbmFIdlgyc3ZZaS1SSGxQSGYzMjdJc3FFaDE3c2dhRk5WNktZYmx4TTdEdmlLY3FZQzZxdEtz0gGoAUFVX3lxTE1seXV4a2RUZjlQNTM3WktXaW8wUzdUSmZKVzdKNVN1eDNaRVJVZmFjOVExdEU2Y1JRX3FMLUc5RFVCNS11bWhxWHFoTGJ0RkZva0FuS0NKUmZJRUtLemdtN2N0cmIzb0pDTmVoUTNvU2dYTkRNSDdpTmtVeTEyZXd1dXUzU1JSd3VzWTB2N3hnSDVoa2FNNkRiY214Z253WlgzT2RwcDBiVw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Awful Announcing"
+      },
+      {
+        "headline": "Trump booed \u2018thunderously\u2019 at NBA Finals: What we know",
+        "description": "",
+        "published": "2026-06-09T11:40:25+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1JadmtwZnktdDdSdEhzQVFzaVBxNVVFRkRBSldpeTVaSFd4WWp6cjN1dWpMVXRSbjdkLS1RckF0NWExZ3NIcEFCR3kyQ2NvWVFuZGJrYzNad1dXbnk3RUc2RnRWeksxZklGN2NLaWpSY1VqeHVZNFZuVC1QVnJuU0pPaGl2MktXaWN4cnBDODNqM21VdXfSAZsBQVVfeXFMT2Z6bjBnRzh0UjZLOV9xa1ZFQXViWW9CUmprdE5TbVFkZjAwZWJfY3NSQ0pEOGlGQXJCU2VrTkl4ODlKVTNmQnRqZ0FmdGlRYTkxM3h1cmhJZGdVclY4NEhiZmUycTBKUldwVVF0cWdhVC1fUFdpUF9UczJqN0RQVTF1emZrSVZyLU0zWXVIVGU3di1NWmxldWRCblE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Al Jazeera"
       }
     ],
     "games": []
