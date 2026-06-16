@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T18:07:48.778833+00:00",
+  "generated_at": "2026-06-16T18:22:54.870278+00:00",
   "duke": {
     "news": [
       {
@@ -156,15 +156,6 @@
         "source": "Sports Illustrated"
       },
       {
-        "headline": "Louisville men's basketball to get Duke, North Carolina at home in ACC slate announced Thursday",
-        "description": "",
-        "published": "2026-06-13T07:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPeFQzQmRoOVIwUnd2djc2aWI3R0FjRW9MUmdnUDJ4YXBOOFhJM09JakdjdWxjZ1gyRGxVMVRsdFhwbUN4bmtVRDZBbG4xVlllY3p3eC1BQ0lTTENTU2V5QXY3Y2p4ekpuc3hDS1VxOWhYWUdQejFGVDlyR3hCY2t0cFBETnJCSHVOMHdicTZ5NF9udkpSejMweVFYcWVURzQ1d3lJOVBfUkNJUTFXWC0xTmdKU1EzeXBkbGF4ZG1MbE0xMnV0aGY5STIzZFZGUzRUUHBzQ0NTR21LTkpRLVhJd19RbkZERVN6UVJyZW0xb0gxd3F0elhPdzRkd1VpYW9Kb2ZFUTlZTkt1MjFzS3JoX3dqdw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "WDRB"
-      },
-      {
         "headline": "One Key Aspect for Duke Basketball To Be Elite Defensively",
         "description": "",
         "published": "2026-06-12T15:00:02+00:00",
@@ -226,6 +217,15 @@
         "image": "https://a.espncdn.com/photo/2026/0610/r1670679_1296x729_16-9.jpg",
         "recruiting": true,
         "source": "ESPN"
+      },
+      {
+        "headline": "Comparing Duke Basketball's Ceiling With UNC's Next Season",
+        "description": "",
+        "published": "2026-06-09T14:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS19qVzl3TTF1SWVTMm1OQm04MkpGcVZ5dGIzX3Q2aGhPM0lvOG8xcTBnVENnSGZpdDJLTTZUWUN0bjRLRmVDVnVxY0tqMW9SMHhqalJkVzhLMUQ3VFcwVk9LcFA3T1BiSEJMN3ZuNF9PSGNheEl2N3l5RkVYb3VNSVlqLWRacFI3N0hCYkZuVUg0dw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
       },
       {
         "headline": "Men's college basketball transfer class rankings for 2026-27",
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Karl-Anthony Towns calls Knicks' NBA title 'a healing experience' for fans, alumni and players alike",
+        "description": "",
+        "published": "2026-06-16T17:58:36+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOUzNRSFhNam1mSGNCWEdncmpHQzRUY2NsQ2wweVk0aE5Qcms5NlFKSzdFSWZXbE9ndE4xX3hmQk1xcmd1b2VwZDFOSnVibENnVTNkRGxYX1laTjZZTHdnbzFJQ3RJMHU3TEprakNrdnhvenM2b216UVJUbnRQVjNtdEtqOS0wU1hBWl93X2VBTm8tYm9V?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Newsday"
+      },
+      {
         "headline": "Windhorst: Six storylines already shaping the NBA offseason",
         "description": "Why is this Giannis trade taking so long? What are the Lakers' plans? Here are some of the biggest topics of discussion two weeks before free agency.",
         "published": "2026-06-16T17:30:22Z",
@@ -504,6 +513,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "Darius Acuff Jr. out to prove his game can translate to NBA",
+        "description": "",
+        "published": "2026-06-16T16:00:12+00:00",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCRkttaTExRDNlVjgwaUpHOEVQeEltbnQzZDhDTGN4Y3k1T3RQa3lULTdCX2FfQm9OWF9Fc29NM095YVdaWHY1Wi1TQkxpY1l6bE1XeWc1V1Z1ODBhUVg0NEh1cnBIMF94NFg3Zg?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
+      },
+      {
         "headline": "Darryn Peterson's Surprising 2026 NBA Draft Strategy Stream of National Basketball Association",
         "description": "",
         "published": "2026-06-16T14:00:45+00:00",
@@ -511,15 +529,6 @@
         "image": null,
         "recruiting": false,
         "source": "CBS Sports"
-      },
-      {
-        "headline": "Could Peterson still go No. 1? A look at recent NBA mock drafts",
-        "description": "",
-        "published": "2026-06-16T13:48:20+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3JhNmYzVGJxLThuS0ZsRTZSSElSeHQ4MWJPV3dCbUpGNml6aTRoQThzNDZPNXFzaFVqT2JzZFZPMk1lR2VSeVJtRnhiMTZfd0xaMGs5Q0hnSFBrckdJRjFSVnhnLXRDQjIwQUhZVlF3eVlPc05weWczUjRzblctaWh6TUNlRVlDS1g5MElmODUzdTB3SUtQQ19vR183d1B3eG1VSm5nMTFiODlIZGUtV3Q1U3paVXItZ1ZLZ2syNmV4LWFiZUdVTEF3?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "KU Sports"
       },
       {
         "headline": "NBA May Vote On Expansion At July Board Of Governors Meeting",
@@ -637,15 +646,6 @@
         "image": null,
         "recruiting": false,
         "source": "the-sun.com"
-      },
-      {
-        "headline": "The Knicks made a championship run that will be remembered in New York and in NBA history",
-        "description": "",
-        "published": "2026-06-15T20:50:41+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcnVYVWxXVEJRUlBVb3B4UTI2Vzc2VXBwellzTFlPVFdvM0NLdnVNZGpSRmZOT1dwcXNqbXNHZWVUVHFVQVVkV1NyVDE5ZGh3ZS1tUDJWTFU3WnFNRmhHbXhHbU81WjM3QUpPT1VQMWx4RUdjMnVuRGYzVVkwR3FYYXZHQ2lVNWJyb0Mw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "AP News"
       },
       {
         "headline": "NBA insider points out two potential 'stumbling blocks' in Celtics' pursuit of Giannis Antetokounmpo",
