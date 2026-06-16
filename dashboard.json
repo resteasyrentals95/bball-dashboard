@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T14:39:23.128678+00:00",
+  "generated_at": "2026-06-16T14:54:28.839365+00:00",
   "duke": {
     "news": [
       {
@@ -10,6 +10,15 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Louisville makes early move for elite 5-star SF as Cardinals battle Kentucky and Duke",
+        "description": "",
+        "published": "2026-06-16T13:45:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWjQ3cVI4X2R1VWY3VVFqb0V6WjFIRUhNTUdaWWxFckVwSHRMLU1uSF9JVlBiVnNDZERQa3UwdG9YRG14YlVtM0djdkJqYmpWeUt1eDN6WUpta2Q4N01oNHpHMHFEQzZxTHF0SFY2bHRkWGJ2M3ppcWZDZWdNQ1ZJUHRjU2JiUUhIak1hbHdScDR0M0dhdUpVeDZGMkNGa2ZYcUdUbThLdS1PbjNmdFE?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Big Red Louie"
       },
       {
         "headline": "NCAA Bracketology: Predicting the 2027 men's March Madness field",
@@ -235,15 +244,6 @@
         "image": "https://a.espncdn.com/photo/2026/0604/r1668324_1296x729_16-9.jpg",
         "recruiting": true,
         "source": "ESPN"
-      },
-      {
-        "headline": "Ranking Every Projected Starter for Duke Basketball",
-        "description": "",
-        "published": "2026-06-05T13:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeTB4NVdzUFc1eUhRYnZrZFR5VDJ5bDd5eTJtWk90REtMcnNfZVV1cjM4bEY2Rnl4WS1HN3c4S3JoUHNXWHN6MXVNc1ViNE1RQzZCc3l1ekNfTVVsR1QwZ0hHc1hzUG5kbHQ4aGQ5N1RtZGZPZk9PU2J1MWxteVhfMnZPa21iV0lkc2J2ZVk4NA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
       },
       {
         "headline": "Men's Basketball to Host Duke in SEC-ACC Challenge",
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Windhorst: Six storylines already shaping the NBA offseason",
+        "description": "Why is this Giannis trade taking so long? What are the Lakers' plans? Here are some of the biggest topics of discussion two weeks before free agency.",
+        "published": "2026-06-16T14:52:08Z",
+        "link": "https://www.espn.com/nba/story/_/id/49074649/2026-nba-offseason-storylines-lakers-giannis-nba-draft-free-agency-aspiration-expansion-windhorst",
+        "image": "https://a.espncdn.com/photo/2026/0616/r1673922_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
         "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on Giannis Antetokounmpo ahead of trade season.",
         "published": "2026-06-16T14:33:49Z",
@@ -499,15 +508,6 @@
         "description": "",
         "published": "2026-06-16T14:20:57+00:00",
         "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbG00bTVqWDJYOXc2Zzc4WnJrM1c1WGgzcm9CWVE0UzBIMDRVY1lHSVF4TTlyVWxqU2xLdTNPc0JMMGZHR2gwT0htT29aVmZDRkgxMmo0RGVrS1hlMmFOdkZfZ0lsY29uaEktRlBxVUpSd3k3V2ZnUDBQUm5SVElRX2FTZzZrYVU0VUJKQy1Cem4?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "CBS Sports"
-      },
-      {
-        "headline": "Darryn Peterson's Surprising 2026 NBA Draft Strategy Stream of National Basketball Association",
-        "description": "",
-        "published": "2026-06-16T14:00:45+00:00",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdzRrZjFENk1KMlNuZnBlUWF3SUZHNGF2akVsSmFxOWtudHRidER6SDFrcXRIVEExejZlel9fZ2JPNHE1R2l6LVpybnNzekZhR0QtTVo1TWpVeXVMR3Zvc29MSmJHcTVjM0E2enhZeTVpM3Y1Y3I3M2ZGSkZNcFZ6RkZ4QlJ4aXZfNE1JdWNhZUtaa1J2MTRGYlVmcDJVUQ?oc=5",
         "image": null,
         "recruiting": false,
         "source": "CBS Sports"
@@ -565,15 +565,6 @@
         "image": null,
         "recruiting": false,
         "source": "247Sports"
-      },
-      {
-        "headline": "Windhorst: Six storylines already shaping the NBA offseason",
-        "description": "Why is this Giannis trade taking so long? What are the Lakers' plans? Here are some of the biggest topics of discussion two weeks before free agency.",
-        "published": "2026-06-16T11:03:08Z",
-        "link": "https://www.espn.com/nba/story/_/id/49074649/2026-nba-offseason-storylines-lakers-giannis-nba-draft-free-agency-aspiration-expansion-windhorst",
-        "image": "https://a.espncdn.com/photo/2026/0616/r1673922_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
       },
       {
         "headline": "2026 NBA Draft scouting report: Keaton Wagler",
@@ -729,13 +720,22 @@
         "source": "Syracuse.com"
       },
       {
-        "headline": "\u201cThey said it couldn\u2019t be done in Skechers\u201d \u2013 OG Anunoby makes NBA history with his shoes",
+        "headline": "The Knicks made a championship run that will be remembered in New York and in NBA history",
         "description": "",
-        "published": "2026-06-15T13:05:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTFF6cWxzNGZqSDc3TUkwdGV3WE1QekxobTg0OUFMRklCTS1RTmJ6ZFpzRVlWOVRZbGpHZHF1ZklmUlYyYzgxN3l4cjZTLVRrLWMzU29FTDhvNGVhX1pBaVBTQmlNV1pxendoRXBPc09NMGhjMlZ5ak1zd3dWV19MMjRXUDgzVG9RRW5BdkpBSjRPeXZ4Smc?oc=5",
+        "published": "2026-06-15T13:14:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcnVYVWxXVEJRUlBVb3B4UTI2Vzc2VXBwellzTFlPVFdvM0NLdnVNZGpSRmZOT1dwcXNqbXNHZWVUVHFVQVVkV1NyVDE5ZGh3ZS1tUDJWTFU3WnFNRmhHbXhHbU81WjM3QUpPT1VQMWx4RUdjMnVuRGYzVVkwR3FYYXZHQ2lVNWJyb0Mw?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Basketball Network"
+        "source": "AP News"
+      },
+      {
+        "headline": "NC State's NBA Champions",
+        "description": "",
+        "published": "2026-06-15T12:45:55+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPTHh3NVFKQWp3ZkVDYk1WMWZOVjFQNDZpX2VBR3VvdUU3a2MyUEdaaUx4ME1rWEJzM1Q2bnc4VnUzdGhPdXRKQV9NREpoeGRueXhvcU9TZmRHOUh6WGhrWHZ0eFZvZFJPZkJndnJvRXIwb2hrYjg5R3l1QXVZMEFETEZtdw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "PackInsider"
       }
     ],
     "games": []
