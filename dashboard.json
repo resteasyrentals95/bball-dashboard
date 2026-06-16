@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T20:08:38.578540+00:00",
+  "generated_at": "2026-06-16T20:23:44.643317+00:00",
   "duke": {
     "news": [
       {
@@ -28,15 +28,6 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
-      },
-      {
-        "headline": "Where do Duke prospects rank on 2026 NBA Draft big board?",
-        "description": "",
-        "published": "2026-06-16T15:50:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObGx4eVRjSDJ5NXc3dnFUQkpTLV9QcC00b2d2b0U0SVBOd25uXzNEZjQ5R1BHQ2FvTm9meW5yZEIyZWtiaFREN1cwakF3X1FWeWlodjIxNzh4ZlR2eFJVSzNVVUJYMnNhVWhNYXpIRklKLVVmeTV1Zy1hcGswX3B3VnBOakFZVTlpMHpqaVV3MnVDSGdveHB1VVRtdXBWYnZjU0wzTEVHM0pUTVRPR1k4OGFuaUpUV2Z5YmVpUHdPQ1NpSklKd0dlVUFVQy1ZZ0pMeFVTNEpXZGc1T3ZNTU42OTRjRmdUdUg4UUFB?oc=5",
-        "image": null,
-        "recruiting": true,
-        "source": "Duke Wire"
       },
       {
         "headline": "Breaking Down Impact of Duke Basketball's Key Returners",
@@ -253,6 +244,15 @@
         "image": null,
         "recruiting": true,
         "source": "The Duke Chronicle"
+      },
+      {
+        "headline": "Duke basketball lands commitment from Loyola Maryland G Jacob Theodosiou",
+        "description": "",
+        "published": "2026-05-02T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU3RZSGk1VlFzQTZLbnY1MHp2Y2lROVhtbzBPTzd0bzBNWFNoT09vckhrMmFoOW8za1l5RS1RLUJ6QkZ4VnJTOHRaaXNHMm9fRDdpUEw3Tmh1clRZUXlPcWlmOXk2U0VMakc2NVBDMDFITVNidXdURlJhcVBHN3RmS2U2UzEwb0I0VndZbXRFZnRiNk56RlNfVzVLdlpmQk40a19UZFIzZ0NiY3dIbG0zbnYyNVRyV2QxZm5MMXFFSVo0SWY5WHo1TVNET01Lc09XTXJ5c0xR?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "The Fayetteville Observer"
       }
     ],
     "games": [
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Photos: Derik Queen, Jeremiah Fears receive All\u2011NBA Rookie Second Team trophies",
+        "description": "",
+        "published": "2026-06-16T20:00:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOX2Z6cnI2WjlzRkVzVGJmYnRYVks4bWZaNlZ6NzhZUC1BNTBDNUhyR256Q3ZiRGlUV081SGd5R2g4cDBLT21xZVdFU2hFTG1fbWRGamRZQzBQSDhVbjl1bTRPV3I1RDdUQmU3cjZuaEFfY254UUd6UGhacEZSYUJQS0RrbzU3WkdXUk5qc3VjVEtxaWxYSjlNRjBKM0FQYmZPQVEzMUd0WDM?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
+      },
+      {
         "headline": "2026 NBA draft: Latest mock drafts and team predictions",
         "description": "Here are Jeremy Woo's NBA mock drafts for the 2026 cycle, including projected teams for Darryn Peterson, AJ Dybantsa and Cam Boozer.",
         "published": "2026-06-16T19:19:07Z",
@@ -513,6 +522,24 @@
         "source": "ESPN"
       },
       {
+        "headline": "Post-Finals NBA mock draft roundup for the Sixers",
+        "description": "",
+        "published": "2026-06-16T18:01:26+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNaVd2cUR5RHV0Z0RVOGR6WWt5bGtjWFl6dUZSTGVYaWVDNFc1cEpOVnZlVFFYbnRlRlNqaktzdW5qN0RCRS0yUk42VW1oU1NsWFg2WWg0SktlUUNiWXRPMS14WXgtekUzRFJiaVB6b19NNTcyV3BpVXh4c2Z3c2J3Ug?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
+        "headline": "Darius Acuff Jr. out to prove his game can translate to NBA",
+        "description": "",
+        "published": "2026-06-16T16:04:08+00:00",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCRkttaTExRDNlVjgwaUpHOEVQeEltbnQzZDhDTGN4Y3k1T3RQa3lULTdCX2FfQm9OWF9Fc29NM095YVdaWHY1Wi1TQkxpY1l6bE1XeWc1V1Z1ODBhUVg0NEh1cnBIMF94NFg3Zg?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
+      },
+      {
         "headline": "NBA May Vote On Expansion At July Board Of Governors Meeting",
         "description": "",
         "published": "2026-06-16T13:23:00+00:00",
@@ -520,15 +547,6 @@
         "image": null,
         "recruiting": false,
         "source": "RealGM"
-      },
-      {
-        "headline": "Warriors linked to Michigan trio as NBA Draft approaches",
-        "description": "",
-        "published": "2026-06-16T12:50:29+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNOE5jSWllVE5kSGtlTk43VVZqa1AxSkpVLTVKck9mOTdZVTF5bFU2STMwTUVoclh2TzBVSXpEby1hLWJPWE9wVThlX1RvRzA5d0thMnRldXQwdHhnU3dGX291aDlBQzVGQjc1V1ZJdnRxQlZ4czM1OElfMGJVbzBGU2ZGUnBjLXE1T0E?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "2026 NBA Draft Links Run",
@@ -592,6 +610,15 @@
         "image": null,
         "recruiting": false,
         "source": "Comic Book Resources"
+      },
+      {
+        "headline": "Polish or potential: Warriors work out centers on opposite ends of NBA draft spectrum",
+        "description": "",
+        "published": "2026-06-15T23:24:36+00:00",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPbHBFcV8wbXZ6WmpUa3BfZWhHLVUzRnN3RW1fcVRnQlN6ci05REFjZlpXeDBaTjYyYkhwUHdhcVM3cGR0bFBPUVBWNnMyRC1zcWNhbkZzQXVNakI2WEJSOTRhZ29rUXYtM1NncmtPT2dOVGtsWVNnUlZZWXplY0NXWDNVR2JnT25PaGVKejR0VlUtTTZ5WG9NOWQ2ZVpUd9IBowFBVV95cUxPT3Nxb2ZySzRWcmY0LURQUjJQUHAzUkdWVHZWMEozVExFdzM1TVBfNk5xRExCbDltbWltNThBbndlWlhyVHF1d2Y2SlZXZllvRm8yTUV6Yzl6amRYSFJjSUV0M2FadEdWNXF0Ujlib20yZUtFVEoxS0ZIV2Y4MFhxVG5nY1lXWXJLVTNDX0JuZl85bDduRmJraUlnLWpLVkFkNHk0?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Mercury News"
       },
       {
         "headline": "Mavericks head coaching search reportedly enters next phase as NBA draft nears",
@@ -675,15 +702,6 @@
         "source": "IndyStar"
       },
       {
-        "headline": "ESPN Projects Three Tennessee Basketball Players To Be Selected In Latest NBA Mock Drafts",
-        "description": "",
-        "published": "2026-06-15T19:02:39+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOT016eHV5WjBFQVJKSnBQOXJBLThGYWhaUlVEMzByWFJidDQwMW0wUllhS1RWNWhKbUE1V05yVFluOGM4NE1Hem16OG9DUlhPYzltamtXMWNhTjBXcS1mRmo0N1U3YkFEdktrMGJVb3EybkM0b3RiZ1hVN3Z2ekZDOHl6Yi1MMU4wY3dZTy10MEZNQXlPYUtWOEVDUHIyd2E3bkRIZWdOMTNrUFg3aElxVFFWOC1Pdw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Rocky Top Insider"
-      },
-      {
         "headline": "Chicago Bulls hire former NBA center Tiago Splitter as coach",
         "description": "",
         "published": "2026-06-15T18:32:53+00:00",
@@ -691,15 +709,6 @@
         "image": null,
         "recruiting": false,
         "source": "Baltimore Sun"
-      },
-      {
-        "headline": "The Knicks are champions! + WNBA Commissioner's Cup check-in",
-        "description": "",
-        "published": "2026-06-15T17:30:18+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPOC1yaUw0dE1sMFg3QzQ0Vm9neG1Wdjd0SVFySENzR1FNNjN3Z2lLdHNuTDUtZ042eVZYbEQ2bmx6SzhrdzV2UXJoWHRGU2pwMG1zX1J5b3BLcjlOOEQzZHdEekVGVGloWl9lQkxGZkJUQ24zMzM5ZlJya0IxTUFFc0dpOFJaVjRzT25FTzV3OTRjY0FyN09mVjUxdkFiMThBNE1lLUpYN0hXVFREZHc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "Jalen Brunson just led the Knicks to an NBA title\u2014and credits his famous dad\u2019s work ethic for preparing him for the job",
@@ -727,15 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Trump booed \u2018thunderously\u2019 at NBA Finals: What we know",
-        "description": "",
-        "published": "2026-06-09T11:40:25+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1JadmtwZnktdDdSdEhzQVFzaVBxNVVFRkRBSldpeTVaSFd4WWp6cjN1dWpMVXRSbjdkLS1RckF0NWExZ3NIcEFCR3kyQ2NvWVFuZGJrYzNad1dXbnk3RUc2RnRWeksxZklGN2NLaWpSY1VqeHVZNFZuVC1QVnJuU0pPaGl2MktXaWN4cnBDODNqM21VdXfSAZsBQVVfeXFMT2Z6bjBnRzh0UjZLOV9xa1ZFQXViWW9CUmprdE5TbVFkZjAwZWJfY3NSQ0pEOGlGQXJCU2VrTkl4ODlKVTNmQnRqZ0FmdGlRYTkxM3h1cmhJZGdVclY4NEhiZmUycTBKUldwVVF0cWdhVC1fUFdpUF9UczJqN0RQVTF1emZrSVZyLU0zWXVIVGU3di1NWmxldWRCblE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Al Jazeera"
       }
     ],
     "games": []
