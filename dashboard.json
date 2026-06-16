@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T15:09:34.371783+00:00",
+  "generated_at": "2026-06-16T15:24:39.996588+00:00",
   "duke": {
     "news": [
       {
@@ -246,13 +246,13 @@
         "source": "ESPN"
       },
       {
-        "headline": "Men's Basketball to Host Duke in SEC-ACC Challenge",
+        "headline": "Ranking Every Projected Starter for Duke Basketball",
         "description": "",
-        "published": "2026-06-05T07:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORXk4QWhvbFlQcFFOZW82SVpLQ0lPQ3dURWVaMHkzUjlaOHdBbjhEUW5ZNGtLVjJBb1R0VDNjOEVwb1hRcGNCbGo5MmxCZXRORE1HeWhMOVNibXkzVWRBSjhqd3FfTVV3bklLbUlFcEhId2JTR0hmb29UUS1fWWJGZnE5c21fNV8ybk9jb2hWRlg3QTA?oc=5",
+        "published": "2026-06-05T13:00:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeTB4NVdzUFc1eUhRYnZrZFR5VDJ5bDd5eTJtWk90REtMcnNfZVV1cjM4bEY2Rnl4WS1HN3c4S3JoUHNXWHN6MXVNc1ViNE1RQzZCc3l1ekNfTVVsR1QwZ0hHc1hzUG5kbHQ4aGQ5N1RtZGZPZk9PU2J1MWxteVhfMnZPa21iV0lkc2J2ZVk4NA?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Florida Gators"
+        "source": "Sports Illustrated"
       }
     ],
     "games": [
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
+        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on Giannis Antetokounmpo ahead of trade season.",
+        "published": "2026-06-16T15:23:29Z",
+        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+        "image": "https://a.espncdn.com/photo/2025/1208/r1586688_2_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "Windhorst: Six storylines already shaping the NBA offseason",
         "description": "Why is this Giannis trade taking so long? What are the Lakers' plans? Here are some of the biggest topics of discussion two weeks before free agency.",
         "published": "2026-06-16T14:52:08Z",
@@ -502,15 +511,6 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
-      },
-      {
-        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
-        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on Giannis Antetokounmpo ahead of trade season.",
-        "published": "2026-06-16T14:33:49Z",
-        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
-        "image": "https://a.espncdn.com/photo/2025/1208/r1586688_2_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
       },
       {
         "headline": "Where Does the 2026 NBA Draft Get Interesting? Stream of National Basketball Association",
@@ -576,13 +576,22 @@
         "source": "New York Post"
       },
       {
-        "headline": "How Purdue offense put Braden Smith in spot where they hope 'the NBA doesn't overthink it'",
+        "headline": "How Donovan Mitchell, Louisville basketball alums fared in NBA season",
         "description": "",
-        "published": "2026-06-16T08:55:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNR0RGOGhjNEhNRDR6aFc3a3ozLUlDR29aSTctSDNzWGszMmV6QkxfQWxNSXppdXBUZUtiWTgxWDlUaUlzbGFzenZhZG91dFREQk01SkVRVGNLR2hEYjltMmhKUlplNXV3bFJza1RvT3hDMW0wOVlWakNHTnFzWUo5Qjh1bEdxUl9qQ1hoX29EM3IyNlk2MWZiM3JxbmxQQXJSaF90Nktvald2MmlZWXdLazlRZjI3M3VxZXFicXhSX2h2akxJb1pzM3pYMThmalk5U3F5c29MazZnS1UtRmJWM2t3a1FoWGRYZzlLWlJTVlNzREU?oc=5",
+        "published": "2026-06-16T09:10:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxPNzByVnE1cWdVc2lTZndPS0R3UkkwZnVoVXJTc3ZETFEzUXU3NFNEcEpSZEtOcEVFWkZ2dkZ3Q0pSamF0UHAxWFlJdlhVX2dFWjFZSmpxcVFsczVZbHZYVllMMksxWS04cXItZlpMd3ZyMGd0bWhSVVpCNXBfYVJXdWVJRnRVZnAzVFdJSGpzalRQcFFMQm9SVkpWZFFSWXd0a19lS3doejlNWFpTdzF5SmR0QVBiOHlyWDZzTk1BZXdadktlVFgtaGhodGZHajZCZzBFNUdWZVV3QjJUUkJTUzNCbVlGYWhOWGtmSFpZTkJlcUVDbzFSTXEySjQ?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "IndyStar"
+        "source": "The Courier-Journal"
+      },
+      {
+        "headline": "Why losing the NBA Finals may be the best thing that happened to the Spurs",
+        "description": "",
+        "published": "2026-06-16T07:59:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTUFDZ3pZWTQ4a05od1hSWEczNl9CNWZHWWtfV2kweVdlaVVSVTBUeGdXazh6T2hqel9wV2E5WTFMSW5iSENseVpTd2pDWnlKbmdwbF9VSnByc3pTRU9kelJKZXBjcVJOd1QwclloNXFhTEJWRm9HazJWTWV5T0dkbFlQd3ZFTnc1Y1phbmxIcmV1X2RfQnZlaTlZZGpwdGR2SzJHeER0X1FJMFFURzBJZFBXdUZpTUt5b01GcA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Basketball Network"
       },
       {
         "headline": "Dolan asked Knicks to sacrifice for title in April speech",
@@ -709,15 +718,6 @@
         "image": null,
         "recruiting": false,
         "source": "Fortune"
-      },
-      {
-        "headline": "Boeheim\u2019s Army adds Wes Johnson, a former Big East player of the year, 10-year NBA vet",
-        "description": "",
-        "published": "2026-06-15T13:57:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNVXFuMnNwTTluYXBtTExmaE9DQ1pSckpFcTFfUy1uY3FDTFd0TzJKanB0MXpickhLZUpsX1pEWDRKeWJ1dS1EMjVpZm9Qc2Fob08xaFdOVXo3TjdEem03VlNEVGdzXzF1V2JMeE8wYXRCaWswa2dMMVJTY1l5WmFTMDQtQ0ZtdTduVTMyTmJiTkUwUnR4akRKcWJXdWVVbUY0YzJBMFlJUjYxaTdYVU90YzNsd2RIWWJzemExOXNRQ3FtYU5kblpLQjh6ZlFtdnYxMGc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Syracuse.com"
       },
       {
         "headline": "The Knicks made a championship run that will be remembered in New York and in NBA history",
