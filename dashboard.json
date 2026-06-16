@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T21:58:38.573384+00:00",
+  "generated_at": "2026-06-16T22:13:44.793244+00:00",
   "duke": {
     "news": [
       {
@@ -32,11 +32,11 @@
       {
         "headline": "Son of former Duke star JJ Redick goes viral for playing like his father",
         "description": "",
-        "published": "2026-06-16T16:54:50+00:00",
-        "link": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5VdDk5YzRna2toZmZIYmZsV1FYLTgtMGFWS0JUQTZWUFNDUW9sdkdsdTFPRUhmd01HenlxNkM3dVh4bU5jNldyaU9vdHFiMDB1WF96MEJDMkJJY1V4UHdDQ0taVE9iQlR1Y2xLUzhRaThTT1ZPaXpsNlJyTmo?oc=5",
+        "published": "2026-06-16T16:54:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPMjVONTV2Q2NOU3U1azRqLVhLcko5ZmlCSk5jRENhN3J5Zzh3XzB0V2s3cUNSZzJ3YVRNYjEwa3E0SzNGOW1UQ1kxNFp2OVF0RHZyN1MzUWprTmNzNnJjTFNuRnFFaEFaYldKanI3dnhRcDB1S3ZkTnkya0RuWXlIUnZEV3J3MGp1YkJVaERSWUQxVmtuUWZpUEdtLXdNbjZnZDZubzY0MWdvTEhNak9lYUpKN1FFcWxXeDhObm42c21LcGtOOFR5MG11NFc1OXZNdVRiclRsdkpXSHdCSXVQcHRwOHBpdlR1dGp3eS1HbjVqc3BHQldnUjhB?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Yahoo Sports"
+        "source": "Duke Wire"
       },
       {
         "headline": "Where do Duke prospects rank on 2026 NBA Draft big board?",
@@ -228,15 +228,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "Men's Basketball to Host Duke in SEC-ACC Challenge",
-        "description": "",
-        "published": "2026-06-05T07:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxORXk4QWhvbFlQcFFOZW82SVpLQ0lPQ3dURWVaMHkzUjlaOHdBbjhEUW5ZNGtLVjJBb1R0VDNjOEVwb1hRcGNCbGo5MmxCZXRORE1HeWhMOVNibXkzVWRBSjhqd3FfTVV3bklLbUlFcEhId2JTR0hmb29UUS1fWWJGZnE5c21fNV8ybk9jb2hWRlg3QTA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Florida Gators"
-      },
-      {
         "headline": "Men's NCAA basketball 2026-27 Way-Too-Early Top 25 rankings",
         "description": "The Wildcats added the top-ranked transfer to rise into the top 25 alongside the Jayhawks and Tar Heels.",
         "published": "2026-06-02T12:15:12Z",
@@ -244,6 +235,24 @@
         "image": "https://a.espncdn.com/photo/2026/0602/r1667031_1296x729_16-9.jpg",
         "recruiting": true,
         "source": "ESPN"
+      },
+      {
+        "headline": "Duke Basketball Transfer Commit John Blackwell Weighing Big Decision",
+        "description": "",
+        "published": "2026-05-11T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRHFYNGg4T1JEckZWeHNUcTJkck1OVEFyRmRLREx6RTlTQzlpSXktUVowZnlFNmpoS3M1Q2pTMVBXUGZKcnZNMVh6dzJ4Y1k5dlMxTzhVcEZNWlo4UVdycHp6dlNIQmZoU2VxMHdRbUhZaldLUHhqcEVZQzlVUHdlU1U0SS1zUFMxWURpRW5RM0hNWEthWmRHTGxGV0NsLTBteDc2aDc4UHdodk0?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Former Loyola guard Jacob Theodosiou commits to Duke men's basketball",
+        "description": "",
+        "published": "2026-05-02T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxPbDFkaF9xdXNOQjNBdGhLWHZMb2NFc1djd3MtREFqSzRvVEZGaENQblJTblFPZmNuMTlVNzRrbnNVVlp6N2gtVC1CZHRFOFhnaDdwZURLTDhyaDB3X2lnOHZSRFNtOTR3M3E1aDE3bG9tYWhRWVpTejhNdnpzUTlnUmE3dFZQUkNOdHlUSDNsdFlMaXpFcmh4NXVuZ2EwQnV4cXpRWGlUOTRhcHEyZmF1ekt5RDhwQlV5cExoTTNCcmRmU0VYM2NScko2M2lfZDhueUxlY3RabjctdlU0c0xDN2sxSjVraTJRc2ZpaXdMbnN6VG9BN2VncFUycFh3RWZhbG1XQXJ6b09sUQ?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "The Duke Chronicle"
       }
     ],
     "games": [
@@ -477,13 +486,31 @@
   "nba": {
     "news": [
       {
+        "headline": "Jets: Knicks' title run 'added motivation' amid 57-year drought",
+        "description": "The Jets, who haven't won the Super Bowl in 57 years, are drawing inspiration from their local basketball brethren.",
+        "published": "2026-06-16T22:12:24Z",
+        "link": "https://www.espn.com/nfl/story/_/id/49085978/jets-knicks-title-run-added-motivation-amid-57-year-drought",
+        "image": "https://a.espncdn.com/photo/2026/0303/r1622708_600x400_3-2.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "NFL, NFLPA, NBPA tell Congress they back college sports bill",
         "description": "The NFL, NFLPA and NBPA on Tuesday sent statements to Congress supporting the Protect College Sports Act and lauding specific provisions it includes while also encouraging further \"negotiations\" during the legislative process.",
-        "published": "2026-06-16T21:55:31Z",
+        "published": "2026-06-16T22:09:38Z",
         "link": "https://www.espn.com/college-sports/story/_/id/49085786/nflpa-nbpa-tell-congress-back-college-sports-bill",
         "image": "https://a.espncdn.com/media/motion/2026/0605/dm_260605_SEC_NCF_Interview_Sankey_Pfs_Pcsa_Bill_260605/dm_260605_SEC_NCF_Interview_Sankey_Pfs_Pcsa_Bill_260605.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Which NBA Star Faces Most Pressure Next Season? Stream of National Basketball Association",
+        "description": "",
+        "published": "2026-06-16T22:00:11+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPenQ1OURFa3dPSlVjc1JBXzh0dnBveFgzWjRoMXdtNXp2M0pVcXJjeHpuM0xnT3Y2Y0JaM28tM0dQeVhtWGhFXzJIQ3h6ZjBENWVuRUdxSWpHQl9HamRBZ1RPelJoNTlPemd0M1lvZ1czNzlOd0VzQ2ZJWmtldlZxSTVtYXRUdDVITkJNdGlzaHVERlJ5NXQw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CBS Sports"
       },
       {
         "headline": "Lawrence Tanter retiring after 40 years with the Lakers",
@@ -522,15 +549,6 @@
         "source": "Yahoo Sports"
       },
       {
-        "headline": "Jets: Knicks' title run 'added motivation' amid 57-year drought",
-        "description": "The Jets, who haven't won the Super Bowl in 57 years, are drawing inspiration from their local basketball brethren.",
-        "published": "2026-06-16T21:09:56Z",
-        "link": "https://www.espn.com/nfl/story/_/id/49085978/jets-knicks-title-run-added-motivation-amid-57-year-drought",
-        "image": "https://a.espncdn.com/photo/2026/0303/r1622708_600x400_3-2.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "2026 NBA draft: Latest mock drafts and team predictions",
         "description": "Here are Jeremy Woo's NBA mock drafts for the 2026 cycle, including projected teams for Darryn Peterson, AJ Dybantsa and Cam Boozer.",
         "published": "2026-06-16T19:19:07Z",
@@ -547,6 +565,15 @@
         "image": null,
         "recruiting": false,
         "source": "Florida Politics"
+      },
+      {
+        "headline": "Forged by battles against NBA talent, Oscar Goodman prepares for his breakout with Michigan basketball",
+        "description": "",
+        "published": "2026-06-16T18:17:05+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPUFdDYzNScEtrc3RaQzdSMWk1MDJCTmM0WkJxSElXODg2QWdOSUxqdS1WYmtxdS0zbGJwazVHZ0M4WXAyQlBMclZqWWRMOGFHbGFIQlNkUjRCbm41c01GWVJhNC1SSzBZdDcwQnBWTkI1S1VfeVQ3N3p2YW1nbHpBNzQyUWh0Y1BPUEdnVlhzdVkyd01pS2xzb1FQcmdPVm94dXFwWnAxcEV2cF9aYTdrRzhEOWRnSjdoMG5VaDBGZjNRRXU5QjFQY1NrOFhvNko5T3JlcHFoV3BTN1hwd3QzdThYUU5NeGJjMHU3M09GcTk?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "247Sports"
       },
       {
         "headline": "NBA Bulls confirm Splitter as new coach",
@@ -657,15 +684,6 @@
         "source": "Deseret News"
       },
       {
-        "headline": "Iowa Basketball: Bennett Stirtz Invited to NBA Draft",
-        "description": "",
-        "published": "2026-06-15T21:14:56+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOWjNJbkRCRkx4X3NzQXlacXRVbDJCbkt1b0haX1A2bi1fS282SnZ5S2N2TUxXTGxUZHVmbExYWEtlQ2N5Q1BPS0tXaExnajMxX1ZtUDBuQlE4YWE5aTZCLUJIbVVUMlNSN3NTa1psVk9icDFRNTlrVmkxcjFUckI1MnNTQ1hSV2Z1TUpPLTA1QzdvbVYxM3NpTDVYR3FwZE4tRVJRMkhWZTBVZkJhYWdaUTVEc3NidE9PSlE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "247Sports"
-      },
-      {
         "headline": "Knicks stars set to lose more than HALF of bonuses after winning NBA title",
         "description": "",
         "published": "2026-06-15T21:06:31+00:00",
@@ -684,13 +702,22 @@
         "source": "AP News"
       },
       {
-        "headline": "Chicago Bulls hire former NBA center Tiago Splitter as coach",
+        "headline": "Iowa basketball's Bennett Stirtz invited to attend 2026 NBA Draft",
         "description": "",
-        "published": "2026-06-15T18:32:53+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQTdZN1E1bkgtc2lfYVZiUlhkRVUzZ1hrV1h4cE1DNGdxY05ZYnZlWHJZZVNQU1hpczNRNUpSUlJsRk1XWDFSTDV4QWY5RS0tOE9DdzZKdEZISEF4WkJtS3VuMWdzVi1BTG96MEYwTUotamRHNnR4elh1dy1ydlBwWnF5TmgxQUR4RFpOQzdRMUgwSVlJNnFwMExzdzF0OEFuVW5j?oc=5",
+        "published": "2026-06-15T19:54:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ1NzcE9MclRQd0JYcTRSbTBNYmtHYTlzeE41VXk2cUJfVzdWN1IwaENTLXFVNXZxU2hrejBUVWVYSnFERHhFYlE2eFRBd3VVMzZEN29fdUpzd3pfTEdpc3NwdThFUlVxWWJocmZBX1AtR0M4dk1PTmcwbXFuZkRHS2YwQWpWM09rYkJKeVFzWEZ1MEszbXZXTGFSYlJQY0YwRnpWcDNzUHBQdXFwbHExTFZwcGpDWnJOOHFvS3lWWE1WVVFIMWUxRkNwMlBkRVZZaFNOdg?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Baltimore Sun"
+        "source": "Hawk Central"
+      },
+      {
+        "headline": "Jalen Brunson just led the Knicks to an NBA title\u2014and credits his famous dad\u2019s work ethic for preparing him for the job",
+        "description": "",
+        "published": "2026-06-15T15:20:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTFdNWTFfUHVrMHNqWEs0eWZjeW5WNmhMWnczWGMweElvSHlhTDY0U18yNVVLdy1zUWt5Y29nQVU5a3JTRi1IWVdtS1lCNHRwZHZ1MVdtZGNfZF9aeHFWTEFqcFJPaVRGOFpMS3RtMEdIek5YS0Z4aUprcVJmbkFpM25OaFgwbGZlUW1JV2p3RXdWb1BZWjBnVXlVS2dlWkVHSHlyTU92TS0temEydHlId3BiandXOWZ5WEZGTjJDM3d5UQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Fortune"
       },
       {
         "headline": "2026 NBA mock draft: Projecting all 60 picks in Rounds 1 and 2",
@@ -709,24 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "KSAT"
-      },
-      {
-        "headline": "Charles Barkley clarifies Spurs \u2018dumbest basketball team\u2019 comments after NBA coaches call him",
-        "description": "",
-        "published": "2026-06-14T01:58:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOVnpYbTI2UkhxMkR4STk1NWJvRl90eXdGdFI0Y2dMRHBqSUZnUFgzcVQ3TmlpOGhMdTR4RTlTMGxELVR4dlBPNFdUSWgzdXlwNzNzekIzekdmMksxUnZXQUhaYldsSWhiT3pzLTFEbmFIdlgyc3ZZaS1SSGxQSGYzMjdJc3FFaDE3c2dhRk5WNktZYmx4TTdEdmlLY3FZQzZxdEtz0gGoAUFVX3lxTE1seXV4a2RUZjlQNTM3WktXaW8wUzdUSmZKVzdKNVN1eDNaRVJVZmFjOVExdEU2Y1JRX3FMLUc5RFVCNS11bWhxWHFoTGJ0RkZva0FuS0NKUmZJRUtLemdtN2N0cmIzb0pDTmVoUTNvU2dYTkRNSDdpTmtVeTEyZXd1dXUzU1JSd3VzWTB2N3hnSDVoa2FNNkRiY214Z253WlgzT2RwcDBiVw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Awful Announcing"
-      },
-      {
-        "headline": "Trump booed \u2018thunderously\u2019 at NBA Finals: What we know",
-        "description": "",
-        "published": "2026-06-09T11:40:25+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1JadmtwZnktdDdSdEhzQVFzaVBxNVVFRkRBSldpeTVaSFd4WWp6cjN1dWpMVXRSbjdkLS1RckF0NWExZ3NIcEFCR3kyQ2NvWVFuZGJrYzNad1dXbnk3RUc2RnRWeksxZklGN2NLaWpSY1VqeHVZNFZuVC1QVnJuU0pPaGl2MktXaWN4cnBDODNqM21VdXfSAZsBQVVfeXFMT2Z6bjBnRzh0UjZLOV9xa1ZFQXViWW9CUmprdE5TbVFkZjAwZWJfY3NSQ0pEOGlGQXJCU2VrTkl4ODlKVTNmQnRqZ0FmdGlRYTkxM3h1cmhJZGdVclY4NEhiZmUycTBKUldwVVF0cWdhVC1fUFdpUF9UczJqN0RQVTF1emZrSVZyLU0zWXVIVGU3di1NWmxldWRCblE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Al Jazeera"
       }
     ],
     "games": []
