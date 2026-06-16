@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T20:44:54.123945+00:00",
+  "generated_at": "2026-06-16T21:13:21.222830+00:00",
   "duke": {
     "news": [
       {
@@ -28,6 +28,15 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
+      },
+      {
+        "headline": "Where do Duke prospects rank on 2026 NBA Draft big board?",
+        "description": "",
+        "published": "2026-06-16T15:50:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxObGx4eVRjSDJ5NXc3dnFUQkpTLV9QcC00b2d2b0U0SVBOd25uXzNEZjQ5R1BHQ2FvTm9meW5yZEIyZWtiaFREN1cwakF3X1FWeWlodjIxNzh4ZlR2eFJVSzNVVUJYMnNhVWhNYXpIRklKLVVmeTV1Zy1hcGswX3B3VnBOakFZVTlpMHpqaVV3MnVDSGdveHB1VVRtdXBWYnZjU0wzTEVHM0pUTVRPR1k4OGFuaUpUV2Z5YmVpUHdPQ1NpSklKd0dlVUFVQy1ZZ0pMeFVTNEpXZGc1T3ZNTU42OTRjRmdUdUg4UUFB?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Duke Wire"
       },
       {
         "headline": "Breaking Down Impact of Duke Basketball's Key Returners",
@@ -244,15 +253,6 @@
         "image": null,
         "recruiting": true,
         "source": "The Duke Chronicle"
-      },
-      {
-        "headline": "Duke basketball lands commitment from Loyola Maryland G Jacob Theodosiou",
-        "description": "",
-        "published": "2026-05-02T07:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQU3RZSGk1VlFzQTZLbnY1MHp2Y2lROVhtbzBPTzd0bzBNWFNoT09vckhrMmFoOW8za1l5RS1RLUJ6QkZ4VnJTOHRaaXNHMm9fRDdpUEw3Tmh1clRZUXlPcWlmOXk2U0VMakc2NVBDMDFITVNidXdURlJhcVBHN3RmS2U2UzEwb0I0VndZbXRFZnRiNk56RlNfVzVLdlpmQk40a19UZFIzZ0NiY3dIbG0zbnYyNVRyV2QxZm5MMXFFSVo0SWY5WHo1TVNET01Lc09XTXJ5c0xR?oc=5",
-        "image": null,
-        "recruiting": true,
-        "source": "The Fayetteville Observer"
       }
     ],
     "games": [
@@ -486,6 +486,24 @@
   "nba": {
     "news": [
       {
+        "headline": "Jets: Knicks' title run 'added motivation' amid 57-year drought",
+        "description": "The Jets, who haven't won the Super Bowl in 57 years, are drawing inspiration from their local basketball brethren.",
+        "published": "2026-06-16T21:09:56Z",
+        "link": "https://www.espn.com/nfl/story/_/id/49085978/jets-knicks-title-run-added-motivation-amid-57-year-drought",
+        "image": "https://a.espncdn.com/photo/2026/0303/r1622708_600x400_3-2.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "NFLPA, NBAPA tell Congress it backs college sports bill",
+        "description": "The NFL, NFLPA and NBPA on Tuesday sent statements to Congress supporting the Protect College Sports Act and lauding specific provisions it includes while also encouraging further \"negotiations\" during the legislative process.",
+        "published": "2026-06-16T21:09:18Z",
+        "link": "https://www.espn.com/college-sports/story/_/id/49085786/nflpa-nbapa-tell-congress-backs-college-sports-bill",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "Photos: Derik Queen, Jeremiah Fears receive All\u2011NBA Rookie Second Team trophies",
         "description": "",
         "published": "2026-06-16T20:00:04+00:00",
@@ -531,13 +549,31 @@
         "source": "Yahoo Sports"
       },
       {
-        "headline": "Darius Acuff Jr. out to prove his game can translate to NBA",
+        "headline": "2026 NBA Draft: Rockets have to nail this year\u2019s second round pick",
         "description": "",
-        "published": "2026-06-16T16:04:08+00:00",
-        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCRkttaTExRDNlVjgwaUpHOEVQeEltbnQzZDhDTGN4Y3k1T3RQa3lULTdCX2FfQm9OWF9Fc29NM095YVdaWHY1Wi1TQkxpY1l6bE1XeWc1V1Z1ODBhUVg0NEh1cnBIMF94NFg3Zg?oc=5",
+        "published": "2026-06-16T16:48:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeUlZbmN4WU1IbmZ5Q3E3MDNSVUpVWVpyQkJWWHIzbG10dGtBNEU4MGpBTHdSRHplOWhfaXJYR3B6enZTcVVIUXhickxTekd6MnNQenNvVXl6RnJuckExVmpWTVQ5eWlKbnEwU2FfdGtxSFdtdjFzRkRVSHVzUTMtUkZB?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "NBA.com"
+        "source": "Yahoo Sports"
+      },
+      {
+        "headline": "O\u2019Donnell: Will \u2018The Unknown Brazilian\u2019 lead the Bulls out of the NBA\u2019s southern hemisphere?",
+        "description": "",
+        "published": "2026-06-16T15:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQWXl1MzU1Y3gxdThYeWh0aUtBZmhiNGxCNGhVb284Ty1mQmc1eHBqX0s4SFdEMnJMZXFycVJNTW9zdWtoYzBfbEpIRW9FVHRnNUJ6MGRITWI4ZzBqSGFFQWNBTTZveTJiZ252T2pfYzJXbmdHLW1RRXdYRnEtV1R2a1BOY2p0cXN1ckY3SWtSd3hrdFoxMENhSThhSkFoRER2NzR1bzJiOUZUdk5ETVNZNzJVSTFROE1Ca2p2VEg4T2dUazB1eEpHb0ZaTjJNNGc4TkxucA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Daily Herald"
+      },
+      {
+        "headline": "Program History: Michigan Looks to Capture Rare NBA Draft Feat For First Time in 36 Years",
+        "description": "",
+        "published": "2026-06-16T14:02:38+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdGtxaVJ1WEJMOXBFQUg0YXVHNi1XN2tsSzRrTEdVTDlYdjJ1dDNnNXNKNF9tR2dyb1ZOQXVxRERaWVFwX2gzYl9ySnYzS3kzN042ZlJLSF9kWE84SFZvM3hSdXI1WXJzWGRfc2JWX296ZE9iZFZHQlc0WVFvRWVFUXU5SVdLZTdHMGEwZWlqeWRLV3VfdTlaWmtueFFUMFNsbk1YdDZuMENrcFZwR3NOUW5CWWU3Zw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
       },
       {
         "headline": "NBA May Vote On Expansion At July Board Of Governors Meeting",
@@ -583,15 +619,6 @@
         "image": null,
         "recruiting": false,
         "source": "New York Post"
-      },
-      {
-        "headline": "Why losing the NBA Finals may be the best thing that happened to the Spurs",
-        "description": "",
-        "published": "2026-06-16T07:59:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTUFDZ3pZWTQ4a05od1hSWEczNl9CNWZHWWtfV2kweVdlaVVSVTBUeGdXazh6T2hqel9wV2E5WTFMSW5iSENseVpTd2pDWnlKbmdwbF9VSnByc3pTRU9kelJKZXBjcVJOd1QwclloNXFhTEJWRm9HazJWTWV5T0dkbFlQd3ZFTnc1Y1phbmxIcmV1X2RfQnZlaTlZZGpwdGR2SzJHeER0X1FJMFFURzBJZFBXdUZpTUt5b01GcA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Basketball Network"
       },
       {
         "headline": "From Chicago\u2019s suburbs to MVP: Jalen Brunson\u2019s road to NBA championship",
@@ -648,15 +675,6 @@
         "source": "247Sports"
       },
       {
-        "headline": "Knicks stars set to lose more than HALF of bonuses after winning NBA title",
-        "description": "",
-        "published": "2026-06-15T21:06:31+00:00",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9tQmdRdWoxeVY4eUZ5V0lpY19iRXlYb1BDUWxtYS1WZGNxa2trZXR4S29rYVhqb1RiUnhUalNEeTBoR3hIZ3ZTT1Q3c0ZsQ20xNkQzUHdmVi04ei1zUHZ3UVN2cWVpSDVBbGl1bmUxa01NaTU5TVE0RUFKN2dsN2s?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "the-sun.com"
-      },
-      {
         "headline": "The Knicks made a championship run that will be remembered in New York and in NBA history",
         "description": "",
         "published": "2026-06-15T20:50:41+00:00",
@@ -682,24 +700,6 @@
         "image": null,
         "recruiting": false,
         "source": "NBC 5 Chicago"
-      },
-      {
-        "headline": "Trey Kaufman-Renn Offers Incredible Defense of Braden Smith as an NBA Point Guard",
-        "description": "",
-        "published": "2026-06-15T19:25:23+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQa3VXc2NkdGx3aS1oQTRZd0FtYXJfUXFBWG9BdG9UVHRzbkhZWkwtRjVLelJWQXpxWXZCU1Q2T1RSc04wam1IMHRvNmJPNXZsbVFNbWpjZTIwSzI5NmhsNDJTUUdHWUdKZm9RZjl4M09oRW0zWUxKOWFvekQ2UXFKYUlDUjg4X052dDJaVDBvbEJXSFE1WlNzS0ZvU1FHWEd3bVdBWmg3WGt3MFBfZWkwb2lNdlFjSGl0dXdyU0RsbzBrZE90MEg1eFJGY3kwNVBq?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Trey Kaufman-Renn impressing during NBA Draft process by showing more than he did at Purdue",
-        "description": "",
-        "published": "2026-06-15T19:17:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPMjA1c0p2dUlVemlBelJOVGVaUS0xY2JlZHZGZm9QTXVQdlluV1h6VE9uNy1MWi1ScmRiUmt1TzBSYWpkckFueEZnZ3BESG80RGdOQ2ZCak5obFJvU2x1c3Vadk10SUJETE1Xczdzdk5YRF9tbHo2cmtvVUlYUGFyTV9rQ3VSdVZVZTJMVDZQVmZTZ19NVnJUQmhLbTRKdlg3V2I1REVhTU8xRkU1RS1VYk5IOXJMa3RQbUVkRFRQbzc4dnVsdlNGNWxxRDV3YXloZmp6STAzOVljbVRVRlM2bDZsWDA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "IndyStar"
       },
       {
         "headline": "Chicago Bulls hire former NBA center Tiago Splitter as coach",
