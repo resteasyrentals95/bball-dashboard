@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T17:22:31.358089+00:00",
+  "generated_at": "2026-06-16T17:37:37.009948+00:00",
   "duke": {
     "news": [
       {
@@ -156,15 +156,6 @@
         "source": "Sports Illustrated"
       },
       {
-        "headline": "Louisville men's basketball to get Duke, North Carolina at home in ACC slate announced Thursday",
-        "description": "",
-        "published": "2026-06-13T07:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPeFQzQmRoOVIwUnd2djc2aWI3R0FjRW9MUmdnUDJ4YXBOOFhJM09JakdjdWxjZ1gyRGxVMVRsdFhwbUN4bmtVRDZBbG4xVlllY3p3eC1BQ0lTTENTU2V5QXY3Y2p4ekpuc3hDS1VxOWhYWUdQejFGVDlyR3hCY2t0cFBETnJCSHVOMHdicTZ5NF9udkpSejMweVFYcWVURzQ1d3lJOVBfUkNJUTFXWC0xTmdKU1EzeXBkbGF4ZG1MbE0xMnV0aGY5STIzZFZGUzRUUHBzQ0NTR21LTkpRLVhJd19RbkZERVN6UVJyZW0xb0gxd3F0elhPdzRkd1VpYW9Kb2ZFUTlZTkt1MjFzS3JoX3dqdw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "WDRB"
-      },
-      {
         "headline": "One Key Aspect for Duke Basketball To Be Elite Defensively",
         "description": "",
         "published": "2026-06-12T15:00:02+00:00",
@@ -228,6 +219,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "Comparing Duke Basketball's Ceiling With UNC's Next Season",
+        "description": "",
+        "published": "2026-06-09T14:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS19qVzl3TTF1SWVTMm1OQm04MkpGcVZ5dGIzX3Q2aGhPM0lvOG8xcTBnVENnSGZpdDJLTTZUWUN0bjRLRmVDVnVxY0tqMW9SMHhqalJkVzhLMUQ3VFcwVk9LcFA3T1BiSEJMN3ZuNF9PSGNheEl2N3l5RkVYb3VNSVlqLWRacFI3N0hCYkZuVUg0dw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
         "headline": "Men's college basketball transfer class rankings for 2026-27",
         "description": "First-year head coaches aren't the only ones who made a splash in the portal. Blue bloods are in the mix, too.",
         "published": "2026-06-09T12:48:27Z",
@@ -237,6 +237,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "Ranking Every Projected Starter for Duke Basketball",
+        "description": "",
+        "published": "2026-06-05T13:00:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeTB4NVdzUFc1eUhRYnZrZFR5VDJ5bDd5eTJtWk90REtMcnNfZVV1cjM4bEY2Rnl4WS1HN3c4S3JoUHNXWHN6MXVNc1ViNE1RQzZCc3l1ekNfTVVsR1QwZ0hHc1hzUG5kbHQ4aGQ5N1RtZGZPZk9PU2J1MWxteVhfMnZPa21iV0lkc2J2ZVk4NA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
         "headline": "Men's Basketball to Host Duke in SEC-ACC Challenge",
         "description": "",
         "published": "2026-06-05T07:00:00+00:00",
@@ -244,15 +253,6 @@
         "image": null,
         "recruiting": false,
         "source": "Florida Gators"
-      },
-      {
-        "headline": "Men's NCAA basketball 2026-27 Way-Too-Early Top 25 rankings",
-        "description": "The Wildcats added the top-ranked transfer to rise into the top 25 alongside the Jayhawks and Tar Heels.",
-        "published": "2026-06-02T12:15:12Z",
-        "link": "https://www.espn.com/mens-college-basketball/story/_/id/48931769/mens-ncaa-basketball-2026-27-way-too-early-top-25-rankings-nba-draft-withdrawal",
-        "image": "https://a.espncdn.com/photo/2026/0602/r1667031_1296x729_16-9.jpg",
-        "recruiting": true,
-        "source": "ESPN"
       }
     ],
     "games": [
@@ -486,29 +486,20 @@
   "nba": {
     "news": [
       {
+        "headline": "Windhorst: Six storylines already shaping the NBA offseason",
+        "description": "Why is this Giannis trade taking so long? What are the Lakers' plans? Here are some of the biggest topics of discussion two weeks before free agency.",
+        "published": "2026-06-16T17:30:22Z",
+        "link": "https://www.espn.com/nba/story/_/id/49074649/2026-nba-offseason-storylines-lakers-giannis-nba-draft-free-agency-aspiration-expansion-windhorst",
+        "image": "https://a.espncdn.com/photo/2026/0616/r1673922_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
         "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on Giannis Antetokounmpo ahead of trade season.",
         "published": "2026-06-16T16:29:35Z",
         "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
         "image": "https://a.espncdn.com/photo/2025/1208/r1586688_2_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "\u2019That Would\u2019ve Helped\u2019 \u2014 Reggie Miller Argues NBA Finals Exposed Why Spurs Should\u2019ve Signed 12-Time All-Star",
-        "description": "",
-        "published": "2026-06-16T15:00:21+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOemFOdFBZc3VLQ3NIUmlLVU0zU3A5ZU9SZEU0cXplTjg2bzVOV1FTd2lzYXZwQl8tT1Jqbi14SHZsY0RTZWh0ZVdwNHU1QkpRblE5dy01cFR2ZG1YTHVtc2lnSHA2M3BsblNmaWkxWmJlT2EweVpSc2pUSW1XcUFudUpKWG8wQQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
-        "headline": "Windhorst: Six storylines already shaping the NBA offseason",
-        "description": "Why is this Giannis trade taking so long? What are the Lakers' plans? Here are some of the biggest topics of discussion two weeks before free agency.",
-        "published": "2026-06-16T14:52:08Z",
-        "link": "https://www.espn.com/nba/story/_/id/49074649/2026-nba-offseason-storylines-lakers-giannis-nba-draft-free-agency-aspiration-expansion-windhorst",
-        "image": "https://a.espncdn.com/photo/2026/0616/r1673922_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
@@ -565,6 +556,15 @@
         "image": null,
         "recruiting": false,
         "source": "Larry Brown Sports"
+      },
+      {
+        "headline": "NBA champion John Salley defends dreamers all across America: \u2018There\u2019s no excuses\u2019",
+        "description": "",
+        "published": "2026-06-16T11:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYWdiRk5abjVneDE1cDZhY0xuWHRiOE5IOUFQYUtoMHFkOGVRRWJLMHNUY3FHb1ZGbW1qVVc2TzBHd25BSkZGNHBObWZaVXNXMHpaVDFxMTdpTk4xWldqTENsTGFVdDlMSTB0b3dEUWNiM1lkUU4wa0c2bUIwQkFtaEhmOHRXRWJveTJpeQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "New York Post"
       },
       {
         "headline": "Why losing the NBA Finals may be the best thing that happened to the Spurs",
@@ -675,33 +675,6 @@
         "source": "Algemeiner.com"
       },
       {
-        "headline": "New details of James Harden\u2019s gun arrest emerge as NBA star\u2019s mugshot released",
-        "description": "",
-        "published": "2026-06-15T16:39:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPcVhUOUhwT0I0Z3RIZFBmWkVuREYwcE5JOUJFamh6S0ljS3NHamFON2tfYnh0eldXbDZXeFgwU2pNeExRYmNpRFo2LXFGczBiNGhXMDVabS15N2ZIcTY5UU1rS1Q1R0gtTFpsaGNZSS1USGhtcnR3VXZ0T1JnXzh0MFFwVm1pS2xVU0xlWW1KZXlVNlZ4QmZRZWU1ZDhGYlNfSW5DVllGeXRtTWN3eG94d0ZpVG8?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "New York Post"
-      },
-      {
-        "headline": "Karl-Anthony Towns Deems Jordyn Woods\u2019 Lucky Bag the \u2018Greatest\u2019 in 'History\u2019 After NBA Finals Win",
-        "description": "",
-        "published": "2026-06-15T16:28:42+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYVdXUGZvVWNnbkUzUXdqS1pCczhuOGxpS3p3UnNkSXUxalV3TWdwRVJRdzVnV1BUcGpOX3lBS1o1R21PRTBRVjJjRHFFQjRZX3JoSnpGWmVLT1F6X1ZhWktSeVJWWlBDb0ZzdTFBQ3d4YktncWhSRmM0S3VQbkx4UE9YWjc0WHBRbGVyUXJyWFNMM1BhZXFMajJSM1FUaFROaWNsYkVWQWl0ZGxFS2Z3QThqRDZCRklnUVdkQw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "People.com"
-      },
-      {
-        "headline": "NBA: OG Anunoby eyes UK basketball boom after New York Knicks' Finals win",
-        "description": "",
-        "published": "2026-06-15T15:58:39+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9DZkdKZXM5dFZEYWxNLWFJMnlDY2lyUUg4enNlODhjXzlVbmdxS1hEOVJwVkFNZ3pYV0tMelQyelBQWXNfbXUzNElnTEtIenVDMks3Y21fdi0zbThxT201QjJVcmZGSXhhMFE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "BBC"
-      },
-      {
         "headline": "Jalen Brunson just led the Knicks to an NBA title\u2014and credits his famous dad\u2019s work ethic for preparing him for the job",
         "description": "",
         "published": "2026-06-15T15:20:00+00:00",
@@ -709,6 +682,15 @@
         "image": null,
         "recruiting": false,
         "source": "Fortune"
+      },
+      {
+        "headline": "The Knicks made a championship run that will be remembered in New York and in NBA history",
+        "description": "",
+        "published": "2026-06-15T13:14:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPcnVYVWxXVEJRUlBVb3B4UTI2Vzc2VXBwellzTFlPVFdvM0NLdnVNZGpSRmZOT1dwcXNqbXNHZWVUVHFVQVVkV1NyVDE5ZGh3ZS1tUDJWTFU3WnFNRmhHbXhHbU81WjM3QUpPT1VQMWx4RUdjMnVuRGYzVVkwR3FYYXZHQ2lVNWJyb0Mw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "AP News"
       },
       {
         "headline": "2026 NBA mock draft: Projecting all 60 picks in Rounds 1 and 2",
@@ -736,6 +718,24 @@
         "image": null,
         "recruiting": false,
         "source": "Al Jazeera"
+      },
+      {
+        "headline": "College basketball top 25 after NBA Draft deadline: Illinois or Florida at No. 1? - The Athletic",
+        "description": "",
+        "published": "2026-06-02T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY05EZ1NZbkRQQmRGMjZ2eUNkY0NtenhDSWpWU2tBM3hVaGxpRXB4bzNNcTFkSXNfeFZwT0kxX1R0YkVkNGRIX3N5MEtlRUJaRGR5T3d3RFpSYmpsTkt6Nzg5UVZsQnFpTXBCX3FCVWhPelI0dmxjNlhFc1lFUXcyUVBlTlgwdjVVQldxVEtUVTBvWE52Ym9pT1JNTFFSVE0?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The New York Times"
+      },
+      {
+        "headline": "Way-too-early Top 25 college basketball rankings 8.0: NBA Draft withdrawal deadline passes",
+        "description": "",
+        "published": "2026-05-28T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdmtRS3gwV3RTU2VfekRBWUFNYTFFQnROZnpzaGFNRWFPR1VpUXI4LWM2bjJKZTAyWUIxek5KcVZsWDlXNWhwM1hjLTF1V1dCTkxmZUx2RlBQeWRJUGtuaHhlS0ZmN2xzcWVXNG1GZ0k1ZUh5NDB6Uko5bzNUQU9tUnFjRm5SelFudGFPaXQ2MGxXdWZkYkM4azN4WC1QMEpvcHU3dWh2LTlYUUszSExwTU92OXlRZw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "On3"
       }
     ],
     "games": []
