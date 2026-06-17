@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T02:41:50.048512+00:00",
+  "generated_at": "2026-06-17T03:18:43.741988+00:00",
   "duke": {
     "news": [
       {
@@ -201,15 +201,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "Comparing Duke Basketball's Ceiling With UNC's Next Season",
-        "description": "",
-        "published": "2026-06-09T14:30:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS19qVzl3TTF1SWVTMm1OQm04MkpGcVZ5dGIzX3Q2aGhPM0lvOG8xcTBnVENnSGZpdDJLTTZUWUN0bjRLRmVDVnVxY0tqMW9SMHhqalJkVzhLMUQ3VFcwVk9LcFA3T1BiSEJMN3ZuNF9PSGNheEl2N3l5RkVYb3VNSVlqLWRacFI3N0hCYkZuVUg0dw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
         "headline": "Men's college basketball transfer class rankings for 2026-27",
         "description": "First-year head coaches aren't the only ones who made a splash in the portal. Blue bloods are in the mix, too.",
         "published": "2026-06-09T12:48:27Z",
@@ -235,6 +226,15 @@
         "image": null,
         "recruiting": false,
         "source": "Florida Gators"
+      },
+      {
+        "headline": "Predicting Duke Basketball's Biggest Surprise Breakouts Next Season",
+        "description": "",
+        "published": "2026-06-04T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMG4xMjhLaWxxQ2pSVlh3cEJyczN2MzJBUjZPR3JYdWJJaWllTmZubTlSTHZsbHFYMDJfX3BfVWZhaFlOU0FzMUMzTVNaTHpNd0hibVczS2RObmNIQzVrczVoSDlFZ0ZUeFJJWjg0RGlDcjR4dE1fNzI4UHEwOGtSazIxZmc3YVhtZmdiNVQ3OS1yTnAzTmpudHlwOEJtR1BsLVNhZEF2TQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
       },
       {
         "headline": "Men's NCAA basketball 2026-27 Way-Too-Early Top 25 rankings",
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "See where ESPN projects Bruce Thornton to go in the NBA draft",
+        "description": "",
+        "published": "2026-06-17T02:12:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNYkZKdlpGRmF3V2YyNXpaTFBKYXh5cmE0TU5KcXh2QUpVZk1QSUpPT2xydlhaWUdsMWtWakk5MU90YlRGajF2SUV1TnpMcTQybEljclpmODBxMi1QSGRFWVUwUDZmTm1pMWVtNC1lemd0dkZVN2lrR3FpbWs4aUgtWnVfN3ZITklIQ1JqNER1MjQ2NnJYTVJ0Vy0wT0gtRHh5azVZeFQ1UWxBTGFLSzJSa3BsVWpXT21nQnNLRmFxLXNVV1FpeFFfRU5qc0VxNHF1X09JTFhnV2luY3ZycmpSMzNLaDlqRnlBVmJiOWFZT2pNQQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Buckeyes Wire"
+      },
+      {
         "headline": "NBA Championship Droughts And How To Fix Them Stream of National Basketball Association",
         "description": "",
         "published": "2026-06-17T01:50:15+00:00",
@@ -603,15 +612,6 @@
         "source": "ESPN Press Room"
       },
       {
-        "headline": "The Bounce: The NBA offseason frenzy arrives. Plus, mocking the top-10 draft picks - The Athletic",
-        "description": "",
-        "published": "2026-06-16T14:15:11+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUFktQ2FiQVZzSEZGcTlnQjViR0o4SE1OT056U3p2aHgzc3FUZXJJaDE5ZUVGcmhibkNpV3hfRkdXTjhKb2Q1dXhMTXdMZEE2ZHIyVjZEUlc4N00zOHZYNmJSX0lZNHdJNXo0MUJKNjM1eVB2WkZBT0c1S1QtZmRIaGZZOWlHalN4UndRd0Jn?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The New York Times"
-      },
-      {
         "headline": "2026 NBA Draft Links Run",
         "description": "",
         "published": "2026-06-16T11:55:00+00:00",
@@ -628,6 +628,15 @@
         "image": null,
         "recruiting": false,
         "source": "Larry Brown Sports"
+      },
+      {
+        "headline": "Windhorst: Six storylines already shaping the NBA offseason",
+        "description": "",
+        "published": "2026-06-16T11:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM1ZCM0N0SG9Cd0FLYmpOWWRpNmxCd0xxVTVWOE1vbHJiU05lWTRNeF9wempMd1ZjZGZodjBfUHUydy1vcGdBYnZPWHRtNTk2ZklWMHVIWmQyVnVwdnhEQVZFSkQyQjlEZDRWT3NtN1BjVWhJY3NFb1hyaE9nMk1nX2lvb2lnakpuaGh4RzluWHdORU5kakJIRWg5anVtNG1SaXhpRm5DMU9LbGhYajhHX0ZrY29iejJiN2dMRHI0VUVpXzc4M2lPck1DMHVCR0FYS0VhclFmRWt3Zw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
       },
       {
         "headline": "NBA champion John Salley defends dreamers all across America: \u2018There\u2019s no excuses\u2019",
@@ -684,24 +693,6 @@
         "source": "Deseret News"
       },
       {
-        "headline": "Iowa basketball's Bennett Stirtz invited to attend 2026 NBA Draft",
-        "description": "",
-        "published": "2026-06-15T19:54:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ1NzcE9MclRQd0JYcTRSbTBNYmtHYTlzeE41VXk2cUJfVzdWN1IwaENTLXFVNXZxU2hrejBUVWVYSnFERHhFYlE2eFRBd3VVMzZEN29fdUpzd3pfTEdpc3NwdThFUlVxWWJocmZBX1AtR0M4dk1PTmcwbXFuZkRHS2YwQWpWM09rYkJKeVFzWEZ1MEszbXZXTGFSYlJQY0YwRnpWcDNzUHBQdXFwbHExTFZwcGpDWnJOOHFvS3lWWE1WVVFIMWUxRkNwMlBkRVZZaFNOdg?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Hawk Central"
-      },
-      {
-        "headline": "Chicago Bulls hire former NBA center Tiago Splitter as coach",
-        "description": "",
-        "published": "2026-06-15T17:00:39+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNQ3lLbERYM1pNRDhBMXR2c2ZhYmRRUXhXdnFMYlo4aTEydkFPRGVNeGxKbnYzTElNZGpHX1B6ZFlqWm5Na3Z5cjVIMmdoa2tRTEQzbFR0d1RhcmREWXBFREhVZFg0ZUdDOVFjQ09kUEg2WXVEVUNXN1FQU2N0MHpDSl8yb0I4TUwwZDYwUWNyYW41Tmlab2pNenZ4d2U0SFVXMmhUcUJLTDBPdTN6anc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Click2Houston"
-      },
-      {
         "headline": "Jalen Brunson just led the Knicks to an NBA title\u2014and credits his famous dad\u2019s work ethic for preparing him for the job",
         "description": "",
         "published": "2026-06-15T15:20:00+00:00",
@@ -724,6 +715,15 @@
         "description": "",
         "published": "2026-06-15T12:45:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcnBYdEpWNktFQ2RQdGdKazZxSkhkbEVYRDBBLVA1U0hoNXhaS0N1Um9oYm5oYlRVSEplYjl0SllJUmhaV2I0dk9qQUxpRzZGUnUyeGZDTlVrYVhQQVZnRGlWNUVYMlFqTG1lbGhjZEpidGZXWE9ZczRzenB3b1I1UVVhdkhFWkNPcnRPYVlNRXlBaFlXXzhhNTRxeWZzdXVpeU8taEVNbWFqVTlOSU8zMkhPNGFwcmJKdUVGUTBPN2I0MG9RZEpYTVo2OXA2VUptZnRnU1V3?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "All-NBA Playoff Awards: Which stars made our first, second teams?",
+        "description": "",
+        "published": "2026-06-15T11:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNTjZEemVpUVlyOWx0cE9sRERsVjNXRHhVRWVleVBiU3haM2JNTzlKYVQyR3h5NXY5NXhWaVpLTW5lMnlrb3dNdlBWdXpCdTN3RDVubXJNQllYQTZDbUc0YzJuaExOeUVoSzU2RjdjdEo2NkNnSUtJSDNjNEdFOVhhcS1HQTFCVGl1aUdSRGZTMUhLMklCb2FVN2pmVlJpd3pHMUtiZS1XVkxsbEVuTHVPR18wR2RIRG1JQl9jYmFIeWg?oc=5",
         "image": null,
         "recruiting": false,
         "source": "ESPN"
