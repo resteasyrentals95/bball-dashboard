@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T20:46:20.779375+00:00",
+  "generated_at": "2026-06-17T21:09:55.089152+00:00",
   "duke": {
     "news": [
       {
@@ -37,15 +37,6 @@
         "image": null,
         "recruiting": true,
         "source": "Duke Wire"
-      },
-      {
-        "headline": "Boston Celtics star Jayson Tatum on what his role with Duke has him doing",
-        "description": "",
-        "published": "2026-06-17T16:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQR3dsUnF3VkgyRFVTaWF5TUdEN2JpUGJacXdTWVd2eUlLeVRmd3lHX3dQY3ItMVppeThqWkhqWWVxVmk5bTYtOWZvam5EV0tsOVRHOTRQMzBxckp6ZXNxaW5RNlQzdzJrWjV3N1BFSkVxRGVubkN4SzZEU0NIZXhaVG1SNVYwRXFpMkMwd3hJR203RGRwTjV2ZWtRS3RTWWRwOHB3TnRDQ2tmaE1GNEVQQUE2dDZvSmY2bXJJN3I3UTZYemFtR0V6ZkVzTWVrMWdHNEpwOGs0NHUxSGZWRDVaVjdR?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Celtics Wire"
       },
       {
         "headline": "Former Duke alum provides Cayden Boozer with important mentorship",
@@ -127,15 +118,6 @@
         "image": null,
         "recruiting": false,
         "source": "Duke Basketball Report"
-      },
-      {
-        "headline": "Duke Tournament of Champions Summer 2026 \u2013 First Round Pt 2",
-        "description": "",
-        "published": "2026-06-17T07:41:21+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSGJndmdHcGhWQVlzbFNfQlpoSldTa2VXU2dwaGxfWkJuM0drbFpxdjVET0VEeHlxNTV0c0dpa19uQzEwdVpraEdmRDVsaEh6TXVEeUFseTQ0T0JsLTN4aE8yRDUyeTg3d2hfSEtianFiM09VTE1Tak9lQ0pCSE1GRnozRG9ZWHM1cFZCTXJ2Vzk3dlctY2QwRU9LVW8zNUF4LVRENXBKZnI2cDl1NHhES2NLNmtaSVBqXzZV?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "247Sports"
       },
       {
         "headline": "ONE-AND-DONE: Duke Basketball TOP 10 RANKS as Locked On Celebrates 10 Years",
@@ -228,6 +210,15 @@
         "source": "On3"
       },
       {
+        "headline": "Underrated Factor That Should Keep Duke's Boozer in Top Pick Debate",
+        "description": "",
+        "published": "2026-06-15T14:00:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTk9vcmxJWmJFNW5oekpyZnphRm0wQ0dLc05jMnFxVDZMTzFtZmhZTDBCWkpiTGxfNE0xcUJiWUlNbWdzVUplTHp3WmhDallTZ05TUlh3ZDZ4d0MzdEhQcTlweUdrb0F5MDExbnVmcnYzU1VUUGVwMjFRVjRWUHFKT29fRzBPV0Rwd1hQUHh5TnFYM01TV2dQdk9QNWQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
         "headline": "Lofty Expectations for Duke Basketball Only Continue To Rise",
         "description": "",
         "published": "2026-06-15T11:00:01+00:00",
@@ -241,6 +232,15 @@
         "description": "",
         "published": "2026-06-13T10:00:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdVdTazlnRThnaS1mSEpsZ1FTUHJqXzVLSy1jOG1KTVI1bzdrbm1qZ1dSSnROUWFGM05ETUwydVZTWlZza2NqN1dSeVNQdTJzZzdBZ2RCVjhHR29tekt0UHJsUHh4MEh5ZlhMVXB4NmJPZG1WalNXR3RMTFl0STk1WWF6ZE5qODFEbmpYTzRONHVZZEEtd1E1aVZXN3ptTUZ6?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Why Recent History Favors Duke Basketball in Bout With Gonzaga",
+        "description": "",
+        "published": "2026-06-12T11:00:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGdUdGk2WWNSTmdUNHlPcEIzU0lxYklwX3lEamR4bXRJdVlIbkZSa3MtS3pDSThBSm93WWZ2c1IxOWpta3A5cmcyV01xb3Bfc1BwbjRiUHNzSDVGYWdKOU9RYUdWdHFoR2tGSF9DU3NzZWs0X25IcHlabWhvVS1HU0RTMnQ3akRLQzh4ZmN1Zm1ydXp6QWN2OQ?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
@@ -486,10 +486,10 @@
   "nba": {
     "news": [
       {
-        "headline": "Jeff Teague refuses to put Jalen Brunson over Allen Iverson: \"A.I. took the worst team in NBA history to the Finals\"",
+        "headline": "Report: Atlanta Hawks Linked to Michigan Teammates Ahead of 2026 NBA Draft",
         "description": "",
-        "published": "2026-06-17T20:28:54+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOV3U4Z19rXy1KclVYTjVaWmhBQ3BKcTFjbzhPbS0wc2ZsQTc0NU4za0hoemlXUE0zYm1kSmM3eHd6RHdJVEtHTHJESjE4Umw4Qk9sM2pXTUZSeXVaQUdybW10bk1ReFJ6Z1FYT2xDU0o0ckVUdHY1cU50WlZUWEgzN1MwXzU?oc=5",
+        "published": "2026-06-17T20:30:52+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPbkJMN0l4UmRUX2t5ZUw5NTdySlkxejZjYmc1WnFicFUzTm9xSUZYV3NlbDg4UVV0NjA5R2VjTlFrS1BrX1hQVXFrOERkeEF0THp4enlGVFlTSkdlMXQ5NC1NYUdhaHkzN3VXWGhta25MLTJZV2U2T1lpSGZmLXBkM2lfcmc3S0tyMDhiUm5R?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
@@ -585,13 +585,13 @@
         "source": "Us Weekly"
       },
       {
-        "headline": "What it would mean for Michigan to have 3 first-round NBA draft picks",
+        "headline": "NBA mock draft roundup: Recent projections for Sixers at No. 22 with draft nearing",
         "description": "",
-        "published": "2026-06-17T16:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNU2dsOVo4cXhObVpkYktZNWowR1gwZkZULWpyU2w4cklHS3ZGOS1aVDlUSHY4OV9wYWZnUHp5MzBGdWNvZFp3bm1TbGN6S1YtQ1NVS2ZuS28zVjRXT3pjZUprZVl0VmRlT1FHb1l1Q1B1dWxiNk1zNGQ4aVNHRHNZREh3am5ob3RMWWRna2tyYWFRemxfek1WT0lqZkpQM2dCOGlCZWxIVXRSRXlyZ0Jxc0daRzBIX0F2WTU4d21GMWRqaW04SlppRXpNSU03Nl9tbmxZVw?oc=5",
+        "published": "2026-06-17T15:55:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNMGlhcnFYcnpWVVRVMU11Tk03Q29ZZ09YcVJvWWlfTXN1WXNkZ1pvRHlOTWZaRmhtdGpaY0NSVHBBZVZCSUFwNUZmMkJEWkZpa2NlTlUzY24wVXFoMUZaNGM1eWdFcWxPbmtoNk9QczRwT3Bjams4OVRuTzR2UHYwcjFXQlFrUWU4b0ZLMDlGbFY2bGY2UFpGVFV3NDRvT0VZZFFfdWJNZ2VUMDB2ODJhU0xjT3lJbkc4WS1TMW9RR3NYVk84ekV1X04zWFcwaDE1V0ZBbjdVblNfSlBCYk8teHM2ONIB6wFBVV95cUxOQmdYeGswYjZEc3NhNTJKNFE2eWVxekRyX0Q0SE5GU0ZLdTYxd19qdEVaUVprNWF6b0w4V3YybVp2Y3lyclJCeC1kNzd2MWhMaHAtSnFSM1pLN2tIMkx2aDF0MURCQURoaGsxckNJNFptQUo3aDBCTWgwMnFmQ3U2V0NMTk5UUEdVUGNyNnlNWTR5dmJlVHpLbnFtcE1GSDJnbF9fbWJGRjVHeUlzUmRScFpTbmJRQU92UHFWcFlPOTduM1Q0OVVocnpQUFpFdlFqTENqc0dFSmRUcFFPLVpTR2tBMExoeHRkd0ZV?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Maize n Brew"
+        "source": "NBC Sports Philadelphia"
       },
       {
         "headline": "'The Hoop Collective': Episodes of Brian Windhorst's NBA podcast",
@@ -648,15 +648,6 @@
         "source": "Yardbarker"
       },
       {
-        "headline": "\"I was an alcoholic, I lost a fortune\" - Former NBA star opened up about why he had to take a job at Starbucks",
-        "description": "",
-        "published": "2026-06-17T00:02:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNOVloOE9vVDhpY2Z2MFJxYmNzejFXcE1qcVVsdGZvUWcxb0gtYlN5ZEZaXzN1UE0wb3ZfSGFaMXhvZmRnRXRFaWl2aXJGSDEyc1RUcExkQlBIc3dkMUlwWWFVWnBrNFJDY0hVRm9KdjJtd1Qyejcxdi1NYWwzN2tULWEzUGl6VnhVMGU1dm9RVFRxS2hMRlNPSnVSN1JGazdKaGxEbmVobFFQOHkzN3Fvczd0cGNWVHBx?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Basketball Network"
-      },
-      {
         "headline": "Knicks\u2019 Historic Title Run Scores Best NBA Finals Audience Since 1998",
         "description": "",
         "published": "2026-06-16T23:13:00+00:00",
@@ -684,15 +675,6 @@
         "source": "People.com"
       },
       {
-        "headline": "NBA champion John Salley defends dreamers all across America: \u2018There\u2019s no excuses\u2019",
-        "description": "",
-        "published": "2026-06-16T11:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYWdiRk5abjVneDE1cDZhY0xuWHRiOE5IOUFQYUtoMHFkOGVRRWJLMHNUY3FHb1ZGbW1qVVc2TzBHd25BSkZGNHBObWZaVXNXMHpaVDFxMTdpTk4xWldqTENsTGFVdDlMSTB0b3dEUWNiM1lkUU4wa0c2bUIwQkFtaEhmOHRXRWJveTJpeQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "New York Post"
-      },
-      {
         "headline": "Windhorst: Six storylines already shaping the NBA offseason",
         "description": "",
         "published": "2026-06-16T11:00:00+00:00",
@@ -700,6 +682,15 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "NBA champion John Salley defends dreamers all across America: \u2018There\u2019s no excuses\u2019",
+        "description": "",
+        "published": "2026-06-16T11:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPYWdiRk5abjVneDE1cDZhY0xuWHRiOE5IOUFQYUtoMHFkOGVRRWJLMHNUY3FHb1ZGbW1qVVc2TzBHd25BSkZGNHBObWZaVXNXMHpaVDFxMTdpTk4xWldqTENsTGFVdDlMSTB0b3dEUWNiM1lkUU4wa0c2bUIwQkFtaEhmOHRXRWJveTJpeQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "New York Post"
       },
       {
         "headline": "One Piece and NBA Officially Unite as Luffy Joins the New York Knicks",
@@ -736,6 +727,15 @@
         "image": null,
         "recruiting": false,
         "source": "Hawk Central"
+      },
+      {
+        "headline": "Jalen Brunson just led the Knicks to an NBA title\u2014and credits his famous dad\u2019s work ethic for preparing him for the job",
+        "description": "",
+        "published": "2026-06-15T15:20:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTFdNWTFfUHVrMHNqWEs0eWZjeW5WNmhMWnczWGMweElvSHlhTDY0U18yNVVLdy1zUWt5Y29nQVU5a3JTRi1IWVdtS1lCNHRwZHZ1MVdtZGNfZF9aeHFWTEFqcFJPaVRGOFpMS3RtMEdIek5YS0Z4aUprcVJmbkFpM25OaFgwbGZlUW1JV2p3RXdWb1BZWjBnVXlVS2dlWkVHSHlyTU92TS0temEydHlId3BiandXOWZ5WEZGTjJDM3d5UQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Fortune"
       }
     ],
     "games": []
