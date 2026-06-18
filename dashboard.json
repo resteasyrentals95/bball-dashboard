@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T22:22:41.670807+00:00",
+  "generated_at": "2026-06-18T22:37:49.525452+00:00",
   "duke": {
     "news": [
       {
@@ -46,6 +46,15 @@
         "image": null,
         "recruiting": false,
         "source": "roundtable.io"
+      },
+      {
+        "headline": "Duke living rent-free in Caleb Wilson's head is another sad look for UNC",
+        "description": "",
+        "published": "2026-06-18T17:00:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNOXVXN3I3Y29BZWtzbkMtTWJEUWRLTUdzZW5WMTZxNEI4b1U1bzR2dFpac1JuMGVlVVNBVzl1YlhtdjhzeHppN2MtY2RFVEdIUHgxVmZvOTR0cTBKUlJ0clQ0VnBld3lyNUVtUFRCcnhIVWFYRVlLTVZkZHZyVHJmeVI3bXlXcHlPMmMycHpQaFdYT0RNOEtWcjJpcHJTWldzY1g2ZUc3aXdSRlBM?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Ball Durham"
       },
       {
         "headline": "Dan Hurley Has Wild Proposition Ahead of Marquee Bout With Duke",
@@ -210,13 +219,13 @@
         "source": "ESPN"
       },
       {
-        "headline": "Duke Recruit Bella Fleming, US U18 Team Win Gold Over Canada, 90-72",
+        "headline": "Louisville men's basketball to get Duke, North Carolina at home in ACC slate announced Thursday",
         "description": "",
-        "published": "2026-06-16T04:17:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNQmVmZVBUN2RxRzJEOHV4S0toRzcxeVpOTnhyTHl6VWZ3WEl4ZjlWWkxDaFVGSUc4MHVfQVo3SHI2MGNCSWZLWnAwSTFlbW1mNm5GVG9zTVdPRnJFVmFTQ0liUDJfNUlsajQzejVCeDhyaVRHREVtdno4bDlEcWhoNDZWVzBNc0dQREIzdFF6aWJhTlQ1UkxURm05eWJnbXNsTzdOR29UdjdrMmx5WXFsb1pnUGw?oc=5",
+        "published": "2026-06-16T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPeFQzQmRoOVIwUnd2djc2aWI3R0FjRW9MUmdnUDJ4YXBOOFhJM09JakdjdWxjZ1gyRGxVMVRsdFhwbUN4bmtVRDZBbG4xVlllY3p3eC1BQ0lTTENTU2V5QXY3Y2p4ekpuc3hDS1VxOWhYWUdQejFGVDlyR3hCY2t0cFBETnJCSHVOMHdicTZ5NF9udkpSejMweVFYcWVURzQ1d3lJOVBfUkNJUTFXWC0xTmdKU1EzeXBkbGF4ZG1MbE0xMnV0aGY5STIzZFZGUzRUUHBzQ0NTR21LTkpRLVhJd19RbkZERVN6UVJyZW0xb0gxd3F0elhPdzRkd1VpYW9Kb2ZFUTlZTkt1MjFzS3JoX3dqdw?oc=5",
         "image": null,
-        "recruiting": true,
-        "source": "Duke Basketball Report"
+        "recruiting": false,
+        "source": "WDRB"
       },
       {
         "headline": "SURGE: Is This the DEEPEST Duke Basketball Team EVER? | TOP Seed in 2027 Tournament?",
@@ -244,15 +253,6 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
-      },
-      {
-        "headline": "At NBPA Top 100 Camp, top boys high school recruits embrace a new reality",
-        "description": "In the transfer portal era, college coaches are pitching roles, development and winning rather than immediate star status.",
-        "published": "2026-06-11T18:13:31Z",
-        "link": "https://www.espn.com/mens-college-basketball/story/_/id/49024381/nbapa-top-100-camp-top-recruits-college-basketball",
-        "image": "https://a.espncdn.com/photo/2026/0611/r1671402_608x342_16-9.jpg",
-        "recruiting": true,
-        "source": "ESPN"
       }
     ],
     "games": [
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Jalen Brunson slams skeptics as Knicks revel in NBA championship parade",
+        "description": "Jalen Brunson finally hit back at his skeptics as the Knicks and millions of fans celebrated the franchise's first NBA championship in 53 years with a parade Thursday.",
+        "published": "2026-06-18T22:29:53Z",
+        "link": "https://www.espn.com/nba/story/_/id/49108942/jalen-brunson-slams-skeptics-knicks-revel-nba-championship-parade",
+        "image": "https://a.espncdn.com/photo/2026/0618/r1675644_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "As NBA Draft Nears, Steinbach Works Out For Warriors",
         "description": "",
         "published": "2026-06-18T22:20:04+00:00",
@@ -522,6 +531,15 @@
         "source": "Bleacher Report"
       },
       {
+        "headline": "Malachi Moreno discusses NBA draft, Kentucky return",
+        "description": "",
+        "published": "2026-06-18T20:39:43+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOZlNHeGdXWklfUTBTMVd6S1VKUWNrM2ZvTDdYM1FLbDhHM2tKVlBDbVRkbWFreTBwaGNsOHltWVd0NEgwQUkycEVkc1lXU2p1U241MVZCdW96Z1k1MnhvWGs1MEJKeXdoTER0NFJvTGpsSUduel9TdHZhZFdiMGIwSkFvZnFkWEpFRG1nZGJfX3p3MS12TkJkODJVQ1ltOF9lWTNQT3V2anRnZ19HREM1TUFFY2tVUQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "247Sports"
+      },
+      {
         "headline": "NBA Matchmaker: Kawhi Leonard's Next Team Stream of National Basketball Association",
         "description": "",
         "published": "2026-06-18T20:22:42+00:00",
@@ -529,24 +547,6 @@
         "image": null,
         "recruiting": false,
         "source": "CBS Sports"
-      },
-      {
-        "headline": "Jalen Brunson slams skeptics as Knicks revel in NBA championship parade",
-        "description": "Jalen Brunson finally hit back at his skeptics as the Knicks and millions of fans celebrated the franchise's first NBA championship in 53 years with a parade Thursday.",
-        "published": "2026-06-18T20:16:18Z",
-        "link": "https://www.espn.com/nba/story/_/id/49108942/jalen-brunson-slams-skeptics-knicks-revel-nba-championship-parade",
-        "image": "https://a.espncdn.com/photo/2026/0618/r1675644_1296x729_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "Why Nuggets Should Be Looking to Trade Up in 2026 NBA Draft",
-        "description": "",
-        "published": "2026-06-18T20:11:16+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNU3ZVaERwcmJIS1BIazlTd0hkTkpybkdGbWdTVU9raTU4QU1VV3hnM3VEV1d6bTl0ei1GUnVGU2loVlBJRzE2SDR0SjhyQl9hQUUzTVlFcjVMVlRxd2NDMXZ5aVFTZEVTTEdnMTJIWGVfRGhQUnowQ01JSWxrQ3RzS0lJR2NlZw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
@@ -621,15 +621,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "Suns Looking To Make Splash NBA Draft Trade",
-        "description": "",
-        "published": "2026-06-18T16:37:16+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQclFSb3dsVzRqOUlpelhoV09od0tzTWRNd2VuV0lkMEtoSXllYmtQTTFuZWp3ZzlzSFEza05HdF9fb3VxajROSlpPdjNIYTVqeW92OGU1QlRfdmRtRnJFRTdtWm9VN2NvTlFJakM5SU50YlFMZHplckNDRl9sbzF0Q3hValQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "2026 NBA draft projections for Alabama basketball, Labaron Philon Jr.",
         "description": "",
         "published": "2026-06-18T16:23:00+00:00",
@@ -639,31 +630,22 @@
         "source": "The Tuscaloosa News"
       },
       {
-        "headline": "2026 NBA Mock Draft: Caleb Wilson goes to the Bulls, Henri Veesaar to the Cavaliers",
+        "headline": "2026 NBA mock draft: Intrigue remains at the top and with the guard prospects",
         "description": "",
-        "published": "2026-06-18T15:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNU3ZZSlZCeElvb3VCX0pOaFVQbGxDSU9VaTE4dTl4Tm44S2FGMmFfU3JNM3FTRWZEUEFSMzUwNEkzYktpQXRRc2hxaVV4ZmJ6dEw5YzJwOUJnYW13WEp0LWVxc0ItSDRGWGVsTVVtaTlLakg4dV9PNUNfRWh0a09oSnE5OWJkVFNiZkZ1Mk02U2dKdUx4Yy1MdlQtQWVtaG1CX01Zamc2a1VIYXIzYXlNbWpPVVVKT3huTVNVTEkzc2ZWOU91ak1PWg?oc=5",
+        "published": "2026-06-18T14:02:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNlNnhJOGs2S1g4MEttU2hFSzhEUG9vMDFzOFRrMExCQkJQS1Z4dm15dHQxRlp4Vy1ENmtkeklpdWtkblRCR1B6OU5kMkxlTXBhbWdRQTZrMW5WSExGUG5LVS1VRDlWNGR0YjlqNkcwRlc3U1pPOEpxR3pCMGdJREZkbTRCUERIMlFLX1NfTWdiTW4yMlc0XzZ3?oc=5",
         "image": null,
-        "recruiting": false,
-        "source": "Tar Heel Blog"
-      },
-      {
-        "headline": "WATCH: New York celebrates NBA champions NY Knicks with parade, keys to the city",
-        "description": "",
-        "published": "2026-06-18T14:57:06+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVmFOU2VBMHVkei1JX05ENTFZdVlDc05GRE83REdJNGV3TnhRcjhWZnJJcWd0SnNNdW9IaFI3ZkJlNWVSMmVFVUNWVFVDc0k1TVdTRWs1cDJYaUMzbGh0VzU4OU93Y3ZLVjdxTHd3YU5TSlpzOURjSnJvMWdHQjA3U3NIM2d5ZjJycFVDdkRwenFPcVpFNHc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "PBS"
-      },
-      {
-        "headline": "NBA free agency 2026: Small forward class is thin on impact players",
-        "description": "",
-        "published": "2026-06-18T09:00:54+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRW9MWkZLdUpFZXV3NXBMc050SWRSYTNuYldXWlEzWUV4aEp0R01MeldZZlJEYkhROFdNcEV6VThsdzZzY2Z5ZERVWjB2ektpTHZuZFA1Uy1iRUNYTnlZb0ZLTkhxYU9wZm55WFFoSnFQUkRMRVhITm8xMkpLUnRoZG9nZmpCR1NTRTR1TFR5N20?oc=5",
-        "image": null,
-        "recruiting": false,
+        "recruiting": true,
         "source": "The New York Times"
+      },
+      {
+        "headline": "A former Kentucky Wildcat, nearly forgotten, is about to be an NBA draft pick",
+        "description": "",
+        "published": "2026-06-18T10:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOYWpmNDVvNlQ4UnZ6NFEybnBfOXlUYUVVcm1mTHhLTHpkdmI2aHEtQ0ZENklWQlRnVE9hUm5BYkhYU3hhZVFMazExcDFmbHJzWWxuRlk4dEVIZ1FSaGtDa0k3Z1RCZkt6MVVVYXNILWJ2cG5odVV2MjRoaU5yTGdSZEtEMnptN3lDUy1NYUpJLVdQRDhXVmp0RVBYQdIBmwFBVV95cUxOVkVUeWI1TnJfa1l2QmpSMjJlSl80QVlwLVVLUVVOOGtTbm5xZ3BySWFScjFPaGZVQXB2cTVoTXVyR1VRb3o2NEo4bE9KT2hJUW5mYkN6al9KSWN0NlFiLWdJSTI1SXUtYkZ0YkFFNDdXLU5WRDZJUGVRYzFKa2lUSUhBX3c4RjV3UjVIV1NDSzR5amdRakFmRk56RQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Lexington Herald Leader"
       },
       {
         "headline": "All the buzz on Keaton Wagler\u2019s NBA Draft stock",
@@ -729,6 +711,15 @@
         "source": "People.com"
       },
       {
+        "headline": "Darius Acuff Jr. out to prove his game can translate to NBA",
+        "description": "",
+        "published": "2026-06-16T16:04:08+00:00",
+        "link": "https://news.google.com/rss/articles/CBMibEFVX3lxTFBCRkttaTExRDNlVjgwaUpHOEVQeEltbnQzZDhDTGN4Y3k1T3RQa3lULTdCX2FfQm9OWF9Fc29NM095YVdaWHY1Wi1TQkxpY1l6bE1XeWc1V1Z1ODBhUVg0NEh1cnBIMF94NFg3Zg?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
+      },
+      {
         "headline": "Trump booed \u2018thunderously\u2019 at NBA Finals: What we know",
         "description": "",
         "published": "2026-06-09T07:00:00+00:00",
@@ -736,6 +727,15 @@
         "image": null,
         "recruiting": false,
         "source": "Al Jazeera"
+      },
+      {
+        "headline": "The path of a Knicks-Spurs NBA Finals basketball starts with all 30 teams",
+        "description": "",
+        "published": "2026-06-05T14:23:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa01ZbGViekZIY3B1U3ltWjN4cDNRQWwxVXNoX1dIdHpTeVZrc3Vjdm1mbi1yS1BSTTM4bS0tT2NweVNjdVJWTVVMWHBra0RGVmNVN1lHNXlFRjFzZXRZQlhBQmxMRWFzeHp5ZkdaQXk5b2N4WGxadFNLS0hPenh6bFlBTU4yQzkyQVFTSm16cmVpWmFIcGZHYTRFOA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
       }
     ],
     "games": []
