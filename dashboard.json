@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T04:05:12.348495+00:00",
+  "generated_at": "2026-06-18T04:27:07.668646+00:00",
   "duke": {
     "news": [
       {
@@ -73,15 +73,6 @@
         "image": null,
         "recruiting": false,
         "source": "The Fayetteville Observer"
-      },
-      {
-        "headline": "One Reason Duke Football Can Beat ACC\u2019s Best in 2026",
-        "description": "",
-        "published": "2026-06-17T13:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSEJKbE44VWVhdHBqNWdOdl9oajhRLXpvWW9pTGpfdF9iSEdocWZBekhiYkRZZnM4Yy1SdmJ0bnROQ3JUZ0xxbElReWR5anNmQTh3cUxvU3d3cXdnQVN4S2JoVVRXQ3lrdENBdlF4Z1FveUZFZ3lUWkp5LXhWVGdFcjVGQS1GZncxblJMVWgtQQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
       },
       {
         "headline": "Ranking top of 2025, 2026 NBA drafts: Would Flagg still be No. 1?",
@@ -237,15 +228,6 @@
         "source": "Sports Illustrated"
       },
       {
-        "headline": "Why Recent History Favors Duke Basketball in Bout With Gonzaga",
-        "description": "",
-        "published": "2026-06-12T11:00:03+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQbGdUdGk2WWNSTmdUNHlPcEIzU0lxYklwX3lEamR4bXRJdVlIbkZSa3MtS3pDSThBSm93WWZ2c1IxOWpta3A5cmcyV01xb3Bfc1BwbjRiUHNzSDVGYWdKOU9RYUdWdHFoR2tGSF9DU3NzZWs0X25IcHlabWhvVS1HU0RTMnQ3akRLQzh4ZmN1Zm1ydXp6QWN2OQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
         "headline": "At NBPA Top 100 Camp, top boys high school recruits embrace a new reality",
         "description": "In the transfer portal era, college coaches are pitching roles, development and winning rather than immediate star status.",
         "published": "2026-06-11T18:13:31Z",
@@ -253,6 +235,24 @@
         "image": "https://a.espncdn.com/photo/2026/0611/r1671402_608x342_16-9.jpg",
         "recruiting": true,
         "source": "ESPN"
+      },
+      {
+        "headline": "Men's transfer portal superlatives: Louisville, Duke, St. John's headline winners",
+        "description": "Which contender improved its chances the most? Which team went from below to above .500 with its additions?",
+        "published": "2026-06-10T11:30:12Z",
+        "link": "https://www.espn.com/mens-college-basketball/story/_/id/49014313/transfer-portal-winners-losers-louisville-duke-st-johns-kentucky-tennessee-2026",
+        "image": "https://a.espncdn.com/photo/2026/0610/r1670679_1296x729_16-9.jpg",
+        "recruiting": true,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Comparing Duke Basketball's Ceiling With UNC's Next Season",
+        "description": "",
+        "published": "2026-06-09T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOS19qVzl3TTF1SWVTMm1OQm04MkpGcVZ5dGIzX3Q2aGhPM0lvOG8xcTBnVENnSGZpdDJLTTZUWUN0bjRLRmVDVnVxY0tqMW9SMHhqalJkVzhLMUQ3VFcwVk9LcFA3T1BiSEJMN3ZuNF9PSGNheEl2N3l5RkVYb3VNSVlqLWRacFI3N0hCYkZuVUg0dw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
       }
     ],
     "games": [
@@ -486,20 +486,20 @@
   "nba": {
     "news": [
       {
+        "headline": "James Dolan: Won't go into second apron to keep Knicks intact",
+        "description": "On the heels of its first NBA title in 53 years, Knicks owner James Dolan told WFAN radio Wednesday that he will not go into the punitive second apron to keep his team intact for the 2026-27 season.",
+        "published": "2026-06-18T04:18:24Z",
+        "link": "https://www.espn.com/nba/story/_/id/49103460/james-dolan-go-second-apron-keep-knicks-intact",
+        "image": "https://a.espncdn.com/photo/2026/0614/r1672813_600x600_1-1.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "Sources: Wizards' Trae Young to decline option, be free agent",
         "description": "Wizards star Trae Young plans to decline his $48.97 million player option for the 2026-27 season, although Washington remains the front-runner, sources said.",
         "published": "2026-06-18T03:44:01Z",
         "link": "https://www.espn.com/nba/story/_/id/49103130/sources-wizards-trae-young-decline-option-free-agent",
         "image": "https://a.espncdn.com/photo/2026/0306/r1624197_600x400_3-2.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "James Dolan: Won't go into second apron to keep Knicks intact",
-        "description": "On the heels of its first NBA title in 53 years, Knicks owner James Dolan told WFAN radio Wednesday that he will not go into the punitive second apron to keep his team intact for the 2026-27 season.",
-        "published": "2026-06-18T03:32:45Z",
-        "link": "https://www.espn.com/nba/story/_/id/49103460/james-dolan-go-second-apron-keep-knicks-intact",
-        "image": "https://a.espncdn.com/photo/2026/0614/r1672813_600x600_1-1.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
@@ -511,6 +511,15 @@
         "image": "https://a.espncdn.com/photo/2026/0611/r1671626_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Knicks set to be first NBA team to visit White House under Trump",
+        "description": "",
+        "published": "2026-06-18T01:38:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNelpXbG1FRjJ4TU9TNmJDTmYtZ0s5NXdmS2R4c2QwTmpoS25HVWhMeC1FQ1JTb19EaUpYUUZ0andFMGFRRUNoNUZtdmVDNlI2WEdjT3lmempLOUo4RzFYMExWclRleDF6Y2RMbFYxUmZwQjVNVWh3TU52U3BNYXd5cDdrTnlrSTVBQnFOSU9HZG1KZzYyeURhREVxMV81T3dGdEVEcVl3dmV2Zw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBC News"
       },
       {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
@@ -538,15 +547,6 @@
         "image": "https://a.espncdn.com/photo/2026/0617/r1675194_600x400_3-2.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "White House invites Knicks to celebrate NBA title; James Dolan says team accepts - The Athletic",
-        "description": "",
-        "published": "2026-06-18T00:15:18+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxObmJpVlVXeDl5b0hYQzR3RGJNVGFaUzd6WThhVEZzNlp0ZHpjSFNPZUxvNE5wbmstZ1RXeDhiSDAxNXkwdXJOd0ppdjk5VzR4ME1oSmtiRERqTzFzQWFPX3VqT1RDc2RCWm1aU2RBOTZRb3VDV1JwRzFIcGFnNnoteXRsSl9YZTRIcnVzZzdqdElvQzZ2UUpTa1g1M3NEdGdldEJFV1FtMlZLZw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The New York Times"
       },
       {
         "headline": "Big 12 Basketball: Top 10 prospects to watch in 2026 NBA Draft",
@@ -675,6 +675,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "Knicks-Spurs delivers most-watched NBA Finals since 1998",
+        "description": "",
+        "published": "2026-06-16T21:30:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Bc2dFZlBDNXY3SlVvRy1UUUlUX29weW1qcjhLczRHSjBSLVNyNTFQejR1MVloRkFtZ1VVS3JRaXh2czBtc3I2RUNBeG1URU40MWl4R2FobTBiVW9xWHRRSG53QTRyM2x5cGxGQUVrOGNQYjZsOTBITFhkbFBvQQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
+      },
+      {
         "headline": "New York Knicks-Inspired Baby Names May Become More Popular After NBA Finals Win",
         "description": "",
         "published": "2026-06-16T21:13:51+00:00",
@@ -682,15 +691,6 @@
         "image": null,
         "recruiting": false,
         "source": "People.com"
-      },
-      {
-        "headline": "Windhorst: Six storylines already shaping the NBA offseason",
-        "description": "",
-        "published": "2026-06-16T11:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNM1ZCM0N0SG9Cd0FLYmpOWWRpNmxCd0xxVTVWOE1vbHJiU05lWTRNeF9wempMd1ZjZGZodjBfUHUydy1vcGdBYnZPWHRtNTk2ZklWMHVIWmQyVnVwdnhEQVZFSkQyQjlEZDRWT3NtN1BjVWhJY3NFb1hyaE9nMk1nX2lvb2lnakpuaGh4RzluWHdORU5kakJIRWg5anVtNG1SaXhpRm5DMU9LbGhYajhHX0ZrY29iejJiN2dMRHI0VUVpXzc4M2lPck1DMHVCR0FYS0VhclFmRWt3Zw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
       },
       {
         "headline": "One Piece and NBA Officially Unite as Luffy Joins the New York Knicks",
