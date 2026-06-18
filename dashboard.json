@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T02:21:02.101930+00:00",
+  "generated_at": "2026-06-18T02:36:08.545543+00:00",
   "duke": {
     "news": [
       {
@@ -23,7 +23,7 @@
       {
         "headline": "USA Basketball U17 Training Camp Intel: Duke mentioned with 5-star; where things stand with Bowman, Black & Montgomery",
         "description": "",
-        "published": "2026-06-17T17:55:32+00:00",
+        "published": "2026-06-17T18:28:10+00:00",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUDVEUUpyRkowLXNmNE0zREdFM00xenhSSWQ0ZG9HUzM4QTRwTHliU3NVSFgzSUdncTQzbTBsVWg5U240NUZLOFFkekhiam5UU0xzUGF5UV91WnBNWDlmM3VNLVI3TlZqOTgyNWM3QldSUHJzSWRKcDgwck9zNVA2SzBhOHpCZnFNSE44ZFdJT1IweDJRcDBwS0JvZmlDM0dCRGJtNkV5YnlveFNfNkhQbHFlRE9qQW1abDJ2WGxvTENmMURVRERqcUUwWEM5MmctdEhGM0F0YkxoR0pyeEpJ?oc=5",
         "image": null,
         "recruiting": true,
@@ -131,7 +131,7 @@
       {
         "headline": "Joaquim Boumtje Boumtje divulges why Jon Scheyer, Duke stood out in his recruitment",
         "description": "",
-        "published": "2026-06-16T21:43:53+00:00",
+        "published": "2026-06-16T21:42:47+00:00",
         "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYTlnVlRIelExeVlDaDZoUTV2YlBtMUlOU1h1bzdZTFFyb3R1WUNFN0dDRkkwb1QteVFrSDA4d182UEU4R1FGUEJxZFZwWFppVV9raXBNbzlDRkJDY3NuMU1kRmRtdEs0bVNWUGNZMjIxZ01CMDRqUFhYbEt5WUExOXE1bDgzb3VlRENVbEJldXJjbXppMGFSYm1NaGFLa0c4QTE5aDkyRzI?oc=5",
         "image": null,
         "recruiting": true,
@@ -488,7 +488,7 @@
       {
         "headline": "Sources: Wizards' Trae Young to decline option, be free agent",
         "description": "Wizards star Trae Young plans to decline his $48.97 million player option for the 2026-27 season, although Washington remains the front-runner, sources said.",
-        "published": "2026-06-18T02:18:19Z",
+        "published": "2026-06-18T02:34:04Z",
         "link": "https://www.espn.com/nba/story/_/id/49103130/sources-wizards-trae-young-decline-option-free-agent",
         "image": "https://a.espncdn.com/photo/2026/0306/r1624197_600x400_3-2.jpg",
         "recruiting": false,
@@ -549,6 +549,24 @@
         "source": "The New York Times"
       },
       {
+        "headline": "NBA champion Knicks accept Trump's invite to take victory tour to White House",
+        "description": "",
+        "published": "2026-06-18T00:08:39+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYzZYSU5vZENOOVQwVkVTb1VzRVlGcU0zWmgtai1RcVNuQXYtWjVPX0NOakFkYTZvdXI4Q0dQV2VFSThmTXk1bHhmSWNmN0JKdmpjaHFzeGRpa0ZnaXoyNFFsbFB0QjBaVXJ5SEx1aVRxX1BsS0Zyb1ViMmVDekctTEpTUGNqTkNqNWc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Newsday"
+      },
+      {
+        "headline": "Former Washington Basketball Star Invited to NBA Draft Green Room",
+        "description": "",
+        "published": "2026-06-18T00:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNZUhqaVdrLXlJR2pQb0VzdVRGOHV6MXV6V2N1bWtIY0R4bUdNUmwwak1EbWIxbktyRm1WRnpfWUNnMDU5c3FDQ3RRdTlBd3I4Uk5pSmdhdnhOZm5VcmhpY0dBc3VZcFRNRXVzQTVSWjBlX0RhSmwwcWlPMmQwN0FQSlpJaFFfbHNLUTB5RDM0bHJuSUJXaGdyZi1TaXE0TEEyd29kWkFiNmxvM0N6bUsyT2FUTXNkeDB2eDllS2tNQm9CY0djQVdtS0dlVkt4VjN3MENjNGs0NG0zN2NyU0tJVkEyLTZ3VUtNeVpFYlhab1M1TExobmNEbmdjaWtieUliTmZRNjdWQ2RoUQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Huskies Wire"
+      },
+      {
         "headline": "Big 12 Basketball: Top 10 prospects to watch in 2026 NBA Draft",
         "description": "",
         "published": "2026-06-17T22:08:55+00:00",
@@ -565,15 +583,6 @@
         "image": null,
         "recruiting": false,
         "source": "Rocky Top Insider"
-      },
-      {
-        "headline": "Warriors open to getting older to improve this NBA offseason, but it's unlikely",
-        "description": "",
-        "published": "2026-06-17T18:24:11+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbjZWNGNiS1U1eXpnRjJqX0JSVHRja1E4OFJiR09JWWMzZnRHZUY4SzhrNHQtaXdwb3FsQmI3ZzdfTUFnMGxONG8zT0dHdHRObzBqVmFNZzkxdUJKVmtfMTkzemRXYTlsdEh2aDFwbnAzRWhBQlFJemJmdUN2aU5QMktEM0JZbEFmVUZoNA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "Giannis Antetokounmpo Trade Talks Could Remain Unresolved Beyond NBA Draft",
@@ -594,6 +603,15 @@
         "source": "Sports Illustrated"
       },
       {
+        "headline": "NBA Mock Draft 9.0: The latest projections with less than 1 week to go",
+        "description": "",
+        "published": "2026-06-17T16:44:58+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjBwUVRSc2dkdDhyQTdfc0FwM0JBTnNpLVVGbkxaUUU0bEhaUURqZ2hRLWFUcmhzYkd2WDAtQU1xSEdadmMtRkZ2Y1BGVnl2dW5STDZfM2JUVmttOW9PWnZmalRzcGJfLXhSd3oyNEE2NnJ4aDdySnJDeHBhelh0RXBwTkpZdnExdHJzQWNrQTYxc21TSWFjMHlDRjRmRng4V2pvVkxwT3dSblBrb1c1M2lteUFVaXpFZUIyaw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "Meet the adorable starting lineup of Knicks kids who boosted their dads through the NBA Finals",
         "description": "",
         "published": "2026-06-17T16:05:00+00:00",
@@ -610,6 +628,15 @@
         "image": null,
         "recruiting": false,
         "source": "Us Weekly"
+      },
+      {
+        "headline": "'Have to at Least Listen' -- NBA Pundit Makes Feelings Clear on Jalen Brunson's Case for 'Best Player in Basketball'",
+        "description": "",
+        "published": "2026-06-17T14:34:11+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNZkNlcVduUEdaa2JNRWd5ZlRSQThaMEdrUHFVSndwZThzS1pYcldRZFlMUEt6bkpqYlB2dllISklNa2EtQXgydDM4SWktRVZLYzF2aXJDM2dtNEJvVVNUZGRmaElETllzdF9IN1pHMnAxanU5Vk53ZlRxMW5tMWw4T1dHU0ZXSzZYR01XOWZlTURobFByOEdqWGU2UFloY1FNRUlqWFV5Q3Y1d2F4Rm11Z2NGUi0xZElES3pkRzlkeDZMN29uUWV2Yy1nYjJOWVpfejl5RzRPMll6S0RtdzlKdU93?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "PFSN"
       },
       {
         "headline": "Where Cameron Boozer, Duke players are projected to land in 2026 NBA Draft",
@@ -657,13 +684,13 @@
         "source": "The Boston Globe"
       },
       {
-        "headline": "Knicks\u2019 Historic Title Run Scores Best NBA Finals Audience Since 1998",
+        "headline": "Nike hoping two-time NBA MVP Shai Gilgeous-Alexander will save struggling basketball brand",
         "description": "",
-        "published": "2026-06-16T23:13:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX05VMHdkOXd1S2tNY2N6cXplVnpma1ZGQlU1aEJfZzhRMzA5UG5JYTdQYVl3dHZLQ0dHd1RXOXRBSFhjSGppakpHa2l4VVhoaUw2MXQzTWpTOEwwUXlZZzdpTVFGSWhWQlB3dXB2WkRWLXZrVktRcnlOeDBxSkZoUTlpRVQ3SmhEVUE?oc=5",
+        "published": "2026-06-17T02:21:41+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQOURlc3BMUi1fODFMWHJZYVZHWkRNTlR6bG1PM1QyVGRkX2daNjZGSG03WUdBbmd3WmMweUFZYk5DRDVOTDI4dW5NR0I3VUxNLU9tZWpEVzlRaUFaZWxKdmI3ek5UMjRaRG5Gb0hFXzVHcDlYcUNOSWhmLXVkZlVwb0xiRlI1WkVuc1QtREdlN3VxaF93N25sUEdYWXlyU2NBQU1oY1ZOTXc3X2gyZTRZZE1KeGE2bXFlVWExM1h2ZWxzOF9hY0NJRjc3ekVuTjFlbXFNNWs0OHJJTUVrTnNkem53?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Deadline"
+        "source": "Yardbarker"
       },
       {
         "headline": "Knicks-Spurs most-watched NBA Finals since 1998; averaged 20.6M",
@@ -675,15 +702,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "New York Knicks-Inspired Baby Names May Become More Popular After NBA Finals Win",
-        "description": "",
-        "published": "2026-06-16T21:13:51+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVl6Wk1CQTB0UlFhX2FOTmpZb3ZPR19ZZ21FdEF2WWFZd0xvcndHMmdhcXp2RXlHZklNV201b0h6d2pXYzVReEhXc05nakdUMGgtSnJLbzhMUmx0blFGa2ZRdzBPX1YtdWlpeGZqQ0hIZnF4YTN0OTlCQmVoWGswbV9hd1k5Q2hlQWw5ZjU0aGxjckgwVlNRaC1pcU1abHNlUW9scEw4ZnJ3Z1hrS1Rv?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "People.com"
-      },
-      {
         "headline": "Windhorst: Six storylines already shaping the NBA offseason",
         "description": "",
         "published": "2026-06-16T11:00:00+00:00",
@@ -693,49 +711,31 @@
         "source": "ESPN"
       },
       {
-        "headline": "One Piece and NBA Officially Unite as Luffy Joins the New York Knicks",
+        "headline": "2026 NBA mock draft: Projecting all 60 picks in Rounds 1 and 2",
         "description": "",
-        "published": "2026-06-16T00:00:13+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9uZGNmY1d2cEVVU0VsQ3pNWkJyTmRBQ0ttZXJmUUVuQ2s5OFJjYzlFRlF4eGJfd1o3ZnpRSUFfbVYtRnJKSWZPTnk3Wnk2c3JrbU1YUzc5Sm5rN1BLSnVvNWdrTXNSQlE?oc=5",
+        "published": "2026-06-15T12:45:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOcnBYdEpWNktFQ2RQdGdKazZxSkhkbEVYRDBBLVA1U0hoNXhaS0N1Um9oYm5oYlRVSEplYjl0SllJUmhaV2I0dk9qQUxpRzZGUnUyeGZDTlVrYVhQQVZnRGlWNUVYMlFqTG1lbGhjZEpidGZXWE9ZczRzenB3b1I1UVVhdkhFWkNPcnRPYVlNRXlBaFlXXzhhNTRxeWZzdXVpeU8taEVNbWFqVTlOSU8zMkhPNGFwcmJKdUVGUTBPN2I0MG9RZEpYTVo2OXA2VUptZnRnU1V3?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Comic Book Resources"
+        "source": "ESPN"
       },
       {
-        "headline": "Mavericks head coaching search reportedly enters next phase as NBA draft nears",
+        "headline": "How to watch 2026 NBA Finals on ABC: Knicks-Spurs schedule",
         "description": "",
-        "published": "2026-06-15T22:50:09+00:00",
-        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQLVdHNW9oWkdFcnNPRWpQaFdyS0lXOGwxbUIybTU1NVk4R0pKSnlRZEllQ2dRZ0VJVWZ3RjVyWWxVVFc0MGlISUFYbUk4WU9MemZEV3lKdEVfM1RXcWVYeVJkaHE5YlpTR1BPZkJxLTNmOElyWEtwQ1FFb3VQRXZFSnhXSFZvaW5McHNHUm9sYXk5Nm92UU11YWRua2toMWJVZXVuUXFHemRYWE9Fc0NDUw?oc=5",
+        "published": "2026-06-13T15:46:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQck1ieG96Uy1oNGo1NUw1TmxqOXZPQjZhOTJCYnVhNkdycEY1VWdXYWhlM0NWcG1xOXc0ZGQ3TTNKZG1WQ1hIaHlwUGxteHJPQk1CZl8zZkRJblpSMVNrdWF3aF94OVZyWHpRSHNKSTRHQTl3eGM1bEREUW5xNURYWnp6WnVuR1lwazY0dHpzOVJzcEFzOFlXMzVKXzY?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Dallas News"
+        "source": "ESPN"
       },
       {
-        "headline": "What Richie Saunders is saying ahead of the NBA draft",
+        "headline": "2026 NBA playoffs: Conference semifinals takeaways",
         "description": "",
-        "published": "2026-06-15T22:02:28+00:00",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDZFNGlDR003d3ZSdl9CVzhfV3JxbzRDcmdpU2d1XzdwYTNJNjgwbFhoajhKd29fVS10QWEwR09zLUxLNmdhNHVzQ1VTdV9EZ1JCXy1OM04xbXBGTDZ1SDZ3Qm1INXpUeWhwNEZjbDdxelRsdGRGcjdfYkRDa08zUkhaRk1wUksxZGtBaWFnRzB5RXRLUUtyYUNxU2ZCZw?oc=5",
+        "published": "2026-05-17T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMzhJQVJFeTdIWTFmSWxURHZ2Ni1peUFvMndRd1YtVlNfTmtRS2pDSEktYjAtTHItNy1sQml6dVdkaG1lU242aDhKb3FpQV9uLXFIaXRCWFFlQTFaeThSVk9ubTJNUzJfb2JiWHUtblRJUmdzSGF6QnBjZHJVeWdlYlNDbGxpQ2l0NERralFxd2ZSLTFXQ3lPODVNR0x3aUw1SXRkeg?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Deseret News"
-      },
-      {
-        "headline": "Iowa basketball's Bennett Stirtz invited to attend 2026 NBA Draft",
-        "description": "",
-        "published": "2026-06-15T19:54:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNQ1NzcE9MclRQd0JYcTRSbTBNYmtHYTlzeE41VXk2cUJfVzdWN1IwaENTLXFVNXZxU2hrejBUVWVYSnFERHhFYlE2eFRBd3VVMzZEN29fdUpzd3pfTEdpc3NwdThFUlVxWWJocmZBX1AtR0M4dk1PTmcwbXFuZkRHS2YwQWpWM09rYkJKeVFzWEZ1MEszbXZXTGFSYlJQY0YwRnpWcDNzUHBQdXFwbHExTFZwcGpDWnJOOHFvS3lWWE1WVVFIMWUxRkNwMlBkRVZZaFNOdg?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Hawk Central"
-      },
-      {
-        "headline": "Jalen Brunson just led the Knicks to an NBA title\u2014and credits his famous dad\u2019s work ethic for preparing him for the job",
-        "description": "",
-        "published": "2026-06-15T15:20:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNTFdNWTFfUHVrMHNqWEs0eWZjeW5WNmhMWnczWGMweElvSHlhTDY0U18yNVVLdy1zUWt5Y29nQVU5a3JTRi1IWVdtS1lCNHRwZHZ1MVdtZGNfZF9aeHFWTEFqcFJPaVRGOFpMS3RtMEdIek5YS0Z4aUprcVJmbkFpM25OaFgwbGZlUW1JV2p3RXdWb1BZWjBnVXlVS2dlWkVHSHlyTU92TS0temEydHlId3BiandXOWZ5WEZGTjJDM3d5UQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Fortune"
+        "source": "ESPN"
       }
     ],
     "games": []
