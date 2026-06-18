@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-06-18T17:58:40.302166+00:00",
+  "generated_at": "2026-06-18T18:50:47.129588+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "Speculation surrounds Duke after Jon Scheyer and Cooper Flagg reunite",
+        "description": "",
+        "published": "2026-06-18T18:05:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRkYxTjdIN2s5VndlTlUyZktPLWR3N2htQUFDV2h5WEFkZkdZLTh0WnZZbldZaGpOZ0o1bVJGeV9tMTVXeG40UFRGSXNxTi16aFYtUEJrNmdtTWVKQThIU3l0UEtOdEFBclBEbEdxM0JKLTBFTkNYT2xpZmNQc2lqRjUxTi1BdkdSV2QxSEV1VVg?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
       {
         "headline": "Duke Basketball: Blue Devils showing interest in AJ Williams",
         "description": "",
@@ -244,15 +253,6 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
-      },
-      {
-        "headline": "At NBPA Top 100 Camp, top boys high school recruits embrace a new reality",
-        "description": "In the transfer portal era, college coaches are pitching roles, development and winning rather than immediate star status.",
-        "published": "2026-06-11T18:13:31Z",
-        "link": "https://www.espn.com/mens-college-basketball/story/_/id/49024381/nbapa-top-100-camp-top-recruits-college-basketball",
-        "image": "https://a.espncdn.com/photo/2026/0611/r1671402_608x342_16-9.jpg",
-        "recruiting": true,
-        "source": "ESPN"
       }
     ],
     "games": [
@@ -486,13 +486,31 @@
   "nba": {
     "news": [
       {
-        "headline": "Knicks Parade Live Updates: Fans Jam Parade Route to Celebrate NBA Championship Win",
+        "headline": "Knicks Parade Live Updates: Fan Celebrations Wrap on NBA Championship Parade",
         "description": "",
-        "published": "2026-06-18T17:55:08+00:00",
+        "published": "2026-06-18T18:47:02+00:00",
         "link": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5ac2tOa19wVlFwbVZadEpCU05PVHNsV3pPTGJoa3VfeUMwanZaeHFvMmU2UmQwSWN1TTVJSEROc1hfcWE1SEI5U0pFTFNBOEY0QTFBWThCMXNhcGt3bmpXSmpYcmFhTVBrQ2pDTk9nRQ?oc=5",
         "image": null,
         "recruiting": false,
         "source": "The New York Times"
+      },
+      {
+        "headline": "Alicia Keys stuns Knicks Nation with surprise 'Empire State of Mind' performance at NBA Championship celebration",
+        "description": "",
+        "published": "2026-06-18T18:47:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPdUJnNUh4VzFENlM4T0QydUpOWFlHOWdCTWdKOTFwREZ0dUhhWnI3WW5NSGtKSy00N0Zib2VRV2dxc2FnN1p5UXNWbXpqR1dQWVRsWURSSW5IU1NzZWw2cEpLSUpQVDk5R1R4dWdncGE3QnY3cDBIRWF0UXlPYk95RXp6Z3VCakhpVnZUZG9xQnZyMVE5aGVGTkhrMzlmYVhfU0lnenYxa2VlTXJzM3Nzb25lUUtJRVdydnJQUHB5M25WTUdOREZNRkVka1NRekU4WTFpak9FYTBHMHA1cUg2U2VmVFJ6LXZvYjN5QTl6OVVyZWlTNFAydDczSlM5cHFENXlwVUNDMXR1dmR6SG8w0gGPAkFVX3lxTFBKMXJiM1B6U1RrUWIzMGdhU0tvaTl5V3dmQktFQWF4dG5RcTBxZFNFd18tQThLa0dQMDg3MUpIMG5KRVFvWGNQbFJzMHFvdlQ5bjdpUzhUYjFDc2NhQVZiaTNQUTBpa1plQ1dLUTY0QUFBSnJYNWl4cTMwOXVvQ1E4ZkFBZkVyYmxrb2M1V29xT1Z4YlRTd1ZUTDN6ZnllSWFOLVF0V1ZVVTQydlByX3JLa2VwcXhKeXVkMFlyVkpvZjAwMEN0b1VIV0prcE9MTENBTmlWamZMWW9adnR5LTFZRXk4MnpmV3VKcVYxR3BCY1R4cExlLWZqbXlSWWdLaVpZeU5VeXNOM0RRX3RpS3M?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "MARCA"
+      },
+      {
+        "headline": "Hoosiers Daily News: Indiana alum, NBA Champion OG Anunoby given key to New York City",
+        "description": "",
+        "published": "2026-06-18T18:16:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQay14Vm4wZE5peE4yWXBtV2J4ZFFrQXhDemNETTk4OTNmY1hIUjJXUldRbDI0RnM1WmRRM2JIR19lNkhMSVR5Q3J5Wm5xRFRSZ1FqdG5zV0c0d1puOHR1WFhFWG95RWNxYlg5ZUl3SS1hWVcxWnhIWEk2Q2s1cDFKd182Z1NPeTFm?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Best moments from New York Knicks 2026 NBA championship parade",
@@ -513,33 +531,6 @@
         "source": "Sports Illustrated"
       },
       {
-        "headline": "Yes, the Knicks are going to the White House \u2014 ending the NBA\u2019s Trump-era freeze",
-        "description": "",
-        "published": "2026-06-18T16:21:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVEkwSndoUWhQa1hicndIRVB2WHplOWVoTTJ0S1RoTzZWQm53d0pEVG1XYl9WMlFMRkpOcjdqYUYtOVhIV0xBbmRuSXc0YlE3WUpsX3p1NGpfX2llaDZrMVRxWHdabWFyNERBck1HRzVsRmJTeWg4d2hlcTlYQ1lkai1yZzhaNF84TVYtR2RNcTR2NGY1OURQbEtETFZoNFMxbVNxaEtFaUgzQQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Washington Times"
-      },
-      {
-        "headline": "2026 NBA Mock Draft: Cameron Boozer Slips But Is The Best Fantasy Basketball Option In The Class",
-        "description": "",
-        "published": "2026-06-18T15:42:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeDFsOERTbGhkRzJnUGFpS214UHF3MzY1WEthZ0dVc2Jwb2tJZktYekFOLTNkUU5mMWptX082OXJLdGFZUVBPeUlMS0Y3dXgtcHpGaFdDMlBjVURyamdycGxjWDFIRmJ4aHVaWW1hRjdLQjFfZDA2TWh6c3VTaTNPNHBNTkJVZHZ3alN2WjVTV1dqbDg4MldpcWhSMGRGWFJDTmpMa1Z6eXJhVTBWaWczZGxJWmw4cklhNk51NmZnLUlqbnhtRUlRVUREaw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "NBA insider identifies 'realistic second option' for LeBron James",
-        "description": "",
-        "published": "2026-06-18T15:08:46+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLTJlSEE2aGc0WnJEaG4wX05PRUttRElxY3U4RzZISl9MTW1neGU3Q1NVRFZRS3dpaG15SDUwT1RpY1lkSXNxYzMtN19HbDNDM0kyU3JxcGd0M3ZUdktzdE1yT29LUnBBbFZrTzU2Z0tXTW1NT3hVVWJCekpLbG1pdWhySjZkUG9jNnQ0aDFGLXd2QQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "2026 NBA Mock Draft: Caleb Wilson goes to the Bulls, Henri Veesaar to the Cavaliers",
         "description": "",
         "published": "2026-06-18T15:00:00+00:00",
@@ -549,22 +540,22 @@
         "source": "Tar Heel Blog"
       },
       {
-        "headline": "King's Court: Making NBA comps for the 2026-27 Tigers",
+        "headline": "WATCH LIVE: NBA champions NY Knicks celebrated in parade",
         "description": "",
-        "published": "2026-06-18T14:04:50+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTUY0MEtrbGlqb1J2ZzBaY3J2LW5NR0lEWVJJM25XQldMNVlGOEJaZGx3ZEU4S1BGQkRvQmlwMHJ3Q0tFNGgwTkNDMXdqa2pvcnNPYWhDRkk5MU1uWk1HTzlCLUFqdXBjdHp0clQ5czVlVWtxc0t6bnhfdW0zMlp4RGhMWDh2VGlmWU5zZVRNblp0QnNNZmRVeTJoX3ZFcmNPX1RhYWRWUXM4LUwxWlhqMXpia0JQUFZ0aE02RVd3R2dHQjJTdXc?oc=5",
+        "published": "2026-06-18T14:57:06+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVmFOU2VBMHVkei1JX05ENTFZdVlDc05GRE83REdJNGV3TnhRcjhWZnJJcWd0SnNNdW9IaFI3ZkJlNWVSMmVFVUNWVFVDc0k1TVdTRWs1cDJYaUMzbGh0VzU4OU93Y3ZLVjdxTHd3YU5TSlpzOURjSnJvMWdHQjA3U3NIM2d5ZjJycFVDdkRwenFPcVpFNHc?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "247Sports"
+        "source": "PBS"
       },
       {
-        "headline": "2026 NBA mock draft: Intrigue remains at the top and with the guard prospects",
+        "headline": "Thursday\u2019s 2026 NBA Draft Links Run",
         "description": "",
-        "published": "2026-06-18T14:02:04+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNlNnhJOGs2S1g4MEttU2hFSzhEUG9vMDFzOFRrMExCQkJQS1Z4dm15dHQxRlp4Vy1ENmtkeklpdWtkblRCR1B6OU5kMkxlTXBhbWdRQTZrMW5WSExGUG5LVS1VRDlWNGR0YjlqNkcwRlc3U1pPOEpxR3pCMGdJREZkbTRCUERIMlFLX1NfTWdiTW4yMlc0XzZ3?oc=5",
+        "published": "2026-06-18T12:58:06+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbWZNN21PWHdTdjhxVXUzRHZtOFRGbEFuWG9HNjJVd3hFcEhmdVdRX1RURm1fNGd6bGVvdjctdUo3Z0RNNzF0bEhLTXRMemlnM2dFaEF4ck80R1Vmamd1U0pqTEIyaDY2UXAwVmJQNXlsVjZWaXhMMXRNMkgtcTdpWHdMQ1FiVmxUVlE?oc=5",
         "image": null,
-        "recruiting": true,
-        "source": "The New York Times"
+        "recruiting": false,
+        "source": "Duke Basketball Report"
       },
       {
         "headline": "Iowa basketball star headed to Eastern contender in ESPN NBA mock draft",
@@ -574,6 +565,15 @@
         "image": null,
         "recruiting": false,
         "source": "Hawkeyes Wire"
+      },
+      {
+        "headline": "10 big moments from the Knicks' NBA championship season",
+        "description": "",
+        "published": "2026-06-18T11:23:19+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSDZvZHdXbEdqRlhERmVhOWxSNmhqSjRQMlZEYmI5RGJYcXRDb2JzbTlYNmwtM1J2S0ExazFhR1ZJOHlDZGx3SElpdVo4SkQyLWpIUGctYjY1OHFCdjdYZFR6X2tYVHRsMm9ESEo4a2VnTTBhOXljdTd2OVFFQ1htVkVvZWhHR0R5UWhuaTFiSHNPdHM?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CBS News"
       },
       {
         "headline": "'Bet on yourself': How Yaxel Lendeborg raised his NBA stock by delaying the draft",
@@ -592,6 +592,15 @@
         "image": null,
         "recruiting": false,
         "source": "The Tuscaloosa News"
+      },
+      {
+        "headline": "Knicks set to be first NBA team to visit White House under Trump",
+        "description": "",
+        "published": "2026-06-18T01:38:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNelpXbG1FRjJ4TU9TNmJDTmYtZ0s5NXdmS2R4c2QwTmpoS25HVWhMeC1FQ1JTb19EaUpYUUZ0andFMGFRRUNoNUZtdmVDNlI2WEdjT3lmempLOUo4RzFYMExWclRleDF6Y2RMbFYxUmZwQjVNVWh3TU52U3BNYXd5cDdrTnlrSTVBQnFOSU9HZG1KZzYyeURhREVxMV81T3dGdEVEcVl3dmV2Zw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBC News"
       },
       {
         "headline": "A third BYU basketball player amazed NBA scouts during his pre-draft workouts",
@@ -637,15 +646,6 @@
         "image": null,
         "recruiting": false,
         "source": "The Courier-Journal"
-      },
-      {
-        "headline": "BYU\u2019s AJ Dybantsa, Duke\u2019s Cameron Boozer, UNC\u2019s Caleb Wilson headline forwards in NBA draft",
-        "description": "",
-        "published": "2026-06-17T07:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQNW5rVEdrU1ROXzdMNUN1RkJQN1BpZnFYVE1XRUlNZUlkaHU1ZXBlYng1bDJna0xid3JzWFN0MWNiaklFZVAzTjdVREdhQWVYeWtubjZnY280NTFvMmRDbFVvRDZUUG1LT2ZESTZCaXVYalJzc1AzVEsxUXBXQWZtdXJwNkdsQkxDVUdxd3ZXbXVVVENzcFBGRHoyLWdzR1RMWDdudDZSZlpLNE81S1NSTFNjamhpTDVZS1o3Q2NYSVlSOXQ0REhvWk5mSFFES3pPeVI5M19ZSGw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBC Sports"
       },
       {
         "headline": "Knicks\u2019 Historic Title Run Scores Best NBA Finals Audience Since 1998",
