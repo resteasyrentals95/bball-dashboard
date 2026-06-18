@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T15:12:24.478023+00:00",
+  "generated_at": "2026-06-18T15:27:30.805333+00:00",
   "duke": {
     "news": [
       {
@@ -486,6 +486,24 @@
   "nba": {
     "news": [
       {
+        "headline": "Tennessee Basketball Star Nate Ament Receives Latest NBA Draft Projection",
+        "description": "",
+        "published": "2026-06-18T15:23:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaEJEQ0hxSHN0ZDNzM1FqdEZrUmx5Z0JrUmxFbVhmU3ZOdlFubzlMTGlfQlRaY21ZcW00Smt4cDZYNlZRR0p4MmNyYlBPOTJZdGlMNUZDWGFqQ2VRVlNFMTNhcFJXZ2pBdW9tcUQ3aUVud3Q5SzJLTzBzeW5qVFA2WG1Nbi12ajJ4c19DNmtPdWVuVktFMFdGbEw0eE51ZDgwYnBFQjk3U1gxRElObmNreUpQdmJjZ0U0dTNtRnNHQVBKZldDWkJzVjZIM2FCNlhib2tOSHh5TQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Best moments from New York Knicks 2026 NBA championship parade",
+        "description": "All of the sights and sounds as the New York Knicks celebrate their NBA championship in Manhattan.",
+        "published": "2026-06-18T15:17:30Z",
+        "link": "https://www.espn.com/nba/story/_/id/49100686/new-york-knicks-nba-championship-parade-sights-sounds-moments",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "WATCH LIVE: NBA champions NY Knicks celebrated in parade",
         "description": "",
         "published": "2026-06-18T14:57:06+00:00",
@@ -493,24 +511,6 @@
         "image": null,
         "recruiting": false,
         "source": "PBS"
-      },
-      {
-        "headline": "Best moments from New York Knicks 2026 NBA championship parade",
-        "description": "All of the sights and sounds as the New York Knicks celebrate their NBA championship in Manhattan.",
-        "published": "2026-06-18T14:35:48Z",
-        "link": "https://www.espn.com/nba/story/_/id/49100686/new-york-knicks-nba-championship-parade-sights-sounds-moments",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
-        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on the Warriors' pursuit of LeBron James.",
-        "published": "2026-06-18T14:11:40Z",
-        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
-        "image": "https://a.espncdn.com/photo/2026/0325/r1633719_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
       },
       {
         "headline": "Thursday\u2019s 2026 NBA Draft Links Run",
@@ -531,15 +531,6 @@
         "source": "Hawkeyes Wire"
       },
       {
-        "headline": "NBA Mock Draft Sends Arkansas' Meleek Thomas to NBA Title Contender",
-        "description": "",
-        "published": "2026-06-18T12:30:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQX01vbmVZQmptRS01ekZ2NktyRmZyTXZMWmo3cjduSHRsNnJuei1XTzNiUzJCRFdMLVZVZFZtd1JYZnJHZEVCVDAwV3lCV0lkcDhJeXVqRmJSRFU4Tl9Ucm9FSFpBdjhMM1l4a210VW1sWjl6c1k2VDhVbVB6OWVuNFFPdGdxaHdVUUx0Z2lSTmFnR0ZvZjZ3WmNOdlltSlBsczBfcE9HNi1WZkR2bVRkYU9OYkVwX0FCVFNqZThsajJpWGJBVy1FMmQyMGlfU0VI?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
         "headline": "2026 NBA mock draft: Intrigue remains at the top and with the guard prospects",
         "description": "",
         "published": "2026-06-18T12:10:13+00:00",
@@ -547,15 +538,6 @@
         "image": null,
         "recruiting": true,
         "source": "The New York Times"
-      },
-      {
-        "headline": "Ranking the Raptors Biggest Needs Before the NBA Draft",
-        "description": "",
-        "published": "2026-06-18T11:00:09+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUDVHNHBGNzBPRXJWdGJBZXNsa0E4ZFU1MHV1Qm9FX0FmblkwZFo1QW10YzE2YkhRc01MRnBPQTllejNKWWpXMnp3UEhBWUtFUW9PTlRrLS1Cdnc3SlJSYjFSQS1oTk9sZnM2TEhBbWw3bEVMU29kT1hPTmF3RzNVWWU0eGNULXZDUXc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "'Bet on yourself': How Yaxel Lendeborg raised his NBA stock by delaying the draft",
@@ -567,13 +549,13 @@
         "source": "ESPN"
       },
       {
-        "headline": "NBA free agency: Six underrated players teams should target",
+        "headline": "Kentucky Wildcats News: Jayden Quaintance Stock Dropping Ahead of NBA Draft",
         "description": "",
-        "published": "2026-06-18T11:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZXJGTHVjLWhzNUxLOXc4U0RyWVRwQlZRVURBRVRzUWZMLXl6WGxtMTlsVUx6NldjcjhBQmNHck5JMTRLalVPWVoyS1kxVTBKV1I3QkU2a1lYdHYxNF9rcEJaZy0yd1p0bGtyb09QYTVMZ0FvcUNQZHgwQUdXRHB4VFZOeHFXMnplQVo1VkMtRmlpS1lIMVBFSjBR?oc=5",
+        "published": "2026-06-18T10:40:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMmVNc2F2T0ludlQ3M01TNkhFMlBhUlNONE5aemphbHBSVU15bE01bTJuU084d2s2RndJZ0ktOWphVFY2RS1RM0R1TzZHcUdlcDRxNDdtaVVaQ1ZxMnVLQlhjbmdkdVRma0kwajNPcUVqMFcyS045T2lTRXJnX29lYWpmZnlkRVYxM0x0bWxlcFItdGc?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "ESPN"
+        "source": "Yahoo Sports"
       },
       {
         "headline": "2026 NBA draft projections for Alabama basketball, Labaron Philon Jr.",
@@ -610,15 +592,6 @@
         "image": null,
         "recruiting": false,
         "source": "Lawless Republic"
-      },
-      {
-        "headline": "Big 12 Basketball: Top 10 prospects to watch in 2026 NBA Draft",
-        "description": "",
-        "published": "2026-06-17T22:08:55+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZ0F4Y1lhRkxWeV91VnN5WkluTEp3R0VJUVE1Q2tVV21RZDhfWVR3N0FZSHlXVU5JTVNZY2M1bTVVWEppMzVoSjU2akxkek1tRWd1OVpCZ2JtazFJd284VXdHcjMzN3JxSDJJdXZrVmFPVFljRFVjNkY5a05wWWwwTnYtZGtQYi1pMWNuQ0ZWenlrejhuaTI2VEJoXzY3cWVTckE?oc=5",
-        "image": null,
-        "recruiting": true,
-        "source": "Busting Brackets"
       },
       {
         "headline": "Tennessee Basketball Drops New Nate Ament Highlight Reel Before the NBA Draft",
