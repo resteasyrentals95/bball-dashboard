@@ -1,7 +1,25 @@
 {
-  "generated_at": "2026-06-18T12:01:48.351056+00:00",
+  "generated_at": "2026-06-18T12:16:54.059930+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "Duke Football Film Review: What Javen Nicholas Brings to Table",
+        "description": "",
+        "published": "2026-06-18T12:00:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTFZPZ1JIc0k1amRGNDVxb0xlNktZNlB5TURJbzNUWkt4N1RFNjliWHctQ080T2F0QUYycFNqQ29jc2hWMmczUVVYLXhKeWpxUUNSQnRCOUc2QXBBNGp5Tkt3ZmhsNEFxZ2xKWTFydTIwX2E2Y0RMejNDWWEwZUROSEpOTnBjckZrLTlwWTB2Y2NiZVlZTlBSSFpzTlBnZw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Duke's Isaiah Evans receives encouraging signal of his stock ahead of NBA Draft",
+        "description": "",
+        "published": "2026-06-18T12:00:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPcVV1bXVYTHpnR1Z5TkdsNmRhbXowWGFpR29SX0pOMTJyNm16X25nQXpzWFgwY1ItVmp4bnVlYUhtTUJtaUpva0hiemVZMFQzSE5ldFhjRjdBTHdud2kxVXBHc3lxNElTU2l3WmlxT1hQdG8zNnRNT0ZJVUhOUDlpN000dE9SNEhJSm4ydnByR2FfQWlaTHM2NXJ6SGZtc20wRVppdw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Ball Durham"
+      },
       {
         "headline": "Joaquim Boumtje Boumtje Weights in Why He Chose Duke Basketball",
         "description": "",
@@ -120,15 +138,6 @@
         "source": "Duke Today"
       },
       {
-        "headline": "This Top Prospect Could Be Raising Duke's Cameron Boozer's Stock",
-        "description": "",
-        "published": "2026-06-17T10:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNHdEOGwyU3J6blgtX3NOdXEtbHhxOXZ2ZElhTmdVLVFGSHJmdnFhQm8yNEZweFhPWXJvZ3pBbEhzdHNkZTdMUTk2NGdUVFJUWExtaGt1RmU0dUlwT3pIN2NxcE9pdjdaTFgyUFFkeHFUM2JqWXl1Y1BXX0tGdjVjTlktN3pkQ2xycDBYejk1NmRfdEJLbHhEczloYno?oc=5",
-        "image": null,
-        "recruiting": true,
-        "source": "Sports Illustrated"
-      },
-      {
         "headline": "Joaquim Boumtje Boumtje divulges why Jon Scheyer, Duke stood out in his recruitment",
         "description": "",
         "published": "2026-06-16T21:42:47+00:00",
@@ -244,15 +253,6 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Duke to Host South Carolina in 2026 SEC/ACC Challenge - Duke University",
-        "description": "",
-        "published": "2026-06-05T20:32:53+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMzQyTElsbHlpb0FITTBRYVZQcTBlYnJZTmk1MWQwSU5YdGxJMU1IV28tdmUtSTFZME1DYWpzMnoxZl9Memw0V0Z2Wm9QbGF6T3E4eDdyb1BQNWJYYmNoWWtldnhsZ3RpWlNzXzRxYjZOU0RMempLa2dndjdMT0xuQUdWQ25xRGl1Q3NvSERKNk5tRFVhb0pkY2h2MEplQkVJMUp5SGtqUQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "goduke.com"
       }
     ],
     "games": [
@@ -486,6 +486,24 @@
   "nba": {
     "news": [
       {
+        "headline": "The five biggest questions for the Lakers this offseason",
+        "description": "Will LeBron return? How can they build around Luka? Here's what Lakers insiders are discussing as the draft and free agency approach.",
+        "published": "2026-06-18T12:11:32Z",
+        "link": "https://www.espn.com/nba/story/_/id/49098803/the-five-biggest-questions-lakers-need-answer-offseason-lebron-james-austin-reaves-luka-doncic-nba-offseason-free-agency",
+        "image": "https://a.espncdn.com/photo/2026/0617/r1675017_576x324_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "NBA free agency: Six underrated players teams should target",
+        "description": "Which under-the-radar free agents can aid in changing the trajectory of an NBA franchise?",
+        "published": "2026-06-18T12:11:08Z",
+        "link": "https://www.espn.com/nba/story/_/id/49098145/nba-2026-underrated-free-agents-offseason-targets",
+        "image": "https://a.espncdn.com/photo/2026/0617/r1675052_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "'Bet on yourself': How Yaxel Lendeborg raised his NBA stock by delaying the draft",
         "description": "The Michigan star went from fringe first-round to projected lottery pick by spending one more season in college.",
         "published": "2026-06-18T11:47:58Z",
@@ -500,24 +518,6 @@
         "published": "2026-06-18T11:45:31Z",
         "link": "https://www.espn.com/nba/story/_/id/49103130/sources-wizards-trae-young-decline-option-free-agent",
         "image": "https://a.espncdn.com/photo/2026/0306/r1624197_600x400_3-2.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "The five biggest questions for the Lakers this offseason",
-        "description": "Will LeBron return? How can they build around Luka? Here's what Lakers insiders are discussing as the draft and free agency approach.",
-        "published": "2026-06-18T11:44:57Z",
-        "link": "https://www.espn.com/nba/story/_/id/49098803/the-five-biggest-questions-lakers-need-answer-offseason-lebron-james-austin-reaves-luka-doncic-nba-offseason-free-agency",
-        "image": "https://a.espncdn.com/photo/2026/0617/r1675017_576x324_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "NBA free agency: Six underrated players teams should target",
-        "description": "Which under-the-radar free agents can aid in changing the trajectory of an NBA franchise?",
-        "published": "2026-06-18T11:40:43Z",
-        "link": "https://www.espn.com/nba/story/_/id/49098145/nba-2026-underrated-free-agents-offseason-targets",
-        "image": "https://a.espncdn.com/photo/2026/0617/r1675052_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
@@ -657,24 +657,6 @@
         "source": "NBC Sports Philadelphia"
       },
       {
-        "headline": "Final NBA mock draft: Who will Mavericks select with three picks this year?",
-        "description": "",
-        "published": "2026-06-17T11:11:56+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOd0xHdEFRbWFVaS1ZZ2ZBTmR6eGZkRGc2bUtZTGtHSlBRTy1HSEFPeFNCWl9yZGhWVEQwZFJvc3pQV0puMk81X2hTYXZCb05ieVVyYzJTQlM0cGNDZ2FROXlZbG5WMmlKODlnSUVFQm92QkNUemVQWm93Y0pqMWFBTHBsY0tWU3Y3ZWJ2MXVtVks1OFRVWUJlMW9vTQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Dallas News"
-      },
-      {
-        "headline": "Ranking top of 2025, 2026 NBA drafts: Would Flagg still be No. 1?",
-        "description": "",
-        "published": "2026-06-17T11:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOSzVDai1yRldSdFpsZ0ktSnc4S201X24zYzdxUjRqSlBZQ1JiY3RTTTIxV3Z5TEJ0eER5UXRsalhzallIcmszR1RBQmJ6R0E4T09Ydl9Bck92U1haNWRraUhaRWV6OWY2Qy12bF83SUFRR1NNNXE2cGRVSXB5c0ROMU5iNE90TmI2cUNWN1hTRHQtX0Q5cDdFcVAwVEhKaDBFckN0SUJPSXJBR0J3UGtFc0FGcURuZUpWaEtMM0lJb255cDIzT1pmdTkzTXpIWWI0eWYtVQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "How Karl-Anthony Towns, Kentucky basketball alums fared in NBA season",
         "description": "",
         "published": "2026-06-17T09:10:00+00:00",
@@ -736,6 +718,24 @@
         "image": null,
         "recruiting": false,
         "source": "Al Jazeera"
+      },
+      {
+        "headline": "The path of a Knicks-Spurs NBA Finals basketball starts with all 30 teams",
+        "description": "",
+        "published": "2026-06-05T14:23:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa01ZbGViekZIY3B1U3ltWjN4cDNRQWwxVXNoX1dIdHpTeVZrc3Vjdm1mbi1yS1BSTTM4bS0tT2NweVNjdVJWTVVMWHBra0RGVmNVN1lHNXlFRjFzZXRZQlhBQmxMRWFzeHp5ZkdaQXk5b2N4WGxadFNLS0hPenh6bFlBTU4yQzkyQVFTSm16cmVpWmFIcGZHYTRFOA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "College basketball top 25 after NBA Draft deadline: Illinois or Florida at No. 1? - The Athletic",
+        "description": "",
+        "published": "2026-06-02T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQY05EZ1NZbkRQQmRGMjZ2eUNkY0NtenhDSWpWU2tBM3hVaGxpRXB4bzNNcTFkSXNfeFZwT0kxX1R0YkVkNGRIX3N5MEtlRUJaRGR5T3d3RFpSYmpsTkt6Nzg5UVZsQnFpTXBCX3FCVWhPelI0dmxjNlhFc1lFUXcyUVBlTlgwdjVVQldxVEtUVTBvWE52Ym9pT1JNTFFSVE0?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The New York Times"
       }
     ],
     "games": []
