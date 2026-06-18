@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T02:51:15.176958+00:00",
+  "generated_at": "2026-06-18T03:06:21.195803+00:00",
   "duke": {
     "news": [
       {
@@ -488,9 +488,18 @@
       {
         "headline": "Sources: Wizards' Trae Young to decline option, be free agent",
         "description": "Wizards star Trae Young plans to decline his $48.97 million player option for the 2026-27 season, although Washington remains the front-runner, sources said.",
-        "published": "2026-06-18T02:34:04Z",
+        "published": "2026-06-18T03:05:29Z",
         "link": "https://www.espn.com/nba/story/_/id/49103130/sources-wizards-trae-young-decline-option-free-agent",
         "image": "https://a.espncdn.com/photo/2026/0306/r1624197_600x400_3-2.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "James Dolan: Won't go into second apron to keep Knicks intact",
+        "description": "On the heels of its first NBA title in 53 years, Knicks owner James Dolan told WFAN radio on Wednesday that he will not go into the punitive second apron to keep his team intact for the 2026-27 season.",
+        "published": "2026-06-18T03:01:04Z",
+        "link": "https://www.espn.com/nba/story/_/id/49103460/james-dolan-go-second-apron-keep-knicks-intact",
+        "image": "https://a.espncdn.com/photo/2026/0614/r1672813_600x600_1-1.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
@@ -504,13 +513,13 @@
         "source": "ESPN"
       },
       {
-        "headline": "Splitter looks to Jordan era as he tackles Bulls turnaround",
-        "description": "New Bulls coach Tiago Splitter acknowledged the team has a lot of work to do to get back to the glory days of the Michael Jordan dynasty he remembers so fondly.",
-        "published": "2026-06-18T01:15:19Z",
-        "link": "https://www.espn.com/nba/story/_/id/49101932/splitter-looks-jordan-era-tackles-bulls-turnaround",
-        "image": "https://a.espncdn.com/photo/2026/0617/r1675156_600x400_3-2.jpg",
+        "headline": "NCAA champion addresses next step for Victor Wembanyama after NBA Finals loss",
+        "description": "",
+        "published": "2026-06-18T01:38:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONmp1U0cwMHlydFRMUjBtdE5RektaLTBKN29meW5QcG10WjJ0elUzaUNjS3NDYnNCZWJwQUN3NlpuZjA1Z09yUjRYMWtLRXhrNV9BMlF5Z2JjN093eFowb0R3aUZ3SXJNU3FLcF9GeWY3V3B6SnNQS2N6eHZWNG5jMmFmQ0FyWWVDcHc?oc=5",
+        "image": null,
         "recruiting": false,
-        "source": "ESPN"
+        "source": "Yahoo Sports"
       },
       {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
@@ -556,15 +565,6 @@
         "image": null,
         "recruiting": false,
         "source": "Rocky Top Insider"
-      },
-      {
-        "headline": "Warriors open to getting older to improve this NBA offseason, but it's unlikely",
-        "description": "",
-        "published": "2026-06-17T18:24:11+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPbjZWNGNiS1U1eXpnRjJqX0JSVHRja1E4OFJiR09JWWMzZnRHZUY4SzhrNHQtaXdwb3FsQmI3ZzdfTUFnMGxONG8zT0dHdHRObzBqVmFNZzkxdUJKVmtfMTkzemRXYTlsdEh2aDFwbnAzRWhBQlFJemJmdUN2aU5QMktEM0JZbEFmVUZoNA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "Giannis Antetokounmpo Trade Talks Could Remain Unresolved Beyond NBA Draft",
