@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T15:27:30.805333+00:00",
+  "generated_at": "2026-06-18T15:42:43.327191+00:00",
   "duke": {
     "news": [
       {
@@ -237,6 +237,15 @@
         "source": "Sports Illustrated"
       },
       {
+        "headline": "Duke to Host South Carolina in 2026 SEC/ACC Challenge - Duke University",
+        "description": "",
+        "published": "2026-06-05T20:32:53+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMzQyTElsbHlpb0FITTBRYVZQcTBlYnJZTmk1MWQwSU5YdGxJMU1IV28tdmUtSTFZME1DYWpzMnoxZl9Memw0V0Z2Wm9QbGF6T3E4eDdyb1BQNWJYYmNoWWtldnhsZ3RpWlNzXzRxYjZOU0RMempLa2dndjdMT0xuQUdWQ25xRGl1Q3NvSERKNk5tRFVhb0pkY2h2MEplQkVJMUp5SGtqUQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "goduke.com"
+      },
+      {
         "headline": "Men's Basketball to Host Duke in SEC-ACC Challenge",
         "description": "",
         "published": "2026-06-05T07:00:00+00:00",
@@ -244,15 +253,6 @@
         "image": null,
         "recruiting": false,
         "source": "Florida Gators"
-      },
-      {
-        "headline": "Duke Visits Florida in ACC/SEC Challenge - Duke University",
-        "description": "",
-        "published": "2026-06-05T07:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQZ1lVRmY2Y2JESFFQbUlVdmFPN09aa3hPMjR2eWFpeWdkSTlfT2JKNEYzckNrVkt6V1VsQWdFNXpOZVo0VFVNWXJQN1ktNHdzdk9KVHpLVjRBWXh1d3NicTlSREFJRkhQZDJuOVdYd01VUGRFdXhEaVFuQWZ6aGluTVVIcDM0Y3VFYldQQ2pFTFVreGs?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "goduke.com"
       }
     ],
     "games": [
@@ -486,22 +486,22 @@
   "nba": {
     "news": [
       {
-        "headline": "Tennessee Basketball Star Nate Ament Receives Latest NBA Draft Projection",
-        "description": "",
-        "published": "2026-06-18T15:23:48+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPaEJEQ0hxSHN0ZDNzM1FqdEZrUmx5Z0JrUmxFbVhmU3ZOdlFubzlMTGlfQlRaY21ZcW00Smt4cDZYNlZRR0p4MmNyYlBPOTJZdGlMNUZDWGFqQ2VRVlNFMTNhcFJXZ2pBdW9tcUQ3aUVud3Q5SzJLTzBzeW5qVFA2WG1Nbi12ajJ4c19DNmtPdWVuVktFMFdGbEw0eE51ZDgwYnBFQjk3U1gxRElObmNreUpQdmJjZ0U0dTNtRnNHQVBKZldDWkJzVjZIM2FCNlhib2tOSHh5TQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
         "headline": "Best moments from New York Knicks 2026 NBA championship parade",
         "description": "All of the sights and sounds as the New York Knicks celebrate their NBA championship in Manhattan.",
-        "published": "2026-06-18T15:17:30Z",
+        "published": "2026-06-18T15:39:52Z",
         "link": "https://www.espn.com/nba/story/_/id/49100686/new-york-knicks-nba-championship-parade-sights-sounds-moments",
         "image": null,
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Tennessee Basketball Star Ja'Kobi Gillespie Receives Newest NBA Draft Projection",
+        "description": "",
+        "published": "2026-06-18T15:39:20+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQT2JCc2FhMW1Ya3dMbkZ1Z3NteHVaOEp1VHFucUVUMlVKM1VrMjhCMkZfTkplTnoybHZmcXdnbl9VOUNNUTk1akpkQUl5VXFrSUpPaDEtaXk4QzdkY05VWXN0VEpuVHhVQXJQSDhkTi14S1pzMGQwT0RFN3htNzNQZ2JDc0hKWnBTNmtDd2FiWmtyQkF5UnR2YnZmSTlqN09oSUtrZW11eTBsR1BPbHpEM3B3NUFONENERS1nejB0RTRHeUl0Q2J3YmhLV2FqR1lrTWpGLWw5b3NXNl92cmF2OA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
       },
       {
         "headline": "WATCH LIVE: NBA champions NY Knicks celebrated in parade",
@@ -513,13 +513,13 @@
         "source": "PBS"
       },
       {
-        "headline": "Thursday\u2019s 2026 NBA Draft Links Run",
+        "headline": "J.R. Smith says Knicks are NBA's gold standard for taking care of legends: \"I won a chip in Cleveland. They haven't invited me back\"",
         "description": "",
-        "published": "2026-06-18T12:58:06+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQbWZNN21PWHdTdjhxVXUzRHZtOFRGbEFuWG9HNjJVd3hFcEhmdVdRX1RURm1fNGd6bGVvdjctdUo3Z0RNNzF0bEhLTXRMemlnM2dFaEF4ck80R1Vmamd1U0pqTEIyaDY2UXAwVmJQNXlsVjZWaXhMMXRNMkgtcTdpWHdMQ1FiVmxUVlE?oc=5",
+        "published": "2026-06-18T13:39:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoZE9Fc3dEV2hjaGZmYl82Y2NZc0VhekstVFg1MGlmRUQzU3hLeUVzY3FkdVg0UXpraDc1SFUzU1NGcmVPR2xkMjBrWnhGMGxsaVlaMnJ2MFdCNmRvMWQxYmllaWtUSDR1dlV2NUZZMEs2Q3ZxbDJEejln?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Duke Basketball Report"
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Iowa basketball star headed to Eastern contender in ESPN NBA mock draft",
@@ -540,6 +540,15 @@
         "source": "The New York Times"
       },
       {
+        "headline": "Ranking the Raptors Biggest Needs Before the NBA Draft",
+        "description": "",
+        "published": "2026-06-18T11:00:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQUDVHNHBGNzBPRXJWdGJBZXNsa0E4ZFU1MHV1Qm9FX0FmblkwZFo1QW10YzE2YkhRc01MRnBPQTllejNKWWpXMnp3UEhBWUtFUW9PTlRrLS1Cdnc3SlJSYjFSQS1oTk9sZnM2TEhBbWw3bEVMU29kT1hPTmF3RzNVWWU0eGNULXZDUXc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "'Bet on yourself': How Yaxel Lendeborg raised his NBA stock by delaying the draft",
         "description": "",
         "published": "2026-06-18T11:00:00+00:00",
@@ -547,15 +556,6 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Kentucky Wildcats News: Jayden Quaintance Stock Dropping Ahead of NBA Draft",
-        "description": "",
-        "published": "2026-06-18T10:40:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNMmVNc2F2T0ludlQ3M01TNkhFMlBhUlNONE5aemphbHBSVU15bE01bTJuU084d2s2RndJZ0ktOWphVFY2RS1RM0R1TzZHcUdlcDRxNDdtaVVaQ1ZxMnVLQlhjbmdkdVRma0kwajNPcUVqMFcyS045T2lTRXJnX29lYWpmZnlkRVYxM0x0bWxlcFItdGc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "2026 NBA draft projections for Alabama basketball, Labaron Philon Jr.",
@@ -612,13 +612,13 @@
         "source": "RealGM"
       },
       {
-        "headline": "2026 NBA mock draft projections for UNC's Caleb Wilson, Henri Veesaar",
+        "headline": "Este Haim Reflects on Controversial NBA Finals Appearance With Taylor Swift: \u2018Surprised All of Us\u2019",
         "description": "",
-        "published": "2026-06-17T14:10:16+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQNnUzMEtiS2I2QzNVVjRBNkFqallVLXkxSHBpa3dFQVhja2RoNkJVXzAwZlctOVJJWjU1MjZoNEhwdFpZWmt6cERIUnN6d2dTX0o1YmpNM2tLTm9jWUZwMkcwd3pNblFvaER4N0tfSnZPT1E2bXlyVnR3NC0td1M3SjN2bEpIYmtpRDdPNE5GRFk0Sk1IaUZXRFVnbUROa0NicFIxMG9xZU0yYUFxMXpQZWo5eTBHZHcwS1FLOGxEbUxnOXJTbjZYTl9xM2dlTVRMVjBSLUlIMTlzNFhQZWQ3TFNPRENRMFRXNTRVOXdYc20wZjVielJv?oc=5",
+        "published": "2026-06-17T16:04:19+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNXNoQURORTJCanluRXQwUHJkZnZZUzM1R21wdzBwRW91bk9oSHQycmxpT3drYVhfMTRzMnhGcWt2V0hGeFBpRVF5UThBSXNUWVNmY01feWgtdnFxSlVjTXpkUmV4bkpLeVpfU1BSVzRFX3E1dWJNWEY4clpCYmEwMExWYkFJYXRIc0xqajFxNGZXVEEwMGR0TkRwQQ?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "The Fayetteville Observer"
+        "source": "Us Weekly"
       },
       {
         "headline": "NBA mock draft roundup: Recent projections for Sixers at No. 22 with draft nearing",
@@ -646,15 +646,6 @@
         "image": null,
         "recruiting": false,
         "source": "Deadline"
-      },
-      {
-        "headline": "Knicks-Spurs delivers most-watched NBA Finals since 1998",
-        "description": "",
-        "published": "2026-06-16T21:30:28+00:00",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Bc2dFZlBDNXY3SlVvRy1UUUlUX29weW1qcjhLczRHSjBSLVNyNTFQejR1MVloRkFtZ1VVS3JRaXh2czBtc3I2RUNBeG1URU40MWl4R2FobTBiVW9xWHRRSG53QTRyM2x5cGxGQUVrOGNQYjZsOTBITFhkbFBvQQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBA.com"
       },
       {
         "headline": "New York Knicks-Inspired Baby Names May Become More Popular After NBA Finals Win",
