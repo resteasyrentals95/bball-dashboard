@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T19:05:54.200362+00:00",
+  "generated_at": "2026-06-18T19:21:04.979404+00:00",
   "duke": {
     "news": [
       {
@@ -486,22 +486,49 @@
   "nba": {
     "news": [
       {
-        "headline": "Alicia Keys stuns Knicks Nation with surprise 'Empire State of Mind' performance at NBA Championship celebration",
-        "description": "",
-        "published": "2026-06-18T18:47:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwJBVV95cUxPdUJnNUh4VzFENlM4T0QydUpOWFlHOWdCTWdKOTFwREZ0dUhhWnI3WW5NSGtKSy00N0Zib2VRV2dxc2FnN1p5UXNWbXpqR1dQWVRsWURSSW5IU1NzZWw2cEpLSUpQVDk5R1R4dWdncGE3QnY3cDBIRWF0UXlPYk95RXp6Z3VCakhpVnZUZG9xQnZyMVE5aGVGTkhrMzlmYVhfU0lnenYxa2VlTXJzM3Nzb25lUUtJRVdydnJQUHB5M25WTUdOREZNRkVka1NRekU4WTFpak9FYTBHMHA1cUg2U2VmVFJ6LXZvYjN5QTl6OVVyZWlTNFAydDczSlM5cHFENXlwVUNDMXR1dmR6SG8w0gGPAkFVX3lxTFBKMXJiM1B6U1RrUWIzMGdhU0tvaTl5V3dmQktFQWF4dG5RcTBxZFNFd18tQThLa0dQMDg3MUpIMG5KRVFvWGNQbFJzMHFvdlQ5bjdpUzhUYjFDc2NhQVZiaTNQUTBpa1plQ1dLUTY0QUFBSnJYNWl4cTMwOXVvQ1E4ZkFBZkVyYmxrb2M1V29xT1Z4YlRTd1ZUTDN6ZnllSWFOLVF0V1ZVVTQydlByX3JLa2VwcXhKeXVkMFlyVkpvZjAwMEN0b1VIV0prcE9MTENBTmlWamZMWW9adnR5LTFZRXk4MnpmV3VKcVYxR3BCY1R4cExlLWZqbXlSWWdLaVpZeU5VeXNOM0RRX3RpS3M?oc=5",
-        "image": null,
+        "headline": "Jalen Brunson slams skeptics as Knicks revel in NBA championship parade",
+        "description": "Jalen Brunson finally hit back at his skeptics as the Knicks and millions of fans celebrated the franchise's first NBA championship in 53 years with a parade Thursday.",
+        "published": "2026-06-18T19:18:43Z",
+        "link": "https://www.espn.com/nba/story/_/id/49108942/jalen-brunson-slams-skeptics-knicks-revel-nba-championship-parade",
+        "image": "https://a.espncdn.com/photo/2026/0618/r1675644_1296x729_16-9.jpg",
         "recruiting": false,
-        "source": "MARCA"
+        "source": "ESPN"
       },
       {
-        "headline": "Hoosiers Daily News: Indiana alum, NBA Champion OG Anunoby given key to New York City",
+        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
+        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on the Warriors' pursuit of LeBron James.",
+        "published": "2026-06-18T19:18:32Z",
+        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+        "image": "https://a.espncdn.com/photo/2026/0325/r1633719_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Long Islanders, shut out of Knicks parade crowds, watch NBA champs from Manhattan bars",
         "description": "",
-        "published": "2026-06-18T18:16:28+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQay14Vm4wZE5peE4yWXBtV2J4ZFFrQXhDemNETTk4OTNmY1hIUjJXUldRbDI0RnM1WmRRM2JIR19lNkhMSVR5Q3J5Wm5xRFRSZ1FqdG5zV0c0d1puOHR1WFhFWG95RWNxYlg5ZUl3SS1hWVcxWnhIWEk2Q2s1cDFKd182Z1NPeTFm?oc=5",
+        "published": "2026-06-18T19:13:49+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPNFFlUlpDNTZLbGdIdS16ckY4YVRweFdKSFN0R3BtdmpoSWoyOGtQOGJMd3BqNVBJRlVVX1B4WVZPQXNVWHNKbXVBMmVhaGNqMkNVRmFRRDA5YkhUcEdHM3Q5eFBTZnlQOGp0OFNENHZRWS05RVAyU2FfMjhTNFVpaDBmcFhoWWhRQkVuUDJuaXhEWnJFV3g1ZnIzSDZDQlE?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Yahoo Sports"
+        "source": "Newsday"
+      },
+      {
+        "headline": "NBA to name winning bids for Europe teams in the coming months, deputy commissioner says",
+        "description": "",
+        "published": "2026-06-18T18:50:59+00:00",
+        "link": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9ON3k3LXRmWjdWTVVYQnF1MVd1YUYwenBndk9FSGVqZGdpQWFLU2I1cWxDaW8wQ2ZTTWFaSnVZS3FWdEQ4TW1qTi14aEtrQTk0ZlFpSG9oSXBWZ3ZnVURDcFZNMEY1VkdIY3c3eGJKOVXSAXZBVV95cUxQV3RSanl2amgxNkx5d1RmVVF0cGF0N2lCMVJIVFppX1RHRGVVWFg3LVJwVnpYZE9mcnFEVmFoaU9NREdKQWc5Y2dJM1JoWkxUNFBycERXSkRZR01YaFE1V3U4TFAzSndnZGxiUUsxbGxRZzRlS093?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CNBC"
+      },
+      {
+        "headline": "Highlights from the New York Knicks NBA championship parade",
+        "description": "",
+        "published": "2026-06-18T18:46:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNNlB0VXdaN1FGYWVFMXZaS29kdG1jYzBMRTQ3M2poSl9aeDk2amZuYWdmbkFacV9rSkNkUXJWUTByT3hSMjNyVlhNR3NQOUlkeFVxNUVUTGFJd3l3Qmg0dXg0Q1lJZ0xuRFkwVG9YbDhnY19PbXZocVl6Wnk2Vmw4bDdqYlJpblBkZkZySA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CNN"
       },
       {
         "headline": "APTOPIX NBA Finals Spurs Knicks Basketball",
@@ -513,6 +540,15 @@
         "source": "NOLA.com"
       },
       {
+        "headline": "USA Basketball U17 Training Camp: NBA Scouts break down Joaquim Boumtje-Boumtje, CJ Rosser and top prospects",
+        "description": "",
+        "published": "2026-06-18T17:50:54+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMXZqazB1RXA5YWFEb3dvU283X050ODI4ckFTcllqcW1OWEFzaDlOWHg4c1ZEdGhmUnNVelRsdmFYZkFNa3c2di04Q3ctZU9OUHF4bFRyeS05TmlGNzhfMVdCZDRaRXMzbUhtOWVKdEJtUE9BV2Y1SkdaMkJ0VEhzT01Ba3VMQ19kcHdkQVJhRUJvbXNpbGVLMEJ3bGtQRUNuUktFR1JaZ1dFNjduQ3NnRF9WQWRiQUtqbk81dHlIZE9kbkEzWGg5c2FjTURhRldWZTdiMTdB?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "On3"
+      },
+      {
         "headline": "Best moments from New York Knicks 2026 NBA championship parade",
         "description": "All of the sights and sounds as the New York Knicks celebrate their NBA championship in Manhattan.",
         "published": "2026-06-18T17:27:22Z",
@@ -522,13 +558,22 @@
         "source": "ESPN"
       },
       {
-        "headline": "2026 NBA Mock Draft: Cameron Boozer Slips But Is The Best Fantasy Basketball Option In The Class",
+        "headline": "Is New York Knicks NBA Finals MVP Jalen Brunson Worth A First-Round Pick In Fantasy Basketball?",
         "description": "",
-        "published": "2026-06-18T15:42:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNeDFsOERTbGhkRzJnUGFpS214UHF3MzY1WEthZ0dVc2Jwb2tJZktYekFOLTNkUU5mMWptX082OXJLdGFZUVBPeUlMS0Y3dXgtcHpGaFdDMlBjVURyamdycGxjWDFIRmJ4aHVaWW1hRjdLQjFfZDA2TWh6c3VTaTNPNHBNTkJVZHZ3alN2WjVTV1dqbDg4MldpcWhSMGRGWFJDTmpMa1Z6eXJhVTBWaWczZGxJWmw4cklhNk51NmZnLUlqbnhtRUlRVUREaw?oc=5",
+        "published": "2026-06-18T17:00:33+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNN3liejdTb3RnNFBJSlpMbjJjNHBlVUNRbmNwdXM2RWJRaXZXZWVaWEdXb3drN1psZ0ZaR3VTYmdtSzRDY2ZsWkdzTWNycnlpME02NTdOMktDMDV1T2dSQmJZazlmal9tbnF1WXR2M0pKT19wSm1UMEdWLVhaaEJUTzhiRVVSRFJraG55MllGdHdEb2N3RFpOOGlaTmZJRDVkSjVFYUM1dFB3dFJza2F1REZaTlZITHFJVm50b0ZPQjdJeDc4dHRpaU1R?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
+      },
+      {
+        "headline": "NBA insider identifies 'realistic second option' for LeBron James",
+        "description": "",
+        "published": "2026-06-18T15:08:46+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNLTJlSEE2aGc0WnJEaG4wX05PRUttRElxY3U4RzZISl9MTW1neGU3Q1NVRFZRS3dpaG15SDUwT1RpY1lkSXNxYzMtN19HbDNDM0kyU3JxcGd0M3ZUdktzdE1yT29LUnBBbFZrTzU2Z0tXTW1NT3hVVWJCekpLbG1pdWhySjZkUG9jNnQ0aDFGLXd2QQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "2026 NBA Mock Draft: Caleb Wilson goes to the Bulls, Henri Veesaar to the Cavaliers",
@@ -576,6 +621,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "Bucks Indicate Giannis Antetokounmpo to Heat Trade is Close With Latest NBA Draft Plans: Report",
+        "description": "",
+        "published": "2026-06-18T09:11:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNX3ZkT1JzUXFsVEwteGxtcU5PSV92RGs5aHpSaWg4SmZzeFdfSS11b2steWVhNnFKMWppSXBGYmhzeWoteDc0WXFQRjJ3WS05SVNtX0JWZXFXaktpVHZ5S0tiR2FPMXNhWDF6Tk90YXNJV2hSSDhNRm5DbE5NMk4zNzVGOG9iZlgwU21CUFc5cVdnLXpq?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "2026 NBA draft projections for Alabama basketball, Labaron Philon Jr.",
         "description": "",
         "published": "2026-06-18T09:11:00+00:00",
@@ -583,6 +637,15 @@
         "image": null,
         "recruiting": false,
         "source": "The Tuscaloosa News"
+      },
+      {
+        "headline": "All the buzz on Keaton Wagler\u2019s NBA Draft stock",
+        "description": "",
+        "published": "2026-06-18T01:50:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOWDh0XzZZR2ExRF9Ja0p6aF9WbGlkdWtXZU1aazJLRmlXWkJRVVMxQTZxR2FwNDRMaEZ0Q1dHcGMtTHE5VWRCOWRpRnVQSVRWaTV2WEVCZUlRcW5pUjVTOTBFcEJqUE5OeEpKaXFnem9GVzFka3NVZFY4Y3J6WXFxVDN2OUo5WFRDMmExb29nSXlWZ1Jvc0xaWkdEUFNvQ25jcjd4SFZSUE5ZakI3aE9KV3E2T2NOMFdaNmxpeS0ySS1ULTFvdzFxRVJnaThZVzBXZUdtZG1ZNVp1b0dFTTZCYXBqQ090QjBKMkt6UkEzc3V2VURzcXBNSU1TdU9uZ0dRZ0VwUVk0di1fbW9pWll0bVFLYw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Champaign Room"
       },
       {
         "headline": "Knicks set to be first NBA team to visit White House under Trump",
@@ -612,22 +675,13 @@
         "source": "Rocky Top Insider"
       },
       {
-        "headline": "Giannis Antetokounmpo Trade Talks Could Remain Unresolved Beyond NBA Draft",
+        "headline": "NBA Mock Draft 9.0: The latest projections with less than 1 week to go",
         "description": "",
-        "published": "2026-06-17T18:16:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSy14cWNqWklCTFU1NVZrRWd2UFM0Z0FETEpvYlJxb1JvSmNsTTBJamY0Y3lFUmstWlM2ZGVGTWs0bGRwRC1RRVRyUjRFX2ZUaEk0cThSNnBrWmF2Qm45VHJVR09pRTlvak1obEtuYlAzOFIwRTFWa0hDUlk2N0pMSDJHbHpELXc2T25uUnZCYzl0X3Q2NEVTRzVwSWU0b2NzR0twcHFfZTBmSVV2Y1BLazM3a29GRWpXREJV?oc=5",
+        "published": "2026-06-17T16:44:58+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOcjBwUVRSc2dkdDhyQTdfc0FwM0JBTnNpLVVGbkxaUUU0bEhaUURqZ2hRLWFUcmhzYkd2WDAtQU1xSEdadmMtRkZ2Y1BGVnl2dW5STDZfM2JUVmttOW9PWnZmalRzcGJfLXhSd3oyNEE2NnJ4aDdySnJDeHBhelh0RXBwTkpZdnExdHJzQWNrQTYxc21TSWFjMHlDRjRmRng4V2pvVkxwT3dSblBrb1c1M2lteUFVaXpFZUIyaw?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "RealGM"
-      },
-      {
-        "headline": "NBA Finals alter career outlooks of 2 former Kentucky basketball stars",
-        "description": "",
-        "published": "2026-06-17T09:09:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimAJBVV95cUxNX0ZVaWRLUEZ0M1VTSDI4b2dEM254Sm85TkNzY0lSV2RlcEVXZXdHRHd1N2RIc2NVVlhINzBLNWZwRDAzVEFPS1hQWDJTRXBMT01aSEpDYzE0UXVjbEc3aEFlT01JR3RxNjh3MWp5VXhyd0V4N28wdkdfTFV6bmtPVVoySEt0MDdCaDZ2NmtJeVZseWxRdHNiNmdybkgzbHBNclNIU29Ba3hvajB5eTVscURDV3ZhREN0T1lXY3FEZ0ZqaVNhRWFDbXRUSTBfbXR1TDROMVdyd0I1allpX1NMT254U3NTd25HVEVsWkU1dWItVGZXckZhbU1vU3lHSmpGbTNhaFJTT2FDNWFEUmNQU1pKTDFQUExj?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Courier-Journal"
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Knicks\u2019 Historic Title Run Scores Best NBA Finals Audience Since 1998",
@@ -646,15 +700,6 @@
         "image": null,
         "recruiting": false,
         "source": "People.com"
-      },
-      {
-        "headline": "What Richie Saunders is saying ahead of the NBA draft",
-        "description": "",
-        "published": "2026-06-15T22:02:28+00:00",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbDZFNGlDR003d3ZSdl9CVzhfV3JxbzRDcmdpU2d1XzdwYTNJNjgwbFhoajhKd29fVS10QWEwR09zLUxLNmdhNHVzQ1VTdV9EZ1JCXy1OM04xbXBGTDZ1SDZ3Qm1INXpUeWhwNEZjbDdxelRsdGRGcjdfYkRDa08zUkhaRk1wUksxZGtBaWFnRzB5RXRLUUtyYUNxU2ZCZw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Deseret News"
       },
       {
         "headline": "Trump booed \u2018thunderously\u2019 at NBA Finals: What we know",
