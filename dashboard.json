@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T05:44:40.357716+00:00",
+  "generated_at": "2026-06-18T05:59:45.754092+00:00",
   "duke": {
     "news": [
       {
@@ -10,6 +10,15 @@
         "image": null,
         "recruiting": true,
         "source": "The Fayetteville Observer"
+      },
+      {
+        "headline": "Duke Sharpshooter Could Fall to Timberwolves in NBA Draft",
+        "description": "",
+        "published": "2026-06-18T02:35:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ1J4aURxZEYtanFEQW1ZT1g5TC1KcDF5ajRJRU93Tm9QT1VTWU5KN0ZzN1hGQjQ4SXdlYUVoaWw3NXpIQjRlLWZKcHBfb1VtSUxIaHBGN3ZJSUNfZ2poUFBZbzhqX2EwTG5wbGhJdDJCNnIwa1kzN1RtZGIyd2RtRVlRSnpSeEpnWWRfRFVmUWxaVVZp?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Duke lands commitment from in-state receiver Jonathan Dillon",
@@ -23,7 +32,7 @@
       {
         "headline": "USA Basketball U17 Training Camp Intel: Duke mentioned with 5-star; where things stand with Bowman, Black & Montgomery",
         "description": "",
-        "published": "2026-06-17T20:28:10+00:00",
+        "published": "2026-06-17T18:57:25+00:00",
         "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNUDVEUUpyRkowLXNmNE0zREdFM00xenhSSWQ0ZG9HUzM4QTRwTHliU3NVSFgzSUdncTQzbTBsVWg5U240NUZLOFFkekhiam5UU0xzUGF5UV91WnBNWDlmM3VNLVI3TlZqOTgyNWM3QldSUHJzSWRKcDgwck9zNVA2SzBhOHpCZnFNSE44ZFdJT1IweDJRcDBwS0JvZmlDM0dCRGJtNkV5YnlveFNfNkhQbHFlRE9qQW1abDJ2WGxvTENmMURVRERqcUUwWEM5MmctdEhGM0F0YkxoR0pyeEpJ?oc=5",
         "image": null,
         "recruiting": true,
@@ -45,15 +54,6 @@
         "link": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQXzNxMUFqdkpNeU1UVFk5VXV2VnowNmY0ZzRHaHNyNTFjbDd4V0VrYkk2Q3dHcEh2S1cteVNrTmIzX2lMUmd0Ynlhdk1pLVpyRmYxcjdHVU5taUVmVVJFM0N3emlvQ0pTdDA2c2VwN2w1SXpwOU1tYXhoZm1EYU5QTVRqQnMxaS1uTWdTaVQ1TEtqaEdKZHZkWnpBTTlNVzAzYXRtUUpNek8tRzBpYWJIYUF5R2pHQ2pnX0lqTVA1d3huck9oaWwyMEVJVUk1TExnRXdnZkVxR3dxMlpVTUVoV0RpQnRTeDg?oc=5",
         "image": null,
         "recruiting": true,
-        "source": "Duke Wire"
-      },
-      {
-        "headline": "Former Duke alum provides Cayden Boozer with important mentorship",
-        "description": "",
-        "published": "2026-06-17T15:37:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPRm5DV1dUQ2hWQVhsQ2ZuV0tmUGhfam1BRmQ4aUs2eHRYR29uOTcwSGtfd1d2OHIwZElGTThibVFkTmtVakNVSWh5dGlzeGEwaUFNUjRoWFpvaHRQRHhUN3ZQdGdMU29nNDBsak52aHlXYkE0eUlCc2lmeUZncHc2SFVWaV92Z1RyekE1Z0Z4eHNvNnphYjEwcjlsMDhjcjVBQUFwUXl6SmppZHU5Vk9MUXBPV2dJeUwyVlpBVmlJbW44LUpDOUlNVUg5bzhzUV9CUGtaN2trd1hBQ3hORnVsMW5zMGNqOVItNm01MFY1cVNmUQ?oc=5",
-        "image": null,
-        "recruiting": false,
         "source": "Duke Wire"
       },
       {
@@ -486,20 +486,20 @@
   "nba": {
     "news": [
       {
+        "headline": "James Dolan: Won't go into second apron to keep Knicks intact",
+        "description": "On the heels of the Knicks' first NBA title in 53 years, owner James Dolan told WFAN radio Wednesday that he will not go into the punitive second apron to keep his team intact for the 2026-27 season.",
+        "published": "2026-06-18T05:48:15Z",
+        "link": "https://www.espn.com/nba/story/_/id/49103460/james-dolan-go-second-apron-keep-knicks-intact",
+        "image": "https://a.espncdn.com/photo/2026/0614/r1672813_600x600_1-1.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
         "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on the Warriors' pursuit of LeBron James.",
         "published": "2026-06-18T05:43:20Z",
         "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
         "image": "https://a.espncdn.com/photo/2026/0325/r1633719_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "James Dolan: Won't go into second apron to keep Knicks intact",
-        "description": "On the heels of the Knicks' first NBA title in 53 years, owner James Dolan told WFAN radio Wednesday that he will not go into the punitive second apron to keep his team intact for the 2026-27 season.",
-        "published": "2026-06-18T05:41:26Z",
-        "link": "https://www.espn.com/nba/story/_/id/49103460/james-dolan-go-second-apron-keep-knicks-intact",
-        "image": "https://a.espncdn.com/photo/2026/0614/r1672813_600x600_1-1.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
