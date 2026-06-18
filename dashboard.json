@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-18T04:42:13.063892+00:00",
+  "generated_at": "2026-06-18T04:57:18.681354+00:00",
   "duke": {
     "news": [
       {
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Knicks' Brunson, Hart throw out first pitches at Yankee Stadium",
+        "description": "Knicks stars Jalen Brunson and Josh Hart received loud ovations from fans at Yankee Stadium as they took the field to throw out the ceremonial first pitches before Wednesday's White Sox-Yankees game.",
+        "published": "2026-06-18T04:55:57Z",
+        "link": "https://www.espn.com/nba/story/_/id/49101939/knicks-brunson-hart-throw-first-pitches-yankee-stadium",
+        "image": "https://a.espncdn.com/photo/2026/0617/r1675194_600x400_3-2.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "James Dolan: Won't go into second apron to keep Knicks intact",
         "description": "On the heels of its first NBA title in 53 years, Knicks owner James Dolan told WFAN radio Wednesday that he will not go into the punitive second apron to keep his team intact for the 2026-27 season.",
         "published": "2026-06-18T04:18:24Z",
@@ -545,15 +554,6 @@
         "published": "2026-06-18T00:53:44Z",
         "link": "https://www.espn.com/nba/story/_/id/49102176/cleveland-cavaliers-2016-championship-reunion-lebron-james-kevin-love-jr-smith",
         "image": "https://a.espncdn.com/photo/2026/0618/r1675203_608x342_16-9.png",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "Knicks' Brunson, Hart throw out first pitches at Yankee Stadium",
-        "description": "Knicks stars Jalen Brunson and Josh Hart received loud ovations from fans at Yankee Stadium as they took the field to throw out the ceremonial first pitches before Wednesday's White Sox-Yankees game.",
-        "published": "2026-06-18T00:18:30Z",
-        "link": "https://www.espn.com/nba/story/_/id/49101939/knicks-brunson-hart-throw-first-pitches-yankee-stadium",
-        "image": "https://a.espncdn.com/photo/2026/0617/r1675194_600x400_3-2.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
