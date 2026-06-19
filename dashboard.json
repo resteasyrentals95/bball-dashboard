@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T03:34:48.765534+00:00",
+  "generated_at": "2026-06-19T03:49:54.492328+00:00",
   "duke": {
     "news": [
       {
@@ -122,11 +122,11 @@
       {
         "headline": "Speculation surrounds Duke after Jon Scheyer and Cooper Flagg reunite",
         "description": "",
-        "published": "2026-06-18T18:05:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRkYxTjdIN2s5VndlTlUyZktPLWR3N2htQUFDV2h5WEFkZkdZLTh0WnZZbldZaGpOZ0o1bVJGeV9tMTVXeG40UFRGSXNxTi16aFYtUEJrNmdtTWVKQThIU3l0UEtOdEFBclBEbEdxM0JKLTBFTkNYT2xpZmNQc2lqRjUxTi1BdkdSV2QxSEV1VVg?oc=5",
+        "published": "2026-06-18T18:05:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQTFVoWUdRTU9lV0hrMFhNaFVyZExvS0xpc1RzUFJqcFpoNTNhSGRnS09aTUkyQTZQUDBLRGFORXFld0dXSWpwQWRfaTRpdk5EV0w5ZkNOREpxRmZzeldfRktEczhJZ2lGRnNDT0Y1ZGV2aTRUNlcwUHFDbVdJamt2TEh2dldPVlFhZDZUaFdQV2FxcUFhcEE4NWdvN0FRcm12eUo0YVl2b0hSbWRvWU40RDVFa1dGMEdmWkowcjRic19Id19wMDNOVURmNG5qdXB6VVRFTVJIcmh6aExadG9VaUYtMjZ1WjI1VWRZaA?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Yahoo Sports"
+        "source": "Duke Wire"
       },
       {
         "headline": "Duke Basketball: Blue Devils showing interest in AJ Williams",
@@ -136,6 +136,15 @@
         "image": null,
         "recruiting": false,
         "source": "roundtable.io"
+      },
+      {
+        "headline": "Dan Hurley wants Duke battle at White House after attending UFC Freedom 250 fights",
+        "description": "",
+        "published": "2026-06-18T17:06:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaGhEQUVvbTd1bW1sN3YtTGNjX09ZUXhKbHJmNC1PcDRGMHlfa1JXODFNZkdxOVZVSFk1b2FUX25MZy1XdGtrLUE0dEhkT1g2empHQThZZUxIRU84eXNaajhEU1o0V0paTjJhclJNTTFDLWxpMzk0bndXUU1tYUp4MkkyUQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Dan Hurley Has Wild Proposition Ahead of Marquee Bout With Duke",
@@ -244,15 +253,6 @@
         "image": null,
         "recruiting": false,
         "source": "The Fayetteville Observer"
-      },
-      {
-        "headline": "Ranking top of 2025, 2026 NBA drafts: Would Flagg still be No. 1?",
-        "description": "What if Cooper Flagg never reclassified? Here's where Flagg, Dylan Harper, Kon Knueppel would rank if they were in the 2026 NBA draft.",
-        "published": "2026-06-17T12:11:49Z",
-        "link": "https://www.espn.com/nba/story/_/id/48979870/ranking-2026-nba-draft-2025-classes-draft-cooper-flagg-dylan-harper-reclass-dybantsa-peterson",
-        "image": "https://a.espncdn.com/photo/2026/0608/cooper_flagg_nba_draft_class_1296x729.png",
-        "recruiting": true,
-        "source": "ESPN"
       }
     ],
     "games": [
@@ -504,6 +504,15 @@
         "source": "Yahoo Sports"
       },
       {
+        "headline": "NBA Draft: Trajan Langdon Says Detroit Pistons Will Adopt Best-Player-Available Approach At No. 21",
+        "description": "",
+        "published": "2026-06-18T23:00:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVmltSjE2X3BFQno3TjRwU0NXdmNnZUxSU1pCeVFHdkJiUmpEaDF1ZmVubnktWUVCcVpwOGxUa2NFUUdON3BXZ2JBUFppWTRZVlY2YV9HUy1nTFlHVmg3MHZuc3hxMVdmRXo1SWx5emJDNEYtWmY2ZTM5bGZlRy1VT3RIek0?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "Weekly Word: Purdue's Braden Smith and the NBA, alignment and more",
         "description": "",
         "published": "2026-06-18T22:52:26+00:00",
@@ -511,6 +520,15 @@
         "image": null,
         "recruiting": false,
         "source": "On3"
+      },
+      {
+        "headline": "Mamdani gives New York Knicks keys to city after NBA title",
+        "description": "",
+        "published": "2026-06-18T22:33:18+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeVlvUFF2TVYxNU51LWp4N2RGZFM3SUVsOWpVa3VFTDd6U3oxUWdXNEZVX05CWkV5QXp6djFZeF9qOWtEajlodXptQWhadGI5eTlkV2RvTEVfNDJNRm0wTFJKc1VvUUQwV0pMbUFPYkZfX1c0dkZhRHhWTF91SERRenJOR2JjZUNYWUMwTno3dGszXzIwTFF5UHdhRl83bmtpZDJqTU1ZZHZmdVJmdnfSAbMBQVVfeXFMUDc4SC15QXhFTVRXNGZJRDUyc296dUR6RXBvQlpncVhyNnpDaHZ4VUtOb0F6NmsxVFdxeFhTUUhNbndlR3hPdk1QMXdRdS1mREt0UW9BbWUxNkVITEc0M3lMTk5YSTY0ZkdDQzJmb3ZlM0U3ZkNacjhvLVdLNGlBamwyU1BTdmlFeXZfYWlKY2hXU3UwbDlQMmE0Y0hQVXpEdTNLTFJIQ19RNS1PbzdMeDJwbjQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Al Jazeera"
       },
       {
         "headline": "As NBA Draft Nears, Steinbach Works Out For Warriors",
@@ -538,24 +556,6 @@
         "image": "https://a.espncdn.com/photo/2026/0618/r1675699_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Detroit Pistons open to moving up in NBA Draft, says president of basketball operations, Trajan Langdon",
-        "description": "",
-        "published": "2026-06-18T21:24:44+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZmpTRUZnNnBseHBJYkY5N0w4dW5pM3NqUjBIX25yZHd3STEzNzVaZlJqLUFpcnVjcExGQUJyX2d4M1E5a3JQQmtsUW9ZNDJfYzRqc2dCdmx4cmFMNG1QUzJUc3g0QzhLWWpYX2VqYmNNSjd2dEJUbmNENWR1MTg5UHZFbm0teVlQSjRzSHFiTXczbzZaemdXUFl3Z0YzdG5WVmZJWEQ5TUw2bWRxYkpEVmJSOEl1ZzZDZXpNM0RVUENPdFRpSjNEZlh5TnZHSVBCd3l2UWMyT3dUUkdNb0dpZnRMUWRTdw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ClickOnDetroit | WDIV Local 4"
-      },
-      {
-        "headline": "How the Warriors can acquire another first-round pick in the NBA Draft",
-        "description": "",
-        "published": "2026-06-18T20:37:26+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOLVpTN2RGNnkxejNyeWVXYXlBQ2ZKOGxHSnRvdnl0OTB0Ui0zbDItcExVdFA2cVpqRlE0NnZLNHFwTmhmUnNaWnZSUGdaRUtYRUg4bHZIcjQtb0R3bVNKeFZFbzVTMERqRVR6ZHFBOG1BT25reVFDNEtGQjU4LXdJYzZKQnZBcERlQTFhaHln?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "NBA Matchmaker: Kawhi Leonard's Next Team Stream of National Basketball Association",
@@ -594,6 +594,15 @@
         "source": "CNBC"
       },
       {
+        "headline": "APTOPIX NBA Finals Spurs Knicks Basketball",
+        "description": "",
+        "published": "2026-06-18T18:13:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQbEYzT2dPWXBNTU1OdUc3ZFltc0l1bnZBb2dublFUdGZCZ0ViS2w4dmZ4VV91UDdnVFhpQkV3WEJTdVl3T2Y2WWtsZTBLcmxpcUhLak8xcEFFZjQxenN2UlppQ3hucGxOQWFTSjNGYlpyNUVqczJCakNqX1RWQWFMZk0xNnBLQXhMcUZpNm5XcjFVRFhxZzB1Y25xU21pUWI2d1puLUNadENtSmtEMlhsYw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NOLA.com"
+      },
+      {
         "headline": "Jalen Brunson slams skeptics as Knicks revel in NBA championship parade",
         "description": "",
         "published": "2026-06-18T18:07:00+00:00",
@@ -630,6 +639,15 @@
         "source": "PBS"
       },
       {
+        "headline": "2026 NBA mock draft: Intrigue remains at the top and with the guard prospects - The Athletic",
+        "description": "",
+        "published": "2026-06-18T14:02:04+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOMHNlNnhJOGs2S1g4MEttU2hFSzhEUG9vMDFzOFRrMExCQkJQS1Z4dm15dHQxRlp4Vy1ENmtkeklpdWtkblRCR1B6OU5kMkxlTXBhbWdRQTZrMW5WSExGUG5LVS1VRDlWNGR0YjlqNkcwRlc3U1pPOEpxR3pCMGdJREZkbTRCUERIMlFLX1NfTWdiTW4yMlc0XzZ3?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "The New York Times"
+      },
+      {
         "headline": "Thursday\u2019s 2026 NBA Draft Links Run",
         "description": "",
         "published": "2026-06-18T12:58:06+00:00",
@@ -648,15 +666,6 @@
         "source": "Basketball Network"
       },
       {
-        "headline": "'Bet on yourself': How Yaxel Lendeborg raised his NBA stock by delaying the draft",
-        "description": "",
-        "published": "2026-06-18T11:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGY0WVB2YUVJUzRHM3Bka2NrQ3RTb3dpODJZVFJvanQycDFBMjJCMzM3UUh2UERpYzBPRDRlRGYyN2ZrQVBVN09ISlFZYU1POGNEV1MzOTNPSGJxZHhOQUpCZTZSNzgzTXpJcHRiTFA3VjdBcS1lZ0llZTVSTXJVS05mVm85cW1oNmttRXJTTXlKM3hnMUVORXB4Qkt2ZHBjMlhn?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "NBA free agency 2026: Small forward class is thin on impact players",
         "description": "",
         "published": "2026-06-18T09:00:54+00:00",
@@ -664,15 +673,6 @@
         "image": null,
         "recruiting": false,
         "source": "The New York Times"
-      },
-      {
-        "headline": "All the buzz on Keaton Wagler\u2019s NBA Draft stock",
-        "description": "",
-        "published": "2026-06-18T01:50:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikwJBVV95cUxOWDh0XzZZR2ExRF9Ja0p6aF9WbGlkdWtXZU1aazJLRmlXWkJRVVMxQTZxR2FwNDRMaEZ0Q1dHcGMtTHE5VWRCOWRpRnVQSVRWaTV2WEVCZUlRcW5pUjVTOTBFcEJqUE5OeEpKaXFnem9GVzFka3NVZFY4Y3J6WXFxVDN2OUo5WFRDMmExb29nSXlWZ1Jvc0xaWkdEUFNvQ25jcjd4SFZSUE5ZakI3aE9KV3E2T2NOMFdaNmxpeS0ySS1ULTFvdzFxRVJnaThZVzBXZUdtZG1ZNVp1b0dFTTZCYXBqQ090QjBKMkt6UkEzc3V2VURzcXBNSU1TdU9uZ0dRZ0VwUVk0di1fbW9pWll0bVFLYw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Champaign Room"
       },
       {
         "headline": "A third BYU basketball player amazed NBA scouts during his pre-draft workouts",
