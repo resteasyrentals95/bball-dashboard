@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T03:49:54.492328+00:00",
+  "generated_at": "2026-06-19T04:05:00.097785+00:00",
   "duke": {
     "news": [
       {
@@ -522,15 +522,6 @@
         "source": "On3"
       },
       {
-        "headline": "Mamdani gives New York Knicks keys to city after NBA title",
-        "description": "",
-        "published": "2026-06-18T22:33:18+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNeVlvUFF2TVYxNU51LWp4N2RGZFM3SUVsOWpVa3VFTDd6U3oxUWdXNEZVX05CWkV5QXp6djFZeF9qOWtEajlodXptQWhadGI5eTlkV2RvTEVfNDJNRm0wTFJKc1VvUUQwV0pMbUFPYkZfX1c0dkZhRHhWTF91SERRenJOR2JjZUNYWUMwTno3dGszXzIwTFF5UHdhRl83bmtpZDJqTU1ZZHZmdVJmdnfSAbMBQVVfeXFMUDc4SC15QXhFTVRXNGZJRDUyc296dUR6RXBvQlpncVhyNnpDaHZ4VUtOb0F6NmsxVFdxeFhTUUhNbndlR3hPdk1QMXdRdS1mREt0UW9BbWUxNkVITEc0M3lMTk5YSTY0ZkdDQzJmb3ZlM0U3ZkNacjhvLVdLNGlBamwyU1BTdmlFeXZfYWlKY2hXU3UwbDlQMmE0Y0hQVXpEdTNLTFJIQ19RNS1PbzdMeDJwbjQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Al Jazeera"
-      },
-      {
         "headline": "As NBA Draft Nears, Steinbach Works Out For Warriors",
         "description": "",
         "published": "2026-06-18T22:20:04+00:00",
@@ -556,6 +547,15 @@
         "image": "https://a.espncdn.com/photo/2026/0618/r1675699_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Detroit Pistons open to moving up in NBA Draft, says president of basketball operations, Trajan Langdon",
+        "description": "",
+        "published": "2026-06-18T21:24:44+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNZmpTRUZnNnBseHBJYkY5N0w4dW5pM3NqUjBIX25yZHd3STEzNzVaZlJqLUFpcnVjcExGQUJyX2d4M1E5a3JQQmtsUW9ZNDJfYzRqc2dCdmx4cmFMNG1QUzJUc3g0QzhLWWpYX2VqYmNNSjd2dEJUbmNENWR1MTg5UHZFbm0teVlQSjRzSHFiTXczbzZaemdXUFl3Z0YzdG5WVmZJWEQ5TUw2bWRxYkpEVmJSOEl1ZzZDZXpNM0RVUENPdFRpSjNEZlh5TnZHSVBCd3l2UWMyT3dUUkdNb0dpZnRMUWRTdw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ClickOnDetroit | WDIV Local 4"
       },
       {
         "headline": "NBA Matchmaker: Kawhi Leonard's Next Team Stream of National Basketball Association",
@@ -610,15 +610,6 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Isiah Thomas believes the NBA is forcing Victor Wembanyama as the face of the league the same way they did with Michael Jordan",
-        "description": "",
-        "published": "2026-06-18T18:04:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOWUhKWXV6dnBubEZkdVBoQ0ZXaUVTdUgyX19jckdfOTVwdnN4S0dsZVRUcFVEMkpFUk5sZFpndmJTelhVS0tlYzJWa05LWXRRZFptT1RFcU9XMHJjakpSbjRPMnFLcUY4ZHpWOUlnOUF4WVNCZjlDdFctSmc2ZFVZcFRnbmdZMUpmYUxmd1B2ZElNTFNTU0dfM0RpZi1lSjNydktJWGtYcWlKcVNfeW5qUG1lVUdOQmR1eVlzcS1CMEpjbGNRQi02RnFibHNMZTRHOE10cWNXb2s0Y2tBS3ZaYk9tZm5aV2h0WnlQVEJmYnF0UmE1dTV5Y1NsUDRadzBpWGc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Basketball Network"
       },
       {
         "headline": "2026 NBA draft projections for Alabama basketball, Labaron Philon Jr.",
@@ -736,6 +727,15 @@
         "image": null,
         "recruiting": false,
         "source": "The New York Times"
+      },
+      {
+        "headline": "NBA draft withdrawal decisions that could impact NCAA basketball",
+        "description": "",
+        "published": "2026-05-19T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcGNUQjFsZWVMVll5emQwQnlWS1VxZVhhaFByMUF5a2wtT3BsOTR1N0RaVHFwbGlvWHpyYmJuUjBJZkdLR1NkaGZ2djNoS3VyTHdOSFh3VEpUWGFLM2k4bWNFa0ZCcm90Ty10TERfc1hZN0F4UDZ3cnFaeEVFbFVOd2I2N05tSEtMdWptUVdkdTVfUW8zODZ4VE0yWXFVcVNtR0RTN0hqZ2lWYzNhbnRHam5UbnhoczVQaFBaTV9Yb0ZVR1VneFdGQXEybw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
       }
     ],
     "games": []
