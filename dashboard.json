@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-06-19T18:11:50.526878+00:00",
+  "generated_at": "2026-06-19T18:26:54.726861+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "Multiple Duke prospects rise in mock drafts leading up to 2026 NBA Draft",
+        "description": "",
+        "published": "2026-06-19T18:14:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPLWlMRDZudTNmYWtlenRJUlVyVWwxRGN6RU5rVXVUakFhLU1QT0RMOTUzWjZpcEV2Y1ozUGpfc0pCTjVOQzdYbWxfakRyRG5sZHkybTkxX1FTVjRuUE5xUFAyQlkwMUttRkxYa0VGRXM2d3c3dE1BT2ZMU3RvaHFXNWx3amVSaDc0bHdZcmxPNnlCTGdfQWVaSnhsN21ITlZWOVl3QzA1OEpselVxOVJiSEF3XzdnUjZlZ3VEaWJ3LW9jRWN3YzV2dTNQQzRCUHZIU3g1d3dHZEdUUzdWWUpWMmV3?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Duke Wire"
+      },
       {
         "headline": "Mavericks Reportedly Giving Duke's Jon Scheyer Every Chance to be Next Coach",
         "description": "",
@@ -244,15 +253,6 @@
         "image": null,
         "recruiting": false,
         "source": "Duke Today"
-      },
-      {
-        "headline": "Joaquim Boumtje Boumtje divulges why Jon Scheyer, Duke stood out in his recruitment",
-        "description": "",
-        "published": "2026-06-16T21:42:47+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYTlnVlRIelExeVlDaDZoUTV2YlBtMUlOU1h1bzdZTFFyb3R1WUNFN0dDRkkwb1QteVFrSDA4d182UEU4R1FGUEJxZFZwWFppVV9raXBNbzlDRkJDY3NuMU1kRmRtdEs0bVNWUGNZMjIxZ01CMDRqUFhYbEt5WUExOXE1bDgzb3VlRENVbEJldXJjbXppMGFSYm1NaGFLa0c4QTE5aDkyRzI?oc=5",
-        "image": null,
-        "recruiting": true,
-        "source": "Ball Durham"
       }
     ],
     "games": [
@@ -486,12 +486,12 @@
   "nba": {
     "news": [
       {
-        "headline": "NBA Mailbag: What's NBA Draft night like for a prospect?",
+        "headline": "Jeff Nordgaard \u2014 1996 NBA draftee and Kon Knueppel's uncle \u2014 on hoops career and nephew's strong start",
         "description": "",
-        "published": "2026-06-19T17:25:57+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LeHdxT2FnaFRoNVRQVmdBbnpJLXhLYTVfRjR1a0kyTE83MURMWUJEQ0Q4WlVaUnUxZnJ6aHdXbGVXWnIwb1p1TVh1dHhZOEh1Q0VseDEtTENhNFFOclE?oc=5",
+        "published": "2026-06-19T18:19:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPUGI2SFZLWnZxWERBZmo0dFcyWnJoM0o5eGFYOEJzUjdRZlViREtWQTRmM0cyYnN0cmZHanpWR25wUUJxdjFGUWNLTnJpejhmNkJrLXVidzFLbVk0RWo5UzdjNDdtdDNCLVktLU5Pd3BkeWtGaG5KMnNKRFIwbnV0YlR6Y0Y?oc=5",
         "image": null,
-        "recruiting": true,
+        "recruiting": false,
         "source": "NBA.com"
       },
       {
@@ -574,15 +574,6 @@
         "image": null,
         "recruiting": false,
         "source": "WSJ"
-      },
-      {
-        "headline": "Which Skill Translates Fastest to the NBA? Stream of National Basketball Association",
-        "description": "",
-        "published": "2026-06-19T12:56:40+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOYktlb0ZGdXR4aDBzbldqem41WjFrS1Exai02X285ZFB0eUtsY3pWUjRxQnNQWkV3bldUNkhVQkJkTllxbFJ0OXZfalJMRHlnRnZBMGtoTFhVRks4RE1SOG9xLXE3dTAxbDgyZTlHODF2SDR6LWNjYzBzbHU5T3hzaVlERE9XQnFXclZ3?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "CBS Sports"
       },
       {
         "headline": "Jubilant New Yorkers flood city for ticker-tape parade to honor NBA champion Knicks in Canyon of Heroes",
@@ -684,15 +675,6 @@
         "source": "On3"
       },
       {
-        "headline": "Stephen A. on the biggest difference between NBA and soccer players",
-        "description": "",
-        "published": "2026-06-18T12:18:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcE4zak8yNElHUkFVZ0E0amdfSi1BcVIwVXhmUTc4RXR3WFhzc0ZpUzJUc0NOV1BGWTd4NkpRR2hqVEVCcXdBWHUyMVg1c2FhOHExVG5Mek11cXkzWWtrb3VHa2s0V05WZXJtRkhCOE9ZSFdTUzFUcGxOQk9vdGRuYmF1c1d1ODJUZ1JaekpDblczZjNPZkVnV3JieXFIbzZ0X0hwQzlJMm53YmZyS3NxRjJ4SWZpd2lkWWRYaGZvVVRXQVpTbU5N?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Basketball Network"
-      },
-      {
         "headline": "SEC basketball news roundup: Billy Donovan floated for Florida and Kentucky, Trae Young hits NBA free agency",
         "description": "",
         "published": "2026-06-18T12:00:05+00:00",
@@ -736,6 +718,24 @@
         "image": null,
         "recruiting": false,
         "source": "Deadline"
+      },
+      {
+        "headline": "Trump booed \u2018thunderously\u2019 at NBA Finals: What we know",
+        "description": "",
+        "published": "2026-06-09T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1JadmtwZnktdDdSdEhzQVFzaVBxNVVFRkRBSldpeTVaSFd4WWp6cjN1dWpMVXRSbjdkLS1RckF0NWExZ3NIcEFCR3kyQ2NvWVFuZGJrYzNad1dXbnk3RUc2RnRWeksxZklGN2NLaWpSY1VqeHVZNFZuVC1QVnJuU0pPaGl2MktXaWN4cnBDODNqM21VdXfSAZsBQVVfeXFMT2Z6bjBnRzh0UjZLOV9xa1ZFQXViWW9CUmprdE5TbVFkZjAwZWJfY3NSQ0pEOGlGQXJCU2VrTkl4ODlKVTNmQnRqZ0FmdGlRYTkxM3h1cmhJZGdVclY4NEhiZmUycTBKUldwVVF0cWdhVC1fUFdpUF9UczJqN0RQVTF1emZrSVZyLU0zWXVIVGU3di1NWmxldWRCblE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Al Jazeera"
+      },
+      {
+        "headline": "The path of a Knicks-Spurs NBA Finals basketball starts with all 30 teams",
+        "description": "",
+        "published": "2026-06-05T14:23:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPa01ZbGViekZIY3B1U3ltWjN4cDNRQWwxVXNoX1dIdHpTeVZrc3Vjdm1mbi1yS1BSTTM4bS0tT2NweVNjdVJWTVVMWHBra0RGVmNVN1lHNXlFRjFzZXRZQlhBQmxMRWFzeHp5ZkdaQXk5b2N4WGxadFNLS0hPenh6bFlBTU4yQzkyQVFTSm16cmVpWmFIcGZHYTRFOA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
       }
     ],
     "games": []
