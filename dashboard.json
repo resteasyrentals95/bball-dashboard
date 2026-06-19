@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T15:40:56.659474+00:00",
+  "generated_at": "2026-06-19T15:56:02.491746+00:00",
   "duke": {
     "news": [
       {
@@ -156,15 +156,6 @@
         "source": "roundtable.io"
       },
       {
-        "headline": "Dan Hurley Has Wild Proposition Ahead of Marquee Bout With Duke",
-        "description": "",
-        "published": "2026-06-18T15:58:58+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdTJrX2VZS19tRlRiQ0hnaGdSSl95ZVJrRndETjV4WG9WWDRqOTVqdEFadnpRRjIwVWluM0dNNHBubTIwNWZIU2RYaFN4ZTRGcXE2QUpYcHhPeThsWHhGbnVxN091akJzT2txeHBLbUlfamJkM3BCLXFFdDdOMFoxMXZMWHVWcHNVZVRBT0wyUTRYMU5jS0d3cnFn?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
         "headline": "UConn's Dan Hurley likes idea of playing game on White House South Lawn: 'Maybe UConn (vs.) Duke'",
         "description": "",
         "published": "2026-06-18T15:57:34+00:00",
@@ -253,6 +244,15 @@
         "image": "https://a.espncdn.com/photo/2026/0608/cooper_flagg_nba_draft_class_1296x729.png",
         "recruiting": true,
         "source": "ESPN"
+      },
+      {
+        "headline": "Driven to Personalize Duke Pride in Up To Eight Characters",
+        "description": "",
+        "published": "2026-06-17T10:51:59+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc25jM2hSM3hBT085UTFZNV9tNkpxMG9Rcm5uRDRISUNpMjJMMHZ1T1RTOGhROEdVREpFYlJsUXJzZXBVT0pkYTIzSXl0QjR4bGtWUTZrNFhJaG5ieU53UDFxZTVaMXBjTmozOU5oMHBrOUdfRVZPdFBoZTNIb3hRVUdIZw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Duke Today"
       }
     ],
     "games": [
@@ -486,9 +486,18 @@
   "nba": {
     "news": [
       {
+        "headline": "3 Riveting NBA Trade Rumors Get the Fantasy Basketball Best of Ja Morant, 2 Others",
+        "description": "",
+        "published": "2026-06-19T15:54:16+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOQVpZRVY0WFNmQ09GMVU2dG52T3Z6MmZzQmZCclRJcmRGSXlGUDYtMlFudmczWVUzSU10NkY5V21VQzBnbkY2NE4wUlVpQ1NlX1VEMkxqUl8tcG9faW42QUI5SEhXMW1FSTFBUG5JNlI3bHQ2Z1ZPZlZDa21tZHEzal9CVkROem1rY2tJcF9BalBTSlBxaHBMTDU2cHdQdE53eDIwa0h5Z0EyanFBWXNpdDNR?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
         "headline": "'The Hoop Collective': Episodes of Brian Windhorst's NBA podcast",
         "description": "Here are the top highlights from Brian Windhorst's \"The Hoop Collective\" podcast, from breaking news to the latest intel and reaction from around the NBA.",
-        "published": "2026-06-19T15:35:06Z",
+        "published": "2026-06-19T15:45:01Z",
         "link": "https://www.espn.com/nba/story/_/id/47168192/the-hoop-collective-latest-episodes-brian-windhorst-nba-podcast-archive-best-quotes",
         "image": "https://a.espncdn.com/photo/2025/1112/r1574751_608x342_16-9.jpg",
         "recruiting": false,
@@ -500,15 +509,6 @@
         "published": "2026-06-19T15:20:16Z",
         "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
         "image": "https://a.espncdn.com/photo/2026/0325/r1633719_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "Where are the 2016 Cavs now? 10 years after the best Finals ever",
-        "description": "From LeBron to Kyrie to Timofey Mozgov, here's where those 2016 Cavaliers are now -- a decade after the most epic comeback ever.",
-        "published": "2026-06-19T14:08:16Z",
-        "link": "https://www.espn.com/nba/story/_/id/49113154/the-10-year-anniversary-greatest-2016-nba-finals-history-cleveland-cavaliers-golden-state-warriors-lebron-james-kyrie-irving-stephen-curry",
-        "image": "https://a.espncdn.com/photo/2026/0618/r1675640_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
@@ -576,15 +576,6 @@
         "source": "Yahoo Sports"
       },
       {
-        "headline": "The Spurs are ahead of schedule but still have work to do after NBA Finals",
-        "description": "",
-        "published": "2026-06-19T11:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPVTNFelJaQl83emF1YUpTMHM0TjdxdVVOc1I3NzJmbFRXSzlUVzZNdWsyS1FlRnBWT204cFBqeS1CeUJGdnJmRlpMVEpKcEtfTm1tMTlIWXAyNGd3cG5sTE5WN0RkdjBHd3h6OFlDYlVnOTFaSU5VV2Etb2Znb2xtbUpjcXNDSlo4X1pzc2hCd2ZGTHdtZTRLM3ZqdnV5ZUxh?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "Is Louisville basketball's Mikel Brown Jr. worth top-5 NBA draft pick?",
         "description": "",
         "published": "2026-06-19T09:10:00+00:00",
@@ -639,6 +630,15 @@
         "source": "CNBC"
       },
       {
+        "headline": "Jalen Brunson slams skeptics as Knicks revel in NBA championship parade",
+        "description": "",
+        "published": "2026-06-18T18:07:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPay1WQXNvejdaX1YyekFRQkRfZmtQQlo2d3RMdHE1eUJ0X0hxYTFPTHJuSndHUVNzb2xybzBkNmlQWDctVzY2VlpMNkwxbF9IbFdwSmRpXy1rWmN1Q0QwVG9EaWQ0SURPaGpBeDY1ZWJKYUxCd3JaQW5aQlVrWGVqMW54bVdnU2R4SzFxcTZjYzhfS3VZelltbFRsNUJTUTROdnUtWGV1OER2TDREMHU4?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "Isiah Thomas believes the NBA is forcing Victor Wembanyama as the face of the league the same way they did with Michael Jordan",
         "description": "",
         "published": "2026-06-18T18:04:00+00:00",
@@ -655,15 +655,6 @@
         "image": null,
         "recruiting": true,
         "source": "On3"
-      },
-      {
-        "headline": "Tennessee Basketball Star Felix Okpara Receives Latest NBA Draft Projection",
-        "description": "",
-        "published": "2026-06-18T15:50:46+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOcWtUSnRTMW14SWgyRkJ2OUU5Z1J6ZlNHZ0ZXaDN1cTlQYnR6d0NpZGNtYmVMeFV3ZC1SZmVMSE1YU3JLRmNXN0V4elFWdzhtYkNndWQzdTR3ZjdzRnUwaEI0dFJ6cWFFb0YwaDY3VXA5YlVqZ0x0bVFCMWlOS2tQV1JtQjRzMU1LR0RnUlpZQU1GNFFCWmJYZk0yczEzcXl0aVcxTDBPUUk1VGI1aEFlYkZtdUZtd1dzQlMwQVJCSDhickRFU2dEZ1U3NXN5NUt6MXN2YmphNlU0QQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
       },
       {
         "headline": "WATCH: New York celebrates NBA champions NY Knicks with parade, keys to the city",
@@ -736,6 +727,15 @@
         "image": null,
         "recruiting": false,
         "source": "People.com"
+      },
+      {
+        "headline": "Trump booed \u2018thunderously\u2019 at NBA Finals: What we know",
+        "description": "",
+        "published": "2026-06-09T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1JadmtwZnktdDdSdEhzQVFzaVBxNVVFRkRBSldpeTVaSFd4WWp6cjN1dWpMVXRSbjdkLS1RckF0NWExZ3NIcEFCR3kyQ2NvWVFuZGJrYzNad1dXbnk3RUc2RnRWeksxZklGN2NLaWpSY1VqeHVZNFZuVC1QVnJuU0pPaGl2MktXaWN4cnBDODNqM21VdXfSAZsBQVVfeXFMT2Z6bjBnRzh0UjZLOV9xa1ZFQXViWW9CUmprdE5TbVFkZjAwZWJfY3NSQ0pEOGlGQXJCU2VrTkl4ODlKVTNmQnRqZ0FmdGlRYTkxM3h1cmhJZGdVclY4NEhiZmUycTBKUldwVVF0cWdhVC1fUFdpUF9UczJqN0RQVTF1emZrSVZyLU0zWXVIVGU3di1NWmxldWRCblE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Al Jazeera"
       }
     ],
     "games": []
