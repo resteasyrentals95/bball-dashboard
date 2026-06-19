@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T16:41:19.037174+00:00",
+  "generated_at": "2026-06-19T16:56:24.799191+00:00",
   "duke": {
     "news": [
       {
@@ -64,6 +64,15 @@
         "image": null,
         "recruiting": true,
         "source": "Sports Illustrated"
+      },
+      {
+        "headline": "NFL insider thrashes Dan Hurley for UConn vs. Duke wish at White House after UFC Freedom 250",
+        "description": "",
+        "published": "2026-06-19T07:35:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWlIbUNTSDgwVWo3OGVqVGExYXBXMzlfWGtMU0swd2VlRk1qMEo2c3VidXlvd2lGUlNfYURBaTl6VXJiUGx1SG9EbXNMa3A5MmJWbEU5LVdlOFdqRzAwd2RsVzBWZ3B4bEduczAzSmI2bTR3RE85aGdtUy0zOWtUZ2g5V2tzWTlDemIzUWdSQno5MFVDSFhNMG02VG9HX1hhU3V6LXR0Z3FHOVJsellYR0thaw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "hitc.com"
       },
       {
         "headline": "BYU\u2019s AJ Dybantsa, Duke\u2019s Cameron Boozer, UNC\u2019s Caleb Wilson headline forwards in NBA draft",
@@ -201,6 +210,15 @@
         "source": "Sports Illustrated"
       },
       {
+        "headline": "Twitter Gold: Larry Johnson Explains Duke\u2019s Stunning 1991 Upset Of UNLV",
+        "description": "",
+        "published": "2026-06-18T10:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPNjhvSmlQVllCdEdxcmxRY2RDSUZlUW41TXpqZVpLWnNDekpMd3ZBODlkLWs0WjRGdTdSVElBNmEtdDRXa1lnZnE5WXd5ZzRfSkxhaVlhaHc2dEg5X0JldnFDSnVkUWYtZEVBbHI0YVJTdkFMZVAzbldBOGFKejhVZndHWFZyZlBiZjZCbzQ2QVdZWVQ5dzNMQnNPVzhYVnJCaFFmWXNFTnhMYV9HUUhyTGplQlRhSW9M?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Duke Basketball Report"
+      },
+      {
         "headline": "Dan Hurley Wants UConn vs. Duke At White House After UFC Freedom 250",
         "description": "",
         "published": "2026-06-18T07:30:07+00:00",
@@ -235,24 +253,6 @@
         "image": "https://a.espncdn.com/photo/2026/0608/cooper_flagg_nba_draft_class_1296x729.png",
         "recruiting": true,
         "source": "ESPN"
-      },
-      {
-        "headline": "Driven to Personalize Duke Pride in Up To Eight Characters",
-        "description": "",
-        "published": "2026-06-17T10:51:59+00:00",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc25jM2hSM3hBT085UTFZNV9tNkpxMG9Rcm5uRDRISUNpMjJMMHZ1T1RTOGhROEdVREpFYlJsUXJzZXBVT0pkYTIzSXl0QjR4bGtWUTZrNFhJaG5ieU53UDFxZTVaMXBjTmozOU5oMHBrOUdfRVZPdFBoZTNIb3hRVUdIZw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Duke Today"
-      },
-      {
-        "headline": "Joaquim Boumtje Boumtje divulges why Jon Scheyer, Duke stood out in his recruitment",
-        "description": "",
-        "published": "2026-06-16T21:42:47+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPYTlnVlRIelExeVlDaDZoUTV2YlBtMUlOU1h1bzdZTFFyb3R1WUNFN0dDRkkwb1QteVFrSDA4d182UEU4R1FGUEJxZFZwWFppVV9raXBNbzlDRkJDY3NuMU1kRmRtdEs0bVNWUGNZMjIxZ01CMDRqUFhYbEt5WUExOXE1bDgzb3VlRENVbEJldXJjbXppMGFSYm1NaGFLa0c4QTE5aDkyRzI?oc=5",
-        "image": null,
-        "recruiting": true,
-        "source": "Ball Durham"
       }
     ],
     "games": [
@@ -540,7 +540,7 @@
         "source": "The New York Times"
       },
       {
-        "headline": "NBC Sports\u2019 2026 NBA Draft Big Board: AJ Dybantsa, Darryn Peterson lead the way",
+        "headline": "2026 NBA Draft Big Board: AJ Dybantsa, Darryn Peterson lead the way",
         "description": "",
         "published": "2026-06-19T13:00:37+00:00",
         "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNd0NJQzYzb2VFSURxQnhONW43cDVCSlJQT3lCaHM1Y1BROVA5NXVlWkVvMmxfSS1KVk5hZWs1V2xIVE5ESzZMRElSVFVmMmNhVm9MS2NKTjZESXNCZHAzQXpaNkRoRWtySHJTM2JnaDlOS1dCNFFpRG5zR1U1aElSRERkeVVwVjJfc3lEbWFOQmhEOG0xX3dIQzNCNHpXdVpBVGVHX3RnMmJnc1VGYTNfNFRWd20tcldGUG1yNkxfOU9WQ2Nn?oc=5",
@@ -576,15 +576,6 @@
         "source": "Newsday"
       },
       {
-        "headline": "NBA off-season storylines: Does Giannis Antetokounmpo finally get traded?",
-        "description": "",
-        "published": "2026-06-19T12:18:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPajQyQXQxZ1Q3NDZwcUltVTRkZXBmc2pocWJKbFJ4V3ZFeFMya1pncXdzbkxNdVZ6eFE0X0ZDem4xZy1XS2hOaGQxdG9PYzI5eDU0UThLN3dQckJ2LWJUdWJCVjFiRlEtdGtVTlpUcWVqS0lrZldLZk12Y2JQX2Q4ODdkbFpiOVctQTJuR2dma3VsMmhhTV90THJ6dlc1cndfeW5xMU5icU96SndrQkE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sportsnet.ca"
-      },
-      {
         "headline": "Tyrese Maxey\u2019s All-NBA leap kept the Sixers afloat",
         "description": "",
         "published": "2026-06-19T12:00:00+00:00",
@@ -603,15 +594,6 @@
         "source": "Auburn Wire"
       },
       {
-        "headline": "\u2018A reminder of why this work matters.\u2019 AJ Dybantsa, top NBA draft pick, refects on lessons learned at Brockton Catholic school.",
-        "description": "",
-        "published": "2026-06-19T09:58:30+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNY25fLUs4VEJtQllidTIzeDZFakJYNXhFNTdNZXp2VWZmWTB5MEkzaDRnTW42TmVGUjZ4UGo5WDl1TWNEd0VrOGFlR3A0MDJwbGZrT21RX3J3TTBTOG1kUXdGVkU0NkM0QnYzVHJZVGxmYzNUcFhZUE5fRnVoQWs1bUlsV25QcC1CNGc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Boston Globe"
-      },
-      {
         "headline": "Is Louisville basketball's Mikel Brown Jr. worth top-5 NBA draft pick?",
         "description": "",
         "published": "2026-06-19T09:10:00+00:00",
@@ -619,15 +601,6 @@
         "image": null,
         "recruiting": false,
         "source": "The Courier-Journal"
-      },
-      {
-        "headline": "Draft Picks For Veterans 2026 NBA Mock Draft",
-        "description": "",
-        "published": "2026-06-19T03:01:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSG5nalRwZVFPWVJnaVpzSUMwb0lJdEFYTTI0ZGF1SXpjN0o2T2dhbUNfWUlXdGNscVNqQzRKSGhyQzRuU0NRWWx5bTV5eDZUMEZRa0dZSHNna2ctNkRtZGVLVzdUekIybHJ5WTUxWkxLTmc4cXNKa0FVc2RfVzlDSWpsNjNwRUJQRjloNGFRZ2NaaVhx?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "RealGM"
       },
       {
         "headline": "Mamdani gives New York Knicks keys to city after NBA title",
@@ -675,6 +648,15 @@
         "source": "CNBC"
       },
       {
+        "headline": "Jalen Brunson slams skeptics as Knicks revel in NBA championship parade",
+        "description": "",
+        "published": "2026-06-18T18:07:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPay1WQXNvejdaX1YyekFRQkRfZmtQQlo2d3RMdHE1eUJ0X0hxYTFPTHJuSndHUVNzb2xybzBkNmlQWDctVzY2VlpMNkwxbF9IbFdwSmRpXy1rWmN1Q0QwVG9EaWQ0SURPaGpBeDY1ZWJKYUxCd3JaQW5aQlVrWGVqMW54bVdnU2R4SzFxcTZjYzhfS3VZelltbFRsNUJTUTROdnUtWGV1OER2TDREMHU4?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "Isiah Thomas believes the NBA is forcing Victor Wembanyama as the face of the league the same way they did with Michael Jordan",
         "description": "",
         "published": "2026-06-18T18:04:00+00:00",
@@ -720,6 +702,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "'Bet on yourself': How Yaxel Lendeborg raised his NBA stock by delaying the draft",
+        "description": "",
+        "published": "2026-06-18T11:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGY0WVB2YUVJUzRHM3Bka2NrQ3RTb3dpODJZVFJvanQycDFBMjJCMzM3UUh2UERpYzBPRDRlRGYyN2ZrQVBVN09ISlFZYU1POGNEV1MzOTNPSGJxZHhOQUpCZTZSNzgzTXpJcHRiTFA3VjdBcS1lZ0llZTVSTXJVS05mVm85cW1oNmttRXJTTXlKM3hnMUVORXB4Qkt2ZHBjMlhn?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "A third BYU basketball player amazed NBA scouts during his pre-draft workouts",
         "description": "",
         "published": "2026-06-18T00:37:06+00:00",
@@ -736,6 +727,15 @@
         "image": null,
         "recruiting": false,
         "source": "247Sports"
+      },
+      {
+        "headline": "Knicks\u2019 Historic Title Run Scores Best NBA Finals Audience Since 1998",
+        "description": "",
+        "published": "2026-06-16T23:13:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX05VMHdkOXd1S2tNY2N6cXplVnpma1ZGQlU1aEJfZzhRMzA5UG5JYTdQYVl3dHZLQ0dHd1RXOXRBSFhjSGppakpHa2l4VVhoaUw2MXQzTWpTOEwwUXlZZzdpTVFGSWhWQlB3dXB2WkRWLXZrVktRcnlOeDBxSkZoUTlpRVQ3SmhEVUE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Deadline"
       }
     ],
     "games": []
