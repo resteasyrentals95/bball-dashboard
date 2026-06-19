@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T15:56:02.491746+00:00",
+  "generated_at": "2026-06-19T16:11:08.586724+00:00",
   "duke": {
     "news": [
       {
@@ -156,6 +156,15 @@
         "source": "roundtable.io"
       },
       {
+        "headline": "Duke, Jon Scheyer continue to run laps around UNC at the top of NBA Draft discussions",
+        "description": "",
+        "published": "2026-06-18T19:00:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQemVESEUtMzB6R0N2bTFJdzc5dHBINW94d2lnTGdJano2YmQwazhkS05hcEJ0LVVSRk41SXFkRER5X0dVZ1p6ZC1DR0hIYmtPSkNpMHlKWjBUdWlCWDRvdFVDNHRkVHZnUVo2MDJVczgyNDRSVElQUFZFaFRGUmp5TmxMTGpRY25ubVp0YmJ1RExVMDdSRmM1TEUyMEdiV0RTc2NHVWFMeWVLRTg?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Ball Durham"
+      },
+      {
         "headline": "UConn's Dan Hurley likes idea of playing game on White House South Lawn: 'Maybe UConn (vs.) Duke'",
         "description": "",
         "published": "2026-06-18T15:57:34+00:00",
@@ -208,15 +217,6 @@
         "image": null,
         "recruiting": false,
         "source": "TMZ"
-      },
-      {
-        "headline": "Tom Izzo's vitriolic Michigan State commentary shows Duke fans how fortunate they are",
-        "description": "",
-        "published": "2026-06-17T18:50:31+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQeFZZaGU2THNNVmRaRU9rbHNvTnl2NFVjMkNxdzNKbG5OYzZSRlhwYXZ5Y3IzTFJBelNhWENWdnE0V3loQW5mY0NmNnZwRjlkMTVsbXg2VWtLZjdQWTVoUy1aZV8tMjZtNEJrdGVIbUNDczQtRFN1MmllNjhBSEdZM2tQdzZhU2hpUWhLRC1fdVRDbEJrbHNha0pCcWk2elhCTHF1eXF2MXhCZw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Ball Durham"
       },
       {
         "headline": "USA Basketball U17 Training Camp Intel: Duke mentioned with 5-star; where things stand with Bowman, Black & Montgomery",
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Friday Discussion: Where do you want Michigan\u2019s NBA Draft prospects to be drafted?",
+        "description": "",
+        "published": "2026-06-19T16:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOcHEtYlByUHFFaTFUYUFQbWw0WHZ6X29hQm40cDY2bm1FLWRKVElNSmRJT3d4OHMtQXdPOHgtOWl3eWxiakNJTmRnU2JRai1Ya3pNbEhxTXdtcUZQLUZzR3NrOE13SnpLOGdva2ZrM3A4aXJ4clh3bl9VNEdqcXQ0VktKVGl4LUtoa3pYTWFxeEVsZGdwZ2ZpY3NpeHV1Y2MtWkpvWUZWNlljV0Zma1ZydDc1MmdQNDhoeDhZakNrQXJPblJTS0JBQmRQeTlQRXpWMUtfdWc0NnI?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Maize n Brew"
+      },
+      {
         "headline": "3 Riveting NBA Trade Rumors Get the Fantasy Basketball Best of Ja Morant, 2 Others",
         "description": "",
         "published": "2026-06-19T15:54:16+00:00",
@@ -502,6 +511,15 @@
         "image": "https://a.espncdn.com/photo/2025/1112/r1574751_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Knicks Trio Recaps Friendship From NCAA to NBA Champions, Despite Brief Bullying in College | Video",
+        "description": "",
+        "published": "2026-06-19T15:41:51+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPT1R3ZTZkNGJoYUw3WFR1dU9Ga3lHTFFzTjl2VGJQR19YZGdhbE9TZmt5XzgyRkpIZVg0Wk5FWVhUTVlyMjlwNU9LOURHNlFhWWZ5dzhZaEkwakdpR1NjVVN4X0lXRkxkWnY5VEVSTDNSYlp4T1hxY3QzSTh6S1haaVpQdjkwWktZUmtB?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
@@ -603,6 +621,15 @@
         "source": "Al Jazeera"
       },
       {
+        "headline": "New York Knicks revel in their NBA victory parade as joyous fans and celebs fill the streets",
+        "description": "",
+        "published": "2026-06-18T20:34:20+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHF6UnRTMUJ0TUF4cGVXR1R3cElzaU9JSGQ3WGZFeXpzWmRhU2tHTmpwSVp1NTZQelBCTGtZTE1Ob2Y4d0MzQXVoc0R4TW5PODF6Y29lU0ZfZUpYRE5Mel82OW45LUZNeTRQTmZGcHdTNmU5d2VUYlFCVWxSSXluY0I0Z2F0SnhMbmF4S2dPcmxVeGE0N0JPYkNn?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "WTOP"
+      },
+      {
         "headline": "Watch: 'New York is alive again' - Knicks parade through Manhattan after NBA win",
         "description": "",
         "published": "2026-06-18T19:47:49+00:00",
@@ -657,15 +684,6 @@
         "source": "On3"
       },
       {
-        "headline": "WATCH: New York celebrates NBA champions NY Knicks with parade, keys to the city",
-        "description": "",
-        "published": "2026-06-18T14:57:06+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVmFOU2VBMHVkei1JX05ENTFZdVlDc05GRE83REdJNGV3TnhRcjhWZnJJcWd0SnNNdW9IaFI3ZkJlNWVSMmVFVUNWVFVDc0k1TVdTRWs1cDJYaUMzbGh0VzU4OU93Y3ZLVjdxTHd3YU5TSlpzOURjSnJvMWdHQjA3U3NIM2d5ZjJycFVDdkRwenFPcVpFNHc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "PBS"
-      },
-      {
         "headline": "Stephen A. on the biggest difference between NBA and soccer players",
         "description": "",
         "published": "2026-06-18T12:18:00+00:00",
@@ -682,6 +700,15 @@
         "image": null,
         "recruiting": false,
         "source": "Fly War Eagle"
+      },
+      {
+        "headline": "NBA free agency: Six underrated players teams should target",
+        "description": "",
+        "published": "2026-06-18T11:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZXJGTHVjLWhzNUxLOXc4U0RyWVRwQlZRVURBRVRzUWZMLXl6WGxtMTlsVUx6NldjcjhBQmNHck5JMTRLalVPWVoyS1kxVTBKV1I3QkU2a1lYdHYxNF9rcEJaZy0yd1p0bGtyb09QYTVMZ0FvcUNQZHgwQUdXRHB4VFZOeHFXMnplQVo1VkMtRmlpS1lIMVBFSjBR?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
       },
       {
         "headline": "'Bet on yourself': How Yaxel Lendeborg raised his NBA stock by delaying the draft",
@@ -709,33 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "247Sports"
-      },
-      {
-        "headline": "Knicks\u2019 Historic Title Run Scores Best NBA Finals Audience Since 1998",
-        "description": "",
-        "published": "2026-06-16T23:13:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOX05VMHdkOXd1S2tNY2N6cXplVnpma1ZGQlU1aEJfZzhRMzA5UG5JYTdQYVl3dHZLQ0dHd1RXOXRBSFhjSGppakpHa2l4VVhoaUw2MXQzTWpTOEwwUXlZZzdpTVFGSWhWQlB3dXB2WkRWLXZrVktRcnlOeDBxSkZoUTlpRVQ3SmhEVUE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Deadline"
-      },
-      {
-        "headline": "New York Knicks-Inspired Baby Names May Become More Popular After NBA Finals Win",
-        "description": "",
-        "published": "2026-06-16T21:13:51+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVl6Wk1CQTB0UlFhX2FOTmpZb3ZPR19ZZ21FdEF2WWFZd0xvcndHMmdhcXp2RXlHZklNV201b0h6d2pXYzVReEhXc05nakdUMGgtSnJLbzhMUmx0blFGa2ZRdzBPX1YtdWlpeGZqQ0hIZnF4YTN0OTlCQmVoWGswbV9hd1k5Q2hlQWw5ZjU0aGxjckgwVlNRaC1pcU1abHNlUW9scEw4ZnJ3Z1hrS1Rv?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "People.com"
-      },
-      {
-        "headline": "Trump booed \u2018thunderously\u2019 at NBA Finals: What we know",
-        "description": "",
-        "published": "2026-06-09T07:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNd1JadmtwZnktdDdSdEhzQVFzaVBxNVVFRkRBSldpeTVaSFd4WWp6cjN1dWpMVXRSbjdkLS1RckF0NWExZ3NIcEFCR3kyQ2NvWVFuZGJrYzNad1dXbnk3RUc2RnRWeksxZklGN2NLaWpSY1VqeHVZNFZuVC1QVnJuU0pPaGl2MktXaWN4cnBDODNqM21VdXfSAZsBQVVfeXFMT2Z6bjBnRzh0UjZLOV9xa1ZFQXViWW9CUmprdE5TbVFkZjAwZWJfY3NSQ0pEOGlGQXJCU2VrTkl4ODlKVTNmQnRqZ0FmdGlRYTkxM3h1cmhJZGdVclY4NEhiZmUycTBKUldwVVF0cWdhVC1fUFdpUF9UczJqN0RQVTF1emZrSVZyLU0zWXVIVGU3di1NWmxldWRCblE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Al Jazeera"
       }
     ],
     "games": []
