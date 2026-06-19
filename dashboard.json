@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T04:05:00.097785+00:00",
+  "generated_at": "2026-06-19T04:20:05.420736+00:00",
   "duke": {
     "news": [
       {
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Crowds of jubilant New Yorkers flood city for ticker-tape parade to honor NBA champion Knicks in Canyon of Heroes",
+        "description": "",
+        "published": "2026-06-19T01:06:52+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQcjhMQXR3cTQ3azNWTzJoeGhNRnk5c0hEemdHTm5qQlFaQlhNV0Y3WmxqUGg5VklsZThTbEJRR25kSUExNnVBdkRTU2tnMHJVbU9KZU50Z2hWMGNQdVdwbjJ1ZWhsMzBvRUpBVnVnTXNLUlViX2Mtankyb2ZkZngxNC1jUFBJcGNLVDB3VEw2NzZ1cXZMLUxYUTQ0S2ZXM0ZTeTFUVnVVNA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Newsday"
+      },
+      {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
         "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on the Warriors' pursuit of LeBron James.",
         "published": "2026-06-19T00:42:18Z",
@@ -502,24 +511,6 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
-      },
-      {
-        "headline": "NBA Draft: Trajan Langdon Says Detroit Pistons Will Adopt Best-Player-Available Approach At No. 21",
-        "description": "",
-        "published": "2026-06-18T23:00:28+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNVmltSjE2X3BFQno3TjRwU0NXdmNnZUxSU1pCeVFHdkJiUmpEaDF1ZmVubnktWUVCcVpwOGxUa2NFUUdON3BXZ2JBUFppWTRZVlY2YV9HUy1nTFlHVmg3MHZuc3hxMVdmRXo1SWx5emJDNEYtWmY2ZTM5bGZlRy1VT3RIek0?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
-        "headline": "Weekly Word: Purdue's Braden Smith and the NBA, alignment and more",
-        "description": "",
-        "published": "2026-06-18T22:52:26+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQcTY0UUdfZDlWaXhMX1dscXkwcDdfMWVzRjdwdG5jaVpXVFJVTFdySEtNQU9yZlp0SUx2Qkp6QzVxX2RNVlRyZUxqNjJDblJLQ0JGSXpMYjdSczV0MElSanNEOEdYYjM3b2pqeU9kbzVvWVhOdmFCVHRnaW1JWEJHc3NDVGNRQ3lUQUtfLXdXNVZOMldSdVJfUmRHdDAwM2VpeTFCa1ZBeGIyUmdtVFI4a3o2TXlNdw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "On3"
       },
       {
         "headline": "As NBA Draft Nears, Steinbach Works Out For Warriors",
@@ -567,13 +558,13 @@
         "source": "CBS Sports"
       },
       {
-        "headline": "Capital Region native, NBA player to host youth basketball clinics",
+        "headline": "Watch: 'New York is alive again' - Knicks parade through Manhattan after NBA win",
         "description": "",
-        "published": "2026-06-18T19:20:18+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQX0xPZm5DamZMenFmMUpVREhkRkpDTk9iTkhhOXQzMG53V3dkMnRoUE9rMi1kM1VibENNUXRzTkFHOU5KSXdHZnQzcUw0Z1BGZWl0QVo1WUszUVNRcWlram05dlpLUmItcVRIUUN1Q3pzenJJdFhOeWFGWHFsRC1LSHFjNk5hM05yXzIzOWlPNFBIVFM4dUliMFRsRFNQQUhkbGhienJmVDRTYzc10gGyAUFVX3lxTE5Uc0Y5TjFodjBXQkF1Q2MyaXQ4RUI5TmJTQWlSYUM2VFNSZ2wyRXZaNm9vSXRVU0lWR1RZVjd1WXc3T2V2b0d4RXhKa3BoeExHdWFZOG9KUlJtV2ZIYV9MbnNTNzJUd2hFM1ZRbEMyYThXc1pXekE0cWl5SnNLY01ONzY1TXViNlVhcDNtM1E0Tl8yN3NfaC1FM3NJWFBXbUlTZVhpOFJDckQwWFNLWmo4Umc?oc=5",
+        "published": "2026-06-18T19:47:49+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFBmR3VzNExnWnppZ3FoSVJlbnhMd1JSRzJ3bGw3aWtXamZhb1J1TDRiTmh2YnRZcTkyeEdZS0FkaVBidzdqOEVTN2thQ2hWdW9lY2FpMHNNcw?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "NEWS10 ABC"
+        "source": "BBC"
       },
       {
         "headline": "Highlights from the New York Knicks NBA championship parade",
@@ -594,6 +585,15 @@
         "source": "CNBC"
       },
       {
+        "headline": "USA Basketball U17 Training Camp: NBA Scouts break down Joaquim Boumtje-Boumtje, CJ Rosser and top prospects",
+        "description": "",
+        "published": "2026-06-18T18:14:40+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPMXZqazB1RXA5YWFEb3dvU283X050ODI4ckFTcllqcW1OWEFzaDlOWHg4c1ZEdGhmUnNVelRsdmFYZkFNa3c2di04Q3ctZU9OUHF4bFRyeS05TmlGNzhfMVdCZDRaRXMzbUhtOWVKdEJtUE9BV2Y1SkdaMkJ0VEhzT01Ba3VMQ19kcHdkQVJhRUJvbXNpbGVLMEJ3bGtQRUNuUktFR1JaZ1dFNjduQ3NnRF9WQWRiQUtqbk81dHlIZE9kbkEzWGg5c2FjTURhRldWZTdiMTdB?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "On3"
+      },
+      {
         "headline": "APTOPIX NBA Finals Spurs Knicks Basketball",
         "description": "",
         "published": "2026-06-18T18:13:00+00:00",
@@ -610,6 +610,15 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Isiah Thomas believes the NBA is forcing Victor Wembanyama as the face of the league the same way they did with Michael Jordan",
+        "description": "",
+        "published": "2026-06-18T18:04:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiggJBVV95cUxOWUhKWXV6dnBubEZkdVBoQ0ZXaUVTdUgyX19jckdfOTVwdnN4S0dsZVRUcFVEMkpFUk5sZFpndmJTelhVS0tlYzJWa05LWXRRZFptT1RFcU9XMHJjakpSbjRPMnFLcUY4ZHpWOUlnOUF4WVNCZjlDdFctSmc2ZFVZcFRnbmdZMUpmYUxmd1B2ZElNTFNTU0dfM0RpZi1lSjNydktJWGtYcWlKcVNfeW5qUG1lVUdOQmR1eVlzcS1CMEpjbGNRQi02RnFibHNMZTRHOE10cWNXb2s0Y2tBS3ZaYk9tZm5aV2h0WnlQVEJmYnF0UmE1dTV5Y1NsUDRadzBpWGc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Basketball Network"
       },
       {
         "headline": "2026 NBA draft projections for Alabama basketball, Labaron Philon Jr.",
@@ -657,13 +666,22 @@
         "source": "Basketball Network"
       },
       {
-        "headline": "NBA free agency 2026: Small forward class is thin on impact players",
+        "headline": "'Bet on yourself': How Yaxel Lendeborg raised his NBA stock by delaying the draft",
         "description": "",
-        "published": "2026-06-18T09:00:54+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQRW9MWkZLdUpFZXV3NXBMc050SWRSYTNuYldXWlEzWUV4aEp0R01MeldZZlJEYkhROFdNcEV6VThsdzZzY2Z5ZERVWjB2ektpTHZuZFA1Uy1iRUNYTnlZb0ZLTkhxYU9wZm55WFFoSnFQUkRMRVhITm8xMkpLUnRoZG9nZmpCR1NTRTR1TFR5N20?oc=5",
+        "published": "2026-06-18T11:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOTGY0WVB2YUVJUzRHM3Bka2NrQ3RTb3dpODJZVFJvanQycDFBMjJCMzM3UUh2UERpYzBPRDRlRGYyN2ZrQVBVN09ISlFZYU1POGNEV1MzOTNPSGJxZHhOQUpCZTZSNzgzTXpJcHRiTFA3VjdBcS1lZ0llZTVSTXJVS05mVm85cW1oNmttRXJTTXlKM3hnMUVORXB4Qkt2ZHBjMlhn?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "The New York Times"
+        "source": "ESPN"
+      },
+      {
+        "headline": "NBA free agency: Six underrated players teams should target",
+        "description": "",
+        "published": "2026-06-18T11:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPZXJGTHVjLWhzNUxLOXc4U0RyWVRwQlZRVURBRVRzUWZMLXl6WGxtMTlsVUx6NldjcjhBQmNHck5JMTRLalVPWVoyS1kxVTBKV1I3QkU2a1lYdHYxNF9rcEJaZy0yd1p0bGtyb09QYTVMZ0FvcUNQZHgwQUdXRHB4VFZOeHFXMnplQVo1VkMtRmlpS1lIMVBFSjBR?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
       },
       {
         "headline": "A third BYU basketball player amazed NBA scouts during his pre-draft workouts",
@@ -693,15 +711,6 @@
         "source": "Deadline"
       },
       {
-        "headline": "New York Knicks-Inspired Baby Names May Become More Popular After NBA Finals Win",
-        "description": "",
-        "published": "2026-06-16T21:13:51+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVl6Wk1CQTB0UlFhX2FOTmpZb3ZPR19ZZ21FdEF2WWFZd0xvcndHMmdhcXp2RXlHZklNV201b0h6d2pXYzVReEhXc05nakdUMGgtSnJLbzhMUmx0blFGa2ZRdzBPX1YtdWlpeGZqQ0hIZnF4YTN0OTlCQmVoWGswbV9hd1k5Q2hlQWw5ZjU0aGxjckgwVlNRaC1pcU1abHNlUW9scEw4ZnJ3Z1hrS1Rv?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "People.com"
-      },
-      {
         "headline": "Trump booed \u2018thunderously\u2019 at NBA Finals: What we know",
         "description": "",
         "published": "2026-06-09T07:00:00+00:00",
@@ -727,15 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "The New York Times"
-      },
-      {
-        "headline": "NBA draft withdrawal decisions that could impact NCAA basketball",
-        "description": "",
-        "published": "2026-05-19T07:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcGNUQjFsZWVMVll5emQwQnlWS1VxZVhhaFByMUF5a2wtT3BsOTR1N0RaVHFwbGlvWHpyYmJuUjBJZkdLR1NkaGZ2djNoS3VyTHdOSFh3VEpUWGFLM2k4bWNFa0ZCcm90Ty10TERfc1hZN0F4UDZ3cnFaeEVFbFVOd2I2N05tSEtMdWptUVdkdTVfUW8zODZ4VE0yWXFVcVNtR0RTN0hqZ2lWYzNhbnRHam5UbnhoczVQaFBaTV9Yb0ZVR1VneFdGQXEybw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
       }
     ],
     "games": []
