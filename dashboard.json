@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T17:26:35.707741+00:00",
+  "generated_at": "2026-06-19T17:41:41.218091+00:00",
   "duke": {
     "news": [
       {
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "NBA Mailbag: What's NBA Draft night like for a prospect?",
+        "description": "",
+        "published": "2026-06-19T17:25:57+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiXkFVX3lxTE9LeHdxT2FnaFRoNVRQVmdBbnpJLXhLYTVfRjR1a0kyTE83MURMWUJEQ0Q4WlVaUnUxZnJ6aHdXbGVXWnIwb1p1TVh1dHhZOEh1Q0VseDEtTENhNFFOclE?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "NBA.com"
+      },
+      {
         "headline": "NBA Trade Rumors: Celtics Reportedly Among 'Many Teams' Interested In High-Scoring Breakout Forward",
         "description": "",
         "published": "2026-06-19T16:48:54+00:00",
@@ -502,15 +511,6 @@
         "image": null,
         "recruiting": true,
         "source": "Maize n Brew"
-      },
-      {
-        "headline": "Where do you want Michigan\u2019s NBA Draft prospects to be drafted?",
-        "description": "",
-        "published": "2026-06-19T16:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY0FybG9DdW5rMFZtZFpfQmc5S2pERFhqZWhXb245ZndvaEViUGxnQndQSTVfREt0WXRzTmhjNHV5UDRJRE9KQWFOUlpxdlpQVm5PQk1IWFYtZklDTnZCNUZVS0lOWkZWWExzdkZzZC1ETFpvX0pMaDZIYnpLU1dvcGRmT1Q?oc=5",
-        "image": null,
-        "recruiting": true,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "3 Riveting NBA Trade Rumors Get the Fantasy Basketball Best of Ja Morant, 2 Others",
@@ -549,15 +549,6 @@
         "source": "Yahoo Sports"
       },
       {
-        "headline": "I Still Can\u2019t Believe the Knicks Won the NBA Championship",
-        "description": "",
-        "published": "2026-06-19T13:00:38+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRW15eDFXMzMyaTZCQnVKV2psbmVVSlNVQUxLbXpEVlRmSGJaNFhOc1V1V0pkUG5tQVlDQTVvTFgtbWJhaVNGb0JkQmU5ZU90eUw3bTNzQV8waEpDQ1hPM0l2QTRXRUtIRVFnNnA0LUU3OWg1NHBWT3dYR2xUM0IybS05NHU4SEUyc09XWk5n?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "WSJ"
-      },
-      {
         "headline": "2026 NBA Draft Big Board: AJ Dybantsa, Darryn Peterson lead the way",
         "description": "",
         "published": "2026-06-19T13:00:37+00:00",
@@ -565,6 +556,15 @@
         "image": null,
         "recruiting": false,
         "source": "NBC Sports"
+      },
+      {
+        "headline": "I Still Can\u2019t Believe the Knicks Won the NBA Championship",
+        "description": "",
+        "published": "2026-06-19T13:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRW15eDFXMzMyaTZCQnVKV2psbmVVSlNVQUxLbXpEVlRmSGJaNFhOc1V1V0pkUG5tQVlDQTVvTFgtbWJhaVNGb0JkQmU5ZU90eUw3bTNzQV8waEpDQ1hPM0l2QTRXRUtIRVFnNnA0LUU3OWg1NHBWT3dYR2xUM0IybS05NHU4SEUyc09XWk5n?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "WSJ"
       },
       {
         "headline": "Which Skill Translates Fastest to the NBA? Stream of National Basketball Association",
@@ -594,13 +594,13 @@
         "source": "The Courier-Journal"
       },
       {
-        "headline": "Draft Picks For Veterans 2026 NBA Mock Draft",
+        "headline": "Stephen A. Smith believes Jalen Brunson \u2018literally saved NBA\u2019 from a Victor Wembanyama evolution",
         "description": "",
-        "published": "2026-06-19T03:01:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSG5nalRwZVFPWVJnaVpzSUMwb0lJdEFYTTI0ZGF1SXpjN0o2T2dhbUNfWUlXdGNscVNqQzRKSGhyQzRuU0NRWWx5bTV5eDZUMEZRa0dZSHNna2ctNkRtZGVLVzdUekIybHJ5WTUxWkxLTmc4cXNKa0FVc2RfVzlDSWpsNjNwRUJQRjloNGFRZ2NaaVhx?oc=5",
+        "published": "2026-06-19T00:10:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdUFnc3JtQmZ1U2tTaWw5Q0Etay15YWItYVRiYUo4UmRhcmZkV1lRMnY2Nm9waklvcEpRTHB5RG16YW1xQ0tzV1VVdk4zWjdoQjFacF9xcFNMcG9IWW1uVml5b2RLSmRqWDl5UzY5ekZ5YkdsYnpDT0tvajJkVnpYbFNCbFJ5ay1UZEJ2T1Z3?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "RealGM"
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Mamdani gives New York Knicks keys to city after NBA title",
