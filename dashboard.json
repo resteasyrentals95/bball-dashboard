@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T16:56:24.799191+00:00",
+  "generated_at": "2026-06-19T17:11:30.464069+00:00",
   "duke": {
     "news": [
       {
@@ -14,7 +14,7 @@
       {
         "headline": "2026 NBA draft big board rankings: Top 100 prospects",
         "description": "Who made big jumps in the top 25? Where do Dybantsa and Peterson land? Here's our final big board of 2026.",
-        "published": "2026-06-19T15:49:03Z",
+        "published": "2026-06-19T16:23:50Z",
         "link": "https://www.espn.com/nba/story/_/id/46886245/2026-nba-draft-big-board-rankings-top-100-prospects-players",
         "image": "https://a.espncdn.com/photo/2026/0618/nba_draft-100-rankings_16x9.jpg",
         "recruiting": true,
@@ -64,15 +64,6 @@
         "image": null,
         "recruiting": true,
         "source": "Sports Illustrated"
-      },
-      {
-        "headline": "NFL insider thrashes Dan Hurley for UConn vs. Duke wish at White House after UFC Freedom 250",
-        "description": "",
-        "published": "2026-06-19T07:35:48+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPZWlIbUNTSDgwVWo3OGVqVGExYXBXMzlfWGtMU0swd2VlRk1qMEo2c3VidXlvd2lGUlNfYURBaTl6VXJiUGx1SG9EbXNMa3A5MmJWbEU5LVdlOFdqRzAwd2RsVzBWZ3B4bEduczAzSmI2bTR3RE85aGdtUy0zOWtUZ2g5V2tzWTlDemIzUWdSQno5MFVDSFhNMG02VG9HX1hhU3V6LXR0Z3FHOVJsellYR0thaw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "hitc.com"
       },
       {
         "headline": "BYU\u2019s AJ Dybantsa, Duke\u2019s Cameron Boozer, UNC\u2019s Caleb Wilson headline forwards in NBA draft",
@@ -253,6 +244,15 @@
         "image": "https://a.espncdn.com/photo/2026/0608/cooper_flagg_nba_draft_class_1296x729.png",
         "recruiting": true,
         "source": "ESPN"
+      },
+      {
+        "headline": "Driven to Personalize Duke Pride in Up To Eight Characters",
+        "description": "",
+        "published": "2026-06-17T10:51:59+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNc25jM2hSM3hBT085UTFZNV9tNkpxMG9Rcm5uRDRISUNpMjJMMHZ1T1RTOGhROEdVREpFYlJsUXJzZXBVT0pkYTIzSXl0QjR4bGtWUTZrNFhJaG5ieU53UDFxZTVaMXBjTmozOU5oMHBrOUdfRVZPdFBoZTNIb3hRVUdIZw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Duke Today"
       }
     ],
     "games": [
@@ -495,6 +495,15 @@
         "source": "Maize n Brew"
       },
       {
+        "headline": "Where do you want Michigan\u2019s NBA Draft prospects to be drafted?",
+        "description": "",
+        "published": "2026-06-19T16:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNY0FybG9DdW5rMFZtZFpfQmc5S2pERFhqZWhXb245ZndvaEViUGxnQndQSTVfREt0WXRzTmhjNHV5UDRJRE9KQWFOUlpxdlpQVm5PQk1IWFYtZklDTnZCNUZVS0lOWkZWWExzdkZzZC1ETFpvX0pMaDZIYnpLU1dvcGRmT1Q?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "3 Riveting NBA Trade Rumors Get the Fantasy Basketball Best of Ja Morant, 2 Others",
         "description": "",
         "published": "2026-06-19T15:54:16+00:00",
@@ -540,6 +549,24 @@
         "source": "The New York Times"
       },
       {
+        "headline": "How Mike Gansey might change the Sixers\u2019 NBA draft approach",
+        "description": "",
+        "published": "2026-06-19T13:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOY044M19Ncl9mV1YxV2N5LWV3Vl9zQUpXQnN0TGZIN0t5NDR6aUFGSEdUaTZ1NnF6Q3M3WTdqLVhITUZSSUVqSUNZS3cxVWtQZTIxamwwbGhHUm0yYzFiVEszZkxLdHlBLTNlMlM2bFdDMHA5ZVJ2U1Y5VlVYcmJpTWR1cURNSkE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
+        "headline": "I Still Can\u2019t Believe the Knicks Won the NBA Championship",
+        "description": "",
+        "published": "2026-06-19T13:00:38+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRW15eDFXMzMyaTZCQnVKV2psbmVVSlNVQUxLbXpEVlRmSGJaNFhOc1V1V0pkUG5tQVlDQTVvTFgtbWJhaVNGb0JkQmU5ZU90eUw3bTNzQV8waEpDQ1hPM0l2QTRXRUtIRVFnNnA0LUU3OWg1NHBWT3dYR2xUM0IybS05NHU4SEUyc09XWk5n?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "WSJ"
+      },
+      {
         "headline": "2026 NBA Draft Big Board: AJ Dybantsa, Darryn Peterson lead the way",
         "description": "",
         "published": "2026-06-19T13:00:37+00:00",
@@ -547,15 +574,6 @@
         "image": null,
         "recruiting": false,
         "source": "NBC Sports"
-      },
-      {
-        "headline": "I Still Can\u2019t Believe the Knicks Won the NBA Championship",
-        "description": "",
-        "published": "2026-06-19T13:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPRW15eDFXMzMyaTZCQnVKV2psbmVVSlNVQUxLbXpEVlRmSGJaNFhOc1V1V0pkUG5tQVlDQTVvTFgtbWJhaVNGb0JkQmU5ZU90eUw3bTNzQV8waEpDQ1hPM0l2QTRXRUtIRVFnNnA0LUU3OWg1NHBWT3dYR2xUM0IybS05NHU4SEUyc09XWk5n?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "WSJ"
       },
       {
         "headline": "Which Skill Translates Fastest to the NBA? Stream of National Basketball Association",
@@ -576,24 +594,6 @@
         "source": "Newsday"
       },
       {
-        "headline": "Tyrese Maxey\u2019s All-NBA leap kept the Sixers afloat",
-        "description": "",
-        "published": "2026-06-19T12:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQlNnWUdQb3ZHWHhIeURWV29pNGlwVVhqRGU0TmFVbk5mWlZaZGY0NTZ4WU9DOVZqNHk5T1l5LXhpUnU4cVpQRkliRnlpQ29Tc2w5bGtMN3k2NUhiNlJSOVZva29UUm1lUjQzYnNubVhfRldTeHNzTF9TR1R4YnJ4Sg?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
-        "headline": "USA TODAY includes Auburn's Keyshawn Hall in latest NBA mock draft",
-        "description": "",
-        "published": "2026-06-19T11:02:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNWGVJX1pOWGZBQUxOMEd1SmQ1RHdUT2I4M3FxTWF4Y1dtdFhSS3lYRlVDaEhXWFQ2WHFlY1JQLWQ4NjdlTGpPendyUnpwMElZaW1sdlMzRzBjTXhWblJ0TW5TaVVTMGVTbG13SkhVbmkxQV8yWlRta2NKWnlGZ3FyRmZjYU9UOHotdDlESXd5UGFlcVdpb19aX2dPSkNNR1RJd3c5WENtajRQLVJJbE8zY1JyRUJfUE5pajJydHFkTHJoeUNHRFllQXFSVzVpMDQ5Sk5KQlI0WFZCV05iMXpOMnJmamFnQ3ctajJ6NHlDRlZzdw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Auburn Wire"
-      },
-      {
         "headline": "Is Louisville basketball's Mikel Brown Jr. worth top-5 NBA draft pick?",
         "description": "",
         "published": "2026-06-19T09:10:00+00:00",
@@ -603,6 +603,15 @@
         "source": "The Courier-Journal"
       },
       {
+        "headline": "Draft Picks For Veterans 2026 NBA Mock Draft",
+        "description": "",
+        "published": "2026-06-19T03:01:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSG5nalRwZVFPWVJnaVpzSUMwb0lJdEFYTTI0ZGF1SXpjN0o2T2dhbUNfWUlXdGNscVNqQzRKSGhyQzRuU0NRWWx5bTV5eDZUMEZRa0dZSHNna2ctNkRtZGVLVzdUekIybHJ5WTUxWkxLTmc4cXNKa0FVc2RfVzlDSWpsNjNwRUJQRjloNGFRZ2NaaVhx?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "RealGM"
+      },
+      {
         "headline": "Mamdani gives New York Knicks keys to city after NBA title",
         "description": "",
         "published": "2026-06-18T22:33:18+00:00",
@@ -610,15 +619,6 @@
         "image": null,
         "recruiting": false,
         "source": "Al Jazeera"
-      },
-      {
-        "headline": "New York Knicks revel in their NBA victory parade as joyous fans and celebs fill the streets",
-        "description": "",
-        "published": "2026-06-18T20:34:20+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQZHF6UnRTMUJ0TUF4cGVXR1R3cElzaU9JSGQ3WGZFeXpzWmRhU2tHTmpwSVp1NTZQelBCTGtZTE1Ob2Y4d0MzQXVoc0R4TW5PODF6Y29lU0ZfZUpYRE5Mel82OW45LUZNeTRQTmZGcHdTNmU5d2VUYlFCVWxSSXluY0I0Z2F0SnhMbmF4S2dPcmxVeGE0N0JPYkNn?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "WTOP"
       },
       {
         "headline": "Watch: 'New York is alive again' - Knicks parade through Manhattan after NBA win",
@@ -646,15 +646,6 @@
         "image": null,
         "recruiting": false,
         "source": "CNBC"
-      },
-      {
-        "headline": "Jalen Brunson slams skeptics as Knicks revel in NBA championship parade",
-        "description": "",
-        "published": "2026-06-18T18:07:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPay1WQXNvejdaX1YyekFRQkRfZmtQQlo2d3RMdHE1eUJ0X0hxYTFPTHJuSndHUVNzb2xybzBkNmlQWDctVzY2VlpMNkwxbF9IbFdwSmRpXy1rWmN1Q0QwVG9EaWQ0SURPaGpBeDY1ZWJKYUxCd3JaQW5aQlVrWGVqMW54bVdnU2R4SzFxcTZjYzhfS3VZelltbFRsNUJTUTROdnUtWGV1OER2TDREMHU4?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
       },
       {
         "headline": "Isiah Thomas believes the NBA is forcing Victor Wembanyama as the face of the league the same way they did with Michael Jordan",
@@ -736,6 +727,15 @@
         "image": null,
         "recruiting": false,
         "source": "Deadline"
+      },
+      {
+        "headline": "New York Knicks-Inspired Baby Names May Become More Popular After NBA Finals Win",
+        "description": "",
+        "published": "2026-06-16T21:13:51+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaVl6Wk1CQTB0UlFhX2FOTmpZb3ZPR19ZZ21FdEF2WWFZd0xvcndHMmdhcXp2RXlHZklNV201b0h6d2pXYzVReEhXc05nakdUMGgtSnJLbzhMUmx0blFGa2ZRdzBPX1YtdWlpeGZqQ0hIZnF4YTN0OTlCQmVoWGswbV9hd1k5Q2hlQWw5ZjU0aGxjckgwVlNRaC1pcU1abHNlUW9scEw4ZnJ3Z1hrS1Rv?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "People.com"
       }
     ],
     "games": []
