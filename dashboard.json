@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-21T03:52:07.733167+00:00",
+  "generated_at": "2026-06-21T04:07:11.944469+00:00",
   "duke": {
     "news": [
       {
@@ -93,6 +93,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "Duke Basketball Target Kager Knueppel Soars in Recruiting Rankings",
+        "description": "",
+        "published": "2026-06-19T15:59:31+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQVXM5Y0VQSXVlOWc4ZUZtT19IWm1iT0VmYjNINXRSLU4tZUlvbU80Q2t3OHFzN2kzR0libDhYLUl0Zm4yNnZubGg0MVpEU3VSTW55TERMRlhxOW1SSk1mdHdkV1BBR1RicTVJbERsVnNLdTRQS29yY09EZktjdTZEclU1X0xDRUVDVmtQMlJYVQ?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "Latest News on Duke's Evans Could Signal First-Round Lock",
         "description": "",
         "published": "2026-06-19T13:00:02+00:00",
@@ -120,24 +129,6 @@
         "source": "Inside the Hall"
       },
       {
-        "headline": "Top 3 Games on Duke Basketball's Non-Conference Slate",
-        "description": "",
-        "published": "2026-06-19T11:00:02+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNaVozZm4waWNzNnlWWm5SYmk0RXhmZDAxY2pXUmk5cWlNVTVIVEQ2ODYwSmVrUDgwRlR2NHdQWnQxUTBqbDhxb2NKRS1kd3VGSmpxQWZFTVdmTTlxMk0zLTZQWkJkOFZ5N29JalBlVlZZcnFlb05BTUNLMVBTLWNNMDVPLVYweW5WZmcyWWVsanY?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Duke Basketball Target Kager Knueppel Soars in Recruiting Rankings",
-        "description": "",
-        "published": "2026-06-19T10:00:03+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPWl9vZU1FaFl4VnVOdmlja3d4SmJ0WUtrNjktOUFXZ3lFdFFfUE51OUM1RVZRMUpkZ284emV3MGljVS1wMkxzVHphYzhTbWpaajc0RTZCZDRFbWVzNTB1NUR6cXRWRm9uSGlLWks0dnVybEFsTGdPLXhhVUFzLUF4d2xkYlNBeWRxX2xrWUV2a09vT2ZJcTUxRG1kaVh1eWtxbVllQg?oc=5",
-        "image": null,
-        "recruiting": true,
-        "source": "Sports Illustrated"
-      },
-      {
         "headline": "Duke Basketball Reaches Out to Another Five-Star Talent",
         "description": "",
         "published": "2026-06-19T00:41:02+00:00",
@@ -154,6 +145,15 @@
         "image": null,
         "recruiting": false,
         "source": "roundtable.io"
+      },
+      {
+        "headline": "Dan Hurley Has Wild Proposition Ahead of Marquee Bout With Duke",
+        "description": "",
+        "published": "2026-06-18T15:58:58+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPdTJrX2VZS19tRlRiQ0hnaGdSSl95ZVJrRndETjV4WG9WWDRqOTVqdEFadnpRRjIwVWluM0dNNHBubTIwNWZIU2RYaFN4ZTRGcXE2QUpYcHhPeThsWHhGbnVxN091akJzT2txeHBLbUlfamJkM3BCLXFFdDdOMFoxMXZMWHVWcHNVZVRBT0wyUTRYMU5jS0d3cnFn?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
       },
       {
         "headline": "UConn's Dan Hurley likes idea of playing game on White House South Lawn: 'Maybe UConn (vs.) Duke'",
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Raptors Could Trade No. 19 Pick for 3-Time NBA All-Star Center",
+        "description": "",
+        "published": "2026-06-21T03:19:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1LMjhnLTNFN1UzbEZ2ajRxNE1peDZwWW9zUTVoU2VTUExSenhTWnpRTzZYRF9PaXM1cXVHNkhWbHBxdkFZX2JWWmFDWWc4Tmk4eVpMZ3hPeloyRGNORk00bVhzcGdnczdZdjRUbmh2bmJHelRQLWdvMUdmYUg2bnM?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "Carlos Boozer filled with joy as son Cameron nears his NBA dream",
         "description": "",
         "published": "2026-06-21T03:13:54+00:00",
@@ -547,6 +556,15 @@
         "image": null,
         "recruiting": false,
         "source": "Bleacher Report"
+      },
+      {
+        "headline": "2 Realistic Trade-Up Scenarios for the Nets in the NBA Draft",
+        "description": "",
+        "published": "2026-06-20T20:00:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNd2pvcklhQVd2ZEExSzRFS1R0NGdiUEF0eEJUcTZONVYyX0hwOTM5ZmZ0Y1hJUmdpdXQ1dHpKMTFiVmlSZlF6NXZ1NEg0bnVqYmlnU2c2RjAwRnd2NTVESUNqa2dfWDYwTFYtZWdCNDNEbkZDd1lmcktsX1BzcExtUkg3bnlwVW9T?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Projected Tennessee Basketball Star Snubbed from Early 2027 NBA Draft Big Board",
@@ -619,15 +637,6 @@
         "image": null,
         "recruiting": false,
         "source": "Badgers Wire"
-      },
-      {
-        "headline": "Josh Hart on why Victor Wembanyama's WCF tears showed Knicks they would beat Spurs in NBA Finals",
-        "description": "",
-        "published": "2026-06-20T08:49:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOeXhJMUhaYnhQa2tndFNLOHVSWndFcGNhbnZWa1RmUVdPQmU1M0xkVlh4OThOUTc0UFNuSFcyR1Z6MHBXY21XZ0VhbERnMUNBMDk3a3I0VmVxMnRIeFo2VWV0bG0yaFI1RlRuSUdreTBFVFZfVFVMNDE4Y2lxby05dDg4YVZqNHp0QVI5enlQbnQyNE1DVkM0bzlWcjQ3b2VWaVhScERDUkdlUnRMcndCYjJ0em94MnZyeGJUcE1GMDUzUGREMU1DckhFdGR4VEhPQTNlYjVZNA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Basketball Network"
       },
       {
         "headline": "30 years later, why 1996 NBA Draft class is one of the best ever",
