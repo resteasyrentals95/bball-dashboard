@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T03:51:18.866341+00:00",
+  "generated_at": "2026-06-22T04:06:23.716157+00:00",
   "duke": {
     "news": [
       {
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Sources: Hawks set to land guard Aaron Wiggins from Thunder",
+        "description": "The Atlanta Hawks are finalizing a deal to acquire Aaron Wiggins, a 27-year-old guard who was a key role player on the Thunder's championship squad in 2024-25, from Oklahoma City for two second-round draft picks, sources told ESPN's Shams Charania Sunday.",
+        "published": "2026-06-22T04:03:55Z",
+        "link": "https://www.espn.com/nba/story/_/id/49141113/hawks-set-land-guard-aaron-wiggins-thunder",
+        "image": "https://a.espncdn.com/photo/2026/0622/r1677489_600x600_1-1.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
         "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on the Warriors' pursuit of LeBron James.",
         "published": "2026-06-22T03:20:51Z",
@@ -517,6 +526,15 @@
         "description": "",
         "published": "2026-06-22T01:30:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPSFNGbUZqUUZDZFJUaW1UNnQzalFfQzRDSVpVUDdZYUY4eEMxWVJPVEsxcU1tMmRzZk8zMk85S2VBQ2owdTkySF9PLVhzTkNGVWg3UnhndnBMZEVsbEpDWGdEbVliU3d0c09PUjlBaHVKVDJsNmRJRElmWVo1NXJQWkxjWDVDYlU?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
+        "headline": "RJ Barrett Linked to Multi-Team Trades Ahead of NBA Draft",
+        "description": "",
+        "published": "2026-06-22T01:17:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQeE9aREY5OFpqNzVCOGE0SmFhYV9RcF93bkxBWjZ0emQzcHpLMkNkUld4SndwWDN0SERfOWM3YnZjRHVxVWFkMWlMWF85eTUzZ05qbkpScGtlZFJ5b2VLMnpFVGgzU0s3RG5BYjU0dTVHTzJMdEd4OE9NU3Bib2Z2OGVjMA?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
@@ -612,13 +630,13 @@
         "source": "Yahoo Sports"
       },
       {
-        "headline": "CJ McCollum stays with Hawks on 1-year, $21M extension",
-        "description": "Hawks guard CJ McCollum has agreed to a one-year, $21 million contract extension with the franchise, his agent told ESPN's Shams Charania.",
-        "published": "2026-06-21T18:29:28Z",
-        "link": "https://www.espn.com/nba/story/_/id/49135921/cj-mccollum-stays-hawks-1-year-21m-extension",
-        "image": "https://a.espncdn.com/photo/2026/0424/r1648329_600x400_3-2.jpg",
+        "headline": "3 Sleeper Picks the Raptors Could Steal in the NBA Draft",
+        "description": "",
+        "published": "2026-06-21T20:00:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOeklYUUZra0xBTXZjbDZLa0s5M2JsMU5lMVQxQzlYVGx5dUZOOW5DTUt5UTBvODcwNDItdkFEV1dndFFocHJnem40MFhrb3JHd0R2Ujc4SE81LS1JaHFaUGNMRDhBYjdYUWoxb0lzVmtDV2xmQS1MSGVzd3d3ejF0VTFiNjU?oc=5",
+        "image": null,
         "recruiting": false,
-        "source": "ESPN"
+        "source": "Yahoo Sports"
       },
       {
         "headline": "2026 NBA free agency: Grades for offseason signings, extensions",
@@ -628,15 +646,6 @@
         "image": "https://a.espncdn.com/photo/2026/0621/r1677095_608x342_16-9.jpg",
         "recruiting": true,
         "source": "ESPN"
-      },
-      {
-        "headline": "Slow start at Arizona may have helped Brayden Burries become top NBA Draft prospect",
-        "description": "",
-        "published": "2026-06-21T14:02:10+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVk9sNFNKZ3paNHphOTZGRWR3dnVzd1hkUEVDbmxfdXlCdi1yN2VHdnJqZ2pOemlDakVscmVPRWI3Q1FodFgwVEZnM3FGTDRwWExXRmFEdEJlY1FhZkJtZDdBemF5VTNFYVg2MlV0bXZRQlBkN3pXakVOZU1uYVdUTDJfcW04TnVLU3VKcUNJNXVkbXpiUzJFYURrb3RFakNnMF8xMw?oc=5",
-        "image": null,
-        "recruiting": true,
-        "source": "Arizona Daily Star"
       },
       {
         "headline": "NBA scout drops telling quote about Nate Ament's decision to play for Rick Barnes at Tennessee and its impact on his draft stock",
@@ -726,15 +735,6 @@
         "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNV0pVSGpXNy1YdWU4cHE1N3JaU0x2YU53SHJ6VnltSjVzOUJvTmJwNVVjUUFxMDBSenFpX0NXclI2R1JzRTJ4QkxETFNTNzFMbHJQcTlzR1MtS2xPUk4yMXl6Nkd4bWJTcVdXd3FkQ2JqNEdPUmNDaVlFUUJ2R2hMZjBvOVdJcHFUa1JJ?oc=5",
         "image": null,
         "recruiting": true,
-        "source": "NBA.com"
-      },
-      {
-        "headline": "30 years later, why 1996 NBA Draft class is one of the best ever",
-        "description": "",
-        "published": "2026-06-20T01:06:46+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNm9UUl81cnR0dUNrUHZTa0h5TFZ2YXdJak82RW9oaUZ4d2xDbUx5SEpzLXN4V3pBRTRQOUIxU2o0ekFnd0V1OXNPNl9VcDFuZWk0R2F3cHRkXzBIWGFNWVZnc1BwclBBZEpheXpRdXhoaFFvdS1JaXcwU3I5Q3M1cUw1MzNRanF3dlJfcWZ1bl9CQQ?oc=5",
-        "image": null,
-        "recruiting": false,
         "source": "NBA.com"
       }
     ],
