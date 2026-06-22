@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T14:40:59.431469+00:00",
+  "generated_at": "2026-06-22T14:56:04.371529+00:00",
   "duke": {
     "news": [
       {
@@ -96,10 +96,10 @@
         "headline": "Where Cameron Boozer, Duke basketball players are projected in 2026 NBA Draft",
         "description": "",
         "published": "2026-06-22T09:01:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNbnhLUE1uV0c3TFljR3ZZTDNRNG5zbmdOQVhZdl8tSzM4VHZsU3IxNWRrMWpHMG1rcXBLMVdJaEZEV1k4Z3JEVXNqOENjbWhCdS0yd09ReGtTUVM2RG1zbjNqNV9hX094Y25mQkJUdHczZlBHTzM5NUNpbDNlS1REbFp1czlHWUlqenQxMjMydTdLa1cxOGplVzlKd2h4a01QSzR2dUtncklZQkhSeVZHZC1sU1VYYlhZUDB5M0swT3JVSGxHXzgzQmtYNk5KdVRieFYzTjVhaw?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeVhrR3lZam1kNTJIWWh1b3NfcTdCaERudlZnZUlZbFNaYTFrenQ3YWVHTnF6a1h1U2NhTDk5d3dMNFlhNGVLeUx3ZEx0dENJakhpMjVFcVFwdlhuNlVhd2pVMjY3ZV9jSy14eHktVTJiczRqVzNSRmFrUHJVanJaTXZ4MG9SSHFBM3BOdG1KQzh5emxoalltSGRqbEE5WDRmMXBBbXVZcW1WN1pPbkZ1cWtHQzRQaTJTX2p3Y1hBeVF5QlBpMldxNVBwN05OOGhIeWtmRA?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "The Asheville Citizen Times"
+        "source": "The Fayetteville Observer"
       },
       {
         "headline": "Knicks: NBA Draft profile \u2013 Duke\u2019s Isaiah Evans",
@@ -486,18 +486,9 @@
   "nba": {
     "news": [
       {
-        "headline": "Sources: Michigan's Dusty May finalizing deal to coach Mavericks",
-        "description": "Michigan coach Dusty May is finalizing a deal to take the Dallas Mavericks' head coaching job, sources told ESPN, an axis-shifting move that significantly alters the college and NBA landscapes.",
-        "published": "2026-06-22T14:40:39Z",
-        "link": "https://www.espn.com/nba/story/_/id/49143856/sources-michigan-dusty-finalizing-deal-coach-mavericks",
-        "image": "https://a.espncdn.com/photo/2026/0507/r1654769_600x400_3-2.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
         "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on the Warriors' pursuit of LeBron James.",
-        "published": "2026-06-22T14:31:28Z",
+        "published": "2026-06-22T14:53:30Z",
         "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
         "image": "https://a.espncdn.com/photo/2026/0325/r1633719_608x342_16-9.jpg",
         "recruiting": false,
@@ -506,20 +497,29 @@
       {
         "headline": "'The Hoop Collective': Episodes of Brian Windhorst's NBA podcast",
         "description": "Here are the top highlights from Brian Windhorst's \"The Hoop Collective\" podcast, from breaking news to the latest intel and reaction from around the NBA.",
-        "published": "2026-06-22T14:22:12Z",
+        "published": "2026-06-22T14:49:42Z",
         "link": "https://www.espn.com/nba/story/_/id/47168192/the-hoop-collective-latest-episodes-brian-windhorst-nba-podcast-archive-best-quotes",
         "image": "https://a.espncdn.com/photo/2025/1112/r1574751_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
       {
-        "headline": "2026 NBA offseason trade grades: Aaron Wiggins dealt to Hawks",
-        "description": "We're grading the biggest NBA trades of the offseason, including the Hawks acquiring Aaron Wiggins from the Thunder.",
-        "published": "2026-06-22T14:20:49Z",
-        "link": "https://www.espn.com/nba/story/_/id/49135150/2026-nba-offseason-trade-grades-contracts-new-deals-rosters-teams",
-        "image": "https://a.espncdn.com/photo/2026/0222/r1618682_608x342_16-9.jpg",
+        "headline": "Sources: Michigan's Dusty May finalizing deal to coach Mavericks",
+        "description": "Michigan coach Dusty May is finalizing a deal to take the Dallas Mavericks' head coaching job, sources told ESPN, an axis-shifting move that significantly alters the college and NBA landscapes.",
+        "published": "2026-06-22T14:46:52Z",
+        "link": "https://www.espn.com/nba/story/_/id/49143856/sources-michigan-dusty-finalizing-deal-coach-mavericks",
+        "image": "https://a.espncdn.com/photo/2026/0507/r1654769_600x400_3-2.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Breaking: Dusty May leaving for NBA's Dallas Mavericks",
+        "description": "",
+        "published": "2026-06-22T14:33:29+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTFh0WG93czFDbFYweU82QVFubGxTV2xER3AxZ3lLYXExVl96TElTd0w2dHRWSHI5X3N3TG15TzNzRFBtZ2FrQ2Y2OUY4X1lwc1BYN1otQWZrT1NjWXlDMzFCWkFTUFZ5dFZpZVVGdENod1FFYWxuTVBfYndkYy02cXR0SWZSQ2w5dWw2RzlGMHJ5M1MtWFhvcGVGakhQVXU3R1JsMW5vOA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "On3"
       },
       {
         "headline": "Report: Dusty May leaving Michigan for NBA head coaching job",
@@ -567,22 +567,13 @@
         "source": "MassLive"
       },
       {
-        "headline": "Sources: Giannis Antetokounmpo trade finalists are Celtics, Heat",
-        "description": "Giannis Antetokounmpo is expected to be traded before the start of the NBA draft Tuesday, with the Celtics and Heat emerging as finalists to land the Bucks superstar, sources told ESPN.",
-        "published": "2026-06-22T14:00:50Z",
-        "link": "https://www.espn.com/nba/story/_/id/49143752/sources-giannis-antetokounmpo-trade-finalists-celtics-heat",
-        "image": "https://a.espncdn.com/photo/2026/0124/r1604898_1296x729_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "Final NBA Mock Draft Roundup for Michigan Basketball\u2019s draft prospects",
         "description": "",
         "published": "2026-06-22T14:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOc3dELTZPVmNkYmFpZHh5MTh4aVhvSmRkeVpxSGNfeXpCQ3ViTlU1M241VURqb2VDa2M2WjBkcnVpVklTaXBYOGozZHE0Qk9aNjJVU1hoTURlNkRzXzc1STNYUXl0Z1pDa3FNQ1cwNElsRlpLMlV2Y3d4Q3NIQmE1V1BERkJOSWRWZEpmbnJEdTdZNEM0OFp3WUpIM0dmNjIwVjZnQzlDN3drdDBoX1ZtOU5TZTM1dmxhYXJRaDBxdzRuc1ls?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPakc4UnZXaWkxY2Z3Qy1vMnRuaXJlWkR2QXhOOS1uMmVlcC0zZHlQQVpVRHZlR3lNNXZxbkplTXZmcGctR3JqNjdGZ2Z2TkRnQXVIeVBrbFV3NzMzOXNfU3BIdW9HX2pjSlZjb3hhLVY5S0s0aWc1djRUcHJRY0t4TktJUQ?oc=5",
         "image": null,
         "recruiting": true,
-        "source": "Maize n Brew"
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Where Nate Ament, Tennessee Basketball Stars are Placed in ESPN's Final 2026 NBA Mock Draft",
@@ -603,31 +594,13 @@
         "source": "MARCA"
       },
       {
-        "headline": "Where Tennessee's Felix Okpara is ranked in final ESPN NBA Draft Top 100 ranking",
+        "headline": "Pistons trade rumors ahead of NBA free agency, 2026 draft",
         "description": "",
-        "published": "2026-06-22T12:02:07+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQZ2x0MzVhV01rUDFjY1hvTnhuanRCWlltWFBPVjBtdlZ6eW9ZeEJ2d3BZemkxbnlRNm1qNFJPVHltWGFOdUp4ajlBSm9NMFJCYXFBUFRfRmhncWJUSzBIX3VleTNuVjh2YWZ6b0FsQXlrNHJCTVN3S1VwU3BWcm1KYnBsYUlXdTZHZ2RyMVBLN2dxNjhvaHlSWFVzdnV2dVdnVnhyQ0tQcFhUTWhSQlJGZGc4NENoLWxVa2tR?oc=5",
+        "published": "2026-06-22T12:43:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOa1ZucU55d0xOTWlWeVpJUEdUaGdfaTRYMUkxT2MzT1ZXeFhhZjhEdENQbUlOYVlEOUkxQjhqOS0zcmNxeW1KWXNvSlF5MzJzWmQyTjJlQWNxb1YtVk1hMGtHUTA0c0RrYW9NZXRwczg4cm5GUVN1YjUxNExkVERENE9CNkVvSHZpZl9CUjhNT0xRRjd3cXJiUHVqcWs0cGZpOHdHTENzSQ?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "On3"
-      },
-      {
-        "headline": "Gordon Monson: Here\u2019s the soothing secret regarding who the Utah Jazz should pick in the NBA draft",
-        "description": "",
-        "published": "2026-06-22T12:01:29+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNQmtCTWowbm5kSENmaEhZMmhFWk05MkpJSGZMbHhacExvSDNzWjMtMHk3T25wcTJ5eTZObzRBOEswc3V5SHh0ZkRucEJVUUI0RlEzNjR5X2RmNG5TanM4OFRfcUdwRkE1SENkTWlmaF95cHE4RkJSS1NfLVlhcDZNcmNqdk1GRGc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Salt Lake Tribune"
-      },
-      {
-        "headline": "Nevada\u2019s last six NBA draft picks: Where are they now?",
-        "description": "",
-        "published": "2026-06-22T12:01:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdGZKYTJrdzhidllaOUtUcFY3UU9SY19rR3ZUcXBRb3FyU0ZaQzBBVW5qZU9wazNSUkpScFFkcXkya2p6Ui1fRU5WeHItZkoyYkhGMC04R2llSjV2OUxfalI1MWVRWUtod1VPU2hka1JvTDZkWGJQRWtMVjVxYlpoMXBnVkRTVVFlWGt5cGRsWk9zV01hVTZFTUg5TUY5b3ZOUFZnTHpPSGF0dEVHVTBYM1BzMG1wYWxWSy1JaUZQSnJCWUJf?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Reno Gazette Journal"
+        "source": "Detroit Free Press"
       },
       {
         "headline": "Program Building - Is NBA Talent Required to Succeed?",
@@ -675,6 +648,15 @@
         "source": "Knoxville News Sentinel"
       },
       {
+        "headline": "Mikel Brown Jr., thanks to his family and NBA mentors, is ready to quiet his doubters",
+        "description": "",
+        "published": "2026-06-22T10:00:47+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPMFRZYWVvTEE5TU5oVE51R2NuREZNRVpCaXYzdHJlbzBKaXl1YkN1bjVXQ3c3VHVlRDFOTTc4STRianRIZnFuc0xpV244TXNSN04ySF9LS2l4ZnhQVFpUbW1RX0hDVXFJM1VzdF9RZ1pIb0NWMm5mMmdQdGRNbks3VE15Vm9XYWEtTGc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The New York Times"
+      },
+      {
         "headline": "The end of the NBA\u2019s American empire: how the 1986 draft changed basketball for ever",
         "description": "",
         "published": "2026-06-22T10:00:00+00:00",
@@ -682,15 +664,6 @@
         "image": null,
         "recruiting": false,
         "source": "The Guardian"
-      },
-      {
-        "headline": "Son of an NBA All-Star could provide Mark Pope with something he\u2019s been missing",
-        "description": "",
-        "published": "2026-06-22T10:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNa0ltT0dzclY3WmVoREhtMjdaa2oxSXRUVUI5cEw5aGlGenRlZGR0WGFTOGRLMm9zTm50Zi1LX0lxQzVmMjUzZHBFTHVBSngwSjZtZjZpU2JzM0VUMTF4bVZtanpQYmp0RUdwcEk0SkN0VUQzR3Y5Y2Rhc3FYZE93N3kxWEkzd1gtVEU4aG5XTkF0TjJEa2FLMTUtUdIBmwFBVV95cUxQZTktTE5sZHd4Q2RUTmhrMVdOSFZZdUJ5d0NIX3FfQlRxSi0xZEdEanU0djRZZVY2eWpINlFpcHlIYlJTdkRsV1N0NF82T0NUUXF5VGFZU0xMcGQwNmVCOHJZbk9qTDQwX3FTazFVY0gyNEJmNThsY2dDVjh1bHJkMENWcVNFYTVlN1ZOYS0wMG8zazRBNHhwLXdEYw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Lexington Herald Leader"
       },
       {
         "headline": "Why did William Kyle cut off workouts with NBA teams ahead of draft?",
@@ -709,6 +682,15 @@
         "image": null,
         "recruiting": false,
         "source": "247Sports"
+      },
+      {
+        "headline": "Where Kentucky basketball players are expected to be picked in the NBA draft",
+        "description": "",
+        "published": "2026-06-22T09:45:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNLTdkQm1pVkF5M3h0TTFJRXBwOXNTQjhiX2N5TGtTN2RLbWdVby1PaEtfbHE1ekJJTmMzbTY4X2d5Wm1FMTB5SngxZmVvWVJhbGtoT2R0M0hEV2UxemY1a0tScGFwZVEzdHQyNUdyZVByX3Nvd01vM1hiWlJsVFQ4RHloTjZSaVl1dDBEMjUxUXo0WlNPcWRYeEJQRdIBmwFBVV95cUxOMm1hbWZQa2FZWml4OVNHdVBDcG1uWHhEd0V5bHhSMmV6LWdHQlJkcVZUa3ptdjkwYm1HaXJVQW9rcEtXUjBHQ0M2NU52MHplT05YNEZwcFc4UjB1TFNUSldiUUFOYzdDZnBwekFfUGtZZC12OXF1U0pielN1NUllbk1UUy12SFUzeDVUY2YxNV84dTcxeHF1ekJPNA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Lexington Herald Leader"
       },
       {
         "headline": "5 Sixers thoughts: All things NBA Draft, from trade concepts to prospects of note",
@@ -736,6 +718,24 @@
         "image": null,
         "recruiting": false,
         "source": "Basketball Network"
+      },
+      {
+        "headline": "Rob Pelinka, Lakers deliver latest major NBA offseason move",
+        "description": "",
+        "published": "2026-06-22T03:31:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQRGVVcEdIejZ4bXlsY2dRM1phd3pjbFBuN3F5Q0EycjBhX2JJWmczUXdIVGhCS0RMc1JISlIwN0FJNm5uX2JxU3R1el9tU1c4Nk52QWJuUmlIZ2k2ZWIwaHZ1T3JHUTZockxxQ0trNzRtUkZMSXZDU05nVUtMUW9rVjZyd05BV2RjbXpFZE9LdzhoV2VZQ2dZdnE5T01sT2s?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "BasketNews.com"
+      },
+      {
+        "headline": "Should the NBA try relegation to curb tanking?",
+        "description": "",
+        "published": "2026-06-22T03:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOYVktU2hsV1pXakw0NW9ELUxPU3o0TklCRVdTRFlObWo5N0FYUk5wN2QwYVctckV0RlY1TG5pWVo4RUZpUDhDdDNhM1lLYkdDbmZGMlhFTjNGb2M1WUhRUmdGdHV2N2hMd2xiWkJQbHhrMmxRU19ZY1hqa282N0tFbnV2dkdNZG5hLXZSaHdIT3dLazBH?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Deseret News"
       }
     ],
     "games": []
