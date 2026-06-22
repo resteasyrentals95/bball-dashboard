@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T02:50:58.480761+00:00",
+  "generated_at": "2026-06-22T03:06:03.879201+00:00",
   "duke": {
     "news": [
       {
@@ -486,6 +486,24 @@
   "nba": {
     "news": [
       {
+        "headline": "NBA trade tracker: Details for every deal of the 2026 offseason",
+        "description": "We have the details, including players and draft picks, for every NBA trade made this summer.",
+        "published": "2026-06-22T02:58:39Z",
+        "link": "https://www.espn.com/nba/story/_/id/48957844/nba-trade-tracker-details-every-deal-2026-offseason-draft-free-agency",
+        "image": "https://a.espncdn.com/photo/2026/0622/r1677472_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
+        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on the Warriors' pursuit of LeBron James.",
+        "published": "2026-06-22T02:54:30Z",
+        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+        "image": "https://a.espncdn.com/photo/2026/0325/r1633719_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "\"I despised him\" - Byron Scott reveals who was the only player he really hated in the NBA",
         "description": "",
         "published": "2026-06-22T01:30:42+00:00",
@@ -531,6 +549,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "2026 NBA Draft MOCK DRAFT | All 60 Draft Picks!",
+        "description": "",
+        "published": "2026-06-22T00:27:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOd2JLXzZJTlRmYnlPLXFScGFNU2pZb0xFajhMbDBZSTdHdGxMYjFQQ0tpdDEydi1xZzI0SEZJNUkxSl9qOERsZ0dqWnZKTGU1UjdGQlpqeW8xN21fUjlBLXJqRDhEazhrMkJuR1ltb0ZwUnpZczc2YmNCYUVnOXBGQTE4d1FtY2hONktIVjJBMGQzU251RW9WQ2ZFWUNXN2dtZGViN3BUclZrSi16MF9aWVFjT0xYeFpOVEs1NDRjeVNkZTFjRTJfWnRHd2d3YXo5cWg2QWt3cmVGV2JuclBLRFVFSnhkcy1EVlo1b21Wbk9pZVg1WHFLdmpaUmlMa3M?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "12newsnow.com"
+      },
+      {
         "headline": "NBA draft: The fathers behind the future",
         "description": "",
         "published": "2026-06-21T23:43:48+00:00",
@@ -553,15 +580,6 @@
         "description": "",
         "published": "2026-06-21T21:45:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPaDA3S1lzU1lwUUVlc1BYcnduQ1k0aVgxaEpoYU5rblNBY3UzMU5LVTRRYVU5d3VtOFBQV01PR2JJbEd5eDhDX3dFV2MyRjZ5UmdXMExrYTkyQVhXcmZVVWhERnBsdDMwb1FQZ2l5TE11XzRka25WQXpNZHFPcnJ5a1JfOEd4eGcybVpxUzZ4SFZyd2dr?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
-        "headline": "\"We didn't have relationships with other guys\" - Byron Scott reveals why real animosity has disappeared from the NBA",
-        "description": "",
-        "published": "2026-06-21T21:33:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNd3NUaWlxNjdEcjBJVVpkNWN5UzJIc0M2SGpWYl8yTFgyRXY1MWlBVHNJTHI3cWZYaFltZzIzVmMwY0RVT1BhUjVDYi1ZeWV4a2ZabEtZcGxKazVWQjh5UTdSUThZTGRVLWJVeWtOaFpRN3dDc3loeGJvUlRJOE5jLThFNGhEdVVJUUpfcHRR?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
@@ -610,15 +628,6 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
-      },
-      {
-        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
-        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing on the Warriors' pursuit of LeBron James.",
-        "published": "2026-06-21T19:47:44Z",
-        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
-        "image": "https://a.espncdn.com/photo/2026/0325/r1633719_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
       },
       {
         "headline": "CJ McCollum stays with Hawks on 1-year, $21M extension",
@@ -722,20 +731,11 @@
       {
         "headline": "Illinois basketball is sitting on a treasure trove of talent for the 2027 NBA Draft",
         "description": "",
-        "published": "2026-06-21T02:34:44+00:00",
+        "published": "2026-06-21T02:44:16+00:00",
         "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPUFozNUdMUWNqeW9WTjA0OUkyZVhPOTRRV19FUHl5YTdEZDRsMjBtTDV4SlcyN3p0aUFRX2N0U2c5MGQxQzN5TU5TMGZueklUeVNlVGZKb1Q1NzFkN2hFTGNwTUZab193d0dValVvUmxIbzJzdi0tYllPZDFxSGdMclhuUENHd1REa284SjF3Y0JFVG1CNFM0NllYaEhhSVkxU3B3WGdNSkY4dF91RWc?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Writing Illini"
-      },
-      {
-        "headline": "Projected Tennessee Basketball Star Snubbed from Early 2027 NBA Draft Big Board",
-        "description": "",
-        "published": "2026-06-20T17:02:11+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQWW1nWFdVU0FlNnVRYng0RExheXpVSU1EZnVOWEk0QjE0NXBITG5xVEF1RVcxRDBaRW5aUFk5akFNNG9vZjJWSmZzd1lXendneUQzSWo5cDF6YXpmSl80LXZCbkZNUC1RcmNtV1RrQklzVjNjWkVUZ3VNYWRodjVZSzZJVC1SSVViU1RPTWhzNUMybU95cXFvckVsUFFUaTgzM1hvQ2wwWnh0VWpVNVNKSVJLLTRHQmtub0lhNTBJdmdESWRBUFhPTDExY3psdEMy?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Rocky Top Insider"
       }
     ],
     "games": []
