@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T20:58:09.078870+00:00",
+  "generated_at": "2026-06-24T21:13:28.943342+00:00",
   "duke": {
     "news": [
       {
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Bickerstaff: Nori's contract with Portland a 'slap in the face'",
+        "description": "J.B. Bickerstaff, coach of the Pistons and president of the National Basketball Coaches Association, calls the structure of new Trail Blazers coach Micah Nori's contract a \"slap in the face to our value.\"",
+        "published": "2026-06-24T21:05:13Z",
+        "link": "https://www.espn.com/nba/story/_/id/49168201/bickerstaff-nori-contract-portland-slap-face",
+        "image": "https://a.espncdn.com/photo/2025/0624/r1510630_600x400_3-2.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "NBA betting: One bet to make - and another to consider - in the Rookie of the Year race",
         "description": "Coming out of Tuesday's first round of the NBA draft, Andre Snellings pinpoints the bet to make on 2026-27 NBA Rookie of the Year.",
         "published": "2026-06-24T20:26:28Z",
@@ -522,15 +531,6 @@
         "source": "Yahoo Sports"
       },
       {
-        "headline": "OKC Thunder NBA Draft grade roundup, mostly praise for Aday Mara, Bennett Stirtz",
-        "description": "",
-        "published": "2026-06-24T19:23:48+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdTBfejlfY3lrbHlEUmNfV3pxc0VQLTZGYWtRemVNVXhHbzh5NXNRenhBRl95bi0xQVlTRnJ0SWl5X0NwdG14dmhYLW9BVGdoVU4zdnFKX19hc1FaTUt2c2Uzby1oNHpVbUpBMi1oNnE0LVV1LTJsM0EzdVI1TFRQRFNR?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "Michigan basketball makes history in NBA Draft: 'It means everything'",
         "description": "",
         "published": "2026-06-24T19:19:00+00:00",
@@ -549,30 +549,12 @@
         "source": "The New York Times"
       },
       {
-        "headline": "NBA Draft: 1 interesting fact about all 30 first round 2026 picks",
-        "description": "",
-        "published": "2026-06-24T18:16:15+00:00",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPRVl4ZVlScW1KLWpYTWxiSXlqRWRCaWtVTVdpT2FlN0Ezdl9UdHpWYVVaQXhiSEU0eEZENndkN0E4Ny1VQ205UnFpMnFuQ1I0a0lIRkpTcDhjYWtSckNsb2NrbERNWWlMSWtEYkdaakNpSHhxc0oxTzhEQURlVXF6QThmOA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "2026 NBA free agency: Grades for offseason signings, extensions",
         "description": "We're grading the biggest NBA free agent signings and extensions, including Austin Reaves' new deal with the Lakers.",
         "published": "2026-06-24T17:34:49Z",
         "link": "https://www.espn.com/nba/story/_/id/48957095/2026-nba-free-agency-grades-offseason-signings-deals-contracts-extensions-depth-charts",
         "image": "https://a.espncdn.com/photo/2026/0508/r1655202_608x342_16-9.jpg",
         "recruiting": true,
-        "source": "ESPN"
-      },
-      {
-        "headline": "Sources: Lakers' Reaves intends to sign 4-year, $185M max deal",
-        "description": "Lakers star Austin Reaves intends to sign a four-year, $185 million maximum contract to return to the franchise, with a player option for the final season in 2029-30, sources tell ESPN's Shams Charania.",
-        "published": "2026-06-24T17:20:06Z",
-        "link": "https://www.espn.com/nba/story/_/id/49166079/sources-lakers-reaves-intends-sign-4-year-185m-extension",
-        "image": "https://a.espncdn.com/photo/2025/1027/r1566619_576x324_16-9.jpg",
-        "recruiting": false,
         "source": "ESPN"
       },
       {
@@ -621,6 +603,15 @@
         "source": "Newsday"
       },
       {
+        "headline": "NBA Star Derrick White Named \u201cPresident Of Basketball Strategy\u201d For CU Men\u2019s Basketball",
+        "description": "",
+        "published": "2026-06-24T16:14:47+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdmk4ZTkzU2h4ZE9RaEI2NmVIejZiMVlRQTdFajdGZnByckFKZnN3UVR0Y1Y1ZmhGU3NneG5jSzkwcHFMUFVIVnNUZFV5dEkwaFJCZFluMkwwSHpRX0dkYWZockJQNUhEekttcmpoQ1VDd0Zpdmg1Nk8xTm82VlFZUlhndG96Smh2bjRna3pRaDZzWUphbFN0MFdJd2JrRWRlRDJleUI0QlhoMEhnOG9aLXo0cjZ6emtIWVl3bzZtbWw4OEp2cEs5aGctQllBdzZj?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "University of Colorado Athletics"
+      },
+      {
         "headline": "Brockton native A.J. Dybantsa selected first overall by Wizards in NBA Draft",
         "description": "",
         "published": "2026-06-24T16:02:00+00:00",
@@ -646,6 +637,15 @@
         "image": null,
         "recruiting": false,
         "source": "MLive.com"
+      },
+      {
+        "headline": "NBA draft resumes Wednesday night in New York, where some second-round picks are revered",
+        "description": "",
+        "published": "2026-06-24T15:09:42+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQldPY05hLWdnN0NISS1kRDZNbEZBZW1sWUZ6VE5saWhhbGc5YllYS2hkY2FLMHg0dUpTUVMwSm5tRmpCcWVmOXA3c3l5Rmx2TlVHNWFHX0p3NkhTT19sLUc0OERvM2xMc3lJb2lPcjR0bkdoYWJwLVA3dXRaU1JqQ3Q5TEFaTmNrV2pxWFlFWTBUeHdreGJONlJtNHJ5RnQwZlg2eU1tR2dldTlqaWJYdHNyLVlNX0ppMm9j0gHAAUFVX3lxTE5udndOZzRvdURzVy1hZTdNbzBqeVBwY21EcENSWUk5cVNkUkk0YkUzamlBenVsUDV5NGZYakF6N2VzaFdyN2tNdU14a2FOUS1DMnhfcTNpblBSUjRFamRMN0VWOWdkWEJyaFZhNkdxWGE0M19DSE1ScUdFNmFwT3ZLTE1oUFRyU2o2YlA5cWhzM2swd2dUVzZ5M3RCU0xqY0RsOHVpVmJ0NXdvMGNzUHBlN1YwZDk0TlczdTZ1ZFlqNw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "WWLP"
       },
       {
         "headline": "Why Jeremy Fears Jr. chose Michigan State basketball return over NBA",
