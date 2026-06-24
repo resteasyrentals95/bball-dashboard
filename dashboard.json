@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T19:12:29.187350+00:00",
+  "generated_at": "2026-06-24T19:27:34.149336+00:00",
   "duke": {
     "news": [
       {
@@ -183,6 +183,15 @@
         "source": "kiiitv.com"
       },
       {
+        "headline": "Washington State men's basketball to face off against Duke in Coachella Valley matchup",
+        "description": "",
+        "published": "2026-06-22T18:38:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqAJBVV95cUxOd3hVZEhuNDk2SlE3aXlFOGZMZXF4YkRuRlAwLU9OZkkyNkx3UWVPWFlRNUVPbV9lbzk4aXRKOFpHV1pIUWNjSDRKS212NVFFQ2lOVWx1ZFNKdTk2TzR4TGNFQl8tdHNBVXVrRkdVLWZIdlJVUU1lN05oUzdVVHRBOUhoVWllSDZDOXdZQmQ4alhnTnlaZndzYVpwQ1RxY3RJU2tUMjJkU05XZHBONk1KSXpobExyaHJqcnBlTFNvZmY1V0xDRjUtX3lSZnpTdXZnamVCVW5vM042LS1FUUtQRm1LNmdiRFE4RGV5UFNTQkxEd05MUFYzM2dKR1N2MjdtNnMyU2t4VmZIa0ZXSkktYkN2OEh6SkRmdWdtWVE2c1ljSUpoeW96Qg?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "SWX Local Sports"
+      },
+      {
         "headline": "Duke basketball adds Washington State to 2026-27 non-conference slate",
         "description": "",
         "published": "2026-06-22T14:19:00+00:00",
@@ -244,15 +253,6 @@
         "image": null,
         "recruiting": true,
         "source": "Duke Basketball Report"
-      },
-      {
-        "headline": "Where Cameron Boozer, Duke basketball players are projected in 2026 NBA Draft",
-        "description": "",
-        "published": "2026-06-22T09:01:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeVhrR3lZam1kNTJIWWh1b3NfcTdCaERudlZnZUlZbFNaYTFrenQ3YWVHTnF6a1h1U2NhTDk5d3dMNFlhNGVLeUx3ZEx0dENJakhpMjVFcVFwdlhuNlVhd2pVMjY3ZV9jSy14eHktVTJiczRqVzNSRmFrUHJVanJaTXZ4MG9SSHFBM3BOdG1KQzh5emxoalltSGRqbEE5WDRmMXBBbXVZcW1WN1pPbkZ1cWtHQzRQaTJTX2p3Y1hBeVF5QlBpMldxNVBwN05OOGhIeWtmRA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Fayetteville Observer"
       }
     ],
     "games": [
@@ -486,6 +486,24 @@
   "nba": {
     "news": [
       {
+        "headline": "Michigan basketball makes history in NBA Draft: 'It means everything'",
+        "description": "",
+        "published": "2026-06-24T19:19:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSGcwblcyLXRXVzNja2RWTmdLRENIZ0tqYVBqX3JTQ2EzSElQbFpudUVCcTNuX0xwX29QZV9Ia2paRFMxYXR2bGVaVEZJT1ZTOTlyTHc4SkJqNkxTLXdGX1RzcmFGRzdLUEJtV1VPMXdvOXFMRm8zdWV4Q2lqQmlnWFhKdzV3MlJRVS1fYWx0T3BlTXc3Z0dScXl0dl8telpYYXh2eTdESG1tQXRWa3NPRDNCN0FDeVRXWkxRTk5ZX3J6czZjRmpEMnpOYmZyeUpCa1A2R1haaDRYdkhucDIyQWRQczMzNzB0SXlDMVlmTnNGMzZ6WnVzdmNpS0stUQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Detroit News"
+      },
+      {
+        "headline": "NBA Draft 2026 winners and losers include Dybantsa, Peterson, Boozer and \u2026 fans?",
+        "description": "",
+        "published": "2026-06-24T18:51:47+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZG1pd2JxSU5QTFh4Y0J0VUFQVGxRNi12T3REWGtwYXdIcEJKUUp4Q0hMZTFzS19QNGdEQVNiVXB3Y2RuTWZHMjF2R3pXaERMMThDM2oweHBOdFVwZFdyUU5ybmI4dk9IdmVQWnRxUm1KTFgwRVFfY3FRN3kxT0xjUl8tOWdtU01fTUQ5M1U0RGxYUi14OVYzVGVuSkhuM2NDenFIcTVhRDRpcXc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The New York Times"
+      },
+      {
         "headline": "Larry Bird admitted he had no interest in NBA before joining the league: \"I didn't really follow it\"",
         "description": "",
         "published": "2026-06-24T17:52:41+00:00",
@@ -511,15 +529,6 @@
         "image": "https://a.espncdn.com/photo/2025/1027/r1566619_576x324_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Projecting Labaron Philon's rookie NBA season with Philadelphia 76ers",
-        "description": "",
-        "published": "2026-06-24T17:10:26+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNS0UzSGtpdFZtTm9sQUVYU0ZTc0c3WUw2ZTJhOExpVXR1cnptVTNwMjRxc1p6dlpDcHduODZIM0tVN2lsY0sxbTI0eUt5RTBDTERwaXBRVW9VSmd0MHZWUXBXdmM4MF8yT3J2Q0I2U2JnZ2ZnTk1QNGdaWUk2d2s2am8tcm80b2tVWV9yY1plUQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "Duke's Isaiah Evans among top talent still available after sitting through Round 1 of the NBA draft",
@@ -594,6 +603,15 @@
         "source": "MLive.com"
       },
       {
+        "headline": "NBA draft resumes Wednesday night in New York, where some second-round picks are revered",
+        "description": "",
+        "published": "2026-06-24T15:09:42+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPQldPY05hLWdnN0NISS1kRDZNbEZBZW1sWUZ6VE5saWhhbGc5YllYS2hkY2FLMHg0dUpTUVMwSm5tRmpCcWVmOXA3c3l5Rmx2TlVHNWFHX0p3NkhTT19sLUc0OERvM2xMc3lJb2lPcjR0bkdoYWJwLVA3dXRaU1JqQ3Q5TEFaTmNrV2pxWFlFWTBUeHdreGJONlJtNHJ5RnQwZlg2eU1tR2dldTlqaWJYdHNyLVlNX0ppMm9j0gHAAUFVX3lxTE5udndOZzRvdURzVy1hZTdNbzBqeVBwY21EcENSWUk5cVNkUkk0YkUzamlBenVsUDV5NGZYakF6N2VzaFdyN2tNdU14a2FOUS1DMnhfcTNpblBSUjRFamRMN0VWOWdkWEJyaFZhNkdxWGE0M19DSE1ScUdFNmFwT3ZLTE1oUFRyU2o2YlA5cWhzM2swd2dUVzZ5M3RCU0xqY0RsOHVpVmJ0NXdvMGNzUHBlN1YwZDk0TlczdTZ1ZFlqNw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "WWLP"
+      },
+      {
         "headline": "Wizards No. 1 NBA Draft pick AJ Dybantsa Jr. has high hopes for rookie season in DC",
         "description": "",
         "published": "2026-06-24T14:57:14+00:00",
@@ -630,22 +648,13 @@
         "source": "CT Insider"
       },
       {
-        "headline": "2 UConn Huskies hear their names called in first round of NBA draft",
+        "headline": "Top NBA picks are now on the clock to become franchise saviors. Blame it on Wemby",
         "description": "",
-        "published": "2026-06-24T08:39:54+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWlBNd1dTZzlkRG9TbWJNSjdOd01MdDNoTDZSR0NQX3plYWJvVlVMQVhtZjdkUHdwdXdhN0JOM1EwamFHVTNOLVNqcld0a1N4Tm1WcXR1NGptS1dLaTlGOHFiLUtnWlY2NUJlZ2hOVWstN1pWVVhweWF1dmh4a3Z1R0phRlJtSEpqNnF2cFo4N0ZKazdJOUsyUEtoandWMmNnem02THJwdDNVRkE0ZHpn0gG0AUFVX3lxTE5OMXVOVnlGalhSVWlYQy1fV3VzVEhQQkR1Z3dJc3Y5Y0FCeEt5Y1VqR2RwcnRWVkZJX2JxZnh6WEUwSmdNLVJMRU5kMGNrY1BmWG1DaWtUby0xbmRyR0Z1Q0tWUXlacXRmNTBIY3FSSF83bjAwUktnc1ZzY09aWFJCVXYzRDRiNDdWQS01blB2SkFRM1A4Vmdud2xic2pYaDhmQlNhbURfUFZHVUtUOTdmR1o3Yw?oc=5",
+        "published": "2026-06-24T09:00:59+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNbEZiOW5Yd0R4QWw3cFBfNFhoYkJ3NFF0MmtNVnVFUTJDSERTV3MzTEFTS1ZXOExLa19ZdFJSRjhOQ3BvWkVNV2c0VWFIZ2lSWElQSklxUWpSRHZDRWRITF9Sbnlsb3VvY3MzSlVSRjFQUUpBdHNSNlllQm4tXzlpbnV4VS1MQ2ktbGp5VmprQ3RyUG5OajFIYnpzNA?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "WTNH.com"
-      },
-      {
-        "headline": "\"I'd cry. I'd contemplate retirement\" - Stephen A. Smith hilariously reacts to the reality of NBA players leaving South Beach for Milwaukee",
-        "description": "",
-        "published": "2026-06-24T07:24:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNOHJzc1NndFJXRDk3TGRtcTBBdjBzU0V4YXN0T0NPZ0dDYmxOZk1FMWtNR3VzTnZwdVhzOUFWclVGMjE0MDV4SjNVcDhPenlUejliUTE4M2hKdWVLRUNUVm1ibDVSbkRZOUVzZmoyNUpkUUthelpBdUFlSWxjVzR1cjlMTmhpbnhBYk5WLWdMM3BJN2psT0xWVHVBR0JiZXdUYUFMX0VXYjY0YmlHSmhPcmVNcWdFcXFHbGhJU0JvZWFtcmUySzFzVXI5TEt3VDBnV29EX2t4LV9QUmt6?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Basketball Network"
+        "source": "The New York Times"
       },
       {
         "headline": "2026 NBA draft: Round 1 winners, surprise picks, questions",
@@ -673,15 +682,6 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "NBA Draft 2026 results: Grades, analysis, fits for every first-round pick - The Athletic",
-        "description": "",
-        "published": "2026-06-24T04:39:51+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaWppVkJDVWs2Y29JSGRJWGNqOC1IYWVzc1Rwa21JN2tsLTFyZnB0NTF2WXJGRjlaRGczTGZuUEVVVTNPY3E4MzVmcFZETXFNV0FVbHNwa0lFaUhIS050QUNlRFEtZFpwMERHdEU2aGcyWTkxOUFfcXFSSmNZTEtlVGNBTks3NXZMaU5GSnlqeXNZb1lTMzQxU0hOajhVSjluZUtN?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The New York Times"
       },
       {
         "headline": "AJ Dybantsa is the No. 1 pick on a big NBA draft night for freshman stars and Michigan's champions",
