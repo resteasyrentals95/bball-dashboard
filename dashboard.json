@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T22:43:40.755413+00:00",
+  "generated_at": "2026-06-24T22:59:19.958594+00:00",
   "duke": {
     "news": [
       {
@@ -28,6 +28,15 @@
         "image": null,
         "recruiting": false,
         "source": "CBS Sports"
+      },
+      {
+        "headline": "Duke Tournament of Champions Summer 2026 \u2013 First Round Pt 4",
+        "description": "",
+        "published": "2026-06-24T16:44:30+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObWpBZEF4cXVZb3hfeGxvamROcHk3QURDaUhTaTRZMnlwM3RGYWlDaHVxeGdUeGV4NWM2QTBBeGJ0MHhKR3hZTWxXNV9DbElZUGpVaUNveW9OU0dhMHJjZ1ZtZFY1OXoxa1lFOV9yN2c3bGl4NTlPMFZyYTJ5M1JYMjQ3dVgwQkJ4RkptaFdQQlZNZTZFVEwxMy1ibUNEdWNud3lIX2pBM0o2NlljWENlN2w2UU5GcHh2U1E?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "247Sports"
       },
       {
         "headline": "Kentucky maintains lead over Duke in all-time NBA 1st-round draft picks after 2026 draft",
@@ -82,15 +91,6 @@
         "image": null,
         "recruiting": false,
         "source": "AP News"
-      },
-      {
-        "headline": "2026 NBA Draft Round 2 sleepers: Duke's Isaiah Evans, UNC's Henri Veesaar among best players still available",
-        "description": "",
-        "published": "2026-06-24T05:12:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOOGFYQllTSVZtRm9udmRmSXZTWktvV2dsV0QtVHBFR1NhNkFnUjFtc0d2WkZaanFxcml6TkxkMnNLWXppaXJqelNFWk85emt0a1lzaHMwdVZSdWRBZWZtSW16ODFBcW5iTGlWWV9laEN1ZDFvUFR6SWZHOHcxVE5fdG9hR1FkYWxnb3VMVzIwY1lzVG5MSl9TVGZFQ0cwYnIyX3FWM3NGRFZhZkMwOGc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "CBS Sports"
       },
       {
         "headline": "Which colleges have produced the most No.1 NBA draft picks?",
@@ -165,15 +165,6 @@
         "source": "Sports Illustrated"
       },
       {
-        "headline": "How Dusty May's Departure Affects Clash With Duke Basketball",
-        "description": "",
-        "published": "2026-06-23T10:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRGdmWDR1OE44VHA4T3U3RmpvRkVleGMxZkJmS0g3VU9CRTRhS0Z0QXZnM3dvbk92OG12QmpEQ2JuczBTRVh5NU9OOVRBMVZ3bDJXVDJoZk5tanByRDVkcG9WTXZmZkphNFlsZkxtSmpUdHlrX1F3S1dTMGxjM09jVThVNUJJWXBHeFlzdl9CeVlpX0k2cUJr?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
         "headline": "Which NBA teams have drafted the most Duke basketball players?",
         "description": "",
         "published": "2026-06-23T09:01:00+00:00",
@@ -208,6 +199,15 @@
         "image": null,
         "recruiting": false,
         "source": "Bleacher Report"
+      },
+      {
+        "headline": "What Dusty May's Departure Says About Duke's Jon Scheyer",
+        "description": "",
+        "published": "2026-06-22T15:05:43+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS3dRbFlCUEh0akNpQXlKRjZLclhybk1rOGdmQnVNOWJDdlRJeWl3amtrYjdMVlZSWENQb1A4cWhIWjVEbWNsd3E1T1UyZmJnb2xFRFFoWUNOZFVRQ1prb3MyRnBNVHUxendPbzNJcjAteGZ1aWZpVGRwMmJTanlOZ0t1RjBvaDEzODF2T1pjT011OEdQREE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
       },
       {
         "headline": "Duke basketball adds Washington State to 2026-27 non-conference slate",
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "How does former UNC basketball star fit in with new NBA team?",
+        "description": "",
+        "published": "2026-06-24T22:45:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbzc1aDlxdXhNVXJMOVNYVjRjTmcwUXNwdDBLeWZmLS1sN1FveDdjWWc4aTM2a0d1cjAwc2ZMU3AwOEdSQlM2RzNFUlRudWR6WmhnbFZqckJTVEpjR3ZJM1RRNlg5WC1wRVNHRmpNT0NKTjdOTXZGLVBiNFRKaGpvbDNYdTE5aGhCdFVlV1FrbVBuMDh5V3JHZDFzQm9yeXAwVUI4TXFZQ0d5c3pfYW9UXzdHeFJMUnpDMERHUUloaWl3VTVQc2IxcnEzQ2Nia2dYRUhwZ0hUQXdRQW5LbmtwTmxsX29wTUhfN3ZocExFNzFhd25FRlQ3THVR?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Tar Heels Wire"
+      },
+      {
         "headline": "Bickerstaff: Nori's contract with Portland a 'slap in the face'",
         "description": "J.B. Bickerstaff, coach of the Pistons and president of the National Basketball Coaches Association, calls the structure of new Trail Blazers coach Micah Nori's contract a \"slap in the face to our value.\"",
         "published": "2026-06-24T22:41:26Z",
@@ -547,15 +556,6 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
-      },
-      {
-        "headline": "Michigan basketball makes history in NBA Draft: 'It means everything'",
-        "description": "",
-        "published": "2026-06-24T19:19:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSGcwblcyLXRXVzNja2RWTmdLRENIZ0tqYVBqX3JTQ2EzSElQbFpudUVCcTNuX0xwX29QZV9Ia2paRFMxYXR2bGVaVEZJT1ZTOTlyTHc4SkJqNkxTLXdGX1RzcmFGRzdLUEJtV1VPMXdvOXFMRm8zdWV4Q2lqQmlnWFhKdzV3MlJRVS1fYWx0T3BlTXc3Z0dScXl0dl8telpYYXh2eTdESG1tQXRWa3NPRDNCN0FDeVRXWkxRTk5ZX3J6czZjRmpEMnpOYmZyeUpCa1A2R1haaDRYdkhucDIyQWRQczMzNzB0SXlDMVlmTnNGMzZ6WnVzdmNpS0stUQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Detroit News"
       },
       {
         "headline": "NBA Draft 2026 winners and losers include Dybantsa, Peterson, Boozer and \u2026 fans?",
