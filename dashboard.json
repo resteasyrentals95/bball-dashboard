@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T20:12:49.237694+00:00",
+  "generated_at": "2026-06-24T20:27:54.449151+00:00",
   "duke": {
     "news": [
       {
@@ -165,15 +165,6 @@
         "source": "Sports Illustrated"
       },
       {
-        "headline": "How Dusty May's Departure Affects Clash With Duke Basketball",
-        "description": "",
-        "published": "2026-06-23T10:00:01+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPRGdmWDR1OE44VHA4T3U3RmpvRkVleGMxZkJmS0g3VU9CRTRhS0Z0QXZnM3dvbk92OG12QmpEQ2JuczBTRVh5NU9OOVRBMVZ3bDJXVDJoZk5tanByRDVkcG9WTXZmZkphNFlsZkxtSmpUdHlrX1F3S1dTMGxjM09jVThVNUJJWXBHeFlzdl9CeVlpX0k2cUJr?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
         "headline": "Which NBA teams have drafted the most Duke basketball players?",
         "description": "",
         "published": "2026-06-23T09:01:00+00:00",
@@ -235,6 +226,15 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Some Duke Basketball Summer Videos",
+        "description": "",
+        "published": "2026-06-22T13:06:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdGdOczAwdEQxcUhsX0cyWkx4b0tmODc5cURBQUVSR2xCcWRFeld5NzFrRnpKbDRrZG9lTGFjamdXLTF4bDB1RlBxYzVXU25HYnhPYWxhQXYxZTcwaGlnSTB6M0ZEUjFITWZpLVdKQ3pYeEU3dlJNZU8zRUt6a3kwSFBhVWdXTjlQZ3c?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Duke Basketball Report"
       },
       {
         "headline": "Duke Recruiting: Double Kyries?",
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "NBA betting: One bet to make - and another to consider - in the Rookie of the Year race",
+        "description": "Coming out of Tuesday's first round of the NBA draft, Andre Snellings pinpoints the bet to make on 2026-27 NBA Rookie of the Year.",
+        "published": "2026-06-24T20:26:28Z",
+        "link": "https://www.espn.com/espn/betting/story/_/id/49166763/nba-draft-betting-first-bet-rookie-year-cameron-boozer-aj-dybantsa-darryn-peterson-caleb-wilson",
+        "image": "https://a.espncdn.com/photo/2026/0624/r1678841_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "Live NBA trade tracker: Updates for every deal of the 2026 offseason",
         "description": "We have the updates, including players and draft picks, for every NBA trade made this summer.",
         "published": "2026-06-24T20:04:15Z",
@@ -502,6 +511,24 @@
         "image": null,
         "recruiting": false,
         "source": "KIRO 7 News Seattle"
+      },
+      {
+        "headline": "\u2018Super blessed\u2019: Karim L\u00f3pez makes NBA history as first Mexican-born first-round draft pick",
+        "description": "",
+        "published": "2026-06-24T19:44:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2VEekJqcGhRWV83RHU2cXI2cE9MN3JQd3VIZi1FWUVQNF9OVWIxZlUtRjZWRmhMYkZBOEtBN2JVbW5OTEl5RGV5OWFSMExtT0h2MmNWcThlVENSa19HbXZBQ1djaUtsQTkxblQyU0d1NGlSaVNIZFNSWk13bTVFY3VWaDVQaDRlcXRXMmdRRlNBSk1DYVhXWnVHck9BcVRaNkMzaUhMNHRfeHBhZ2M3MUVfSC1fcUh5V2ppaTg1a2Q?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Los Angeles Times"
+      },
+      {
+        "headline": "OKC Thunder NBA Draft grade roundup, mostly praise for Aday Mara, Bennett Stirtz",
+        "description": "",
+        "published": "2026-06-24T19:23:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNdTBfejlfY3lrbHlEUmNfV3pxc0VQLTZGYWtRemVNVXhHbzh5NXNRenhBRl95bi0xQVlTRnJ0SWl5X0NwdG14dmhYLW9BVGdoVU4zdnFKX19hc1FaTUt2c2Uzby1oNHpVbUpBMi1oNnE0LVV1LTJsM0EzdVI1TFRQRFNR?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Michigan basketball makes history in NBA Draft: 'It means everything'",
@@ -529,15 +556,6 @@
         "image": null,
         "recruiting": false,
         "source": "The New York Times"
-      },
-      {
-        "headline": "Larry Bird admitted he had no interest in NBA before joining the league: \"I didn't really follow it\"",
-        "description": "",
-        "published": "2026-06-24T17:52:41+00:00",
-        "link": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQeTdsT3cwcXVkVnR4eGxGdWtneXVETjlieVVqa3NEWklveEt5aXprMnRjdXJIWlpKMGpOT0cxWi1iU1FxVXRHRHpFaUJQb1JUYktDZTg4SGZrUmRjanRpc2tlM3p3LTRiZmd4NVFJMC1XQmdlR1ROZ3h6SXQ0THlQQg?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "2026 NBA free agency: Grades for offseason signings, extensions",
@@ -718,24 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
-      },
-      {
-        "headline": "Darryn Peterson Goes No. 2 in 2026 NBA Draft - University of Kansas",
-        "description": "",
-        "published": "2026-06-24T01:02:41+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOQWg3WW5fOGtpbEZYM1FUVV9ZUlJZaGFUUXFfbW5QUXlMSDVuZ0JOUDQwQnVFNmsydVBldTZwdndwYTR2aTZqVUlsNTB5LWk2NTRWYmtMM2VJZHI3WFcybmNoNXBXcGlSQVVnYVVFd2I1a1J1LTh2aW1BSzZCSnFqblBIVUFUMlk2M1ZDR0NZeWRfSEs2c2ZIcF9jTXpHTWM?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "kuathletics.com"
-      },
-      {
-        "headline": "Bulls Pick Wilson 4th Overall In NBA Draft",
-        "description": "",
-        "published": "2026-06-24T00:57:25+00:00",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5helBadENaYkZPY1BsNl81aC1ndzAzSWl5TnNpdXpCd1ZYNlpHdWYwS1BSVk5YWDZiRXBhLVRxX2FZNnRpVjU1NjV5VGw1YWZxaUh6ZHlaNk45U2sxWFZOTy1ianl4bVlXa2N0UHBRX1VKcmhaUWVSWUxOUQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "University of North Carolina Athletics"
       }
     ],
     "games": []
