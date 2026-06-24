@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T15:40:20.153277+00:00",
+  "generated_at": "2026-06-24T15:55:25.934659+00:00",
   "duke": {
     "news": [
       {
@@ -486,11 +486,20 @@
   "nba": {
     "news": [
       {
-        "headline": "2026 NBA draft fantasy outlooks: Breaking down which rookies you should roster",
-        "description": "Andre Snellings identifies the 2026 NBA draft picks who are worth rostering in fantasy basketball next season.",
-        "published": "2026-06-24T15:34:56Z",
-        "link": "https://www.espn.com/fantasy/basketball/story/_/id/49165332/2026-nba-draft-espn-fantasy-basketball-rookies-lottery-picks",
-        "image": "https://a.espncdn.com/photo/2026/0624/r1678755_1296x729_16-9.jpg",
+        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
+        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing ahead of free agency.",
+        "published": "2026-06-24T15:50:15Z",
+        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+        "image": "https://a.espncdn.com/photo/2025/1103/r1570365_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Sources: Lakers' Reaves intends to sign a 4-year, $185M extension",
+        "description": "Lakers star Austin Reaves intends to sign a 4-year, $185 million maximum contract to return to the franchise, with a player option for the final season in 2029-30, sources tell ESPN's Shams Charania.",
+        "published": "2026-06-24T15:44:31Z",
+        "link": "https://www.espn.com/nba/story/_/id/49166079/sources-lakers-reaves-intends-sign-4-year-185m-extension",
+        "image": "https://a.espncdn.com/photo/2025/1027/r1566619_576x324_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
@@ -522,24 +531,6 @@
         "source": "Sports Illustrated"
       },
       {
-        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
-        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing ahead of Round 1 of the draft.",
-        "published": "2026-06-24T14:56:18Z",
-        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
-        "image": "https://a.espncdn.com/photo/2026/0201/r1608997_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "'The Hoop Collective': Episodes of Brian Windhorst's NBA podcast",
-        "description": "Here are the top highlights from Brian Windhorst's \"The Hoop Collective\" podcast, from breaking news to the latest intel and reaction from around the NBA.",
-        "published": "2026-06-24T14:40:05Z",
-        "link": "https://www.espn.com/nba/story/_/id/47168192/the-hoop-collective-latest-episodes-brian-windhorst-nba-podcast-archive-best-quotes",
-        "image": "https://a.espncdn.com/photo/2025/1112/r1574751_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "Duke's Isaiah Evans among top talent still available after sitting through Round 1 of the NBA draft",
         "description": "",
         "published": "2026-06-24T14:39:00+00:00",
@@ -567,22 +558,13 @@
         "source": "NJ.com"
       },
       {
-        "headline": "Why Jeremy Fears Jr. chose Michigan State basketball return over NBA",
+        "headline": "NBA draft 2026 first-round winners and losers: triumph of the tankers and the Jalen Brunson Effect",
         "description": "",
-        "published": "2026-06-24T11:12:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPNkZnOUpOdE9aZG0yNmg1WTNNdlNjcnRQYTk0MjJaakVXZVRZcFpMay1pdnpzZE1VV0lfMndWdFZDaXhBSHdWM2tDRXF6UWxlNkVyalY4dXJPdzhVT01LOGRRa3lMTWltMnZ2NG5FVEhYdWFtcF9QNE1weUR1cDJWdlZvOHRWRjFoR0ozR25fbGp5WUJ0R1lWWFZUeE53emkzVEJIWkhHeFpHUGlVMVBxLXZBRjMtVWstNWJPVk04SUdvMUlKdEcxdklhMVljMVdyS3VXN2pkYlFlN1ZJMnBtNnY4dl9nU1pnTG9lMjZ2RnNEajZ1ak9WckJ0S3lFeEE?oc=5",
+        "published": "2026-06-24T12:28:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZlpPeFFEd1BZcU1YdlozSUFuamVWUml3NTNxSHprakRfQnJQaENZc1VIUlRKZVkzTWI0THRjeHh3N3pSQklHY2NxRFBPOFpQckFlNzRMYVJmbDktUzhhSkNrSDZ4ZkVxWVVNN3BqWHpoQ1Y4c0JiYzduSDY3ME5tdVA5SGdsbzZNNjJlanlaWVowWldkLXFvd0dTcjQ5Qkd4MlhqNzU2bjE1a1NNRm13bHU0SjRGM3dvOEphTHNiQ0I4QXNOZzBqX2ZrN0lhUmZIdzd0OFd0VFlXWk0?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Detroit Free Press"
-      },
-      {
-        "headline": "Five Thoughts On What Bennett Stirtz's First Round Selection In 2026 NBA Draft Means For Iowa Basketball",
-        "description": "",
-        "published": "2026-06-24T11:03:59+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPUllHNm5QMTRxUldNcWFnZ0EwVEdUUlk5dkxWamNHdE9RRDFVZkFUdEJBb2lrd1ZGNXpKUUhyLWJLWkJ3U2ZyTnRuMGtnblpnYUZUOWxHa0pXVzJQRUdYakhQVFg3ZHFxODhGTmhORmhlejR5R1Vmb2xBRUVLb3E4RDczNkMxaVZZc2pzaEVPWWdGdXVicF9MRmF1Y1M5RjRtdkRha3NVcEczZDByOVRlNkRKRU9iazVsN3lJMnpGZDNLdnl5VGRVMUItZjdOd25iSlkyVHl3NC01TllUVC1mbHMzVmdNSDVDYlg0Zw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "247Sports"
+        "source": "The Guardian"
       },
       {
         "headline": "3 Things to Know About Raptors NBA Draft Pick Allen Graves",
@@ -729,6 +711,15 @@
         "source": "The Seattle Times"
       },
       {
+        "headline": "2026 NBA Draft grades: Fantasy basketball fit, analysis for each lottery pick in the first round",
+        "description": "",
+        "published": "2026-06-24T01:48:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNSnlDeU8ybkNkeG1IN3haRTdwMVhkMGRWbU1LUmRlMzZxdWRISk1kODdzSFhiclRLSm5jYjJpWFV0NkF2Z0l2cTdWbnFma0JpRTZJMGtlaHNnNndzcGljaU1la3lNVzU1OUxjZGxKT0hyc3Jic01VTjJ0ZmdjWkkySGs2RXhjcGVNdFFRUWpBOGFzY0hMaWN4VzBaRHdYN0FxWG9XUkVTaDU1UE1Ocklod2VOelpYekthUThxdjhUeWFxcko2eEduT1ByaE55RnJvZEdDaWxTenJlREthWEpudTA0N00?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "Brockton native A.J. Dybantsa selected first overall by Wizards in NBA Draft",
         "description": "",
         "published": "2026-06-24T01:45:00+00:00",
@@ -736,6 +727,15 @@
         "image": null,
         "recruiting": false,
         "source": "WCVB"
+      },
+      {
+        "headline": "Michigan basketball makes history in 2026 NBA Draft",
+        "description": "",
+        "published": "2026-06-24T01:32:34+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNRk0xQmpuVkdKYzhLNmprM0hzS3NaQ1BiYUNlbkpFVHdkM0dWSGJ3bmxzOUFscW1JdnlibnR5SW1uMjVWQWdHZGtUTEpWQVhtVUJ2RDd3LUl3cmZ4N1FULUYxa2VvdGRjTTBnSEhkeVJROGZtc2pQU09OWTM2MmhNZ09iTF9teXRKSDlrcUtMS1RfM3dIXzhCaVhkWlliY1U1d1EzR0gxVV9VaWVNWHZpRkdSWHhtc3M0MGRVX0lIOU92LV9OYm9rQlVvVHpqUlNtazBoSWNPUQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Detroit Free Press"
       }
     ],
     "games": []
