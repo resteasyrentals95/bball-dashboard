@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T15:55:25.934659+00:00",
+  "generated_at": "2026-06-24T16:18:50.912760+00:00",
   "duke": {
     "news": [
       {
@@ -120,6 +120,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "One Michigan Player Duke Should Target After Dusty May Departure",
+        "description": "",
+        "published": "2026-06-23T13:00:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVXI4eG9kbXR3U0lYbFluWTVRUVZzaWlJSGUtem9MRGtjcW1jRkZKN3AtZU52c0dHTk83d21Dc3N2M1VNVXl6VVFIX3oyZ3B2ZVFQbktMN2hxWDNoUFFNemZDdmpZY0lRM0xNeHR0NVJTWlA0azhIb2FtdWtQNVZSM09BQ0pPX3ViczZiLVZDMFVkdmN4N0V4Q3dRNHAydw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
         "headline": "How Scheyer Rejecting Mavericks Saved Duke Basketball's Season",
         "description": "",
         "published": "2026-06-23T12:00:03+00:00",
@@ -181,15 +190,6 @@
         "image": null,
         "recruiting": false,
         "source": "USA Today"
-      },
-      {
-        "headline": "Duke basketball adds Washington State to 2026-27 non-conference slate",
-        "description": "",
-        "published": "2026-06-22T14:19:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTUVlTk9Ic3dQcldoRlBNekcyaW9OTlp6eG4wZHBfQmVPWW1LN3RSZThDdHJKbXVQN3FBS1pUa3hrMW5LR3V0bkdsV2N4aXRnQUNrYXNNNGFWTzA5MWN6ODJGNGRQeTRaRkVrTldMeFJ6bndubkhmdkprRDAzMy1WU2pvbzFpY3VyYzVkbVhyTEM2bFJQY2FGeEtKSHhzbjhyb0FsMjFjakxvRkotOWI2REdYbEE3ZUpVMGJiRlk5cnNyN1AxVzFheWdnYnZ1bi1BV3pGSXlSeFBWLUQxX3c?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Fayetteville Observer"
       },
       {
         "headline": "Cougar Men's Basketball Will Face Duke in 2026 Acrisure Series - Washington State University Athletics",
@@ -486,6 +486,33 @@
   "nba": {
     "news": [
       {
+        "headline": "Sources: Lakers' Reaves intends to sign 4-year, $185M extension",
+        "description": "Lakers star Austin Reaves intends to sign a 4-year, $185 million maximum contract to return to the franchise, with a player option for the final season in 2029-30, sources tell ESPN's Shams Charania.",
+        "published": "2026-06-24T16:16:09Z",
+        "link": "https://www.espn.com/nba/story/_/id/49166079/sources-lakers-reaves-intends-sign-4-year-185m-extension",
+        "image": "https://a.espncdn.com/photo/2025/1027/r1566619_576x324_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Duke's Isaiah Evans among top talent still available after sitting through Round 1 of the NBA draft",
+        "description": "",
+        "published": "2026-06-24T16:09:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONUd1ZVdIOXZmcWxKc3h0QVFmT0pvSXg2VTZ0eHFKTkJEQlNBdTh0d0h4TFMzb0hJSDFMc0Y2aWc5Zm1IVklqRUNaVG9zVUthdmNyRmVWY01JdHVhS3pfS1NaVW1YSGFfUDV1YVEyMV90MUYzLTV2aHF1VWJJc2trTXhQVmVIejdrUWdXcmt6VVlVM3o2NENsdzA5VWkzUW10NzBUTFlfZXoyRElvcEtIZHNJMDBhR2haSGZSX3NUSTVxWER3ZlV0MkF5VlNtQQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Washington Post"
+      },
+      {
+        "headline": "Derrick White is latest NBA player to take college front office role",
+        "description": "",
+        "published": "2026-06-24T15:51:46+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQV01nNU1ESjdCVU9WTG9IWXdRUU9MNEZyN1hINHo0M0owdm5iSE03TVMtaURPMXF0YkFXejhzcF91dlNmX1MxRWRPVlRRNk1lUjVFWUdvYllyZ3RSQ1VLOUJyM0pMRnRnaG5zM2tDdV9yVzY5eWNNTDY4TlpLRmw3UmlJT1JpbXc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
         "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing ahead of free agency.",
         "published": "2026-06-24T15:50:15Z",
@@ -493,24 +520,6 @@
         "image": "https://a.espncdn.com/photo/2025/1103/r1570365_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Sources: Lakers' Reaves intends to sign a 4-year, $185M extension",
-        "description": "Lakers star Austin Reaves intends to sign a 4-year, $185 million maximum contract to return to the franchise, with a player option for the final season in 2029-30, sources tell ESPN's Shams Charania.",
-        "published": "2026-06-24T15:44:31Z",
-        "link": "https://www.espn.com/nba/story/_/id/49166079/sources-lakers-reaves-intends-sign-4-year-185m-extension",
-        "image": "https://a.espncdn.com/photo/2025/1027/r1566619_576x324_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "How experts graded Michigan\u2019s three first-round NBA draft picks",
-        "description": "",
-        "published": "2026-06-24T15:12:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV0lRelc1OGlSU3B3ZUlrRXpFT3hLaFpGR19aYTM1aFZwM05rZlNyZV9nWTg3MEFaZ2hJbUdvRTk4R0JPZnVCc3F1VDd5VkU0bTJ4MkJKNi1sdElWRlpWZUhnWnRQYVJUN2EzdXVDNXJkYXVQdUFCUzRBdktncU9uWG9TNW5MTkF2aXcyVUtjbm5GeXowajV6OEZDZVdoMGd3cTlUMnRZaDRxcXNmQ0E2dTBXY1VTaUgtUkVR0gHPAUFVX3lxTE1RMGtSSFl6QzVKVHpaelhQbTZxdy1kblZDX29GcWNXaGtSN2haTEZUQk8tTjJncERGaERZejVrQmcxQ0pUVkZMZDVYRFZMdTBKeWZhWlFFNlJJMWJjLXNvSVJOMThyakp3SlpENmxxb3R4UnlXb2tYVFBDc1hUR3M0UzlmdC1NUHhDb0w0ZzV6VklVSF9NaGo0SGxHajJRSFM4aHMwZmxLYTFuSFAyOE9yV0JlWExaTnA1cndtcEJvWDR3VzJrMHMtU19YaFRMOA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "MLive.com"
       },
       {
         "headline": "NBA draft resumes Wednesday night in New York, where some second-round picks are revered",
@@ -524,29 +533,11 @@
       {
         "headline": "Fantasy Basketball Focused NBA Draft Grades for All First Round Picks",
         "description": "",
-        "published": "2026-06-24T15:08:59+00:00",
+        "published": "2026-06-24T15:07:30+00:00",
         "link": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNem04OXZqSk9LMmFDT0QtNUhjTW5XdlptZ19jWUZMRnY5WXJYSVd4SjJjOWVwZG02eWlGd1Q5dmNsZTd5S1c5cXpTSUxnZ3RDSDg3MmNMOUE5QWxOTk9hYjVkN2RhdW5Jc2ZrcThtQnNFd1BOUG1GdXNwVGhLSVdlREZaTnZaeTlUcTBLVFpxbVFCQQ?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Duke's Isaiah Evans among top talent still available after sitting through Round 1 of the NBA draft",
-        "description": "",
-        "published": "2026-06-24T14:39:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONUd1ZVdIOXZmcWxKc3h0QVFmT0pvSXg2VTZ0eHFKTkJEQlNBdTh0d0h4TFMzb0hJSDFMc0Y2aWc5Zm1IVklqRUNaVG9zVUthdmNyRmVWY01JdHVhS3pfS1NaVW1YSGFfUDV1YVEyMV90MUYzLTV2aHF1VWJJc2trTXhQVmVIejdrUWdXcmt6VVlVM3o2NENsdzA5VWkzUW10NzBUTFlfZXoyRElvcEtIZHNJMDBhR2haSGZSX3NUSTVxWER3ZlV0MkF5VlNtQQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Washington Post"
-      },
-      {
-        "headline": "Kings Move Up in NBA Draft to Land Alex Karaban From Cavs",
-        "description": "",
-        "published": "2026-06-24T14:10:16+00:00",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PRzVkVk5YX0oxUGY2dzRaX3czV1RURFV0VkNoYVduUUY5b0p2cmoxak1zVU1xOTRuVkNBQmZVejhhREh6MWRBMGRYUGJFVF9WTVd0NVZPTFRMTjdCaVdCRU1Wem5ZSGpYTFZ5dHhHWG5WcWV4TEZCbUgtY3NkUDQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "N.J. basketball alum only played 11 HS games. Now he\u2019s a 1st round NBA Draft pick",
@@ -558,22 +549,22 @@
         "source": "NJ.com"
       },
       {
-        "headline": "NBA draft 2026 first-round winners and losers: triumph of the tankers and the Jalen Brunson Effect",
+        "headline": "ESPN updates NBA mock draft for Ja'Kobi Gillespie, Felix Okpara in second round",
         "description": "",
-        "published": "2026-06-24T12:28:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZlpPeFFEd1BZcU1YdlozSUFuamVWUml3NTNxSHprakRfQnJQaENZc1VIUlRKZVkzTWI0THRjeHh3N3pSQklHY2NxRFBPOFpQckFlNzRMYVJmbDktUzhhSkNrSDZ4ZkVxWVVNN3BqWHpoQ1Y4c0JiYzduSDY3ME5tdVA5SGdsbzZNNjJlanlaWVowWldkLXFvd0dTcjQ5Qkd4MlhqNzU2bjE1a1NNRm13bHU0SjRGM3dvOEphTHNiQ0I4QXNOZzBqX2ZrN0lhUmZIdzd0OFd0VFlXWk0?oc=5",
+        "published": "2026-06-24T11:57:24+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPb2d1RmMwN2NUMVhtSWoyUGZpX3p0MW9QRU9VODJ5eTk3V3NUNVpBZDl0NXplQWhJdUF0cFRpalVyQlRnQ0VXeHpaLV9WUWd6OHdWSFFaNmdOTGhuUUFJZWJLS3ZIVUphaWNRYnJOMWVSNllScThacDRtZEREajRoNFZoazE1VlBfMkNqRE9Xd1hueWJ5MDdJTXduY0RfTTU5V3BZWGNNdV9JLTBLSzctMVVUakFUUThNR0c5WjN6THFzd2pHMENTV29GT0ZCWFd5cHZF?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "The Guardian"
+        "source": "On3"
       },
       {
-        "headline": "3 Things to Know About Raptors NBA Draft Pick Allen Graves",
+        "headline": "Michigan basketball\u2019s championship season ends with historic NBA draft milestone",
         "description": "",
-        "published": "2026-06-24T11:00:08+00:00",
-        "link": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1BLXNpOU44bEJwZHRTSGN1RDRDWDBlOXUzcHZPcFdremZhZGtRZVZ5TVJ3NW1KazNlMHVnN2dUeFBQZHRNMkRIVllXMUg1OG5HWm90RzR3Tm1UZ1hjdU1FVDZQcmQxeTVWdjdjWW9aR3Z3YkxPY2MydG9RcVVMSW8?oc=5",
+        "published": "2026-06-24T10:14:10+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNV1lkeWRxUXFZdXhRdjhhZW1DSG8tZzVGTWJ1T1NQMndJRVZiSXoyVW9ZcUh5eS10S0RJdHVLa1BINzVEUWZiN0M4U09temZFYl8tVlo0X0JMZVFEaUVvaGw3YXRXbWNSQlRKOEFnN3VzRl9MSGo0YlRLYU0wV1htclFncmRtaDZLOG03UTF1UjVzaFJnZDJxVGZweEFXX1Zqa3YtM1dmakZXR0RBdnUxdV9zTWJoNFliN19ZdzRXM3F1WS1rU1U0Qlk2NVdrWTh5Q3RPeUVlakEzZw?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Yahoo Sports"
+        "source": "ClickOnDetroit | WDIV Local 4"
       },
       {
         "headline": "2026 NBA Round 2 mock draft: Henri Veesaar, Meleek Thomas, Isaiah Evans go early in second round predictions",
@@ -592,6 +583,15 @@
         "image": null,
         "recruiting": false,
         "source": "CT Insider"
+      },
+      {
+        "headline": "2 UConn Huskies hear their names called in first round of NBA draft",
+        "description": "",
+        "published": "2026-06-24T08:39:54+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQWlBNd1dTZzlkRG9TbWJNSjdOd01MdDNoTDZSR0NQX3plYWJvVlVMQVhtZjdkUHdwdXdhN0JOM1EwamFHVTNOLVNqcld0a1N4Tm1WcXR1NGptS1dLaTlGOHFiLUtnWlY2NUJlZ2hOVWstN1pWVVhweWF1dmh4a3Z1R0phRlJtSEpqNnF2cFo4N0ZKazdJOUsyUEtoandWMmNnem02THJwdDNVRkE0ZHpn0gG0AUFVX3lxTE5OMXVOVnlGalhSVWlYQy1fV3VzVEhQQkR1Z3dJc3Y5Y0FCeEt5Y1VqR2RwcnRWVkZJX2JxZnh6WEUwSmdNLVJMRU5kMGNrY1BmWG1DaWtUby0xbmRyR0Z1Q0tWUXlacXRmNTBIY3FSSF83bjAwUktnc1ZzY09aWFJCVXYzRDRiNDdWQS01blB2SkFRM1A4Vmdud2xic2pYaDhmQlNhbURfUFZHVUtUOTdmR1o3Yw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "WTNH.com"
       },
       {
         "headline": "\"I'd cry. I'd contemplate retirement\" - Stephen A. Smith hilariously reacts to the reality of NBA players leaving South Beach for Milwaukee",
@@ -684,15 +684,6 @@
         "source": "AP News"
       },
       {
-        "headline": "Jayden Quaintance taken 20th by the San Antonio Spurs in 2026 NBA Draft",
-        "description": "",
-        "published": "2026-06-24T02:33:40+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa09BSFB2U3FFLTJGT1J2ZlppM3ktcjN3cEJ1R0o3ZkNfMDdGa0wtVTlGa0JKXy1mU09ONVYtR19wcDVyRkJESGZ2a1ZXZzl0ZzZub3duSW1XTENMUmFXS2c5X3dQUThpa3RzbTN6RlF2N25tZG1FX0plNmlPZWpTM01ZRkI?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "highschoolot.com"
-      },
-      {
         "headline": "Jayden Quaintance Selected By San Antonio Spurs in First Round of NBA Draft",
         "description": "",
         "published": "2026-06-24T02:29:19+00:00",
@@ -736,6 +727,15 @@
         "image": null,
         "recruiting": false,
         "source": "Detroit Free Press"
+      },
+      {
+        "headline": "Bulls Pick Wilson 4th Overall In NBA Draft",
+        "description": "",
+        "published": "2026-06-24T00:57:25+00:00",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5helBadENaYkZPY1BsNl81aC1ndzAzSWl5TnNpdXpCd1ZYNlpHdWYwS1BSVk5YWDZiRXBhLVRxX2FZNnRpVjU1NjV5VGw1YWZxaUh6ZHlaNk45U2sxWFZOTy1ianl4bVlXa2N0UHBRX1VKcmhaUWVSWUxOUQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "University of North Carolina Athletics"
       }
     ],
     "games": []
