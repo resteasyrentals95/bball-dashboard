@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-24T22:59:19.958594+00:00",
+  "generated_at": "2026-06-24T23:17:19.907318+00:00",
   "duke": {
     "news": [
       {
@@ -48,6 +48,15 @@
         "source": "NCAA.com"
       },
       {
+        "headline": "The Grizzlies are about to learn the most important thing Duke fans already know about Cameron Boozer",
+        "description": "",
+        "published": "2026-06-24T13:00:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOSWNMaldMbFlqcDI5NDE4TTV1TFpjUkl6aW9uYU5CQ2VyTDdjRmlJWTlSWWlvblA2dElYWk00RjRFNmFHdXBDX2YxMXNlZEhpcjgzazF3YmkyR2NtMW1hdFNiMHlHVkRsTGlBTDI5eEVXZTNIOW5SSHBscFhVMnk1QnMxZFNYNFk1YnFJYTdtc0wzcjgwSFFZaHF2Q2QwT2ctNjE3SjUtX0s2VkRiS0NBcTMtajJvTm55MFc0QkZKVUtBZw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Ball Durham"
+      },
+      {
         "headline": "Nightmare Scenario for Duke's Isaiah Evans Realized on Draft Night",
         "description": "",
         "published": "2026-06-24T12:15:31+00:00",
@@ -82,15 +91,6 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
-      },
-      {
-        "headline": "Duke's Isaiah Evans among top talent still available after sitting through Round 1 of the NBA draft",
-        "description": "",
-        "published": "2026-06-24T10:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjJzNUdOVXdRSWsyUHdJVWhnbnkySFBFNHpwZjJjaDU4YjNoOHJqUFZldlBmTlNyTHJ4d25rT1pXQndfZGVjWmdfaFhNWDU0QzFLS0FQSXNKMkNubnd0Vm5jV1FHeTFYbjBvQmdfaVNmN2ZWWkloaGM3SjBtTE5RaEZ4VWNaQVNoOXdsQTUtclJ2ZzE1b3lR?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "AP News"
       },
       {
         "headline": "Which colleges have produced the most No.1 NBA draft picks?",
@@ -174,15 +174,6 @@
         "source": "The Fayetteville Observer"
       },
       {
-        "headline": "WSU to square off with Duke to kick off Acrisure Series in Palm Springs",
-        "description": "",
-        "published": "2026-06-23T00:44:59+00:00",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObGx0TFJqREF3NDVkWmZvbjkxM0V1clpMOF9IeXc3cHZmMmhfQjlESGxROEprNV9iU1JUcXZqU3dadEM3dC1uazJuQUdZa1JyRWVzQzRGNjQycjFQdDRKemdzVThmX052ZUI5RWtTblpOMnBwM0RzTlA0TUlIdWI4Wm0zWkwxcU9VTGR3Y1E2NDJLbnNBWXg1M3Jhck1nQQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Spokesman-Review"
-      },
-      {
         "headline": "Dusty May leaves for Mavs. Jon Scheyer stays. Duke trolls",
         "description": "",
         "published": "2026-06-22T16:22:00+00:00",
@@ -253,6 +244,15 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Some Duke Basketball Summer Videos",
+        "description": "",
+        "published": "2026-06-22T13:06:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdGdOczAwdEQxcUhsX0cyWkx4b0tmODc5cURBQUVSR2xCcWRFeld5NzFrRnpKbDRrZG9lTGFjamdXLTF4bDB1RlBxYzVXU25HYnhPYWxhQXYxZTcwaGlnSTB6M0ZEUjFITWZpLVdKQ3pYeEU3dlJNZU8zRUt6a3kwSFBhVWdXTjlQZ3c?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Duke Basketball Report"
       }
     ],
     "games": [
@@ -486,13 +486,31 @@
   "nba": {
     "news": [
       {
-        "headline": "How does former UNC basketball star fit in with new NBA team?",
+        "headline": "Live NBA trade tracker: Updates for every deal of the 2026 offseason",
+        "description": "We have the updates, including players and draft picks, for every NBA trade made this summer.",
+        "published": "2026-06-24T23:15:57Z",
+        "link": "https://www.espn.com/nba/story/_/id/48957844/nba-trade-tracker-details-every-deal-2026-offseason-draft-free-agency",
+        "image": "https://a.espncdn.com/photo/2026/0501/r1651756_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "2026 NBA Draft: Round 1 Losers Stream of National Basketball Association",
         "description": "",
-        "published": "2026-06-24T22:45:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbzc1aDlxdXhNVXJMOVNYVjRjTmcwUXNwdDBLeWZmLS1sN1FveDdjWWc4aTM2a0d1cjAwc2ZMU3AwOEdSQlM2RzNFUlRudWR6WmhnbFZqckJTVEpjR3ZJM1RRNlg5WC1wRVNHRmpNT0NKTjdOTXZGLVBiNFRKaGpvbDNYdTE5aGhCdFVlV1FrbVBuMDh5V3JHZDFzQm9yeXAwVUI4TXFZQ0d5c3pfYW9UXzdHeFJMUnpDMERHUUloaWl3VTVQc2IxcnEzQ2Nia2dYRUhwZ0hUQXdRQW5LbmtwTmxsX29wTUhfN3ZocExFNzFhd25FRlQ3THVR?oc=5",
+        "published": "2026-06-24T23:02:23+00:00",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5OMmJXMWhYLThIcWxmeEtsVUtFWTdhcXNsVXRxQUlrM2pDOGg4TndMTFNKaDFfR1Q1TVlhakN4cFVBV050ZnZSdFQ4STBSX0pWU3JQeTVmQ3NaSmFsbnhjeE80emZhWVlZVEZnSGRwNVRLZHhjTk84YVA1bw?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Tar Heels Wire"
+        "source": "CBS Sports"
+      },
+      {
+        "headline": "2026 NBA Draft: Round 1 Recap Stream of National Basketball Association",
+        "description": "",
+        "published": "2026-06-24T23:01:59+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5yV2xCbFpLdTUzci1WUlQxY3FidGV4Znh4cjhmejJqMk8ySzZnX053eko1NWwtMldxc0hlWDlZWl9tSFY2VlpSSlFPSHF1XzBaZ1B5Sk9yQ3E1TUVTLVRzWlI1RDVfQ3dXY1lWc2w0THY2MUtITlhvV293?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CBS Sports"
       },
       {
         "headline": "Bickerstaff: Nori's contract with Portland a 'slap in the face'",
@@ -502,15 +520,6 @@
         "image": "https://a.espncdn.com/photo/2025/0624/r1510630_600x400_3-2.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "In Case You Missed It: Where Nate Ament Was Selected in the 2026 NBA Draft",
-        "description": "",
-        "published": "2026-06-24T22:31:26+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPcV92aDJraWd4NEhOYjdoWWlWMUY1SXZCRWItNGwwbjdteGd5eWdPM0VvR1JMZTNPMkdsU3YtbjA2QjUxZlVfeTlra0FRUkJQaG0tMVlUM3VzVkIzbVNSMDJYbEQyWmtZTUU2Y3hxblFWOVBjWjUtLU0zd2ZGMjZUc2w1bVVSc1lYd2RwbGVCZ3JpX3hpMG1xUUt2Z19zMHhqV0hSamZkUmo4U19rTXcwZlhITjBkYW40SDNKMWNuOFRsZ2VoaWVuRWprOExScTVzXzhjalI4OA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
       },
       {
         "headline": "Round 2 NBA mock draft: Best available players, predictions",
@@ -531,24 +540,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "Live NBA trade tracker: Updates for every deal of the 2026 offseason",
-        "description": "We have the updates, including players and draft picks, for every NBA trade made this summer.",
-        "published": "2026-06-24T20:04:15Z",
-        "link": "https://www.espn.com/nba/story/_/id/48957844/nba-trade-tracker-details-every-deal-2026-offseason-draft-free-agency",
-        "image": "https://a.espncdn.com/photo/2026/0501/r1651756_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "2026 NBA Round 2 mock draft: Henri Veesaar, Meleek Thomas, Isaiah Evans go early in second round predictions",
-        "description": "",
-        "published": "2026-06-24T20:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9zdXRXRXZtcEZPQUQ0d3Y2Y0ZpQ2Q3Y29ZVW9oS1pnNW93dkU3cVpPY0pMekpFUFV1ekE1eWQxMlJiWEtReWdkT2UwQWdOOFRWYjdaWDV0SXdGWlVWcWVPSmFCOHdnRjhocy11ejhBY190ZmRGdjlQeDRB?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "CBS Sports"
-      },
-      {
         "headline": "'Super blessed': Karim L\u00f3pez makes NBA history as first Mexican-born first-round draft pick",
         "description": "",
         "published": "2026-06-24T19:44:02+00:00",
@@ -556,6 +547,24 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
+      },
+      {
+        "headline": "Live Updates: 2026 NBA Draft | Gearing up for Round 2",
+        "description": "",
+        "published": "2026-06-24T19:23:54+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yUGdqLUw3OEJTaWdOdk9CSDRNbVdvQ2xjUWJ6RTZFR3RMVlo1X3Q5dTFScmU4d3NTdG0wb3I1aERaUVdqMXNOZ3d2b2RyeHM1QUtjbTh3dw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
+      },
+      {
+        "headline": "Michigan basketball makes history in NBA Draft: 'It means everything'",
+        "description": "",
+        "published": "2026-06-24T19:19:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQSGcwblcyLXRXVzNja2RWTmdLRENIZ0tqYVBqX3JTQ2EzSElQbFpudUVCcTNuX0xwX29QZV9Ia2paRFMxYXR2bGVaVEZJT1ZTOTlyTHc4SkJqNkxTLXdGX1RzcmFGRzdLUEJtV1VPMXdvOXFMRm8zdWV4Q2lqQmlnWFhKdzV3MlJRVS1fYWx0T3BlTXc3Z0dScXl0dl8telpYYXh2eTdESG1tQXRWa3NPRDNCN0FDeVRXWkxRTk5ZX3J6czZjRmpEMnpOYmZyeUpCa1A2R1haaDRYdkhucDIyQWRQczMzNzB0SXlDMVlmTnNGMzZ6WnVzdmNpS0stUQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Detroit News"
       },
       {
         "headline": "NBA Draft 2026 winners and losers include Dybantsa, Peterson, Boozer and \u2026 fans?",
@@ -567,15 +576,6 @@
         "source": "The New York Times"
       },
       {
-        "headline": "Mitch Modell ripped retailer\u2019s new owner during Knicks\u2019 historic NBA Finals run: \u2018You blew it. I hope you choke on it\u2019",
-        "description": "",
-        "published": "2026-06-24T18:28:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVEh1M2s4bkZjYmhQRVpDanQ2V1JzYjFGQ0ZJbFJDSm56WVNaSWl5Q19xV1EteXJNbldUbXBHV0tuWmFVMFQxWjVaang2VFVsdllPLXlVTGxxSFNLMzNjNzhJV0pfQkU2Q2NWZzhoUW9yMkJ1ekZfQnpjWnphdm9kTnlVdG1mTzdZR01RU2RhVWtpWG9yZVZfam8tV09OUG8tSXRxWTI5LVJieGZvV3JwVm1rb0MtcEhvM2ZlNg?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "New York Post"
-      },
-      {
         "headline": "2026 NBA free agency: Grades for offseason signings, extensions",
         "description": "We're grading the biggest NBA free agent signings and extensions, including Austin Reaves' new deal with the Lakers.",
         "published": "2026-06-24T17:34:49Z",
@@ -583,15 +583,6 @@
         "image": "https://a.espncdn.com/photo/2026/0508/r1655202_608x342_16-9.jpg",
         "recruiting": true,
         "source": "ESPN"
-      },
-      {
-        "headline": "Duke's Isaiah Evans among top talent still available after sitting through Round 1 of the NBA draft",
-        "description": "",
-        "published": "2026-06-24T17:01:05+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONUd1ZVdIOXZmcWxKc3h0QVFmT0pvSXg2VTZ0eHFKTkJEQlNBdTh0d0h4TFMzb0hJSDFMc0Y2aWc5Zm1IVklqRUNaVG9zVUthdmNyRmVWY01JdHVhS3pfS1NaVW1YSGFfUDV1YVEyMV90MUYzLTV2aHF1VWJJc2trTXhQVmVIejdrUWdXcmt6VVlVM3o2NENsdzA5VWkzUW10NzBUTFlfZXoyRElvcEtIZHNJMDBhR2haSGZSX3NUSTVxWER3ZlV0MkF5VlNtQQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Washington Post"
       },
       {
         "headline": "UCLA Men's Basketball History in the NBA Draft",
@@ -675,19 +666,19 @@
         "source": "ESPN"
       },
       {
+        "headline": "Knicks make slew of NBA Draft trades after briefly selecting Spanish teenager Sergio de Larrea",
+        "description": "",
+        "published": "2026-06-24T06:04:20+00:00",
+        "link": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNeTQwSXFOVGo1LTJNS1IweUh0ejFiV0hKX3NyZUZhZ2Q0aUs4MEJkY092eDFxZ0ZnWVhybDlLYUVqeEdLaXRGMjNJbkI1T1FDYkVVX1RneWJTcjJwZGRFdy1aRy1FTGRRZ1NDR2dWZzBfRXlwWVl2SmhIYTVaamxMcXV1bUxhMEg0cHAzQXVTQmlydERtNUxBSWdvN1Rvam9ib0YxY25jaXYyZl9Mc0JsRFFB?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "New York Post"
+      },
+      {
         "headline": "AJ Dybantsa is the No. 1 pick on a big NBA draft night for freshman stars and Michigan's champions",
         "description": "",
         "published": "2026-06-24T03:41:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMjV3VkJ6blp1OENRSGF0ZnNfaVl4TkhlUkJzeDNxMG9SRDZyenNnMTFnVTBLSDVjekxuZF9ZQm5Cekd2c3JwXzZLbjllREs2Qk10b1JxTU0xc3cydUEzVlNJMTJ4NFluVXhKY0hCRU93YkNGaFliV1hCd3BESUpqSkVCOFliSzA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "AP News"
-      },
-      {
-        "headline": "2026 NBA draft tracker: List of 1st-round picks",
-        "description": "",
-        "published": "2026-06-24T03:32:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnRmQmcyNGtrT3BvUVRoNm5aOGQyS09vY2tHN3VnbmdISnZSTzJGakxiQ296bFNsV3hsMEppOE84eFc0NWVNV3h6SFNGVl9hRWQxTFRnZkJhTWx3d0ZQTG9KaVI5cDRnYXpDU3pLVHpZWHR4Z3pEQlZMV1FiUWpacHhLLTYxbUgzekVJejNDTjM0YUE4aE1ia1p0LUpwX19JS2c?oc=5",
         "image": null,
         "recruiting": false,
         "source": "AP News"
@@ -736,6 +727,15 @@
         "image": null,
         "recruiting": false,
         "source": "University of North Carolina Athletics"
+      },
+      {
+        "headline": "In today\u2019s NBA, when a Giannis-sized opportunity knocks, teams have to take the leap",
+        "description": "",
+        "published": "2026-06-23T19:24:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMkVnYmlzZG9BYTNvV2pOU1czZ1hKZi1tdGk3bDVISURaR00xa0ZicHowbGNqOW9XVzVGX3JQNnkxQld6MEdFLUFGdGNWVE54SXBzZ2JGTGczMFR1S3ltLWx4ZDVhVEUyZkkxX3d6YnEzQXpoQzdkLXRCQ3U0M0JES2QteVJPbXZZbnhST2ZmY0pBRS1JdWpQUGtVS0ZjbHFvajNGSEhn?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "AP News"
       }
     ],
     "games": []
