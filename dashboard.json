@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-06-25T20:54:07.000312+00:00",
+  "generated_at": "2026-06-25T21:09:13.521524+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "BOOM: Isaiah Evans Drafted By Timberwolves, Maliq Brown Drafted By Spurs | Duke Basketball Podcast",
+        "description": "",
+        "published": "2026-06-25T21:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiugJBVV95cUxNR0hzd0pfV2s4S0xLcm1pZHo3ckNNZ2U2eXAzS1dtblBhMkFMNGZ0YkFKUm9LTmhSSndfVVZGYVNkNjBucjhZbi12VWtoWHRUQWJORWdLQ2twcmFlZ3VLTjBPc0J4WngzMFUtQVVqNEd5M29kTlZmZzB0dlJyd01ZckIyQmVOWlBSenB6ZGpLR1JId0RRYmJlYkMwREtZN3ZmSUtmS1l1bE9nUzE2MFJSSExWRUJSY0RXWnhBSWR4a3ZkT09WYXIzWVVBNEtNMHdENVNrN01rNWJCY040T0VBNjBJNnNOWDhlNkVDTmlYZDFGeTNldGR2TWw5VFBWWHRTTzlHRDV0al9JcHh2akhoQ1V5RERtZHZvRGE3bDBRNEJaOEJScmdOdHJpNkZVUGZEeWZfVGhGZWNvQQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "wfmynews2.com"
+      },
       {
         "headline": "Duke's Isaiah Evans among those to land on Night 2 of NBA draft",
         "description": "Isaiah Evans, who had a seat in the green room through the first round of the NBA draft, highlighted the well-known names taken in the second round.",
@@ -64,15 +73,6 @@
         "image": null,
         "recruiting": false,
         "source": "The Fayetteville Observer"
-      },
-      {
-        "headline": "How Duke's Isaiah Evans Fits With Timberwolves",
-        "description": "",
-        "published": "2026-06-25T03:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc21YaHJjdUFmcmZkYm43NnQ3cTk1SGdiTXVZdzFFQlhXcnVsWHZIQUJ6a3lMeUZObERnQTAxaUE1cVZfNEMyWWY0cTBzN0d4d2xWUGoyLWdvUnB5emNCaDJRUmhjUnZoNHh6Z2U4VnptMk9lMzZYSnR1d0FTOGRDWEIzRWc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
       },
       {
         "headline": "NBA Draft tracker Duke Basketball: Live updates, news, rumors, draft results",
@@ -486,22 +486,22 @@
   "nba": {
     "news": [
       {
+        "headline": "Former Auburn Tiger KeShawn Murphy Signs NBA Deal",
+        "description": "",
+        "published": "2026-06-25T21:00:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQQVp5S3BaYXJPZGZnWkg1aDRuQzJIWmExMXk4QkJicFgyTjMxc3Vza2RWbjA4azBvbHhNNmh1cm1uTXJqTXA5NFpUNVZjMHBwOVZNUDNCTUJDYWJmbXZoMDliUGU1WFcwcWtLU2lKLU5PUndRMXozem5QMlJFVm9VUzR4a2w?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Sports Illustrated"
+      },
+      {
         "headline": "AJ Dybantsa unveils No. 4 jersey with Wizards upon arrival in D.C.",
         "description": "AJ Dybantsa, drafted No. 1 overall by the Wizards in the NBA draft, will wear No. 4 for Washington with the hopes of turning the franchise's fortunes around.",
-        "published": "2026-06-25T20:47:19Z",
+        "published": "2026-06-25T20:55:34Z",
         "link": "https://www.espn.com/nba/story/_/id/49179050/aj-dybantsa-unveils-no-4-jersey-wizards-arrival-dc",
         "image": "https://a.espncdn.com/photo/2026/0624/r1678475_600x400_3-2.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "NBA Draft 2026: Britain's Tobi Lawal picked after AJ Dybantsa goes first overall",
-        "description": "",
-        "published": "2026-06-25T19:29:41+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5nWk9FSHNpUkkwbFV0STMyX3FVbnpGVDdtQm92UmlaVFFrWDZtMVY4N2hUZVJJaWtxY0dpUE13ek9tY09oX2N4cmRoSE1ON25UMEt1RnBINFgxcHM1cnVwWkRPekJxNm9oMlE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "BBC"
       },
       {
         "headline": "2027 NBA championship odds: Timberwolves shorten to 22-1, Hornets now 100-1",
@@ -549,6 +549,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "Was Josh Kroenke angry at Nuggets\u2019 NBA Draft trade? Jon Wallace, Ben Tenzer laugh off viral moment",
+        "description": "",
+        "published": "2026-06-25T18:04:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNUmpaX2JSNEo3UGdsUUNnOTNFMlBmUGVSd3o4ZkYzS0ZTZjhHXzZzNjFtQ0kwNUNKWWJPaGZMbFB0YzBfVHVLLS1XLVhjSFBrVkkwWHpzMlItc1c5OVZqMlVSemZNM0hFbkdkbFZuUU9IMm9yQTVHSW9EdTY5S0IxbUlPZ3NMX1VHeDVJSkU5dUstQ28?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Denver Post"
+      },
+      {
         "headline": "J\u2019Vonne Hadley, Isaac McKneely sign NBA deals",
         "description": "",
         "published": "2026-06-25T17:29:44+00:00",
@@ -567,13 +576,13 @@
         "source": "ESPN"
       },
       {
-        "headline": "Rienk Mast Signs with Indiana Pacers Following NBA Draft",
+        "headline": "Way-too-early mock 2027 NBA Draft: Where are the potential superstars?",
         "description": "",
-        "published": "2026-06-25T16:18:47+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNampVQ1BoQy05dmtVeFJZbm55NW1MWk52eS13bDFDVERKeXZYaE5RQkk0QkxwaXZsU0JwUHBtZjlNSnNBQWlJU0VtSXc3SHd0bDFCRkU5UFNuRHFUVTJ2SXZFTjU5Q1A3T2UtVXVYMk5PbGJPa2RrT1U0SnlhbUd4U3FRaEdQNEpjWmR3WkFuTUZiVkRtRlRHdEJEblk1VkZqQktMZ09kSmZ2SGdy?oc=5",
+        "published": "2026-06-25T16:30:08+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPTFF6cjlXYTVsbnllNmFuSEQ3V2ZNQ1R0Y3JyMzlvT0w0X293U0dIbFNNdThrNTBLWjZnVkpfZ0dRVHFHc0ZUOUlMVzNuajFuaVQ4X1l3STVlbmlJMGcwSVprOGUyNEpIQVRoNlNZajBpR3VLWXJTaWpoZmZId2d0UFdYX1NrQktDclZ1ektUeExMR05E?oc=5",
         "image": null,
-        "recruiting": true,
-        "source": "Sports Illustrated"
+        "recruiting": false,
+        "source": "The New York Times"
       },
       {
         "headline": "Las Vegas NBA expansion attracts ownership groups; possible arena sites emerge",
@@ -592,24 +601,6 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Two more players from Michigan\u2019s title team headed to NBA",
-        "description": "",
-        "published": "2026-06-25T15:02:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPT3UwNDNadFpEbGdwbmtieWZjOExORmNYZzZEaFRKc2N2TmZfR0JyZHVuVlh1ZmNSTXNTZGNPdnIxNnBETTRWLUxVLW5URl95bVhXcEdKMVl4TnlDVHIxVWdidzlQRzZjcHVneTg5SXBRQ1RqQXNtNGFtWVkxbVBkZHQteWZDWkhqblhYOWQ4blNkWXVaYkhfZFRaTzM3M3NHTUE3VnVoeDBfQnd2Zi1iRDNUWdIBxwFBVV95cUxOeWpobzJvMHl0SnlNaGthZi0zZDhKZWJub1BQcmoyMlBJdVEtbDE3UjFGbl9YWGFSUk9Wb3k0RkVkQ1JrbnI4UTVrcE9vMTZLcHZDajYwbTRrRDUtWEJ1UGlGUEpsZUpVeUxGb1M4LXFtcW5VUmIzOGViWmpxVUxhekd0VmVzV190ZEdNQXpWR24teVgtSkM5d1kzeHZZczRJZGM0dmpoZ3ZmazJTNWhNUjdLU094OWFEWUpEdVJBTFIzQ3drTkRz?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "MLive.com"
-      },
-      {
-        "headline": "Michigan basketball: Roddy Gayle Jr. and Nimari Burnett ink deals with NBA teams",
-        "description": "",
-        "published": "2026-06-25T15:00:33+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQa2VubDhXZFVIY2F6T2hUYWJ6ZktteE1DRGtreVItR3dhR0xuOUdUb3RsTnV6RFJpeGVwaFAzT0dxZHAxbFBxcm1HUHhzM293Y1FPZWVSWk91WkpBRHo4MWJYMzRvNzFicVRLMGd3Zjhvdl9qQVRUd1VmZDdSR2pXRGJNNFU0MmNqRW1SZU01akN5alRxOUxTUmJuOTk5X25XalhERk1sRFVtWUs1ZUF0elY4UDFOZTFXRWR1SVhEZG5sS0d4amRVa2E3dUhfQ0ZFekE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "247Sports"
       },
       {
         "headline": "KU basketball\u2019s Tre White, Melvin Council Jr. sign with NBA teams as free agents",
@@ -637,15 +628,6 @@
         "image": null,
         "recruiting": false,
         "source": "Dallas News"
-      },
-      {
-        "headline": "College basketball coaches on the top 2026 NBA draft picks",
-        "description": "",
-        "published": "2026-06-25T13:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxONFZPVUVvTXdRS0YyaUtMTDhHcnUyRGlPUUJBNjN6Tm56dXo4WmRxdlA4RHlGV04yY2RQWURkcVBhZWdVLVM0SjdCNkdvVnRoR2V2N21QOVlxUFktaVMtTGdPYm5ad3Y4aDY4Z3ZiNlh6bGFRbmszT21NaThuNXpOMlRyalRUSlBWc2d1UnJiMjdpM2lMVFBERkhjclNiSmluLWhmVDMzSkQ0OVVxdXlTaGJpbnEtZHdoLWl3M3doNzZYM0FzWlBBM0RaTTJLdER1eGRheU9BTlV1cVMxWWxn?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
       },
       {
         "headline": "The 1986 NBA Draft: Talent, infamy and \u2018unrealized potential,\u2019 40 years later",
@@ -736,6 +718,24 @@
         "image": null,
         "recruiting": false,
         "source": "University of Colorado Athletics"
+      },
+      {
+        "headline": "How experts graded Michigan\u2019s three first-round NBA draft picks",
+        "description": "",
+        "published": "2026-06-24T15:12:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPV0lRelc1OGlSU3B3ZUlrRXpFT3hLaFpGR19aYTM1aFZwM05rZlNyZV9nWTg3MEFaZ2hJbUdvRTk4R0JPZnVCc3F1VDd5VkU0bTJ4MkJKNi1sdElWRlpWZUhnWnRQYVJUN2EzdXVDNXJkYXVQdUFCUzRBdktncU9uWG9TNW5MTkF2aXcyVUtjbm5GeXowajV6OEZDZVdoMGd3cTlUMnRZaDRxcXNmQ0E2dTBXY1VTaUgtUkVR0gHPAUFVX3lxTE1RMGtSSFl6QzVKVHpaelhQbTZxdy1kblZDX29GcWNXaGtSN2haTEZUQk8tTjJncERGaERZejVrQmcxQ0pUVkZMZDVYRFZMdTBKeWZhWlFFNlJJMWJjLXNvSVJOMThyakp3SlpENmxxb3R4UnlXb2tYVFBDc1hUR3M0UzlmdC1NUHhDb0w0ZzV6VklVSF9NaGo0SGxHajJRSFM4aHMwZmxLYTFuSFAyOE9yV0JlWExaTnA1cndtcEJvWDR3VzJrMHMtU19YaFRMOA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "MLive.com"
+      },
+      {
+        "headline": "Jayden Quaintance taken 20th by the San Antonio Spurs in 2026 NBA Draft",
+        "description": "",
+        "published": "2026-06-24T02:33:40+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa09BSFB2U3FFLTJGT1J2ZlppM3ktcjN3cEJ1R0o3ZkNfMDdGa0wtVTlGa0JKXy1mU09ONVYtR19wcDVyRkJESGZ2a1ZXZzl0ZzZub3duSW1XTENMUmFXS2c5X3dQUThpa3RzbTN6RlF2N25tZG1FX0plNmlPZWpTM01ZRkI?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "highschoolot.com"
       }
     ],
     "games": []
