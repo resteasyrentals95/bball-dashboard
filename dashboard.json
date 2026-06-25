@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T01:51:36.365525+00:00",
+  "generated_at": "2026-06-25T02:06:41.729948+00:00",
   "duke": {
     "news": [
       {
@@ -486,9 +486,18 @@
   "nba": {
     "news": [
       {
+        "headline": "Live NBA trade tracker: Updates for every deal of the 2026 offseason",
+        "description": "We have the updates, including players and draft picks, for every NBA trade made this summer.",
+        "published": "2026-06-25T02:02:32Z",
+        "link": "https://www.espn.com/nba/story/_/id/48957844/nba-trade-tracker-details-every-deal-2026-offseason-draft-free-agency",
+        "image": "https://a.espncdn.com/photo/2026/0501/r1651756_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "Sources: Pistons trading Isaiah Stewart to Grizzlies",
-        "description": "The Pistons are trading center/forward Isaiah Stewart to the Grizzlies for three future second-round picks, sources said.",
-        "published": "2026-06-25T01:44:24Z",
+        "description": "The Pistons are trading backup big man Isaiah Stewart to the Grizzlies for three future second-round picks, sources said.",
+        "published": "2026-06-25T02:02:15Z",
         "link": "https://www.espn.com/nba/story/_/id/49170745/sources-pistons-trading-isaiah-stewart-grizzlies",
         "image": "https://a.espncdn.com/photo/2025/0501/r1486712_600x400_3-2.jpg",
         "recruiting": false,
@@ -497,29 +506,29 @@
       {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
         "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing ahead of free agency.",
-        "published": "2026-06-25T01:43:44Z",
+        "published": "2026-06-25T01:55:13Z",
         "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
         "image": "https://a.espncdn.com/photo/2025/1103/r1570365_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
       {
-        "headline": "Live NBA trade tracker: Updates for every deal of the 2026 offseason",
-        "description": "We have the updates, including players and draft picks, for every NBA trade made this summer.",
-        "published": "2026-06-25T01:38:38Z",
-        "link": "https://www.espn.com/nba/story/_/id/48957844/nba-trade-tracker-details-every-deal-2026-offseason-draft-free-agency",
-        "image": "https://a.espncdn.com/photo/2026/0501/r1651756_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "Pros and cons of San Antonio Spurs picking Tennessee's Ja'Kobi Gillespie in 2026 NBA Draft",
+        "headline": "Pros and cons of Knicks picking Vanderbilt's Tyler Nickel in 2026 NBA Draft",
         "description": "",
-        "published": "2026-06-25T01:15:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNOVkza2tTSlRpMGx3ZXgwRHA4TDZXTF9uQzRCeG5UckRxTi1oRDNBVTRXZll5ejlUc2pua1h1bE1menhmcklNekpBT1JPOG1VV3lXSnBxTlpRUUFvLWRpemtJSmZ4eGhvQjZLVVdLZEJsUTBLQTFkR0NoVk9mLUFTc3Q3Y2RoZjZwMzlVYWhHNjdMbjFSaE5HdF9kejNFRmoyZkdSYWNSR0UzRWFhSW9PbGtvODUxNVFfaTRUUjExQmc2RHZWYkVnVUMtMmpTN01FWWlSdGVEa2lreFNKWUQzSnRPQzNhcXlfaGItUzN4dFBYQno0dDNsVDVXd2d0TldEbVlvblVybThndlpp?oc=5",
+        "published": "2026-06-25T01:38:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZXdHTGdrN0IyMHNJa1k5dXJ6WjJJNXBRNHk2NnpGTUljSm5MemVuaWRDNFMxd2tzT0M0Y2tIX3FTbXRseEJmdThoOEY2Y3lneU1SM0dlTV90V3N0R3ltc216UXJ1YzZvMXFYaGZSWWgyUjZrRDQxY2pQOWNqeE9mLUVVOGxPa0Z2aFpybEM0SVhIMC11Zy1DVjJuZTJ0UFByeE1yekFQQU9iZmczQzlqOE1HamVrR2lwOTd3U1RpSUs3N3B5SnJJZFZzRDQwSDBtSVh2a2g2elBZdw?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Knoxville News Sentinel"
+        "source": "The Tennessean"
+      },
+      {
+        "headline": "Tennessee's Ja'Kobi Gillespie selected in second round of NBA Draft",
+        "description": "",
+        "published": "2026-06-25T01:13:26+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaWxYTVdNbkF3VHBleHNad05sTjJEXzAzMkRBeHNGZWE1ZDdtaEZqY0V6WUpUNlg4VUNOcURLYlAyYWk1ZE5aN3VUN0Qza1M0YTZOc0VPUkNyQWtfaDlDX3BQVWs2b09vOWF4X0xpY1l6M2lZWl9YVklTb3d5SU5QUEpIb0VvRXhIMksyWTdQa0RvTDl0ODFmWW02a2drSkV5eml1YUYzRnM2dnUwNngydVNPdjRKWW5BT29vM2VtVEgwSExNa3RRcQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "On3"
       },
       {
         "headline": "Kentucky Basketball star Otega Oweh goes to OKC Thunder in 2026 NBA Draft",
@@ -628,15 +637,6 @@
         "image": null,
         "recruiting": false,
         "source": "The Washington Post"
-      },
-      {
-        "headline": "UCLA Men's Basketball History in the NBA Draft",
-        "description": "",
-        "published": "2026-06-24T16:43:33+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZzQ1MjJuMzAzbUx4Y1RiLVczZEtWWG5VRlpkSDJiaW5MT1hHQllqYUxOXzA4UWJrakszNE5qb19mZFBiMDIzejJFRUVqalZWTm9DRTBiU0hYUzBndERGdnFtU3hGeHBYUjY3TTJjSHBobHZWd01mT2lGNGpPM2Y4bzF3ZHNacF9hTlRzQlpBZmh0bDRLUEo4a0ZEWDg4OC0xVFEybDJDZkQ3Zw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "247Sports"
       },
       {
         "headline": "NBA Star Derrick White Named \u201cPresident Of Basketball Strategy\u201d For CU Men\u2019s Basketball",
