@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T16:23:56.457092+00:00",
+  "generated_at": "2026-06-25T16:39:00.463620+00:00",
   "duke": {
     "news": [
       {
@@ -66,6 +66,15 @@
         "source": "Sports Illustrated"
       },
       {
+        "headline": "NBA Draft tracker Duke Basketball: Live updates, news, rumors, draft results",
+        "description": "",
+        "published": "2026-06-25T02:32:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdE9JWDVuR2NiZzhUampHb0xKdWR2WEtnWGpyYW1HLWdZdmtSWngxbUgyMnJQNk9hME5fVW5hQU9iS1RqeW02blU1NGp0dmNsZTl6ZGFwcGxXVzllejVXT1NndUg5SEpSbWxyTFZYbzNUVDhnNG5iakZDOTl4TUNSVW1qVGVXeEgxbHc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "Here's what Duke basketball\u2019s Maliq Brown brings to San Antonio Spurs",
         "description": "",
         "published": "2026-06-25T01:27:00+00:00",
@@ -73,15 +82,6 @@
         "image": null,
         "recruiting": false,
         "source": "The Fayetteville Observer"
-      },
-      {
-        "headline": "NBA Draft tracker Duke Basketball: Live updates, news, rumors, draft results",
-        "description": "",
-        "published": "2026-06-25T00:53:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOdE9JWDVuR2NiZzhUampHb0xKdWR2WEtnWGpyYW1HLWdZdmtSWngxbUgyMnJQNk9hME5fVW5hQU9iS1RqeW02blU1NGp0dmNsZTl6ZGFwcGxXVzllejVXT1NndUg5SEpSbWxyTFZYbzNUVDhnNG5iakZDOTl4TUNSVW1qVGVXeEgxbHc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "How Duke's Isaiah Evans Can Prove NBA Front Offices Wrong",
@@ -486,6 +486,24 @@
   "nba": {
     "news": [
       {
+        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
+        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing ahead of free agency.",
+        "published": "2026-06-25T16:30:48Z",
+        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+        "image": "https://a.espncdn.com/photo/2026/0414/r1643527_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Former Gamecock Meechie Johnson lands on NBA summer league roster, report says",
+        "description": "",
+        "published": "2026-06-25T16:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPZHBVbTVxMXN2X29tYlE4ZTVhQ0JjQk1nZHJ1Z0Z1OXpQNWhBVFBMM2Y4N0Q3OXk0bzgtTVR1cDJ3dDlKZUtPVlNJakZkODlQOVF1NFRNam5YLWh0V2VRTV91X3g3ZmFibDQ5Rm9RSVdXNnFZREN0eE0xSC1FdG8teWxOUUE5VEdzTGNkXzZnZ0lVWUJPVmkwRDQ2X29VN0pWZXdKN0RWUG0tWE9oTnBr0gGvAUFVX3lxTE1pNFVad1NXREVRSW53WUo2R0FUZkJaNXJKMVZIS2F5OWZXYk9JY3RPSmZSZzNyaVV4LTZPY0NGQzR4ZjdYeS1wUXJZTXl0bEFQWGpSUDNTRnZQSnAybTVFM2NMWjFCZ1BfQm9GZFNsQUpTWnkxbDR4OEhCY1pxUFBDMFBaRi13QlVidmJOcXdVV25vaFVWZUNSZGxUMDdfTUtyVGgteG1XUDlJU1BZa1E?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The State"
+      },
+      {
         "headline": "Sources: Coby White to re-sign with Hornets on 3-year, $74M deal",
         "description": "Guard Coby White intends to sign a three-year, $74 million deal to return to the Hornets, sources told ESPN's Shams Charania on Thursday.",
         "published": "2026-06-25T16:09:09Z",
@@ -493,15 +511,6 @@
         "image": "https://a.espncdn.com/photo/2026/0615/r1673749_600x400_3-2.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Las Vegas NBA expansion attracts ownership groups; possible arena sites emerge",
-        "description": "",
-        "published": "2026-06-25T16:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivANBVV95cUxPVDE3d0M4NFVWS0duZkhPeTVGeUU5ekVtMVgtUWFyRFdxYnZNRnBNSTAzYTAySUJWa1M1eV9MLVRLbjdUV2psZGxoZXV0QV9md2lqdnN5Nl94aVR6WVFKdUpKRmd4MDRrZzZSQm12TU80QUZRYjhjcVNtYms0bWI1M053alNFTm1IZVQzWEFMRXoyai05OWFNa3hXbEd3ek5vcUNCR0Y2RWJWZEVFVlJTSmxjU3ZzdFJkMjI0R3lfSFFzWlFvbXRFaFBzSlRvZW40R0FkTE1LYVJRY3l5UkRJMm5YZ2ZYVURXeldEUm56UXVKX2hnSnJaWTVqd0hkWS1qeldzd1pOb2YxNG5rb1V6UkYzdWs3ekFLWVg4SzZTTGNUd1JLZmppTXdqNTl2ZFZDdzhuTzdFX1ZEN3FlQWJKOEl4QlNFMjdsSFdVVlI2YXR4aS1GRUE5eTJNdmthN3l1MFg0Y2NGbEZ1QS1KaDFZZGZlMXdtTGpETmVPSWtMbXpMSk5lVHd6QWx6MkVYRW5ScFhLUThNelZJSGFwWDVDX0dPeEFib0RrM01YRmJzUjFIMGViMkktd3kySHE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "reviewjournal.com"
       },
       {
         "headline": "Fantasy basketball: LaMelo takes some heat off Anthony Edwards",
@@ -522,13 +531,13 @@
         "source": "ESPN"
       },
       {
-        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
-        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing ahead of free agency.",
-        "published": "2026-06-25T15:47:57Z",
-        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
-        "image": "https://a.espncdn.com/photo/2026/0414/r1643527_1296x729_16-9.jpg",
+        "headline": "Why Huskies were winners, Gonzaga, Oregon losers in NBA draft",
+        "description": "",
+        "published": "2026-06-25T15:43:40+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQmpoUWp6QVNMc1dkaHpDM1VwRmo1WUgzSVFQZnlFZFlCNDUwTFF5YUFOMDh6ajFhV3gwUXdndlM3b2VhY3pQbFhlOGYxWUdBaF9EYmFRZXVmU3oxMXQtRDVUX3NKTXlKMnpNZVVGVWNDbnktRkkxQ3BxdFZBbEZGZHI2SkZhMTJLZ0U4S1RHdUNIelRhLS1WeXpPX0tuSXBhOWt2cTY1OXJXSnFxd21hX1JBTHRRVll1VXNJVEVB?oc=5",
+        "image": null,
         "recruiting": false,
-        "source": "ESPN"
+        "source": "The Seattle Times"
       },
       {
         "headline": "KU basketball\u2019s Tre White, Melvin Council Jr. sign with NBA teams as free agents",
@@ -538,6 +547,15 @@
         "image": null,
         "recruiting": false,
         "source": "Kansas City Star"
+      },
+      {
+        "headline": "The 2026 NBA Draft Proved American Grassroots Basketball Isn't Broken",
+        "description": "",
+        "published": "2026-06-25T14:37:42+00:00",
+        "link": "https://news.google.com/rss/articles/CBMickFVX3lxTFBHQWI2d0F0T3RWRjdVZVZoeDA3TlZOSUVUaXByRHBWbTRsUGlUSXpxWmM2d1lwUUFfUUUxck5JLTdzcmhGcnEwcUs1ZXZhS0RkYldWXzhfa0pvdEpTZTRDVWs5LUZibVB1bkZlT2xYZFdydw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA Big Board | Rafael Barlowe"
       },
       {
         "headline": "What Rick Barnes said about Tennessee basketball's offseason progress, NBA Draft",
@@ -558,6 +576,15 @@
         "source": "Sports Illustrated"
       },
       {
+        "headline": "Mavericks draft grades: National NBA outlets give Dallas middling reviews",
+        "description": "",
+        "published": "2026-06-25T13:04:50+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQN3k5cVNTRHVteVd3ZmQ1QWdOMWxTRDlJX28xU0l5RzFNdXlKRU9NdS15UG9jMUl2UjdibzJoNC1nTmVxMFFyVkxCVl9lZ2Q4OE5SWE81ZWZ2Y3ROMmhnY09mRHhWcHlWbXhZS1RqVTZRYlRmazZKbVpGdVdHTFZsV1dlRVEyeDRGSGNKVnMzblhWRWtkdjVrYzF6WGtiX1J1NFZxWnRSdkc4WXhm?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Dallas News"
+      },
+      {
         "headline": "College basketball coaches on the top 2026 NBA draft picks",
         "description": "",
         "published": "2026-06-25T13:00:00+00:00",
@@ -565,15 +592,6 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Did Henri Veesaar make the right decision to stay in the NBA draft?",
-        "description": "",
-        "published": "2026-06-25T13:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSzdYajFiWVNqNDBoOXFkZEZiM0dORFBkamJ3Y29pc1dCNm9fWnIxd3V3Mjd2UWJCZDNzcTM4SlB0MUNITXd1d3NGMEVvajJRVGJveGx6VjhzU0xOSEVRR1hhTVJvUVdYNGExbXhvZUlDZ3ljM0ZVQXhkRUtoQ29QQ3NOOF84NVFfcTBISXV0SU55X29tNHJIYU9kN2p3QVlDdno2U3pMbGZYM2VCalY0YkxDeHhfdw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Tar Heel Blog"
       },
       {
         "headline": "The 1986 NBA Draft: Talent, infamy and \u2018unrealized potential,\u2019 40 years later",
@@ -592,15 +610,6 @@
         "image": null,
         "recruiting": false,
         "source": "USA Today"
-      },
-      {
-        "headline": "Tennessee basketball has three NBA Draft picks for second time under Rick Barnes",
-        "description": "",
-        "published": "2026-06-25T08:05:11+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdGpEYkhURmdKU3UzQUxnY0gwSEdIZWVuNElWMFJ0VFVaSUJJWEFlaG1ZTk13TjVWQl9qcURteEVqX1E3Z09LZ21laWMtaWhNWEdKSE0zT3gxUFdkX0JfMnE3MUJPdDVNd25DTWFlSFRkOExiQkM2Vk5XcEFRa2ZfS0FCSXhuS2ZULTZOOGdmX2JIT19RUVVmT3VKSVJmdkYxSTluSFR4YlVWdGZFSW1WWnk3N3EyeGktQVdjQQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "On3"
       },
       {
         "headline": "Former Nebraska guard Sam Hoiberg signs NBA deal with Phoenix Suns",
@@ -691,15 +700,6 @@
         "image": null,
         "recruiting": false,
         "source": "highschoolot.com"
-      },
-      {
-        "headline": "Where UW\u2019s Hannes Steinbach went in the NBA draft",
-        "description": "",
-        "published": "2026-06-24T01:52:44+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdjROQmdzWXdsdGRCM1FXZDhTeUxMXy05M0ZEWTRHUHFvbzRIMDFmZ2tmZG96VVJ3TmN3aUk2LVN3eWtUME5wLWFhU1lETlJVZmVYMXRIS2I0UWRDbnB3cXJrN01SWHdzOC1qbWpHcmdid3VJMnZEN0xVUFUxaVhfclZBcEhNRUQxQzlSQW9oMEVfb0gtdUs1RmhLNDZjektzREV4TnlnMGw0VjM5UnE0cUFnd2VWd3c4U3c?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Seattle Times"
       },
       {
         "headline": "Bears In The NBA: Live Baylor Basketball 2026 Draft Tracker, UDFA Signings",
