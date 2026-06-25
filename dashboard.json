@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T03:37:08.969227+00:00",
+  "generated_at": "2026-06-25T03:52:13.878074+00:00",
   "duke": {
     "news": [
       {
         "headline": "Spurs select Tennessee's Ja'Kobi Gillespie, Duke's Maliq Brown in second round",
         "description": "",
-        "published": "2026-06-25T02:37:30+00:00",
+        "published": "2026-06-25T02:37:55+00:00",
         "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGNyNFlzemF0S2xfRUFBTktGVWNGLS13T2RDbk1zd0pLSUxVbXZ1a01uWEh5ajFULWVoV21lYWg0MFVKcHl6VzA3TFRaZXFOenRpakgwelpMOHhUYnAtbnZhTEJjYVNkLVU1MHBQbzZmYnVHbl82TzJTZHo5cEZzLThJd2l6bVdUSUJVdWtaMDdEOUlSZmtkY2FCX25BU3FCaFAtNkxoelpyUW5GSlJR?oc=5",
         "image": null,
         "recruiting": false,
@@ -183,6 +183,15 @@
         "source": "Bleacher Report"
       },
       {
+        "headline": "What Dusty May's Departure Says About Duke's Jon Scheyer",
+        "description": "",
+        "published": "2026-06-22T15:05:43+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS3dRbFlCUEh0akNpQXlKRjZLclhybk1rOGdmQnVNOWJDdlRJeWl3amtrYjdMVlZSWENQb1A4cWhIWjVEbWNsd3E1T1UyZmJnb2xFRFFoWUNOZFVRQ1prb3MyRnBNVHUxendPbzNJcjAteGZ1aWZpVGRwMmJTanlOZ0t1RjBvaDEzODF2T1pjT011OEdQREE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
         "headline": "Duke basketball adds Washington State to 2026-27 non-conference slate",
         "description": "",
         "published": "2026-06-22T14:19:00+00:00",
@@ -244,15 +253,6 @@
         "image": null,
         "recruiting": false,
         "source": "The Fayetteville Observer"
-      },
-      {
-        "headline": "Ranking top of 2025, 2026 NBA drafts: Would Flagg still be No. 1?",
-        "description": "What if Cooper Flagg never reclassified? Here's where Flagg, Dylan Harper, Kon Knueppel would rank if they were in the 2026 NBA draft.",
-        "published": "2026-06-17T12:11:49Z",
-        "link": "https://www.espn.com/nba/story/_/id/48979870/ranking-2026-nba-draft-2025-classes-draft-cooper-flagg-dylan-harper-reclass-dybantsa-peterson",
-        "image": "https://a.espncdn.com/photo/2026/0608/cooper_flagg_nba_draft_class_1296x729.png",
-        "recruiting": true,
-        "source": "ESPN"
       }
     ],
     "games": [
@@ -486,11 +486,29 @@
   "nba": {
     "news": [
       {
+        "headline": "2026 NBA draft grades: Winners, losers for all 30 teams",
+        "description": "Which team won the NBA draft? Which picks and trades stood out? Ben Golliver grades all 30 teams.",
+        "published": "2026-06-25T03:46:35Z",
+        "link": "https://www.espn.com/nba/story/_/id/49147426/2026-nba-draft-grades-winners-losers-sleepers-best-picks-value-reaches-all-30-teams-classes",
+        "image": "https://a.espncdn.com/photo/2026/0624/nba_draft-grades_16x9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
         "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing ahead of free agency.",
-        "published": "2026-06-25T03:36:12Z",
+        "published": "2026-06-25T03:39:36Z",
         "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
         "image": "https://a.espncdn.com/photo/2026/0414/r1643527_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "NBA trade tracker: Updates for every deal of the 2026 offseason",
+        "description": "We have the updates, including players and draft picks, for every NBA trade made this summer.",
+        "published": "2026-06-25T03:38:29Z",
+        "link": "https://www.espn.com/nba/story/_/id/48957844/nba-trade-tracker-details-every-deal-2026-offseason-draft-free-agency",
+        "image": "https://a.espncdn.com/photo/2026/0501/r1651756_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
@@ -509,15 +527,6 @@
         "published": "2026-06-25T03:28:10Z",
         "link": "https://www.espn.com/nba/story/_/id/49169047/nba-2026-draft-superlatives-aj-dybansta-cameron-boozer",
         "image": "https://a.espncdn.com/photo/2026/0624/r1679008_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "2026 NBA draft grades: Winners, losers for all 30 teams",
-        "description": "Which team won the NBA draft? Which picks and trades stood out? Ben Golliver grades all 30 teams.",
-        "published": "2026-06-25T03:25:50Z",
-        "link": "https://www.espn.com/nba/story/_/id/49147426/2026-nba-draft-grades-winners-losers-sleepers-best-picks-value-reaches-all-30-teams-classes",
-        "image": "https://a.espncdn.com/photo/2026/0624/nba_draft-grades_16x9.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
@@ -549,6 +558,15 @@
         "source": "Newsday"
       },
       {
+        "headline": "2026 NBA Draft grades, second-round pick-by-pick analysis",
+        "description": "",
+        "published": "2026-06-25T02:37:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTllqRHFta19MakRKdF93SV9mNDkxMnRkZnFRZkVBS3FQWk1jazF6UVBoS2YyTzVJWWwwQk45ZUJON0JMLXNmUlVDLWNwb0tsMFBMWlRzT2R1aDhxaGNodEV1UXkwRk16M1ZFbncyYkZGcnVWTHdaZ1FINDBENXZjRmVKekN5d2dIRVN3SUo5R3NCejcySWhPXzZYR20tMnVtWld0VWVoLUNKeHVG?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "Sources: Pistons trading Isaiah Stewart to Grizzlies",
         "description": "The Pistons are trading backup big man Isaiah Stewart to the Grizzlies for three future second-round picks, sources said.",
         "published": "2026-06-25T02:27:06Z",
@@ -574,15 +592,6 @@
         "image": null,
         "recruiting": false,
         "source": "Tallahassee Democrat"
-      },
-      {
-        "headline": "Live NBA trade tracker: Updates for every deal of the 2026 offseason",
-        "description": "We have the updates, including players and draft picks, for every NBA trade made this summer.",
-        "published": "2026-06-25T02:02:32Z",
-        "link": "https://www.espn.com/nba/story/_/id/48957844/nba-trade-tracker-details-every-deal-2026-offseason-draft-free-agency",
-        "image": "https://a.espncdn.com/photo/2026/0501/r1651756_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
       },
       {
         "headline": "Henri Veesaar Selected By Atlanta Hawks In NBA Draft",
@@ -650,7 +659,7 @@
       {
         "headline": "Who is Meleek Thomas, the Cleveland Cavaliers' 2nd-round pick in the 2026 NBA draft?",
         "description": "",
-        "published": "2026-06-25T00:34:23+00:00",
+        "published": "2026-06-25T00:34:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOUllBS2RVa2hSaWNhTG0xQ0htZTBpUjlrZzdoc1RveFVYTXZ6Q3VZRkRQZDlteU5YQUpleEdtX2lHYlVWSFFCeERMdXdfYU1zcnFTbzN0NDRuUS12WHhVaGNaV20xeHYxdXJnOWdaR3pBNW1uTENHTlRNdDZqVUJmUUk1RE1DRmtqVUVOT0lRMmJRX00?oc=5",
         "image": null,
         "recruiting": false,
@@ -673,6 +682,15 @@
         "image": null,
         "recruiting": false,
         "source": "NBA.com"
+      },
+      {
+        "headline": "Round 2 NBA mock draft: Best available players, predictions",
+        "description": "",
+        "published": "2026-06-24T22:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUnhPRDlMTGltYkYwWkx6dGlUS01HRVFzWjBVUzMyemlxdEZwOVVrRldZSVdzNmtVdTY4cWVOMW5FYU4tQ01aNTRvMUJ2ckVHdXJCVXFFN1pSQVQ3RDdRVEo0YlZVY2RxbTBUTEZFNzA3RG9McHJadjVNQjFiWnppUW9XVV9xR1lPdVdrWHdpZ2ZGMTNkaHppVzVydXFnSnItTDZ6SmVjNktwTWt1Wk9nYnoyWQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
       },
       {
         "headline": "2026 NBA Round 2 mock draft: Henri Veesaar, Meleek Thomas, Isaiah Evans go early in second round predictions",
@@ -718,24 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "Detroit Free Press"
-      },
-      {
-        "headline": "2026 NBA draft: Round 1 winners, surprise picks, questions",
-        "description": "",
-        "published": "2026-06-24T06:30:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbVh3emFGSDRhamhoWExJUWx6R0xHYXo4NTJfVnFoUjYtMnZQQ25SOEtFOWgtM3FSTVFOM0tuaG1BYVFvaDFxclNqTjVyLTRZTldCU041Z29kMkVOUnJFbTJkOS1TYjBlaW5kb1Y3VUxtdU5XNkN2MTVtR0FVcHlnenRQSE5EQkZMZkVfVDkwWnZ4bzhRZXB1TDBiR2xIMk9na2VHY0I5eHd3QklMTVpyck04TWpnd3ZBeWQzUXdlZVZNRk5EcEJOYmQ1RQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "AJ Dybantsa is the No. 1 pick on a big NBA draft night for freshman stars and Michigan's champions",
-        "description": "",
-        "published": "2026-06-24T03:41:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMjV3VkJ6blp1OENRSGF0ZnNfaVl4TkhlUkJzeDNxMG9SRDZyenNnMTFnVTBLSDVjekxuZF9ZQm5Cekd2c3JwXzZLbjllREs2Qk10b1JxTU0xc3cydUEzVlNJMTJ4NFluVXhKY0hCRU93YkNGaFliV1hCd3BESUpqSkVCOFliSzA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "AP News"
       }
     ],
     "games": []
