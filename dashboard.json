@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-06-25T04:37:27.225532+00:00",
+  "generated_at": "2026-06-25T04:52:31.829688+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "How Duke's Isaiah Evans Fits With Timberwolves",
+        "description": "",
+        "published": "2026-06-25T03:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQc21YaHJjdUFmcmZkYm43NnQ3cTk1SGdiTXVZdzFFQlhXcnVsWHZIQUJ6a3lMeUZObERnQTAxaUE1cVZfNEMyWWY0cTBzN0d4d2xWUGoyLWdvUnB5emNCaDJRUmhjUnZoNHh6Z2U4VnptMk9lMzZYSnR1d0FTOGRDWEIzRWc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
       {
         "headline": "Spurs select Tennessee's Ja'Kobi Gillespie, Duke's Maliq Brown in second round",
         "description": "",
@@ -50,7 +59,7 @@
       {
         "headline": "Here's what Duke basketball\u2019s Isaiah Evans brings to Minnesota Timberwolves",
         "description": "",
-        "published": "2026-06-25T00:37:00+00:00",
+        "published": "2026-06-25T00:44:00+00:00",
         "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNc2Q0VXcxMl9hZ3ByZUNvU0I2SlBNYm5FVUEtUEtmcmpidmhPRWw2R0VVWDEzUlNIU282dGwyc2VQUGNOdlBXVG1SNjZ4TmxqSENUYVBiRVFIek1VYXV4TFdUOUdTSEJGNlBHSlFpUjJ2NVY4b1VkSGc5QUxSaVdaMjRlaEt3dUdfUjE5RUR0Z0VqUzZOV2NFOWRkTUd4ckxfc05NcWhMMklWb2ZBdVczcnpTT3pZNUFBY2lDaktqeEpIbDd3Yjc4XzM3bEhXajdFZ3BUTGJiMjdNcTJVTFF5akxxems?oc=5",
         "image": null,
         "recruiting": false,
@@ -174,6 +183,15 @@
         "source": "Sports Illustrated"
       },
       {
+        "headline": "WSU to square off with Duke to kick off Acrisure Series in Palm Springs",
+        "description": "",
+        "published": "2026-06-23T00:44:59+00:00",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxObGx0TFJqREF3NDVkWmZvbjkxM0V1clpMOF9IeXc3cHZmMmhfQjlESGxROEprNV9iU1JUcXZqU3dadEM3dC1uazJuQUdZa1JyRWVzQzRGNjQycjFQdDRKemdzVThmX052ZUI5RWtTblpOMnBwM0RzTlA0TUlIdWI4Wm0zWkwxcU9VTGR3Y1E2NDJLbnNBWXg1M3Jhck1nQQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Spokesman-Review"
+      },
+      {
         "headline": "Duke Posts Jon Scheyer Childhood Photo After Mavs Reportedly Hire Michigan's Dusty May as HC",
         "description": "",
         "published": "2026-06-22T16:00:10+00:00",
@@ -235,24 +253,6 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Duke Recruiting: Double Kyries?",
-        "description": "",
-        "published": "2026-06-22T12:06:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQQU9IUXBmN0FNWjg5bEdDdTRDWUxvX2haTkVkQWFkY2RNZHl1VXp5OW9RS2FOMEZDYmp3ZWR4ZXBLbVRySGFFTW00aG53Ul9ybGRWaDlxYU9JUHViS1ZraDV1QWk4MmdzX01peUljZkcxYlNuWVNJbWhTajBjSUhrdmROSlVGdFlET3k0?oc=5",
-        "image": null,
-        "recruiting": true,
-        "source": "Duke Basketball Report"
-      },
-      {
-        "headline": "Where Cameron Boozer, Duke basketball players are projected in 2026 NBA Draft",
-        "description": "",
-        "published": "2026-06-22T09:01:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeVhrR3lZam1kNTJIWWh1b3NfcTdCaERudlZnZUlZbFNaYTFrenQ3YWVHTnF6a1h1U2NhTDk5d3dMNFlhNGVLeUx3ZEx0dENJakhpMjVFcVFwdlhuNlVhd2pVMjY3ZV9jSy14eHktVTJiczRqVzNSRmFrUHJVanJaTXZ4MG9SSHFBM3BOdG1KQzh5emxoalltSGRqbEE5WDRmMXBBbXVZcW1WN1pPbkZ1cWtHQzRQaTJTX2p3Y1hBeVF5QlBpMldxNVBwN05OOGhIeWtmRA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Fayetteville Observer"
       }
     ],
     "games": [
@@ -486,31 +486,22 @@
   "nba": {
     "news": [
       {
-        "headline": "Sources: Hornets seriously engaged in LaMelo Ball trade talks",
-        "description": "The Hornets are seriously engaged in trade talks with multiple teams aggressively pursuing star point guard LaMelo Ball, sources said.",
-        "published": "2026-06-25T04:35:52Z",
-        "link": "https://www.espn.com/nba/story/_/id/49172117/sources-hornets-seriously-engaged-lamelo-ball-trade-talks",
-        "image": "https://a.espncdn.com/photo/2026/0523/r1662473_600x400_3-2.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "2026 NBA draft grades: Winners, losers for all 30 teams",
         "description": "Which team won the NBA draft? Which picks and trades stood out? Ben Golliver grades all 30 teams.",
-        "published": "2026-06-25T04:29:21Z",
+        "published": "2026-06-25T04:46:53Z",
         "link": "https://www.espn.com/nba/story/_/id/49147426/2026-nba-draft-grades-winners-losers-sleepers-best-picks-value-reaches-all-30-teams-classes",
         "image": "https://a.espncdn.com/photo/2026/0624/nba_draft-grades_16x9.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
       {
-        "headline": "2026 NBA Draft: Arizona\u2019s Jaden Bradley selected by Raptors in 2nd round",
-        "description": "",
-        "published": "2026-06-25T04:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPM2RtWTV5TEdEOG1VaEVIbDV4aHhzRWROaHhXWUs4d3RBeTFjN0VobUszakYtT3d1VjRxQm9za0V0SWRrTVhqVk5vWEFzZnVacmNfS1lucHVGdktGUGRXYzc1VHBsYmpRaVR0Z0g2OHFFSUdPd2dVVkVUMnNlTGlmU2NXUQ?oc=5",
-        "image": null,
+        "headline": "Sources: Hornets seriously engaged in LaMelo Ball trade talks",
+        "description": "The Hornets are seriously engaged in trade talks with multiple teams aggressively pursuing star point guard LaMelo Ball, sources said.",
+        "published": "2026-06-25T04:45:08Z",
+        "link": "https://www.espn.com/nba/story/_/id/49172117/sources-hornets-seriously-engaged-lamelo-ball-trade-talks",
+        "image": "https://a.espncdn.com/photo/2026/0523/r1662473_600x400_3-2.jpg",
         "recruiting": false,
-        "source": "Yahoo Sports"
+        "source": "ESPN"
       },
       {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
@@ -540,6 +531,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "NBA Draft\u2019s second round, once a fun party, lost its weirdo charm by getting its own night",
+        "description": "",
+        "published": "2026-06-25T03:34:25+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSk1kQmMyV0JtNUhVY3dnRlhSak41X2hPZjRDcFBBTTREZXVLdXFUcVYwX3hydEtmRy1yRXZaUERLdlVIWE1waGNmeEJXczQwRjBvcnVyc2lGLUZvYVA4S2xXNGVIZGV1d0tKR1VTMTlFLVNucXBLbVJxdzZOY09oX0c4TkJPOFg0MkktckRMWHJoRFE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The New York Times"
+      },
+      {
         "headline": "AJ Dybansta, Cameron Boozer top 2026 NBA draft superlatives",
         "description": "AJ Dybansta's unique jersey situation leads the nonstatistical and personality-based superlatives from the 2026 NBA draft.",
         "published": "2026-06-25T03:28:10Z",
@@ -558,6 +558,15 @@
         "source": "Sports Illustrated"
       },
       {
+        "headline": "St. John\u2019s has historic NBA draft as Dillon Mitchell, Bryce Hopkins get selected",
+        "description": "",
+        "published": "2026-06-25T02:58:53+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNcTBNbnRJS0NmMnhSaFhNbmVxeTBPWFJhLW1lNGJ0S0dSZVgzMTBrMFByTDRSSFAxZEIxZm5LcGJYZlRrTTBWSFo2azduRkZITXJXcWhrVlUxbEFQb0JxNzAzcW5KdEtBTmtaQjJzOTVHUk1xcE15YjNLckVQQTNvZV9sUDJfRXRPYURDWVNDa1NlWHMtM1hCTzRzaw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "New York Post"
+      },
+      {
         "headline": "Wizards move up in 2nd round to select Okpara after making Dybantsa the No. 1 pick in the NBA draft",
         "description": "",
         "published": "2026-06-25T02:48:29+00:00",
@@ -567,15 +576,6 @@
         "source": "Newsday"
       },
       {
-        "headline": "2026 NBA Draft grades, second-round pick-by-pick analysis",
-        "description": "",
-        "published": "2026-06-25T02:37:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTllqRHFta19MakRKdF93SV9mNDkxMnRkZnFRZkVBS3FQWk1jazF6UVBoS2YyTzVJWWwwQk45ZUJON0JMLXNmUlVDLWNwb0tsMFBMWlRzT2R1aDhxaGNodEV1UXkwRk16M1ZFbncyYkZGcnVWTHdaZ1FINDBENXZjRmVKekN5d2dIRVN3SUo5R3NCejcySWhPXzZYR20tMnVtWld0VWVoLUNKeHVG?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "Golden State Warriors pick FSU basketball's Lajae Jones in NBA Draft",
         "description": "",
         "published": "2026-06-25T02:13:00+00:00",
@@ -583,6 +583,15 @@
         "image": null,
         "recruiting": false,
         "source": "Tallahassee Democrat"
+      },
+      {
+        "headline": "Henri Veesaar Selected By Atlanta Hawks In NBA Draft",
+        "description": "",
+        "published": "2026-06-25T02:00:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUEdTcHVBSTdkOVVSMVNSbmQ1dllULUlvUVJsYjMxeHN6bjY0Y0ptNHh0VXp5bDZJaWtlcEJWdk1WM0NSRlV1V1d0VndjRlI3Tnh5THdVNUNGWHdXWkhOTkZvY3B1VERNV3pIOU1fY2hWcVlhbmpPQjNxbDNSQkdtazhlc1dEOTV2Si00ZFEtai1GVTMzWHFFakFB?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "On3"
       },
       {
         "headline": "Knicks select 20-year-old German G Jack Kayil with 39th pick in 2026 NBA Draft",
@@ -630,6 +639,15 @@
         "source": "highschoolot.com"
       },
       {
+        "headline": "Arkansas basketball stars Meleek Thomas, Trevon Brazile selected in NBA Draft second round",
+        "description": "",
+        "published": "2026-06-25T00:37:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWGFyRDJZUGlDcWpXN3JQbWYxbFRjcGhzcHVZUE9YWFNGZHViT29ieG5kVVBLUjVwSkh3T3BLY3VyV01SQ0F6SzJ2YlZtU3JJYndxaGFleF83MFZVR1htTTZ5YzFzWGRoRndUYThxZHpvbXI4dUNrcmxKcXJidzhFLXJIV3k2Mk82cjlZdXBSSlZkN2dKeEgtNzRPQUR6d3FFYm5fb2w3alQ5OUVTV1ZkRFVYZHlBSHoxUVFweUdaSEN6dWNsQ3dyQ0V1bXZYa3EyLXpyVTVKUXVqQQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Whole Hog Sports"
+      },
+      {
         "headline": "Richie Saunders Selected by Memphis Grizzlies in Second Round of NBA Draft",
         "description": "",
         "published": "2026-06-25T00:35:00+00:00",
@@ -657,6 +675,15 @@
         "source": "Eleven Warriors"
       },
       {
+        "headline": "Get To Know NBA Draft Prospect and Former Vanderbilt Basketball Standout Tyler Nickel",
+        "description": "",
+        "published": "2026-06-25T00:23:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcTRna3RNcXdMYlA3Tkg0dlJwZmd6X3VTWXhjMlduVEdWakVwX0s2b0JzdnFJNXRqMXlvLUlfMmgwWWdjdUY1eG1wZFdTNzdDb3NkQjBvNEx0dFpDMW9HLV9jQXFLVmZNa2otOW5tcFJhbWJVckVXQ25UWXVqMHh3dlAzcUQwQQ?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "Round 2 NBA mock draft: Best available players, predictions",
         "description": "",
         "published": "2026-06-24T22:00:00+00:00",
@@ -673,15 +700,6 @@
         "image": null,
         "recruiting": false,
         "source": "CBS Sports"
-      },
-      {
-        "headline": "NBA Draft 2026 winners and losers include Dybantsa, Peterson, Boozer and \u2026 fans?",
-        "description": "",
-        "published": "2026-06-24T18:51:47+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZG1pd2JxSU5QTFh4Y0J0VUFQVGxRNi12T3REWGtwYXdIcEJKUUp4Q0hMZTFzS19QNGdEQVNiVXB3Y2RuTWZHMjF2R3pXaERMMThDM2oweHBOdFVwZFdyUU5ybmI4dk9IdmVQWnRxUm1KTFgwRVFfY3FRN3kxT0xjUl8tOWdtU01fTUQ5M1U0RGxYUi14OVYzVGVuSkhuM2NDenFIcTVhRDRpcXc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The New York Times"
       },
       {
         "headline": "Duke's Isaiah Evans among top talent still available after sitting through Round 1 of the NBA draft",
@@ -718,24 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "Detroit Free Press"
-      },
-      {
-        "headline": "2026 NBA draft: Round 1 winners, surprise picks, questions",
-        "description": "",
-        "published": "2026-06-24T06:30:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbVh3emFGSDRhamhoWExJUWx6R0xHYXo4NTJfVnFoUjYtMnZQQ25SOEtFOWgtM3FSTVFOM0tuaG1BYVFvaDFxclNqTjVyLTRZTldCU041Z29kMkVOUnJFbTJkOS1TYjBlaW5kb1Y3VUxtdU5XNkN2MTVtR0FVcHlnenRQSE5EQkZMZkVfVDkwWnZ4bzhRZXB1TDBiR2xIMk9na2VHY0I5eHd3QklMTVpyck04TWpnd3ZBeWQzUXdlZVZNRk5EcEJOYmQ1RQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "AJ Dybantsa is the No. 1 pick on a big NBA draft night for freshman stars and Michigan's champions",
-        "description": "",
-        "published": "2026-06-24T03:41:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMjV3VkJ6blp1OENRSGF0ZnNfaVl4TkhlUkJzeDNxMG9SRDZyenNnMTFnVTBLSDVjekxuZF9ZQm5Cekd2c3JwXzZLbjllREs2Qk10b1JxTU0xc3cydUEzVlNJMTJ4NFluVXhKY0hCRU93YkNGaFliV1hCd3BESUpqSkVCOFliSzA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "AP News"
       }
     ],
     "games": []
