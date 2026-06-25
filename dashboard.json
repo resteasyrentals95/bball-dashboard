@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T03:52:13.878074+00:00",
+  "generated_at": "2026-06-25T04:07:18.240106+00:00",
   "duke": {
     "news": [
       {
@@ -183,15 +183,6 @@
         "source": "Bleacher Report"
       },
       {
-        "headline": "What Dusty May's Departure Says About Duke's Jon Scheyer",
-        "description": "",
-        "published": "2026-06-22T15:05:43+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS3dRbFlCUEh0akNpQXlKRjZLclhybk1rOGdmQnVNOWJDdlRJeWl3amtrYjdMVlZSWENQb1A4cWhIWjVEbWNsd3E1T1UyZmJnb2xFRFFoWUNOZFVRQ1prb3MyRnBNVHUxendPbzNJcjAteGZ1aWZpVGRwMmJTanlOZ0t1RjBvaDEzODF2T1pjT011OEdQREE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
         "headline": "Duke basketball adds Washington State to 2026-27 non-conference slate",
         "description": "",
         "published": "2026-06-22T14:19:00+00:00",
@@ -253,6 +244,15 @@
         "image": null,
         "recruiting": false,
         "source": "The Fayetteville Observer"
+      },
+      {
+        "headline": "Top-Ranked Duke Basketball Recruiting Prospect Talks Potential Reclass",
+        "description": "",
+        "published": "2026-06-20T22:57:01+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPVnFpVUJ0Y3AyUXhQRWxTMWdtY005UkJIZkJudHg0Z0ZCS1BUTWR4U1FscTYtTV85bi1IcmpXLXNTZzVqeEwydE5hZ01FMzFqcjRtWG9LOUNVVXVJcTRsdk9xRUVZS3JCQTZILUNORTBnckVzZjBKLUJFUnZ1dWFGcTA3RWdrZFJFVlhuODFRLTJfcGNFSXBFT3M3QWRNMFZ1WUpGV0llWXBQRHNXUXc?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Sports Illustrated"
       }
     ],
     "games": [
@@ -488,7 +488,7 @@
       {
         "headline": "2026 NBA draft grades: Winners, losers for all 30 teams",
         "description": "Which team won the NBA draft? Which picks and trades stood out? Ben Golliver grades all 30 teams.",
-        "published": "2026-06-25T03:46:35Z",
+        "published": "2026-06-25T04:04:40Z",
         "link": "https://www.espn.com/nba/story/_/id/49147426/2026-nba-draft-grades-winners-losers-sleepers-best-picks-value-reaches-all-30-teams-classes",
         "image": "https://a.espncdn.com/photo/2026/0624/nba_draft-grades_16x9.jpg",
         "recruiting": false,
@@ -497,11 +497,20 @@
       {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
         "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing ahead of free agency.",
-        "published": "2026-06-25T03:39:36Z",
+        "published": "2026-06-25T03:59:48Z",
         "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
         "image": "https://a.espncdn.com/photo/2026/0414/r1643527_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Timberwolves Select Forward Trey Kaufman-Renn with the 59th Overall Pick in the 2026 NBA Draft",
+        "description": "",
+        "published": "2026-06-25T03:58:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPYnIxckIxdFAwUEp6b3ZRaWgyM01GRjIwemRoaDQ2R0liY1Q3eDVLQy1ybE9uQnVSajBrcXlzVkw0b0V3ZFRUeDU0YmFobXlRUHhqYjFYeEktRWpoUWE1SGE3NkNfRmRodTQ1SU1QRlJuSzVhamhXb21EZVJZalczRndUR1pka0tlZGM2ZFo4REp1X3NueEtfWlJ4czR1WWdHTE5HYWd1SVFHdmFSUzVTTDhEMkI3cEpJVTQ2aG0zTWo3UVhLVDhKMG1DRQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
       },
       {
         "headline": "NBA trade tracker: Updates for every deal of the 2026 offseason",
@@ -513,13 +522,13 @@
         "source": "ESPN"
       },
       {
-        "headline": "Aday Mara's path to minutes in OKC, Spurs get Wemby some help and more fantasy basketball takeaways from the 2026 NBA Draft",
+        "headline": "NBA Draft\u2019s second round, once a fun party, lost its weirdo charm by getting its own night",
         "description": "",
-        "published": "2026-06-25T03:29:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQVHlrRk0yQ2wzSldHZ0hENDhkaGk5Z2FoeEF2R0ZnLU5LOWRWN2V5SE1GSFc4bzhaa2U2OURHeUJUaGU2YXZvb192MWJnSV9wSmdlNkRTM0dCUWhkckt5c0R0WDdVVmhXVWgyUVZjeWVybHdYMHdSTjJUUHdURXJnbGotd2hXa1ZKY0pCVk5FQVdSUmw0VzJObTliU3F2WHRONS1TTmtjb293SEpaR2liRGVkNld1elFfS3RKeGNtSXpWSlo3MXgyWkFMWC13c0xxeHJVVFdMdTBSMm90R2xNdjZMS01Za0dpemRSRVF1cWEtcFZDNTIyXzdPS3p1c1JWR2NGTHhObGs?oc=5",
+        "published": "2026-06-25T03:34:25+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQSk1kQmMyV0JtNUhVY3dnRlhSak41X2hPZjRDcFBBTTREZXVLdXFUcVYwX3hydEtmRy1yRXZaUERLdlVIWE1waGNmeEJXczQwRjBvcnVyc2lGLUZvYVA4S2xXNGVIZGV1d0tKR1VTMTlFLVNucXBLbVJxdzZOY09oX0c4TkJPOFg0MkktckRMWHJoRFE?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Yahoo Sports"
+        "source": "The New York Times"
       },
       {
         "headline": "AJ Dybansta, Cameron Boozer top 2026 NBA draft superlatives",
@@ -529,15 +538,6 @@
         "image": "https://a.espncdn.com/photo/2026/0624/r1679008_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Purdue Produces Multiple NBA Draft Picks for First Time in 15 Years",
-        "description": "",
-        "published": "2026-06-25T03:03:46+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQRER5SlBHd2hJNFRHWlBPNG9BSTNYX3JtamFjSW5WcGRrREotU05jc2JjLWVqeEtiUlo3blB5M1l1OWlNQ0dBMEp5dmk3ZS1FX2tPNDJ4UVVMY1BmN2pRRWtpZVZwdUtWNlRFNDUyWlkzN2dqVFo0aHp4dlNpeTZtRWk4X21rZnl2X1BaSk0ycWRqLWNkMERtZm9iUW5iM3RGMDMwUDNZaFd4WC1OWXRVUWpEU2ZUMTIzczRQWGJ3SWFXZmJjcW5yMjk4bEw1N01VNEE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
       },
       {
         "headline": "2026 NBA offseason trade grades: Pistons deal Isaiah Stewart to Grizzlies",
@@ -567,15 +567,6 @@
         "source": "Yahoo Sports"
       },
       {
-        "headline": "Sources: Pistons trading Isaiah Stewart to Grizzlies",
-        "description": "The Pistons are trading backup big man Isaiah Stewart to the Grizzlies for three future second-round picks, sources said.",
-        "published": "2026-06-25T02:27:06Z",
-        "link": "https://www.espn.com/nba/story/_/id/49170745/sources-pistons-trading-isaiah-stewart-grizzlies",
-        "image": "https://a.espncdn.com/photo/2025/0501/r1486712_600x400_3-2.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "Clippers Take Veesaar In NBA Draft Second Round",
         "description": "",
         "published": "2026-06-25T02:16:32+00:00",
@@ -594,15 +585,6 @@
         "source": "Tallahassee Democrat"
       },
       {
-        "headline": "Henri Veesaar Selected By Atlanta Hawks In NBA Draft",
-        "description": "",
-        "published": "2026-06-25T02:00:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUEdTcHVBSTdkOVVSMVNSbmQ1dllULUlvUVJsYjMxeHN6bjY0Y0ptNHh0VXp5bDZJaWtlcEJWdk1WM0NSRlV1V1d0VndjRlI3Tnh5THdVNUNGWHdXWkhOTkZvY3B1VERNV3pIOU1fY2hWcVlhbmpPQjNxbDNSQkdtazhlc1dEOTV2Si00ZFEtai1GVTMzWHFFakFB?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "On3"
-      },
-      {
         "headline": "Knicks select 20-year-old German G Jack Kayil with 39th pick in 2026 NBA Draft",
         "description": "",
         "published": "2026-06-25T01:53:09+00:00",
@@ -612,13 +594,13 @@
         "source": "New York Daily News"
       },
       {
-        "headline": "OKC Thunder trades down in NBA Draft to No. 41, grab Kentucky basketball star Otega Oweh",
+        "headline": "Tennessee's Ja'Kobi Gillespie selected in second round of NBA Draft",
         "description": "",
-        "published": "2026-06-25T01:12:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNYlVEd04tWDctbGlLdXIxQ0FxNFQyQnl0cnhoQ2p1bGxWTlZFMkw1TWE1YXlkdTRrdVBnLVBUb0pOVHNJWGNWZlFVbXNJZEtOUVZDSjVmV0htOTZnX1lYN3FYcWlXSnE5SS1McWFoWnIxbEplOGlQakdlNFdHd1RObzNMUmVaVi1GSEJjQ0poQ3J2TFMtME1CQ25aVFBtUldXNzhPaEE5RndxYzhLZGRTQ2YtN3BtbzdZWmpLRzM1S3FsNzJudHFOUm1RYlQ?oc=5",
+        "published": "2026-06-25T01:13:26+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOaWxYTVdNbkF3VHBleHNad05sTjJEXzAzMkRBeHNGZWE1ZDdtaEZqY0V6WUpUNlg4VUNOcURLYlAyYWk1ZE5aN3VUN0Qza1M0YTZOc0VPUkNyQWtfaDlDX3BQVWs2b09vOWF4X0xpY1l6M2lZWl9YVklTb3d5SU5QUEpIb0VvRXhIMksyWTdQa0RvTDl0ODFmWW02a2drSkV5eml1YUYzRnM2dnUwNngydVNPdjRKWW5BT29vM2VtVEgwSExNa3RRcQ?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "The Oklahoman"
+        "source": "On3"
       },
       {
         "headline": "Kentucky Basketball star Otega Oweh goes to OKC Thunder in 2026 NBA Draft",
@@ -639,6 +621,15 @@
         "source": "Arkansas Razorbacks"
       },
       {
+        "headline": "Baba Miller Selected by Clippers in 2026 NBA Draft After Historic Season at Cincinnati",
+        "description": "",
+        "published": "2026-06-25T00:50:23+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPck9GTTJPTnpCaFl3aHZNUTRwUWRDNlFhbkhVOEFmMV9kWDlWaVF0ZGRhUlByWUdyN0hzUkVuMjZXSldRLWhCcThURzE2cGdqWlpwRWVyWjN2UTRjZXE3dkRnMll4UVpiUDZUNTUweERVRjNMXzN4SW5XUDYzRmI5cGF2alB6b3I4M0NUaGlKNXNJZ0duLW01Zl96ckhPbFpkS2RvZGxOZHhyZ1R5YUhmTVlsTGM0ZVlvYlotNW51YnRaNmZnS2p4Ql9YejBIY1d0OHRPVW43RWduRlZOdTQ4YU9B?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
         "headline": "Isaiah Evans headed to Minnesota Timberwolves with the 33rd pick in 2026 NBA Draft",
         "description": "",
         "published": "2026-06-25T00:38:17+00:00",
@@ -646,6 +637,15 @@
         "image": null,
         "recruiting": false,
         "source": "highschoolot.com"
+      },
+      {
+        "headline": "Arkansas basketball's Meleek Thomas, Trevon Brazile selected in NBA Draft second round",
+        "description": "",
+        "published": "2026-06-25T00:36:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQWGFyRDJZUGlDcWpXN3JQbWYxbFRjcGhzcHVZUE9YWFNGZHViT29ieG5kVVBLUjVwSkh3T3BLY3VyV01SQ0F6SzJ2YlZtU3JJYndxaGFleF83MFZVR1htTTZ5YzFzWGRoRndUYThxZHpvbXI4dUNrcmxKcXJidzhFLXJIV3k2Mk82cjlZdXBSSlZkN2dKeEgtNzRPQUR6d3FFYm5fb2w3alQ5OUVTV1ZkRFVYZHlBSHoxUVFweUdaSEN6dWNsQ3dyQ0V1bXZYa3EyLXpyVTVKUXVqQQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Whole Hog Sports"
       },
       {
         "headline": "Richie Saunders Selected by Memphis Grizzlies in Second Round of NBA Draft",
@@ -675,15 +675,6 @@
         "source": "Eleven Warriors"
       },
       {
-        "headline": "Live Updates: 2026 NBA Draft | Round 2 at Barclays Center",
-        "description": "",
-        "published": "2026-06-25T00:09:49+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yUGdqLUw3OEJTaWdOdk9CSDRNbVdvQ2xjUWJ6RTZFR3RMVlo1X3Q5dTFScmU4d3NTdG0wb3I1aERaUVdqMXNOZ3d2b2RyeHM1QUtjbTh3dw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBA.com"
-      },
-      {
         "headline": "Round 2 NBA mock draft: Best available players, predictions",
         "description": "",
         "published": "2026-06-24T22:00:00+00:00",
@@ -702,13 +693,13 @@
         "source": "CBS Sports"
       },
       {
-        "headline": "NBA Draft 2026 winners and losers include Dybantsa, Peterson, Boozer and \u2026 fans?",
+        "headline": "Duke's Isaiah Evans among top talent still available after sitting through Round 1 of the NBA draft",
         "description": "",
-        "published": "2026-06-24T18:51:47+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZG1pd2JxSU5QTFh4Y0J0VUFQVGxRNi12T3REWGtwYXdIcEJKUUp4Q0hMZTFzS19QNGdEQVNiVXB3Y2RuTWZHMjF2R3pXaERMMThDM2oweHBOdFVwZFdyUU5ybmI4dk9IdmVQWnRxUm1KTFgwRVFfY3FRN3kxT0xjUl8tOWdtU01fTUQ5M1U0RGxYUi14OVYzVGVuSkhuM2NDenFIcTVhRDRpcXc?oc=5",
+        "published": "2026-06-24T17:01:05+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONUd1ZVdIOXZmcWxKc3h0QVFmT0pvSXg2VTZ0eHFKTkJEQlNBdTh0d0h4TFMzb0hJSDFMc0Y2aWc5Zm1IVklqRUNaVG9zVUthdmNyRmVWY01JdHVhS3pfS1NaVW1YSGFfUDV1YVEyMV90MUYzLTV2aHF1VWJJc2trTXhQVmVIejdrUWdXcmt6VVlVM3o2NENsdzA5VWkzUW10NzBUTFlfZXoyRElvcEtIZHNJMDBhR2haSGZSX3NUSTVxWER3ZlV0MkF5VlNtQQ?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "The New York Times"
+        "source": "The Washington Post"
       },
       {
         "headline": "NBA Star Derrick White Named \u201cPresident Of Basketball Strategy\u201d For CU Men\u2019s Basketball",
@@ -736,6 +727,15 @@
         "image": null,
         "recruiting": false,
         "source": "Detroit Free Press"
+      },
+      {
+        "headline": "2026 NBA draft: Round 1 winners, surprise picks, questions",
+        "description": "",
+        "published": "2026-06-24T06:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPbVh3emFGSDRhamhoWExJUWx6R0xHYXo4NTJfVnFoUjYtMnZQQ25SOEtFOWgtM3FSTVFOM0tuaG1BYVFvaDFxclNqTjVyLTRZTldCU041Z29kMkVOUnJFbTJkOS1TYjBlaW5kb1Y3VUxtdU5XNkN2MTVtR0FVcHlnenRQSE5EQkZMZkVfVDkwWnZ4bzhRZXB1TDBiR2xIMk9na2VHY0I5eHd3QklMTVpyck04TWpnd3ZBeWQzUXdlZVZNRk5EcEJOYmQ1RQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
       }
     ],
     "games": []
