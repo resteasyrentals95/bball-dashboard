@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T02:51:54.997801+00:00",
+  "generated_at": "2026-06-25T03:06:59.728598+00:00",
   "duke": {
     "news": [
       {
@@ -201,15 +201,6 @@
         "source": "Bleacher Report"
       },
       {
-        "headline": "Duke basketball adds Washington State to 2026-27 non-conference slate",
-        "description": "",
-        "published": "2026-06-22T14:19:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTUVlTk9Ic3dQcldoRlBNekcyaW9OTlp6eG4wZHBfQmVPWW1LN3RSZThDdHJKbXVQN3FBS1pUa3hrMW5LR3V0bkdsV2N4aXRnQUNrYXNNNGFWTzA5MWN6ODJGNGRQeTRaRkVrTldMeFJ6bndubkhmdkprRDAzMy1WU2pvbzFpY3VyYzVkbVhyTEM2bFJQY2FGeEtKSHhzbjhyb0FsMjFjakxvRkotOWI2REdYbEE3ZUpVMGJiRlk5cnNyN1AxVzFheWdnYnZ1bi1BV3pGSXlSeFBWLUQxX3c?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Fayetteville Observer"
-      },
-      {
         "headline": "Cougar Men's Basketball Will Face Duke in 2026 Acrisure Series - Washington State University Athletics",
         "description": "",
         "published": "2026-06-22T14:12:19+00:00",
@@ -253,6 +244,15 @@
         "image": null,
         "recruiting": true,
         "source": "Duke Basketball Report"
+      },
+      {
+        "headline": "Where Cameron Boozer, Duke basketball players are projected in 2026 NBA Draft",
+        "description": "",
+        "published": "2026-06-22T09:01:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPeVhrR3lZam1kNTJIWWh1b3NfcTdCaERudlZnZUlZbFNaYTFrenQ3YWVHTnF6a1h1U2NhTDk5d3dMNFlhNGVLeUx3ZEx0dENJakhpMjVFcVFwdlhuNlVhd2pVMjY3ZV9jSy14eHktVTJiczRqVzNSRmFrUHJVanJaTXZ4MG9SSHFBM3BOdG1KQzh5emxoalltSGRqbEE5WDRmMXBBbXVZcW1WN1pPbkZ1cWtHQzRQaTJTX2p3Y1hBeVF5QlBpMldxNVBwN05OOGhIeWtmRA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Fayetteville Observer"
       }
     ],
     "games": [
@@ -486,13 +486,40 @@
   "nba": {
     "news": [
       {
+        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
+        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing ahead of free agency.",
+        "published": "2026-06-25T03:04:11Z",
+        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+        "image": "https://a.espncdn.com/photo/2025/1103/r1570365_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "2026 NBA draft grades: Winners, losers for all 30 teams",
+        "description": "Which team won the NBA draft? Which picks and trades stood out? Ben Golliver grades all 30 teams.",
+        "published": "2026-06-25T03:01:02Z",
+        "link": "https://www.espn.com/nba/story/_/id/49147426/2026-nba-draft-grades-winners-losers-sleepers-best-picks-value-reaches-all-30-teams-classes",
+        "image": "https://a.espncdn.com/photo/2026/0624/nba_draft-grades_16x9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "2026 NBA offseason trade grades: Pistons deal Isaiah Stewart to Grizzlies",
         "description": "We're grading the biggest NBA trades of the offseason, including the three-team deal that saw Julius Randle land in Brooklyn.",
-        "published": "2026-06-25T02:45:00Z",
+        "published": "2026-06-25T03:00:33Z",
         "link": "https://www.espn.com/nba/story/_/id/49135150/2026-nba-offseason-trade-grades-contracts-new-deals-rosters-teams",
         "image": "https://a.espncdn.com/photo/2025/0526/r1498574_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Wizards move up in 2nd round to select Okpara after making Dybantsa the No. 1 pick in the NBA draft",
+        "description": "",
+        "published": "2026-06-25T02:48:29+00:00",
+        "link": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9mTXg0WDZvM3NSVXlnWE53OEdQTkRLSkcyLWhzMXBZcFlLTUtKNktCR3BxTV9rNDFqTG9QUkdKb05CZ2tsR01XejBCZG52MTVQWVAxT3VCWUgtakRmZUZBVW5obXRMejdKY19HaE5lcmVDUXlkUzRz?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Newsday"
       },
       {
         "headline": "2026 NBA Draft grades, second-round pick-by-pick analysis",
@@ -504,15 +531,6 @@
         "source": "Yahoo Sports"
       },
       {
-        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
-        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing ahead of free agency.",
-        "published": "2026-06-25T02:34:19Z",
-        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
-        "image": "https://a.espncdn.com/photo/2025/1103/r1570365_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "Sources: Pistons trading Isaiah Stewart to Grizzlies",
         "description": "The Pistons are trading backup big man Isaiah Stewart to the Grizzlies for three future second-round picks, sources said.",
         "published": "2026-06-25T02:27:06Z",
@@ -522,15 +540,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "Clippers Take Veesaar In NBA Draft Second Round",
-        "description": "",
-        "published": "2026-06-25T02:16:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRUhwSHlLZUwxXzcwa0ZRZHhRYVcyX0FrcFRLOVpncEY4UDJEX1VmV1h2cjVKTWlqWHNYeXZoTW9mc2djTVA1OHExSWplZDY1OV9GN3poUW9GMU1yTXdFaDNPWEtNM212aHZ5dlZ0YnJWeU92am5iWmM4clBHZHhjY2Q3RHN1ZkZhY0QxYVBKV01hNWYwaTJYbURrYmZSZ3c?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "University of North Carolina Athletics"
-      },
-      {
         "headline": "Golden State Warriors pick FSU basketball's Lajae Jones in NBA Draft",
         "description": "",
         "published": "2026-06-25T02:13:00+00:00",
@@ -538,15 +547,6 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
-      },
-      {
-        "headline": "Ohio State guard Bruce Thornton picked in the NBA draft second round",
-        "description": "",
-        "published": "2026-06-25T02:06:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNdktNV2psMzA4cUxoRS1kcWNYMXZQY2lsTXNaRkJkaEZDazg0enJtaG9vVkI4VFl3ZDZBcVA1ZGRJNGJsSWhZSnVsOHRyWThFSWJ0WWhwSmQ0cFRxcnBWeW9heHlkT2FsZDg5R0pMcmhMRk5jV092UFVCZ2ZFcVFZOGczSklrVkVKakR4Q1Jfd2N2QzJPeURucHh0dXVQSjJsa3BreFNVb0Z5U0NCVDJnaHJkVWRGSjEwZjBxc2dnUi01OFVJVVhqNkZzQm94SGxaUVpkbzBoeEJ3WGFFV3lLYUctTG53TUtiQXB4dEZBM2U4cDlxbU5JbUMzREdadG90NnFR?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Buckeyes Wire"
       },
       {
         "headline": "Ugonna Onyenso selected No. 53 overall in 2026 NBA Draft By The Detroit Pistons",
@@ -565,6 +565,15 @@
         "image": "https://a.espncdn.com/photo/2026/0501/r1651756_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Henri Veesaar Selected By Atlanta Hawks In NBA Draft",
+        "description": "",
+        "published": "2026-06-25T02:00:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUEdTcHVBSTdkOVVSMVNSbmQ1dllULUlvUVJsYjMxeHN6bjY0Y0ptNHh0VXp5bDZJaWtlcEJWdk1WM0NSRlV1V1d0VndjRlI3Tnh5THdVNUNGWHdXWkhOTkZvY3B1VERNV3pIOU1fY2hWcVlhbmpPQjNxbDNSQkdtazhlc1dEOTV2Si00ZFEtai1GVTMzWHFFakFB?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "On3"
       },
       {
         "headline": "Knicks select 20-year-old German G Jack Kayil with 39th pick in 2026 NBA Draft",
@@ -644,15 +653,6 @@
         "published": "2026-06-24T23:35:43Z",
         "link": "https://www.espn.com/nba/story/_/id/49085966/2026-nba-round-2-mock-draft-best-available-players-picks-predictions",
         "image": "https://a.espncdn.com/photo/2026/0624/r1678594_1296x729_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "Bickerstaff: Nori's contract with Portland a 'slap in the face'",
-        "description": "J.B. Bickerstaff, coach of the Pistons and president of the National Basketball Coaches Association, calls the structure of new Trail Blazers coach Micah Nori's contract a \"slap in the face to our value.\"",
-        "published": "2026-06-24T22:41:26Z",
-        "link": "https://www.espn.com/nba/story/_/id/49168201/bickerstaff-nori-contract-portland-slap-face",
-        "image": "https://a.espncdn.com/photo/2025/0624/r1510630_600x400_3-2.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
