@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-06-25T02:06:41.729948+00:00",
+  "generated_at": "2026-06-25T02:21:45.923369+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "Spurs select Tennessee's Ja'Kobi Gillespie, Duke's Maliq Brown in second round",
+        "description": "",
+        "published": "2026-06-25T02:14:27+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGNyNFlzemF0S2xfRUFBTktGVWNGLS13T2RDbk1zd0pLSUxVbXZ1a01uWEh5ajFULWVoV21lYWg0MFVKcHl6VzA3TFRaZXFOenRpakgwelpMOHhUYnAtbnZhTEJjYVNkLVU1MHBQbzZmYnVHbl82TzJTZHo5cEZzLThJd2l6bVdUSUJVdWtaMDdEOUlSZmtkY2FCX25BU3FCaFAtNkxoelpyUW5GSlJR?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "San Antonio Express-News"
+      },
       {
         "headline": "Here's what Duke basketball\u2019s Maliq Brown brings to San Antonio Spurs",
         "description": "",
@@ -66,6 +75,15 @@
         "source": "Yahoo Sports"
       },
       {
+        "headline": "2026 NBA Draft fallout: Duke's Isaiah Evans, UNC's Henri Veesaar leave millions in NIL money on the table",
+        "description": "",
+        "published": "2026-06-24T16:56:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnhYSFpVNmRKcG9BY2tDNEtNV3FRb2dVdHpKMmZBRFJkNFJ1UkVvem5VTkNJcUpIQTB5bnd1Nklvd2laSmpoeVNrRWNfSG9FTUxnaG16WmRPUXZVT0dibUdCamM4dF9jNHRYZEotZ3VlZ3JPT1FMMXV3RHVXd2kwd1BpOVhVb0xadkJTcTBEbkY0ckhUYmc2V1dB?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CBS Sports"
+      },
+      {
         "headline": "Kentucky maintains lead over Duke in all-time NBA 1st-round draft picks after 2026 draft",
         "description": "",
         "published": "2026-06-24T15:13:19+00:00",
@@ -102,15 +120,6 @@
         "source": "Yahoo Sports"
       },
       {
-        "headline": "Duke's Isaiah Evans among top talent still available after sitting through Round 1 of the NBA draft",
-        "description": "",
-        "published": "2026-06-24T10:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjJzNUdOVXdRSWsyUHdJVWhnbnkySFBFNHpwZjJjaDU4YjNoOHJqUFZldlBmTlNyTHJ4d25rT1pXQndfZGVjWmdfaFhNWDU0QzFLS0FQSXNKMkNubnd0Vm5jV1FHeTFYbjBvQmdfaVNmN2ZWWkloaGM3SjBtTE5RaEZ4VWNaQVNoOXdsQTUtclJ2ZzE1b3lR?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "AP News"
-      },
-      {
         "headline": "Which colleges have produced the most No.1 NBA draft picks?",
         "description": "Each year, the NBA draft attracts top notch talent from college basketball institutions. Which programs have produced the most No. 1 draft picks?",
         "published": "2026-06-24T03:06:58Z",
@@ -127,15 +136,6 @@
         "image": null,
         "recruiting": false,
         "source": "The Fayetteville Observer"
-      },
-      {
-        "headline": "Instant Breakdown of Duke's Cameron Boozer's Fit With Grizzlies",
-        "description": "",
-        "published": "2026-06-24T00:23:44+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd2VlS1hHcnBPSlNuLVozRm9ndGJMbzhTdklubDdqdmJxazdzZlMwNnJjNjJPSGJzUkNIclZyTnVKUFluU0YwaXROcDBiNDZXU003M1BMbURtQWk1bUppREwwa29NRG9mN1psTXk2UjE4X01oSGcxWUxmY1FBTmZ4V25UMGFrSGQ1VW1pZDg5MzVVSmdl?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
       },
       {
         "headline": "Duke Basketball: Cameron Boozer believes he will be best player in 2026 NBA Draft",
@@ -486,6 +486,33 @@
   "nba": {
     "news": [
       {
+        "headline": "Clippers Take Veesaar In NBA Draft Second Round",
+        "description": "",
+        "published": "2026-06-25T02:16:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPRUhwSHlLZUwxXzcwa0ZRZHhRYVcyX0FrcFRLOVpncEY4UDJEX1VmV1h2cjVKTWlqWHNYeXZoTW9mc2djTVA1OHExSWplZDY1OV9GN3poUW9GMU1yTXdFaDNPWEtNM212aHZ5dlZ0YnJWeU92am5iWmM4clBHZHhjY2Q3RHN1ZkZhY0QxYVBKV01hNWYwaTJYbURrYmZSZ3c?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "University of North Carolina Athletics"
+      },
+      {
+        "headline": "Golden State Warriors pick FSU basketball's Lajae Jones in NBA Draft",
+        "description": "",
+        "published": "2026-06-25T02:13:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxOcjhkX2pHN2pxQ1JDR1ZLV2VEYmNLaUVvSVNjYnByc2p1SU1ZVXJDaGpyM1ZCd3VHWVlNUi1BNFU3ZVAxVGx1eEZPZUd3aHMxYkhHbHZSMWlVTHN3SUlIU0pBU0hlXzJ4WFdHdzVoeEhTSjRjMUxvWm9xTUptd1Z0aUExaU5hWjlTaUdIeTVJeWFYX2hrZFlQZFRyZkhxTEdQNnU2VEEydjBMc2ptYkpBcGN2NzVNd0ZUWm01eFJrN3F2T01MaW14Y3F4V2RuUFNzVFoxRWdlUDhiekkzakt3NUtMd1JZSll1WjAwNjNFUWpBaGpkeTB6cw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Tallahassee Democrat"
+      },
+      {
+        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
+        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing ahead of free agency.",
+        "published": "2026-06-25T02:10:39Z",
+        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+        "image": "https://a.espncdn.com/photo/2025/1103/r1570365_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "Live NBA trade tracker: Updates for every deal of the 2026 offseason",
         "description": "We have the updates, including players and draft picks, for every NBA trade made this summer.",
         "published": "2026-06-25T02:02:32Z",
@@ -504,22 +531,22 @@
         "source": "ESPN"
       },
       {
-        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
-        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing ahead of free agency.",
-        "published": "2026-06-25T01:55:13Z",
-        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
-        "image": "https://a.espncdn.com/photo/2025/1103/r1570365_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "Pros and cons of Knicks picking Vanderbilt's Tyler Nickel in 2026 NBA Draft",
+        "headline": "Knicks select 20-year-old German G Jack Kayil with 39th pick in 2026 NBA Draft",
         "description": "",
-        "published": "2026-06-25T01:38:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQZXdHTGdrN0IyMHNJa1k5dXJ6WjJJNXBRNHk2NnpGTUljSm5MemVuaWRDNFMxd2tzT0M0Y2tIX3FTbXRseEJmdThoOEY2Y3lneU1SM0dlTV90V3N0R3ltc216UXJ1YzZvMXFYaGZSWWgyUjZrRDQxY2pQOWNqeE9mLUVVOGxPa0Z2aFpybEM0SVhIMC11Zy1DVjJuZTJ0UFByeE1yekFQQU9iZmczQzlqOE1HamVrR2lwOTd3U1RpSUs3N3B5SnJJZFZzRDQwSDBtSVh2a2g2elBZdw?oc=5",
+        "published": "2026-06-25T01:53:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOQWpFOXpYcWtXblEyUTlka3NnQm5xX09LeWx3RmJkOGhPNjlHOU9ndl9qRkN2ZDhqcGxwMTFXOG9MZ19PeXE3ZzcwbHp6cS1rOXFZSEQxS3UybUxMc3VOSlhFTWlmU3ZzRHdTdC1ELVViNVg3d19RSS1yLUFyaUtrOTJuTlBYRjIyVm03YUQtcXN5QTVq?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "The Tennessean"
+        "source": "New York Daily News"
+      },
+      {
+        "headline": "Former Gonzaga commit Jack Kayil selected No. 39 overall in NBA Draft",
+        "description": "",
+        "published": "2026-06-25T01:25:19+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOSmFaQzlPTXFDMGZzMmVNUFFSRnlRY1g1T2s0aG52UEVKcFIyb0RFS29ibVBDcEg0cm9Sd0lpTkZ4TTRLQl9wcjZEZm1ZY3RaNXhGTVNaSWxYZzlCeFpzbDF6MGZuaEttMXJfeHdVTkhOU1J2N09YdWVRc2FZLWZpamZmZVVjZGhnSWs5R3FtZjRHVjBLU2JvdndVR1FDMVNhZWxPazF4QVA1azJ3RkY4ekZSV3I?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Sports Illustrated"
       },
       {
         "headline": "Tennessee's Ja'Kobi Gillespie selected in second round of NBA Draft",
@@ -534,10 +561,10 @@
         "headline": "Kentucky Basketball star Otega Oweh goes to OKC Thunder in 2026 NBA Draft",
         "description": "",
         "published": "2026-06-25T01:09:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxObGo3am52akVaZnAzRGpZckhUUEFGekxOc1h2cXBxaWhzSEhfclg1MzdfZzQySk5Mcnl3RUM0b1FsQmlzeXZvUVcxX0ZNQlk2N3Z2ZDV1bl9EU2hJUktmSFpBOGhDbnI4QjU3NGNZcFFKcW53N1c0OEE5MVVtRldpMHhjNVBhSG1EelV5MQ?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRGMtZG95TFNMbk5hLUhvRUU2MGRHVmt3SHBkOGJWUk9zUFNkUXN6ZDZ2RS1vd0E0dENsbTFqUUtIV3R5aDhabzJ0YnNpSTBYOXZjSHhScXVROE5GMUJOcExzbnA5Z0xHS2dfWV9MN0tKNS1Mb0NDcHBoeFpKcy1tcUJNeXV0Tkk0dFktYlFTWWU0eVA1YjNSckNhRVpNWTNvak4tVlhadDYzUQ?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Yahoo Sports"
+        "source": "A Sea Of Blue"
       },
       {
         "headline": "NBA Draft: Cavs acquire Arkansas guard in second round",
@@ -558,15 +585,6 @@
         "source": "highschoolot.com"
       },
       {
-        "headline": "Isaiah Evans Learns His NBA Destiny",
-        "description": "",
-        "published": "2026-06-25T00:38:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPMTZ0RFNEdEhzdWNqOFpCT0JSd3NXZVR5T2RtV2lvRW00bUcwVFprdkZvT0NTc3dCckVWMjhYblJRUE9ZUjJNTTFvdTV1bmdYVld0Z1ZKWm83SWpWcDUxUDhoTHlRT1B2dzFra09rR19sanE2cE1rSWtjVEpDNTl5RlNncWtHOUJnZGtv?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Duke Basketball Report"
-      },
-      {
         "headline": "Arkansas basketball's Meleek Thomas, Trevon Brazile selected in NBA Draft second round",
         "description": "",
         "published": "2026-06-25T00:36:00+00:00",
@@ -574,6 +592,15 @@
         "image": null,
         "recruiting": false,
         "source": "Whole Hog Sports"
+      },
+      {
+        "headline": "Richie Saunders Selected by Memphis Grizzlies in Second Round of NBA Draft",
+        "description": "",
+        "published": "2026-06-25T00:35:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNWFJhRnduVV9LS0R0b2JTTENkdDZqQ0Q5ZGFLZVV0b1NKLU14eEdKRFlwUENMVkVPb1lnNE9xeUZWTV9XVTVENWJEZllVekdzYktLcjQ2MkxGSjBxb2dINTRlMlRYS2hORnpjbUtXVmNEb3JFT01PS3RQTTltMTFQdV9ldmdrRlZDOThSOF9BT0NTbEtROWotV18yeVdBeExKVmxNcmtLQzA3aTVwSUZEbXZuVHpRMFN3RVdUN2Yxb2VtbVFnN0JLYXYxcktuMWpBN3Bxd2E1UnA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Vanquish The Foe"
       },
       {
         "headline": "Who is Meleek Thomas, the Cleveland Cavaliers' 2nd-round pick in the 2026 NBA draft?",
@@ -592,6 +619,15 @@
         "image": "https://a.espncdn.com/photo/2026/0624/r1678594_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Live Updates: 2026 NBA Draft | Gearing up for Round 2",
+        "description": "",
+        "published": "2026-06-24T23:35:40+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE8yUGdqLUw3OEJTaWdOdk9CSDRNbVdvQ2xjUWJ6RTZFR3RMVlo1X3Q5dTFScmU4d3NTdG0wb3I1aERaUVdqMXNOZ3d2b2RyeHM1QUtjbTh3dw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
       },
       {
         "headline": "Bickerstaff: Nori's contract with Portland a 'slap in the face'",
@@ -630,13 +666,13 @@
         "source": "The New York Times"
       },
       {
-        "headline": "Duke's Isaiah Evans among top talent still available after sitting through Round 1 of the NBA draft",
+        "headline": "UCLA Men's Basketball History in the NBA Draft",
         "description": "",
-        "published": "2026-06-24T17:01:05+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONUd1ZVdIOXZmcWxKc3h0QVFmT0pvSXg2VTZ0eHFKTkJEQlNBdTh0d0h4TFMzb0hJSDFMc0Y2aWc5Zm1IVklqRUNaVG9zVUthdmNyRmVWY01JdHVhS3pfS1NaVW1YSGFfUDV1YVEyMV90MUYzLTV2aHF1VWJJc2trTXhQVmVIejdrUWdXcmt6VVlVM3o2NENsdzA5VWkzUW10NzBUTFlfZXoyRElvcEtIZHNJMDBhR2haSGZSX3NUSTVxWER3ZlV0MkF5VlNtQQ?oc=5",
+        "published": "2026-06-24T16:43:33+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOZzQ1MjJuMzAzbUx4Y1RiLVczZEtWWG5VRlpkSDJiaW5MT1hHQllqYUxOXzA4UWJrakszNE5qb19mZFBiMDIzejJFRUVqalZWTm9DRTBiU0hYUzBndERGdnFtU3hGeHBYUjY3TTJjSHBobHZWd01mT2lGNGpPM2Y4bzF3ZHNacF9hTlRzQlpBZmh0bDRLUEo4a0ZEWDg4OC0xVFEybDJDZkQ3Zw?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "The Washington Post"
+        "source": "247Sports"
       },
       {
         "headline": "NBA Star Derrick White Named \u201cPresident Of Basketball Strategy\u201d For CU Men\u2019s Basketball",
@@ -684,15 +720,6 @@
         "source": "AP News"
       },
       {
-        "headline": "2026 NBA draft tracker: List of 1st-round picks",
-        "description": "",
-        "published": "2026-06-24T03:32:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPVnRmQmcyNGtrT3BvUVRoNm5aOGQyS09vY2tHN3VnbmdISnZSTzJGakxiQ296bFNsV3hsMEppOE84eFc0NWVNV3h6SFNGVl9hRWQxTFRnZkJhTWx3d0ZQTG9KaVI5cDRnYXpDU3pLVHpZWHR4Z3pEQlZMV1FiUWpacHhLLTYxbUgzekVJejNDTjM0YUE4aE1ia1p0LUpwX19JS2c?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "AP News"
-      },
-      {
         "headline": "Where UW\u2019s Hannes Steinbach went in the NBA draft",
         "description": "",
         "published": "2026-06-24T01:52:44+00:00",
@@ -709,33 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "kuathletics.com"
-      },
-      {
-        "headline": "Bulls Pick Wilson 4th Overall In NBA Draft",
-        "description": "",
-        "published": "2026-06-24T00:57:25+00:00",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5helBadENaYkZPY1BsNl81aC1ndzAzSWl5TnNpdXpCd1ZYNlpHdWYwS1BSVk5YWDZiRXBhLVRxX2FZNnRpVjU1NjV5VGw1YWZxaUh6ZHlaNk45U2sxWFZOTy1ianl4bVlXa2N0UHBRX1VKcmhaUWVSWUxOUQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "University of North Carolina Athletics"
-      },
-      {
-        "headline": "In today\u2019s NBA, when a Giannis-sized opportunity knocks, teams have to take the leap",
-        "description": "",
-        "published": "2026-06-23T19:24:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMkVnYmlzZG9BYTNvV2pOU1czZ1hKZi1tdGk3bDVISURaR00xa0ZicHowbGNqOW9XVzVGX3JQNnkxQld6MEdFLUFGdGNWVE54SXBzZ2JGTGczMFR1S3ltLWx4ZDVhVEUyZkkxX3d6YnEzQXpoQzdkLXRCQ3U0M0JES2QteVJPbXZZbnhST2ZmY0pBRS1JdWpQUGtVS0ZjbHFvajNGSEhn?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "AP News"
-      },
-      {
-        "headline": "Big-name college basketball coach in North Carolina turned down NBA job, per reports",
-        "description": "",
-        "published": "2026-06-23T14:05:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaEs2RVhGWUtEZVpLZ21aM2hQbG1sczBGSDMxdVl0VGlyVjVlbGxVQVRBMGJJZ0tBR25PZ3RQbktTaHFCYzZ2RkNCTWw0M2c2MGEwMUlhcmNXaG52c1FSSFgxY3ZBV2I0dDdidE8wTkZDZERzektNNGZjc3NQSzU1anlweTRVSDV0Q0VTMG4yZUl2dFlNV2VOSjN0SE85VnE4ZjJGVFJzaTE2ell4ckY0LUJvYw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "WBTV"
       }
     ],
     "games": []
