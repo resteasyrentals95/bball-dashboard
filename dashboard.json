@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-25T16:39:00.463620+00:00",
+  "generated_at": "2026-06-25T16:54:05.286655+00:00",
   "duke": {
     "news": [
       {
@@ -486,6 +486,33 @@
   "nba": {
     "news": [
       {
+        "headline": "Pros, cons of Nuggets reportedly signing TSU's Aaron Nkrumah after 2026 NBA Draft",
+        "description": "",
+        "published": "2026-06-25T16:48:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdEN0VW9rMEl4dHZ5SDc1TkRsSzk4eEZGNnhnbV9qNURBVGJHNV8zLUtFbUcybWJmSTI0ZWpNSGgzMEVnMl9DY29EQTFFaThTOGl3NjIxMEQ3a0d4VWNtc3JqZDlWd2xlYmY4akhmekt3NUZmZ1BheWZfVVpFdTNKeEdoMl9UXzFEalhVZ0xON0JoZ2toSjdLOFRuS3pkV3o4ZFNuVldEUllEQVpuRXRnb3FGalZaVFF0Qzd3QnhPNklqNTFE?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "The Tennessean"
+      },
+      {
+        "headline": "Sources: Coby White to re-sign with Hornets on 3-year, $74M deal",
+        "description": "Guard Coby White intends to sign a three-year, $74 million deal to return to the Hornets, sources told ESPN's Shams Charania.",
+        "published": "2026-06-25T16:45:37Z",
+        "link": "https://www.espn.com/nba/story/_/id/49176539/sources-coby-white-re-sign-hornets-3-year-74m-deal",
+        "image": "https://a.espncdn.com/photo/2026/0615/r1673749_600x400_3-2.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Tom Dundon doesn't plan to contribute to Portland arena upgrades",
+        "description": "Trail Blazers governor Tom Dundon is digging in his heels that public money only should fund a $600 million makeover of the Moda Center.",
+        "published": "2026-06-25T16:39:16Z",
+        "link": "https://www.espn.com/nba/story/_/id/49177034/tom-dundon-plan-contribute-portland-arena-upgrades",
+        "image": "https://a.espncdn.com/photo/2026/0403/r1637876_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
         "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing ahead of free agency.",
         "published": "2026-06-25T16:30:48Z",
@@ -502,15 +529,6 @@
         "image": null,
         "recruiting": false,
         "source": "The State"
-      },
-      {
-        "headline": "Sources: Coby White to re-sign with Hornets on 3-year, $74M deal",
-        "description": "Guard Coby White intends to sign a three-year, $74 million deal to return to the Hornets, sources told ESPN's Shams Charania on Thursday.",
-        "published": "2026-06-25T16:09:09Z",
-        "link": "https://www.espn.com/nba/story/_/id/49176539/sources-coby-white-re-sign-hornets-3-year-74m-deal",
-        "image": "https://a.espncdn.com/photo/2026/0615/r1673749_600x400_3-2.jpg",
-        "recruiting": false,
-        "source": "ESPN"
       },
       {
         "headline": "Fantasy basketball: LaMelo takes some heat off Anthony Edwards",
@@ -531,13 +549,13 @@
         "source": "ESPN"
       },
       {
-        "headline": "Why Huskies were winners, Gonzaga, Oregon losers in NBA draft",
+        "headline": "2026 NBA Draft grades for all 30 teams: Grizzlies, Thunder get highest marks",
         "description": "",
-        "published": "2026-06-25T15:43:40+00:00",
-        "link": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQmpoUWp6QVNMc1dkaHpDM1VwRmo1WUgzSVFQZnlFZFlCNDUwTFF5YUFOMDh6ajFhV3gwUXdndlM3b2VhY3pQbFhlOGYxWUdBaF9EYmFRZXVmU3oxMXQtRDVUX3NKTXlKMnpNZVVGVWNDbnktRkkxQ3BxdFZBbEZGZHI2SkZhMTJLZ0U4S1RHdUNIelRhLS1WeXpPX0tuSXBhOWt2cTY1OXJXSnFxd21hX1JBTHRRVll1VXNJVEVB?oc=5",
+        "published": "2026-06-25T14:57:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPaHBWVkFKY2RWdzdIVVlvX1dqMms4WmlXMFB1TmdSM3pHZk1mV2NkQ2JiTFhBWk1rZWNrMFdEU3VkQXA0UUFrd1hPVW02UnM3ekhwZ3lHaHdCOFVJb2ZEWjd1NVU5aXRNY20zcFN0dDFBVk1tekNwUDVqRERiUC1xTlF0TjEtUzFwcERUUkY1eWJCblRaR2Foa2FZVnBGNG5HT2pNNzZldjQtNXZHcmpNTVIzcFVrTnhRTkRPZm9qbkZ2SzNM?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "The Seattle Times"
+        "source": "Yahoo Sports"
       },
       {
         "headline": "KU basketball\u2019s Tre White, Melvin Council Jr. sign with NBA teams as free agents",
@@ -718,24 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "AP News"
-      },
-      {
-        "headline": "Big-name college basketball coach in North Carolina turned down NBA job, per reports",
-        "description": "",
-        "published": "2026-06-23T14:05:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQaEs2RVhGWUtEZVpLZ21aM2hQbG1sczBGSDMxdVl0VGlyVjVlbGxVQVRBMGJJZ0tBR25PZ3RQbktTaHFCYzZ2RkNCTWw0M2c2MGEwMUlhcmNXaG52c1FSSFgxY3ZBV2I0dDdidE8wTkZDZERzektNNGZjc3NQSzU1anlweTRVSDV0Q0VTMG4yZUl2dFlNV2VOSjN0SE85VnE4ZjJGVFJzaTE2ell4ckY0LUJvYw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "WBTV"
-      },
-      {
-        "headline": "NBA draft withdrawal decisions that could impact NCAA basketball",
-        "description": "",
-        "published": "2026-05-19T07:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcGNUQjFsZWVMVll5emQwQnlWS1VxZVhhaFByMUF5a2wtT3BsOTR1N0RaVHFwbGlvWHpyYmJuUjBJZkdLR1NkaGZ2djNoS3VyTHdOSFh3VEpUWGFLM2k4bWNFa0ZCcm90Ty10TERfc1hZN0F4UDZ3cnFaeEVFbFVOd2I2N05tSEtMdWptUVdkdTVfUW8zODZ4VE0yWXFVcVNtR0RTN0hqZ2lWYzNhbnRHam5UbnhoczVQaFBaTV9Yb0ZVR1VneFdGQXEybw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
       }
     ],
     "games": []
