@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T16:49:12.456698+00:00",
+  "generated_at": "2026-06-26T17:04:18.036577+00:00",
   "duke": {
     "news": [
       {
@@ -41,11 +41,11 @@
       {
         "headline": "What Duke's Maliq Brown Brings to the NBA",
         "description": "",
-        "published": "2026-06-26T10:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QOGNPWEE4UGYtN2FqaWFIazZXU3BMN1ZTR1A0R2dTc0c0bW9wSTBvd3htLWdtZFpMc2JkMnd0MVRobjEzcU1GZ3RteDdTQ2JCazZWcnNiVE5KT0Q0LTRvQXhFa1Z0V2s3Y1ZRQ0VXT1VORDM5NmhPSE5lbw?oc=5",
+        "published": "2026-06-26T10:00:07+00:00",
+        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUjVZekhOQjVndHF0eHg2aVo0eV9PYnlJVzc1Nkg1Nml5ZnB6Q2t6VXZzbVVBalMyQndOU2dyOWl3T2JoWURYZ2hGVlA5T040OTEwQXNaTDlHTFRQcEJ1emZobmRPV0NscjJvTzRTUmFjcHg5eDkzUnotZXlfbjlvYmg2cw?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Sports Illustrated"
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Duke Basketball Guard Jacob Theodosiou Ready to Compete in Chile",
@@ -486,15 +486,6 @@
   "nba": {
     "news": [
       {
-        "headline": "Which former Buckeyes have been acquired by NBA teams this summer?",
-        "description": "",
-        "published": "2026-06-26T16:35:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT0s3N0h3WU1jNnVBOWNEY21iSUFVUFhoT2tOa05kYnRIUEplZVRGVlkxNENmcWxJb3NfS3JiOWV4TDNlN1B2NWFMakZ2Nnp2dFJZcXNoWDF1bTIxN3IxVTczSWRxdEdqQVh4Z2VlVnd6SlpvazlMZVVuWjgtbFFRM0RnME5McXlQdFJNa1REUVJHNm9lQ3oyVUc1NWFFYklibUVDdXladHlIU3kwRUlYaEl2UDBfOVByLWVZUTdxUlhTQWNvMGhGczJ4RHE2TTFSVXc2eE1XTzBRVy10OFRTX2tsWQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Columbus Dispatch"
-      },
-      {
         "headline": "Sources: Pistons to land Isaiah Joe in trade with Thunder",
         "description": "The Thunder are trading Isaiah Joe to the Pistons for two second-round picks, sources told ESPN's Shams Charania.",
         "published": "2026-06-26T16:20:11Z",
@@ -540,6 +531,15 @@
         "source": "USA Today"
       },
       {
+        "headline": "Israeli-born Emanuel Sharp drafted 45th to the NBA\u2019s Sacramento Kings",
+        "description": "",
+        "published": "2026-06-26T14:29:12+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE5FcWpmQXZxaTZfUDI2YmNjN19kQUpqOF9qbUZfTG51cnZDZmNrVnoxM1RmZ1NiSGNKQ0R1NjFHLVRiSmZhU3BHVjlOejA5bTNjRF9TZnJROHMwZXhPcDJj?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Jerusalem Post"
+      },
+      {
         "headline": "2026 NBA Draft Winners & Losers (Fantasy Basketball)",
         "description": "",
         "published": "2026-06-26T13:31:48+00:00",
@@ -556,15 +556,6 @@
         "image": null,
         "recruiting": false,
         "source": "Bucky's 5th Quarter"
-      },
-      {
-        "headline": "Nick Boyd finds NBA home after going undrafted",
-        "description": "",
-        "published": "2026-06-26T13:26:58+00:00",
-        "link": "https://news.google.com/rss/articles/CBMifkFVX3lxTE56WUs1TTBYb3NkRm0wTUtWc3dwMi05Y0VkUGU2ZnVvcVBKcm54S3lLckRPbThGSDVVZkd6QTFJbU5BQlMwYk5wLXF4WjFtcXpHMEtuV2xfeXNYUlpDUU5wSWxDY3hHVm43bnlDeXpQZ1dHTE1zLVItUGM4TUxTZw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "3 Arizona players projected to go in 1st round of 2027 NBA Draft by ESPN",
@@ -592,15 +583,6 @@
         "image": null,
         "recruiting": false,
         "source": "Hypebeast"
-      },
-      {
-        "headline": "NBA\u2019s Sacramento Kings draft Tel Aviv-born Emanuel Sharp",
-        "description": "",
-        "published": "2026-06-26T11:14:58+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbXFhNVZQcHBXb2daYTZjcWVFTi11djQ4aG9fXzNuV185cmNZS1F0UFN6cXIzUExmTGtxRTZNcE9pWGl5ZTV3d3NncVZONmU4anJfbE5BeFBtVjFoVWFwemRPWmlqOFdkX21iUm5xLWY5b2JjRjZnblhlZGFaZUFuVWF3ZnpYY1NSeTJHQnRRRdIBlAFBVV95cUxPZUd4RW1WU1BqcURtLU9yalZseklKZll0UHc3aFBfUU0zYlF2dVgzZXFpV21YQmE4QkV4dVFSeTFIUGFVdmpYZVAzbVNjMlJ4VTdYVTY5akI3X2x1UnlyVFpkNnluc0NLM0t6d3AxNlcwV1d4UDVuQTBtc3I0c0dlRDBINmo4V0VwdEttQU5HMkFfNktB?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Times of Israel"
       },
       {
         "headline": "With 3 players taken in NBA draft, UH's success is motivation for next group",
@@ -646,6 +628,15 @@
         "image": null,
         "recruiting": false,
         "source": "Basketball Network"
+      },
+      {
+        "headline": "2026 NBA Draft shines light on Basketball Without Borders' impact",
+        "description": "",
+        "published": "2026-06-26T00:01:22+00:00",
+        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVQVE3cXMwYUFQT1llNVUzMVJ4alY3OXkyVU1WUEdrOHFGaGtudTVyUG5aY2V0bFZlNTFIbmZkd0lUWTdEeFYwME1BTi1QWTBoX3NFT210ZEhHa3B2Y0VaMlNXTzZKSjlxS1hXVU1nZjZWYlN6?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "NBA.com"
       },
       {
         "headline": "Loaded NBA draft class continues successful year for Big Ten men\u2019s basketball",
@@ -718,6 +709,15 @@
         "image": null,
         "recruiting": false,
         "source": "AP News"
+      },
+      {
+        "headline": "Derrick White, other NBA stars join college basketball front offices. What do they do?",
+        "description": "",
+        "published": "2026-06-25T09:13:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSnpGM290OWlQQzNkdVJwbUFmM29aMTlkdHViYldzVTNzX1Btd1lrRW9tTTZ2MkNtUmtrTGFNbHg3ZXVLNnl2X1BDUVNyeVFhZUpKMHlrZFhhSG00QU5uYkw5Tzh4RVdYMVRhRGZlQW1nNUlza3RtU1NRYWlTbWVhRWVsbkZzampyei1nSGdiMmE3SW1uUnlfRTdaNnhKV1JWWmtNNnYwcVlpSW1UWVBwd1I3eEI1NWg0QVRrWnpmQ0xpa01MWUZZR3pfZ09MMzJwdTZlTHdEbVBRd0FLTXNjU2M1eHZiRkM2NWZxZmFn?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "USA Today"
       },
       {
         "headline": "2026 NBA draft grades: Winners, losers for all 30 teams",
