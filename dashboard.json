@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T15:33:47.438130+00:00",
+  "generated_at": "2026-06-26T15:48:52.472450+00:00",
   "duke": {
     "news": [
       {
@@ -486,6 +486,33 @@
   "nba": {
     "news": [
       {
+        "headline": "2026 NBA offseason trade grades: LaMelo Ball, Isaiah Joe deals",
+        "description": "We're grading the biggest NBA trades of the offseason, including the blockbuster deal that sent LaMelo Ball from Charlotte to Minnesota.",
+        "published": "2026-06-26T15:44:15Z",
+        "link": "https://www.espn.com/nba/story/_/id/49135150/2026-nba-offseason-trade-grades-contracts-new-deals-rosters-teams",
+        "image": "https://a.espncdn.com/photo/2026/0417/r1644929_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "'The Hoop Collective': Episodes of Brian Windhorst's NBA podcast",
+        "description": "Here are the top highlights from Brian Windhorst's \"The Hoop Collective\" podcast, from breaking news to the latest intel and reaction from around the NBA.",
+        "published": "2026-06-26T15:35:56Z",
+        "link": "https://www.espn.com/nba/story/_/id/47168192/the-hoop-collective-latest-episodes-brian-windhorst-nba-podcast-archive-best-quotes",
+        "image": "https://a.espncdn.com/photo/2025/1112/r1574751_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Making Sense of Recent Reporting Regarding Narcisse Ngoy's NBA Draft Situation",
+        "description": "",
+        "published": "2026-06-26T15:25:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbVN5emdjV3dtNXMwWVB6NmlsaGItWFlFbG4tSU1GSjZvdVkzUHdVQ2RqSFppYTktMVlIeGdzTzFkcXNya2IzOUdGRkdUUzdJTTVLWXZxWGU1cjh6dm11SVZaNGFEakpYd1phVTd6WjU2dExJQWFEQVRsX2ROUDRUMXRWdWt3blZLeDZqYVBzaGk0UzV1Zm9Dd1ZOcjY0Z243MGxGS3NoZTVJc2NQWkExd09WU3ZXTHktS0pQVEhKTzBiREZkVHJnUlhPUFNQWWFMNnJTR0ZvQ3VNZw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
         "headline": "NBA trade tracker: Updates for every deal of the 2026 offseason",
         "description": "We have the updates, including players and draft picks, for every NBA trade made this summer.",
         "published": "2026-06-26T15:24:04Z",
@@ -513,15 +540,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "'The Hoop Collective': Episodes of Brian Windhorst's NBA podcast",
-        "description": "Here are the top highlights from Brian Windhorst's \"The Hoop Collective\" podcast, from breaking news to the latest intel and reaction from around the NBA.",
-        "published": "2026-06-26T14:55:12Z",
-        "link": "https://www.espn.com/nba/story/_/id/47168192/the-hoop-collective-latest-episodes-brian-windhorst-nba-podcast-archive-best-quotes",
-        "image": "https://a.espncdn.com/photo/2025/1112/r1574751_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "Wisconsin Basketball: Nick Boyd finds NBA home after going undrafted",
         "description": "",
         "published": "2026-06-26T13:26:58+00:00",
@@ -531,13 +549,13 @@
         "source": "Bucky's 5th Quarter"
       },
       {
-        "headline": "Detroit Pistons Get Bad Jalen Duren News Before NBA Free Agency",
+        "headline": "3 Arizona players projected to go in 1st round of 2027 NBA Draft by ESPN",
         "description": "",
-        "published": "2026-06-26T13:20:26+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMXpNQS01U1RUTGY2Zlh2MWJUZDhUbE15NlN1alZNdW1lb2k4UmZtazVLQ3hZbGFOTlhGTk80MFRNMnJFYnVfeGx3UHpMNG52OGxTMEpLM2JRd0tFNU9KRHBIOHhCdVYtZksydm5WUVl4aGlfYTM3d21qTG1PUjZxX25veE9xNUk?oc=5",
+        "published": "2026-06-26T13:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ2MzYnFhMl9td0xkcEh1VzJhZW90dEhxa2EwTkVqN2gtWnlBaTVxQUdIckl3WThxN2ZvZUZTMVdTUkVqUDdpNXVGZGtlQWZ3aWh0aGpsNzdkRFI1Z3luaW1UQnB1N3FUeXM2U0xwNk9WczhCanlUN3Q1QWtwX0Qzd0NaY2R5VFlPbEpGd1hqOGJ4aDRzRzBfV2dSZnRqUl9WUkJkd1VlTFZrR2pFMTNHby1XOWdlRHd1cllLdmJHZ1gzcjN1TUY5T3BaNUwxcFJfMWZVenMwRWdGd1YyZVAyMHJuaGdVSk9VbklR?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Yahoo Sports"
+        "source": "Arizona Desert Swarm"
       },
       {
         "headline": "NBA and Japan's NINJA BASKETBALL ARMY Reimagine a 16th-Century World Where Ninjas Settled Wars With Basketball",
@@ -567,15 +585,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "UNC's Henri Veesaar's NBA Draft Slide Raises One Big Question",
-        "description": "",
-        "published": "2026-06-26T11:00:07+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNaFBmeDg4bVVtM1VMNHBQRGNjY2N0SzktNW1LOGpmSVZrYWtxQ1VJWjdNZnpYTU9lZG85WWI2Y3J6eXl0N091cUQ5S0pyMFpsN215NFpDV0hhNEUxcjMzd0Z4WVZOR2ZwOUhPd2JCVVk3UDVtZGtDV1FyQk5VOGhVcU9qQ2s?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "NBA free agency 2026: How all 30 teams can ace their offseason",
         "description": "",
         "published": "2026-06-26T11:00:00+00:00",
@@ -583,15 +592,6 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Channing Fry explains why the LaMelo Ball trade signals a major shift in the NBA",
-        "description": "",
-        "published": "2026-06-26T10:08:45+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOalNhNVBnMTdCWVdtS1MzQk1OSklCOWNYN21ZNEJHRUZTdjU2aF85Mks3c0pFZnh0T25VMHZUVVZaN2U1SmFXUlZPR0xVRkZ3Yi1YMFZXTTNtSzRXZWRlRnppWGNVUEF5NUJrV0xCY3FVU2FFbjlzRDljZzMwMFVsMGY1ckxwYl9wblJrMExLSUEybVhkUjVaWGNDZ2RwaVhtM082Q2k4LXBKMUtvY2N0YWdNUmcxUml0TXJNY3FUZWh0Tm5N?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Basketball Network"
       },
       {
         "headline": "NBA Hall of Famer Ben Wallace\u2019s Goochland mansion hits the market at nearly $7M",
@@ -720,6 +720,15 @@
         "source": "NBA Big Board | Rafael Barlowe"
       },
       {
+        "headline": "2027 NBA mock draft: Early projections for top 60 prospects",
+        "description": "",
+        "published": "2026-06-25T10:45:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWlVJR0tiNi1iSEMzTjc1TTF6c05WUHRFbDJjTkpoOXN5NlVPT2FPS3JoNjU3Q2FKV21VVFF6aWZDaG5YbE1qT2FlZzR5dzdTM25zOVJKQW1ZRTlqdzdTbzlRZjZtNXUweVU1UUNEd3YyQjdIczlpYU1HazZjQmw5VlE5Q2s4T2tPUkVEMUxleE8zLVp1Y1lyLWExUWwtNjMyM3B3bEVlek4?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "ESPN"
+      },
+      {
         "headline": "Spurs and Thunder go big, Acuff-Brown is a matchup to watch and other takeaways from the NBA draft",
         "description": "",
         "published": "2026-06-25T10:00:00+00:00",
@@ -727,15 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "AP News"
-      },
-      {
-        "headline": "Derrick White, other NBA stars join college basketball front offices. What do they do?",
-        "description": "",
-        "published": "2026-06-25T09:13:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPSnpGM290OWlQQzNkdVJwbUFmM29aMTlkdHViYldzVTNzX1Btd1lrRW9tTTZ2MkNtUmtrTGFNbHg3ZXVLNnl2X1BDUVNyeVFhZUpKMHlrZFhhSG00QU5uYkw5Tzh4RVdYMVRhRGZlQW1nNUlza3RtU1NRYWlTbWVhRWVsbkZzampyei1nSGdiMmE3SW1uUnlfRTdaNnhKV1JWWmtNNnYwcVlpSW1UWVBwd1I3eEI1NWg0QVRrWnpmQ0xpa01MWUZZR3pfZ09MMzJwdTZlTHdEbVBRd0FLTXNjU2M1eHZiRkM2NWZxZmFn?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "USA Today"
       }
     ],
     "games": []
