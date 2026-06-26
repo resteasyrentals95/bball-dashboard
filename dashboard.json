@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-06-26T10:52:18.212890+00:00",
+  "generated_at": "2026-06-26T11:07:22.404063+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "Potential Future Duke Basketball Duo Already Building Chemistry",
+        "description": "",
+        "published": "2026-06-26T11:00:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2ZJU084Y0s3b3Z0RjVDWGRPMzZBUU1Ob2tlXzNKN2lmZXlIQ1FNRWtORTBzYkU4YnJnLTVBMHBzcmkxNTBWaW9pXzNYT2dHWUJIS0I5dk1xV1lrYnNUaFhoRTRDd29qT2pfaDBUem5zVWJKeWhVQTNoUEloUXVkMXBfOC14YXE4R2duOWhKdjB0REI4dW9qTHZ3?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
       {
         "headline": "The decade when Duke basketball became a fearsome (and hated) machine",
         "description": "",
@@ -120,6 +129,15 @@
         "source": "The Fayetteville Observer"
       },
       {
+        "headline": "Nightmare Scenario for Duke's Isaiah Evans Realized on Draft Night",
+        "description": "",
+        "published": "2026-06-24T18:32:07+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdE1xajJwb21PYVRrZFVlUzVsNFFROTVYNnhkczUtanM3U1J4WUt4bm5Ed2tNaHBiTktlV1g1dnNZc2tPWGhJV2owRW9JNVI4TEZPeVRxVnA4Q2F3VHZhaWpLVGpZN04xdFZxS2lXVVBxbW5tUlZpWlhGV1h2TXJiOTBudDYycE1zTUZBeUhtYw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "2026 NBA Draft fallout: Duke's Isaiah Evans, UNC's Henri Veesaar leave millions in NIL money on the table",
         "description": "",
         "published": "2026-06-24T16:56:00+00:00",
@@ -172,15 +190,6 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
-      },
-      {
-        "headline": "Nightmare Scenario for Duke's Isaiah Evans Realized on Draft Night",
-        "description": "",
-        "published": "2026-06-24T03:39:11+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGk4VDVjSkF0ekdRcVYtLVpkM0ZtbGpRVlN3Z3l1bnVPWXhwV3BQZjh4TVROclpTcmR6ODYwTmJXTXdiNzh2Q05xVTNaYzF3d2lBZm1xdXJWc0hjMXA3TXRVWXRMbWUtOFgzSXFmMGJnXzc4Umwyd1FQX21jeFhPQ253a0EycTdQX3VfOFdsUVdVczJfbHE4NllJdUg?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
       },
       {
         "headline": "Which colleges have produced the most No.1 NBA draft picks?",
@@ -244,15 +253,6 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Duke basketball adds Washington State to 2026-27 non-conference slate",
-        "description": "",
-        "published": "2026-06-22T14:19:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTUVlTk9Ic3dQcldoRlBNekcyaW9OTlp6eG4wZHBfQmVPWW1LN3RSZThDdHJKbXVQN3FBS1pUa3hrMW5LR3V0bkdsV2N4aXRnQUNrYXNNNGFWTzA5MWN6ODJGNGRQeTRaRkVrTldMeFJ6bndubkhmdkprRDAzMy1WU2pvbzFpY3VyYzVkbVhyTEM2bFJQY2FGeEtKSHhzbjhyb0FsMjFjakxvRkotOWI2REdYbEE3ZUpVMGJiRlk5cnNyN1AxVzFheWdnYnZ1bi1BV3pGSXlSeFBWLUQxX3c?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Fayetteville Observer"
       }
     ],
     "games": [
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "NBA free agency 2026: How all 30 teams can ace their offseason",
+        "description": "Major moves have already rocked the summer, but work remains for all 30 teams. Here's how each can ace the next stage of their offseason.",
+        "published": "2026-06-26T11:04:51Z",
+        "link": "https://www.espn.com/nba/story/_/id/49171485/nba-offseason-2026-how-lakers-warriors-heat-knicks-all-30-teams-ace-summer",
+        "image": "https://a.espncdn.com/photo/2026/0622/260626_nba_ace-their-summer_16x9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "NBA targets Asian resurgence with technology and talent push",
         "description": "",
         "published": "2026-06-26T05:48:54+00:00",
@@ -511,6 +520,15 @@
         "image": "https://a.espncdn.com/photo/2026/0626/r1679677_608x342_16-9.jpg",
         "recruiting": true,
         "source": "ESPN"
+      },
+      {
+        "headline": "Four Tar Heels Included in Early 2027 NBA Mock Drafts",
+        "description": "",
+        "published": "2026-06-26T01:16:19+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa3ZaeVNOMTNEdERRcWZDaUgxZ2YyV29YRWpMZzYzQmVwUHgya1J4bEt0UUR3cWlwMzQ5VGpNUHEzQkFkc3hCYnhsbW9DNnphUmxQTHJQWWVvWW01c2JEN3BlenUxUm14MEV6V1E5enBMNFBWM3NpaWd5cFdaZXdkLWZrTVhDejg0cVJmSFBMQ0dNX0cwcUhsdjBGS1JUZ1B1UThn?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "On3"
       },
       {
         "headline": "Micah Nori didn't get 'discouraged' while waiting for HC chance",
@@ -558,15 +576,6 @@
         "source": "New York Daily News"
       },
       {
-        "headline": "'The Hoop Collective': Episodes of Brian Windhorst's NBA podcast",
-        "description": "Here are the top highlights from Brian Windhorst's \"The Hoop Collective\" podcast, from breaking news to the latest intel and reaction from around the NBA.",
-        "published": "2026-06-25T22:13:31Z",
-        "link": "https://www.espn.com/nba/story/_/id/47168192/the-hoop-collective-latest-episodes-brian-windhorst-nba-podcast-archive-best-quotes",
-        "image": "https://a.espncdn.com/photo/2025/1112/r1574751_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "Loaded NBA draft class continues successful year for Big Ten men\u2019s basketball",
         "description": "",
         "published": "2026-06-25T22:09:04+00:00",
@@ -583,15 +592,6 @@
         "image": null,
         "recruiting": false,
         "source": "AL.com"
-      },
-      {
-        "headline": "KSR Happy Hour: Kentucky Basketball player interviews, NBA Draft, USA!",
-        "description": "",
-        "published": "2026-06-25T19:57:24+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWGliU21KdkZyNS0wMEF2UW45ei1NZU5mU0w1bFJ1WUhxODZrMldLLVZMbXJOS3hHVXhlTzZCazNiOWJjYkc5bUE2SXdaQ1dfSHNjTlpyb25ydnFibzFUa3NzMFZNNU5WZnBxNnJkZzRDUEJSN3o2b3NBUDFRaHN0aGxZV1JiRG5pbGtEaHlYMUJCWU1FWmN6RHhrM2E0dU5iaTEzVEd5bzNVdWR1TkR5X1VIRkVUVmc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "On3"
       },
       {
         "headline": "Former BYU Stars AJ Dybantsa and Richie Saunders Select NBA Jersey Numbers",
