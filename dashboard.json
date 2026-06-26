@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T18:21:20.684588+00:00",
+  "generated_at": "2026-06-26T18:36:25.684404+00:00",
   "duke": {
     "news": [
       {
@@ -129,15 +129,6 @@
         "source": "Yahoo Sports"
       },
       {
-        "headline": "Spurs select Tennessee's Ja'Kobi Gillespie, Duke's Maliq Brown in second round",
-        "description": "",
-        "published": "2026-06-25T02:15:11+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGNyNFlzemF0S2xfRUFBTktGVWNGLS13T2RDbk1zd0pLSUxVbXZ1a01uWEh5ajFULWVoV21lYWg0MFVKcHl6VzA3TFRaZXFOenRpakgwelpMOHhUYnAtbnZhTEJjYVNkLVU1MHBQbzZmYnVHbl82TzJTZHo5cEZzLThJd2l6bVdUSUJVdWtaMDdEOUlSZmtkY2FCX25BU3FCaFAtNkxoelpyUW5GSlJR?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "San Antonio Express-News"
-      },
-      {
         "headline": "Here's what Duke basketball\u2019s Maliq Brown brings to San Antonio Spurs",
         "description": "",
         "published": "2026-06-25T01:27:00+00:00",
@@ -250,6 +241,15 @@
         "description": "",
         "published": "2026-06-23T12:00:03+00:00",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHAwTUxVZHpZZ1lZdmhEZ2hOSkYtMHFjcllqUDVaVEV2LTVKb1k2LUdScUZvUnJ3VDJZTU1PZjAxY2V4VkVacTMteFRUQVllc2llZk1pWUpSZmlZdTI0R2lEb3JOSTY5YzZKWjJRdDNZU3ItZFc0OVJFaDdJNjhYY3ViMnBhLVo1RW9CU3NYeDlEOGlYdmtVbmlneWJoTmw1?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Worst-Case Scenario for Duke Basketball Next Season",
+        "description": "",
+        "published": "2026-06-23T11:00:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS2MtQ1N6V2NORW83dnZ3d2wxa0xDcHFnQkVCRGhjaktRZXNEdkhmbnp1cFdVZjJzQ1hfcGI3WnFWajRHbXlGTzlDUjNRVTNPQkx1emIwN2hGTWFJQnk3cFZ6LXdzM1A1N3lpVHdzVE4yczlOTWlSamdGM0RNODBNNU8tNWh6ZUFpMVNqMEFGYw?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Bulls' Caleb Wilson expects to win Rookie of the Year",
+        "description": "New Chicago Bulls forward Caleb Wilson, the No. 4 overall pick, was asked during his introductory press conference about his expectations for his rookie season, and he set his sights on Rookie of the Year.",
+        "published": "2026-06-26T18:30:35Z",
+        "link": "https://www.espn.com/nba/story/_/id/49188920/bulls-caleb-wilson-expects-win-rookie-year",
+        "image": "https://a.espncdn.com/photo/2026/0626/r1680052_600x400_3-2.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "Jordyn Woods' lucky Knicks clutch earns spot at Guggenheim Museum",
         "description": "The orange clutch became a symbol of the Knicks' legendary run in the 2026 NBA playoffs.",
         "published": "2026-06-26T18:17:09Z",
@@ -493,15 +502,6 @@
         "image": "https://a.espncdn.com/photo/2026/0626/r1680003_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Iowa State Part of Big 12 History During 2026 NBA Draft",
-        "description": "",
-        "published": "2026-06-26T18:00:03+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQSzk5cXU5UWttV1p3VGpBUzg2RVFUbkJyUkxvYVFTU2p4eDNuNFVvSzJwMkhRTGViN3RIMndwdzdjcU14TEFHMXJYaUstNGFnWXFvN0NpMlA2WkloT21ERzZNbkJ0ZEc3WmdQU3o0WDFGbVBtbTBsM2wwWU92c3BwZmdFYnBKS1o1dlhscWlXUVBhUXRTS05sU05rbVgxU0ZGNHU0Y3c3Zw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
       },
       {
         "headline": "Ebuka Okorie, Zuby Ejiofor headline Nigerian talent selected in 2026 NBA Draft",
@@ -522,6 +522,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "\"Because... He Has Tattoos\": NBA Legend Sounds off on LaMelo Ball's Reputation After Timberwolves Move",
+        "description": "",
+        "published": "2026-06-26T17:24:41+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbERKR2g5ckpoVVBQaUpneHhPajZoWnNrRFA4SkhLX0ZVMl9QYmY0SVNGUmdReU5SaXhpYzNUWEVrRnI3ZjFXSy1HVHFJWi1mQzFQYU9yWWZDMGNIOFVmQ1RZT1pkSzYtZldwRkJ1SkpKTTBFZXNRVVdiS3lJVlk4U3lnMG5GWVNVamc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "Arkansas basketball NBA roundup: Where former Razorbacks are in the league following draft, trades",
         "description": "",
         "published": "2026-06-26T16:52:00+00:00",
@@ -540,15 +549,6 @@
         "source": "The Columbus Dispatch"
       },
       {
-        "headline": "2026 NBA offseason trade grades: LaMelo Ball, Isaiah Joe deals",
-        "description": "We're grading the biggest NBA trades of the offseason, including the blockbuster deal that sent LaMelo Ball from Charlotte to Minnesota.",
-        "published": "2026-06-26T16:15:40Z",
-        "link": "https://www.espn.com/nba/story/_/id/49135150/2026-nba-offseason-trade-grades-contracts-new-deals-rosters-teams",
-        "image": "https://a.espncdn.com/photo/2026/0417/r1644929_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
         "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing ahead of free agency.",
         "published": "2026-06-26T16:02:11Z",
@@ -556,15 +556,6 @@
         "image": "https://a.espncdn.com/photo/2026/0414/r1643527_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Lakers Get Bad News in Pursuit of All-NBA Center After New Insider Report",
-        "description": "",
-        "published": "2026-06-26T16:01:12+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOUVFmYlBLQjVNejVnR0hMZFA1b0dFVzduZTFXeUl0b2Q3TFVNWlEwcWw0U0JZVVlYYmdIWFdoRnBkWW1fR0ZzZ0tiMHBWUFJtWFVvUl9XVGFQTTBPVEY2QmlwTHBMTTBaVm9LRVZYZzVzcTkyUEMxQVkzV0syOFJDVTBn?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "Michigan president sounds off after Dusty May leaves for NBA",
@@ -657,15 +648,6 @@
         "source": "On3"
       },
       {
-        "headline": "2026 NBA Draft shines light on Basketball Without Borders' impact",
-        "description": "",
-        "published": "2026-06-26T00:01:22+00:00",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVQVE3cXMwYUFQT1llNVUzMVJ4alY3OXkyVU1WUEdrOHFGaGtudTVyUG5aY2V0bFZlNTFIbmZkd0lUWTdEeFYwME1BTi1QWTBoX3NFT210ZEhHa3B2Y0VaMlNXTzZKSjlxS1hXVU1nZjZWYlN6?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBA.com"
-      },
-      {
         "headline": "Loaded NBA draft class continues successful year for Big Ten men\u2019s basketball",
         "description": "",
         "published": "2026-06-25T22:09:04+00:00",
@@ -736,6 +718,24 @@
         "image": null,
         "recruiting": false,
         "source": "AP News"
+      },
+      {
+        "headline": "2026 NBA draft grades: Winners, losers for all 30 teams",
+        "description": "",
+        "published": "2026-06-25T02:49:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVndEcXQ4aEp1ZlZISnNBaDlGNGJLRjBmQWlQWEVoa2N2MkR4c2VLTEF2ZHdCSy1qQjhBVE1LTFNCcmZSZ1BLcXFuZlVEclJnVTBPNnhhTWtUVTR0ak9fcm5jOEdFNFVmY1pQZk51R1UzSUdpc1NzM0ZVNVVpU0o5Q090ejQwVUZVTVp6cjFlS2hQdFVCNnBNUE5PclhZNFRaN3VSVGdyWmRfOXpkS2JqSGZWYmFaclVCeENRR2x5VGFyV0N1RGZndnZzaEVhZzF6UFE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "NBA Star Derrick White Named \u201cPresident Of Basketball Strategy\u201d For CU Men\u2019s Basketball",
+        "description": "",
+        "published": "2026-06-24T16:14:47+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdmk4ZTkzU2h4ZE9RaEI2NmVIejZiMVlRQTdFajdGZnByckFKZnN3UVR0Y1Y1ZmhGU3NneG5jSzkwcHFMUFVIVnNUZFV5dEkwaFJCZFluMkwwSHpRX0dkYWZockJQNUhEekttcmpoQ1VDd0Zpdmg1Nk8xTm82VlFZUlhndG96Smh2bjRna3pRaDZzWUphbFN0MFdJd2JrRWRlRDJleUI0QlhoMEhnOG9aLXo0cjZ6emtIWVl3bzZtbWw4OEp2cEs5aGctQllBdzZj?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "University of Colorado Athletics"
       }
     ],
     "games": []
