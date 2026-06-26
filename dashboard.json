@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T19:51:49.626390+00:00",
+  "generated_at": "2026-06-26T20:06:54.188416+00:00",
   "duke": {
     "news": [
       {
@@ -486,6 +486,33 @@
   "nba": {
     "news": [
       {
+        "headline": "NBA sets summer league matchups of top 4 draft picks, Heat-Bucks",
+        "description": "The top four picks in the NBA draft are receiving marquee billing in an NBA summer league schedule that also features a Heat-Bucks matchup after their blockbuster Giannis Antetokounmpo trade.",
+        "published": "2026-06-26T20:06:08Z",
+        "link": "https://www.espn.com/nba/story/_/id/49189165/nba-sets-summer-league-matchups-top-4-draft-picks-heat-bucks",
+        "image": "https://a.espncdn.com/photo/2023/0518/r1174848_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Detroit Pistons' Ebuka Okorie hopes his NBA Draft journey inspires others Nigerians",
+        "description": "",
+        "published": "2026-06-26T20:03:29Z",
+        "link": "https://www.espn.com/espn/story/_/id/49189743/detroit-pistons-ebuka-okorie-hopes-nba-draft-journey-inspires-others-nigerians",
+        "image": "https://a.espncdn.com/photo/2026/0626/r1680087_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "NBA Free Agency Best Fits: Jalen Duren Stream of National Basketball Association",
+        "description": "",
+        "published": "2026-06-26T19:47:31+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNTFprS0h2SldDcXpvZDQxcUxwaDhIOUpIcHc4M1JYSVRoVFJxdVY0U09hU1RfU2pWTk9oUDBYSkMyTUtlQ0MwYThfblBBcWk4d21sSjNZU0NMTUpEMkVHeU5YYnBHbXdtUGtKVVFuaWNiNGVXWGRYRjN3UXMzSDhadGduQmptUm9CM2o0?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CBS Sports"
+      },
+      {
         "headline": "Bulls' Caleb Wilson expects to win Rookie of the Year",
         "description": "New Bulls forward Caleb Wilson was asked about his expectations for his debut season, and he set his sights on Rookie of the Year.",
         "published": "2026-06-26T19:35:29Z",
@@ -493,33 +520,6 @@
         "image": "https://a.espncdn.com/photo/2026/0626/r1680052_600x400_3-2.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "NBA Free Agency Best Fits: James Harden Stream of National Basketball Association",
-        "description": "",
-        "published": "2026-06-26T19:33:12+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQRHpQUjdaeGVlNXAwSlFsekhZN3dhLTR2TmxUQmxkSThqeGh4VVRpSlBQYVlsVWh6bWNMbFBnVHNXRXJobG5SU25LNEJZTEpVSmVOZTdOclRwUjFpbW56OURPTGhTTkZLY3VpZ0hCM05GbTR4eF90OVJIU0FlemxsUE54dnVoa2VhOFZkYg?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "CBS Sports"
-      },
-      {
-        "headline": "NBA sets summer league matchups of top 4 draft picks, Heat-Bucks",
-        "description": "The top four picks in the NBA draft are receiving marquee billing in an NBA summer league schedule that also features a Heat-Bucks matchup after their blockbuster Giannis Antetokounmpo trade.",
-        "published": "2026-06-26T19:30:12Z",
-        "link": "https://www.espn.com/nba/story/_/id/49189165/nba-sets-summer-league-matchups-top-4-draft-picks-heat-bucks",
-        "image": "https://a.espncdn.com/photo/2023/0518/r1174848_1296x729_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "NBA free agency 2026: LeBron James' Lakers decision looms; What's next for Kawhi Leonard?",
-        "description": "",
-        "published": "2026-06-26T19:21:03+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSFJNcUduUVRydDNEaDNnWTV5azRxZUl0ZUxrZjZTTmQ2YjJzLUp4ajZHcDBaeVFYMEtqeVRSZ1ZuM3QwOW1FMWxZcDhFem1ac0pJNTlUbHB2RjZHU1lnc3BMUDdXWTRaeVpJMnZjeWR2RTBxZDVIT1FXZFp6TFA5U3JubFdMdHlVaFN2dVNnY1ZNODBPVXpfZlhMQkUyVGZZTmVXMmswQkFFc012aEgzejc3UEZiczE1NEVUellWWDAxSERzM1huOXlBNXQtdw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "NBA sets matchups of top 4 draft picks as marquee openers of Summer League schedule in Las Vegas",
@@ -558,15 +558,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "Sources: Pistons to land Isaiah Joe in trade with Thunder",
-        "description": "The Thunder are trading Isaiah Joe to the Pistons for two second-round picks, sources told ESPN's Shams Charania.",
-        "published": "2026-06-26T17:39:05Z",
-        "link": "https://www.espn.com/nba/story/_/id/49187821/pistons-land-isaiah-joe-trade-thunder",
-        "image": "https://a.espncdn.com/photo/2026/0626/r1679956_1296x729_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "\"Because... He Has Tattoos\": NBA Legend Sounds off on LaMelo Ball's Reputation After Timberwolves Move",
         "description": "",
         "published": "2026-06-26T17:24:41+00:00",
@@ -574,6 +565,15 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
+      },
+      {
+        "headline": "Which former Buckeyes have been acquired by NBA teams this summer?",
+        "description": "",
+        "published": "2026-06-26T16:35:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT0s3N0h3WU1jNnVBOWNEY21iSUFVUFhoT2tOa05kYnRIUEplZVRGVlkxNENmcWxJb3NfS3JiOWV4TDNlN1B2NWFMakZ2Nnp2dFJZcXNoWDF1bTIxN3IxVTczSWRxdEdqQVh4Z2VlVnd6SlpvazlMZVVuWjgtbFFRM0RnME5McXlQdFJNa1REUVJHNm9lQ3oyVUc1NWFFYklibUVDdXladHlIU3kwRUlYaEl2UDBfOVByLWVZUTdxUlhTQWNvMGhGczJ4RHE2TTFSVXc2eE1XTzBRVy10OFRTX2tsWQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Columbus Dispatch"
       },
       {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
@@ -601,15 +601,6 @@
         "image": null,
         "recruiting": false,
         "source": "The Jerusalem Post"
-      },
-      {
-        "headline": "Wisconsin Basketball: Nick Boyd finds NBA home after going undrafted",
-        "description": "",
-        "published": "2026-06-26T13:26:58+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNODV3WkxGSG5idmlEWTVjd2JHdVNjdzRLU3IyZExIWFVUOXBHQlhDOExmTFJVZ1hBZDJxaEl1bTV5b05rcmhERkZxTUVBTm9pekNLNm1XTU5fWmZZU0VJdlVrVFVnUkMxM1JNTExsaTNTY1JOb0txNFNWdmpCVVduLXdVaHpnLV9zcmZiWVk2c3g1YmdCMVpuSExEM3ZmN0VjVHA4RkFSWjF0Q0IzcE9TU1dudHp3eTVOcGdUSncweEdpMndRNmFDY0JDOXlMVVpyZDJ2VGNENmNmWGRrZ014a0NhdjZ4QXBlMHN0Vy1QcUw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Bucky's 5th Quarter"
       },
       {
         "headline": "3 Arizona players projected to go in 1st round of 2027 NBA Draft by ESPN",
@@ -709,6 +700,15 @@
         "image": null,
         "recruiting": false,
         "source": "AL.com"
+      },
+      {
+        "headline": "Former IU basketball forward Tucker DeVries signs undrafted NBA deal with Boston",
+        "description": "",
+        "published": "2026-06-25T19:03:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0RwMDNJQU1EeXJ0QllYbi1UM0JTMWFLSThOZW9XV3B1eFJ0d1dhdENIQ2xwbVJJX2NGMHlsNld2SWFRNC1zMzZnUHlORVNSX2p1cEduaVNhSEt1ZnRVWjVHVTdteHh1YVFzRFNuMHQ3Yi1xUE9rQ3NMZzFnR09yVzlXTzg4ZWN0c2RoWldXN1NlZVpVMGZXbHJYRUNveFBQYTc4R0IybTlmQ3g2Z2YwTWV3NA?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "The Daily Hoosier"
       },
       {
         "headline": "Kevin Young wanted to turn BYU into an NBA pipeline, and the early returns have been historic",
