@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T11:22:27.113834+00:00",
+  "generated_at": "2026-06-26T11:37:31.462927+00:00",
   "duke": {
     "news": [
       {
@@ -210,15 +210,6 @@
         "source": "The Fayetteville Observer"
       },
       {
-        "headline": "Duke Basketball: Cameron Boozer believes he will be best player in 2026 NBA Draft",
-        "description": "",
-        "published": "2026-06-23T21:22:45+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRXY1VjNnSXNPek81TUJsb0dWVXlhSDRxMXVKN25RU1BhOHBwd2tjVnJOYWkxRUpyTkQ0ZHgtVXNaSS15NXNnblVnNUxybzhlZVJ3VFhPUFNobUtNSjdfOGVYZFVsWmNaeFkxeEIzeHEzUHFvZmE2YV9qNDJ1OU16RTFNN0R1eFdyZml3OGsyQXAweFVsMkF1eHVycw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "roundtable.io"
-      },
-      {
         "headline": "2026 NBA draft big board rankings: Top 100 prospects",
         "description": "Who made big jumps in the top 25? Where do Dybantsa and Peterson land? Here's our final big board of 2026.",
         "published": "2026-06-23T15:28:32Z",
@@ -253,6 +244,15 @@
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Duke basketball adds Washington State to 2026-27 non-conference slate",
+        "description": "",
+        "published": "2026-06-22T14:19:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNTUVlTk9Ic3dQcldoRlBNekcyaW9OTlp6eG4wZHBfQmVPWW1LN3RSZThDdHJKbXVQN3FBS1pUa3hrMW5LR3V0bkdsV2N4aXRnQUNrYXNNNGFWTzA5MWN6ODJGNGRQeTRaRkVrTldMeFJ6bndubkhmdkprRDAzMy1WU2pvbzFpY3VyYzVkbVhyTEM2bFJQY2FGeEtKSHhzbjhyb0FsMjFjakxvRkotOWI2REdYbEE3ZUpVMGJiRlk5cnNyN1AxVzFheWdnYnZ1bi1BV3pGSXlSeFBWLUQxX3c?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Fayetteville Observer"
       }
     ],
     "games": [
@@ -486,22 +486,13 @@
   "nba": {
     "news": [
       {
-        "headline": "Clippers draft pick Ngoy plans to play at Auburn next season",
-        "description": "Narcisse Ngoy, the 57th pick in this week's NBA draft, said Thursday he still plans to play college basketball at Auburn next season.",
-        "published": "2026-06-26T11:16:31Z",
-        "link": "https://www.espn.com/mens-college-basketball/story/_/id/49180679/clippers-draft-pick-ngoy-plans-play-auburn-season",
-        "image": "https://a.espncdn.com/photo/2024/1109/r1412312_600x400_3-2.jpg",
+        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
+        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing ahead of free agency.",
+        "published": "2026-06-26T11:26:19Z",
+        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+        "image": "https://a.espncdn.com/photo/2026/0414/r1643527_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "NBA\u2019s Sacramento Kings draft Tel Aviv-born Emanuel Sharp",
-        "description": "",
-        "published": "2026-06-26T11:14:58+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbXFhNVZQcHBXb2daYTZjcWVFTi11djQ4aG9fXzNuV185cmNZS1F0UFN6cXIzUExmTGtxRTZNcE9pWGl5ZTV3d3NncVZONmU4anJfbE5BeFBtVjFoVWFwemRPWmlqOFdkX21iUm5xLWY5b2JjRjZnblhlZGFaZUFuVWF3ZnpYY1NSeTJHQnRRRdIBlAFBVV95cUxPZUd4RW1WU1BqcURtLU9yalZseklKZll0UHc3aFBfUU0zYlF2dVgzZXFpV21YQmE4QkV4dVFSeTFIUGFVdmpYZVAzbVNjMlJ4VTdYVTY5akI3X2x1UnlyVFpkNnluc0NLM0t6d3AxNlcwV1d4UDVuQTBtc3I0c0dlRDBINmo4V0VwdEttQU5HMkFfNktB?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The Times of Israel"
       },
       {
         "headline": "Behind the scenes of the Giannis trade: the restless final hours",
@@ -612,6 +603,15 @@
         "source": "Sports Illustrated"
       },
       {
+        "headline": "Former IU basketball forward Tucker DeVries signs undrafted NBA deal with Boston",
+        "description": "",
+        "published": "2026-06-25T19:03:28+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPU0RwMDNJQU1EeXJ0QllYbi1UM0JTMWFLSThOZW9XV3B1eFJ0d1dhdENIQ2xwbVJJX2NGMHlsNld2SWFRNC1zMzZnUHlORVNSX2p1cEduaVNhSEt1ZnRVWjVHVTdteHh1YVFzRFNuMHQ3Yi1xUE9rQ3NMZzFnR09yVzlXTzg4ZWN0c2RoWldXN1NlZVpVMGZXbHJYRUNveFBQYTc4R0IybTlmQ3g2Z2YwTWV3NA?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "The Daily Hoosier"
+      },
+      {
         "headline": "Kevin Young wanted to turn BYU into an NBA pipeline, and the early returns have been historic",
         "description": "",
         "published": "2026-06-25T18:00:00+00:00",
@@ -675,15 +675,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "The 1986 NBA Draft: Talent, infamy and \u2018unrealized potential,\u2019 40 years later",
-        "description": "",
-        "published": "2026-06-25T10:00:58+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUzZ5SVJ6SUZUNDlsSFBDLVREMW5JYmhFRF9qOTNfaUhXa2RKSU5DUUhlQmFUSEh1YTQ4NzUzOXBycWJ1VTY0azd2YlpFRmhhMTRiVWZHRnlzQ3N2aWEyeDdCY1Z4Y040QldCNElrT2xNcmlDUmtNb2lHOGlCR2VFTW1XWkxRaTZma21WNkZOQnVzai1jZkdXbW1RWjBqSklibmFr?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "The New York Times"
-      },
-      {
         "headline": "Spurs and Thunder go big, Acuff-Brown is a matchup to watch and other takeaways from the NBA draft",
         "description": "",
         "published": "2026-06-25T10:00:00+00:00",
@@ -736,6 +727,15 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Jayden Quaintance taken 20th by the San Antonio Spurs in 2026 NBA Draft",
+        "description": "",
+        "published": "2026-06-24T02:33:40+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQa09BSFB2U3FFLTJGT1J2ZlppM3ktcjN3cEJ1R0o3ZkNfMDdGa0wtVTlGa0JKXy1mU09ONVYtR19wcDVyRkJESGZ2a1ZXZzl0ZzZub3duSW1XTENMUmFXS2c5X3dQUThpa3RzbTN6RlF2N25tZG1FX0plNmlPZWpTM01ZRkI?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "highschoolot.com"
       }
     ],
     "games": []
