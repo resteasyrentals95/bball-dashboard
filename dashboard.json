@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T15:48:52.472450+00:00",
+  "generated_at": "2026-06-26T16:03:57.506803+00:00",
   "duke": {
     "news": [
       {
@@ -32,20 +32,20 @@
       {
         "headline": "Potential Future Duke Basketball Duo Already Building Chemistry",
         "description": "",
-        "published": "2026-06-26T11:00:03+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2ZJU084Y0s3b3Z0RjVDWGRPMzZBUU1Ob2tlXzNKN2lmZXlIQ1FNRWtORTBzYkU4YnJnLTVBMHBzcmkxNTBWaW9pXzNYT2dHWUJIS0I5dk1xV1lrYnNUaFhoRTRDd29qT2pfaDBUem5zVWJKeWhVQTNoUEloUXVkMXBfOC14YXE4R2duOWhKdjB0REI4dW9qTHZ3?oc=5",
+        "published": "2026-06-26T11:00:07+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMTBudzhGLXFfVkpCVk1mNDVRd2t5bndjaHhobTRUY2NoaHdweXRiX3BqZVdsSGNLbWpYRkRMYTRncWY4MVVDbW11T2tkdXdlZ3M3cUgtN2tzZG8zaTJfOUxEcVVFRk0zUXNoeWk1bnd5M3UzTll4eGVUbnR2aU54WHVsaE9ZUk43RnVOc1ZB?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Sports Illustrated"
+        "source": "Yahoo Sports"
       },
       {
         "headline": "What Duke's Maliq Brown Brings to the NBA",
         "description": "",
-        "published": "2026-06-26T10:00:07+00:00",
-        "link": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUjVZekhOQjVndHF0eHg2aVo0eV9PYnlJVzc1Nkg1Nml5ZnB6Q2t6VXZzbVVBalMyQndOU2dyOWl3T2JoWURYZ2hGVlA5T040OTEwQXNaTDlHTFRQcEJ1emZobmRPV0NscjJvTzRTUmFjcHg5eDkzUnotZXlfbjlvYmg2cw?oc=5",
+        "published": "2026-06-26T10:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5QOGNPWEE4UGYtN2FqaWFIazZXU3BMN1ZTR1A0R2dTc0c0bW9wSTBvd3htLWdtZFpMc2JkMnd0MVRobjEzcU1GZ3RteDdTQ2JCazZWcnNiVE5KT0Q0LTRvQXhFa1Z0V2s3Y1ZRQ0VXT1VORDM5NmhPSE5lbw?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Yahoo Sports"
+        "source": "Sports Illustrated"
       },
       {
         "headline": "Duke Basketball Guard Jacob Theodosiou Ready to Compete in Chile",
@@ -486,20 +486,20 @@
   "nba": {
     "news": [
       {
+        "headline": "Sources: Pistons to land Isaiah Joe in trade with Thunder",
+        "description": "The Oklahoma City Thunder are trading Isaiah Joe to the Detroit Pistons for two future second-round picks, sources told ESPN's Shams Charania.",
+        "published": "2026-06-26T15:58:15Z",
+        "link": "https://www.espn.com/nba/story/_/id/49187821/pistons-land-isaiah-joe-trade-thunder",
+        "image": "https://a.espncdn.com/photo/2026/0626/r1679956_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "2026 NBA offseason trade grades: LaMelo Ball, Isaiah Joe deals",
         "description": "We're grading the biggest NBA trades of the offseason, including the blockbuster deal that sent LaMelo Ball from Charlotte to Minnesota.",
         "published": "2026-06-26T15:44:15Z",
         "link": "https://www.espn.com/nba/story/_/id/49135150/2026-nba-offseason-trade-grades-contracts-new-deals-rosters-teams",
         "image": "https://a.espncdn.com/photo/2026/0417/r1644929_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "'The Hoop Collective': Episodes of Brian Windhorst's NBA podcast",
-        "description": "Here are the top highlights from Brian Windhorst's \"The Hoop Collective\" podcast, from breaking news to the latest intel and reaction from around the NBA.",
-        "published": "2026-06-26T15:35:56Z",
-        "link": "https://www.espn.com/nba/story/_/id/47168192/the-hoop-collective-latest-episodes-brian-windhorst-nba-podcast-archive-best-quotes",
-        "image": "https://a.espncdn.com/photo/2025/1112/r1574751_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
@@ -594,13 +594,22 @@
         "source": "ESPN"
       },
       {
-        "headline": "NBA Hall of Famer Ben Wallace\u2019s Goochland mansion hits the market at nearly $7M",
+        "headline": "Channing Fry explains why the LaMelo Ball trade signals a major shift in the NBA",
         "description": "",
-        "published": "2026-06-26T06:02:14+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPNkctQ3lKTXBiM21lWXVUekgzZUl5MnhhakI3ZW0tTldvM2xPOXNyQlMtdElnajM0Y0J3Y3FNWkZGMFFPN3NDWnhmZ3Vwc2RWblROX3c2RmtQdDVkY1N3TDE4X3VaVHFlOU5oRjlBdlVsZ1I2SlNINU14NlpuSEo4MzJnUm1tMG9mWm9qYl83SFNMX3lJdHVkTWVXRDViZ1FxbjFaVE40M3A5WTV6SmJGZEJyUlZ4dkhHS0E?oc=5",
+        "published": "2026-06-26T10:08:45+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOalNhNVBnMTdCWVdtS1MzQk1OSklCOWNYN21ZNEJHRUZTdjU2aF85Mks3c0pFZnh0T25VMHZUVVZaN2U1SmFXUlZPR0xVRkZ3Yi1YMFZXTTNtSzRXZWRlRnppWGNVUEF5NUJrV0xCY3FVU2FFbjlzRDljZzMwMFVsMGY1ckxwYl9wblJrMExLSUEybVhkUjVaWGNDZ2RwaVhtM082Q2k4LXBKMUtvY2N0YWdNUmcxUml0TXJNY3FUZWh0Tm5N?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Richmond BizSense"
+        "source": "Basketball Network"
+      },
+      {
+        "headline": "KSR Happy Hour: Kentucky Basketball player interviews, NBA Draft, USA!",
+        "description": "",
+        "published": "2026-06-26T07:39:37+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWGliU21KdkZyNS0wMEF2UW45ei1NZU5mU0w1bFJ1WUhxODZrMldLLVZMbXJOS3hHVXhlTzZCazNiOWJjYkc5bUE2SXdaQ1dfSHNjTlpyb25ydnFibzFUa3NzMFZNNU5WZnBxNnJkZzRDUEJSN3o2b3NBUDFRaHN0aGxZV1JiRG5pbGtEaHlYMUJCWU1FWmN6RHhrM2E0dU5iaTEzVEd5bzNVdWR1TkR5X1VIRkVUVmc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "On3"
       },
       {
         "headline": "NBA targets Asian resurgence with technology and talent push",
@@ -612,15 +621,6 @@
         "source": "CNBC"
       },
       {
-        "headline": "Ohio State freshman projected as lottery pick | Way too early 2027 NBA mock draft",
-        "description": "",
-        "published": "2026-06-26T01:56:55+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTUZzZXFHeEFnX0MwRUNuSEVUbEhnanNzd211bEpWWHlLRXZLR1h3NXp0MDJpa251T21JM0pDc1ZycVJKdEF3SXIwam91UXoySlpUYlQ0T3Q5cm5aeTFmVHkwV3hlanZHZGFjRHhJVEdkNE84eW5rNEtscmx0bE5SMkZ2Yld6QUJWb0Q3N2pGbURNcXAwc0ZGUGtyMk1vLXdaNjRUSk96M1FvWHdXanZCNTRsXzVqMlp4OWR1X1VJa0pBa3RiRUplZW5makVHcjJBbm1iU3B2YmpHaEdWN3VBbmZCekk?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "247Sports"
-      },
-      {
         "headline": "\"He almost killed a guy with one punch\" - Dominique Wilkins recalls the 'most frightening' in-game fight in NBA history",
         "description": "",
         "published": "2026-06-26T01:31:00+00:00",
@@ -628,15 +628,6 @@
         "image": null,
         "recruiting": false,
         "source": "Basketball Network"
-      },
-      {
-        "headline": "Four Tar Heels Included in Early 2027 NBA Mock Drafts",
-        "description": "",
-        "published": "2026-06-26T01:16:19+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa3ZaeVNOMTNEdERRcWZDaUgxZ2YyV29YRWpMZzYzQmVwUHgya1J4bEt0UUR3cWlwMzQ5VGpNUHEzQkFkc3hCYnhsbW9DNnphUmxQTHJQWWVvWW01c2JEN3BlenUxUm14MEV6V1E5enBMNFBWM3NpaWd5cFdaZXdkLWZrTVhDejg0cVJmSFBMQ0dNX0cwcUhsdjBGS1JUZ1B1UThn?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "On3"
       },
       {
         "headline": "2026 NBA Draft shines light on Basketball Without Borders' impact",
@@ -655,6 +646,15 @@
         "image": null,
         "recruiting": false,
         "source": "NBC Sports"
+      },
+      {
+        "headline": "Texas basketball sees multiple players land on 2027 NBA Mock Draft boards",
+        "description": "",
+        "published": "2026-06-25T21:18:26+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa2VzQ2dwRjc2TUtZZF9hUUVuR0lLYnVGMFBtaGE1a2JSX0ptMFVHUjhwZ0pzZkxXaGZMQThwV3lmY2piQ0FjTVc1MWZnQ29tMDQzUEZKYVo4eE5jTnBvS2FqMDJ2aHd6ekM4Rjl4N1VzVWcyekRjejlZZGxEMFpPcXl6U3hTaDlPaVJqWXM4UnVHYm9XQWhIQ1g3VnU4OXpnR0xBZE4wSEVlRnhlSEdDV2VTdjFCWW9KYmpfUlV0SHhrZXE0ZzlB?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "247Sports"
       },
       {
         "headline": "Former BYU Stars AJ Dybantsa and Richie Saunders Select NBA Jersey Numbers",
