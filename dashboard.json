@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T14:23:19.952601+00:00",
+  "generated_at": "2026-06-26T14:38:25.171207+00:00",
   "duke": {
     "news": [
       {
@@ -165,15 +165,6 @@
         "source": "CBS Sports"
       },
       {
-        "headline": "Duke Tournament of Champions Summer 2026 \u2013 First Round Pt 4",
-        "description": "",
-        "published": "2026-06-24T16:44:18+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObWpBZEF4cXVZb3hfeGxvamROcHk3QURDaUhTaTRZMnlwM3RGYWlDaHVxeGdUeGV4NWM2QTBBeGJ0MHhKR3hZTWxXNV9DbElZUGpVaUNveW9OU0dhMHJjZ1ZtZFY1OXoxa1lFOV9yN2c3bGl4NTlPMFZyYTJ5M1JYMjQ3dVgwQkJ4RkptaFdQQlZNZTZFVEwxMy1ibUNEdWNud3lIX2pBM0o2NlljWENlN2w2UU5GcHh2U1E?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "247Sports"
-      },
-      {
         "headline": "Kentucky maintains lead over Duke in all-time NBA 1st-round draft picks after 2026 draft",
         "description": "",
         "published": "2026-06-24T15:13:19+00:00",
@@ -181,6 +172,15 @@
         "image": null,
         "recruiting": false,
         "source": "NCAA.com"
+      },
+      {
+        "headline": "Duke Tournament of Champions Summer 2026 \u2013 First Round Pt 4",
+        "description": "",
+        "published": "2026-06-24T14:40:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiugFBVV95cUxObWpBZEF4cXVZb3hfeGxvamROcHk3QURDaUhTaTRZMnlwM3RGYWlDaHVxeGdUeGV4NWM2QTBBeGJ0MHhKR3hZTWxXNV9DbElZUGpVaUNveW9OU0dhMHJjZ1ZtZFY1OXoxa1lFOV9yN2c3bGl4NTlPMFZyYTJ5M1JYMjQ3dVgwQkJ4RkptaFdQQlZNZTZFVEwxMy1ibUNEdWNud3lIX2pBM0o2NlljWENlN2w2UU5GcHh2U1E?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "247Sports"
       },
       {
         "headline": "Duke Basketball Projected Starting Five for 2026-27 Season",
@@ -488,7 +488,7 @@
       {
         "headline": "Behind the scenes of the Giannis trade: the restless final hours",
         "description": "After a yearlong saga, full of public declarations and private dismay, a 13-year tenure is over -- and the ripple effects from it might be enormous.",
-        "published": "2026-06-26T14:20:29Z",
+        "published": "2026-06-26T14:35:00Z",
         "link": "https://www.espn.com/nba/story/_/id/49177886/inside-giannis-antetokounmpo-trade-milwaukee-bucks-boston-celtics-miami-heat-nba-offseason",
         "image": "https://a.espncdn.com/photo/2026/0625/r1679463_608x342_16-9.jpg",
         "recruiting": false,
@@ -497,7 +497,7 @@
       {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
         "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing ahead of free agency.",
-        "published": "2026-06-26T14:16:46Z",
+        "published": "2026-06-26T14:29:37Z",
         "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
         "image": "https://a.espncdn.com/photo/2026/0414/r1643527_1296x729_16-9.jpg",
         "recruiting": false,
@@ -603,15 +603,6 @@
         "source": "247Sports"
       },
       {
-        "headline": "2026 NBA free agency: Grades for offseason signings, extensions",
-        "description": "We're grading the biggest NBA free agent signings and extensions, including Austin Reaves' new deal with the Lakers.",
-        "published": "2026-06-26T01:54:58Z",
-        "link": "https://www.espn.com/nba/story/_/id/48957095/2026-nba-free-agency-grades-offseason-signings-deals-contracts-extensions-depth-charts",
-        "image": "https://a.espncdn.com/photo/2026/0626/r1679677_608x342_16-9.jpg",
-        "recruiting": true,
-        "source": "ESPN"
-      },
-      {
         "headline": "Four Tar Heels Included in Early 2027 NBA Mock Drafts",
         "description": "",
         "published": "2026-06-26T01:16:19+00:00",
@@ -673,6 +664,15 @@
         "image": null,
         "recruiting": false,
         "source": "Deseret News"
+      },
+      {
+        "headline": "Purdue stars Fletcher Loyer, Oscar Cluff sign contracts to join Braden Smith, TKR in the NBA",
+        "description": "",
+        "published": "2026-06-25T17:21:32+00:00",
+        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR1hSUzE5aXhxS0E2cWtoUGJCUzJ1S0xGM1lvYTYzSzdJcUhXT2swU2lLYmlpdmFsLUtUVmUtQzczRWROMUx3ZmJ1RWF5bkJ2c3hrU2ZBbk5BYzE4WDVkcGxGcGxkU3JXdV9udEgtbWJ4OHBZRERnb0NlQWFWNVVRNHIzS296REZJOTVheTV1Y1l4RDVwa3psODhwd2EwTjUtT0pGUEZiQkpiNjhKLUFncHRRLXRYUFXSAbwBQVVfeXFMUHJ0TEp3RUNkdjhqTnhZSWN0UG8xQ3RyV2dkamJxdEx5TkktQklQZ0ZJNnRwVDJzRnRCcXhORTRtZTFSMGpOM3VZby1COVZ5WUIwbmlHTnlQWkVsWnRvWElqZFIzaDFaeW5YWHNpY1dUS2ZHc29NTFU4d2JqSm11VFBmRmVsVko5NTUxR1daS3lDaTR2TV91enlWcmJDRGM1a0hwNmFsbmR6eUFhbFU5UVdGVElMREtUUTVaQjk?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Fox 59"
       },
       {
         "headline": "Las Vegas NBA expansion attracts ownership groups; possible arena sites emerge",
