@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T06:36:04.326645+00:00",
+  "generated_at": "2026-06-26T06:51:08.878979+00:00",
   "duke": {
     "news": [
       {
@@ -52,15 +52,6 @@
         "description": "",
         "published": "2026-06-25T15:23:09+00:00",
         "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZ1g0Z2F1OUFwdWdRWkJjajltMzZabzhjUFdoYWl1TURVR1pKN0pic0dJb05uR1VwbjdQTl9UM1dzSDI1Mi1TZUQxV2NZeUlpLXFEbGI0aHgzeEVuU0VkVUZOUDdsanlDRjF1bG9DTk55RXhIUUxhTXh3NjdtNjhSY0h0ZTFMZWlkdVlPZTI2MU1kY3BqT0NJ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Who Will Follow Boozer as Duke's 2027 NBA Draft Headliner",
-        "description": "",
-        "published": "2026-06-25T12:30:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNcUNzRW5VN0FPYVFXdzBqNnZYT2Y0WC15R3FGSkJkZmI2TEV5U0pONEZJTld2M1NzdUg2VnFnTWtNZXNBYlU4dldoTnBKVzkxUWhBOVlnYjNsMlY5QUx0T1FCVFVPMHJXNVhCSXZlRk9WbE1JQTF3ZXNQVnR5Mmg3RXJTTnNVcU14UzhDS25qQQ?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
@@ -253,6 +244,15 @@
         "image": null,
         "recruiting": false,
         "source": "YouTube"
+      },
+      {
+        "headline": "What Dusty May's Departure Says About Duke's Jon Scheyer",
+        "description": "",
+        "published": "2026-06-22T15:05:43+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS3dRbFlCUEh0akNpQXlKRjZLclhybk1rOGdmQnVNOWJDdlRJeWl3amtrYjdMVlZSWENQb1A4cWhIWjVEbWNsd3E1T1UyZmJnb2xFRFFoWUNOZFVRQ1prb3MyRnBNVHUxendPbzNJcjAteGZ1aWZpVGRwMmJTanlOZ0t1RjBvaDEzODF2T1pjT011OEdQREE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
       }
     ],
     "games": [
@@ -657,6 +657,15 @@
         "source": "NBA Big Board | Rafael Barlowe"
       },
       {
+        "headline": "Purdue's Fletcher Loyer, Oscar Cluff Picked Up by NBA Teams as UDFAs",
+        "description": "",
+        "published": "2026-06-25T13:33:09+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOVkpYTDdYZk1MRnJ2UDdoZUF4NlU3ZG95dUhEYWQxTE8yd3I4NlowOVNhZ1hQQjlsRGRERVhJV0tZSE1RT25fdHlDNVBqSm91V2g4WUpNaVRlcklYbHUyMEotTWswY2RuUHBHc0VfRVl5eXY2N25DOEN1NkZtczc2X0dycWhkaUhPZTVaTmNjTUhRcmNiREVOWVRJSFVlaUhydGxTcEc0dHpVN1c1bEMzVjBPSGszZG16eU1IRA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
         "headline": "College basketball coaches on the top 2026 NBA draft picks",
         "description": "",
         "published": "2026-06-25T13:00:00+00:00",
@@ -727,15 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "highschoolot.com"
-      },
-      {
-        "headline": "NBA draft withdrawal decisions that could impact NCAA basketball",
-        "description": "",
-        "published": "2026-05-19T07:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcGNUQjFsZWVMVll5emQwQnlWS1VxZVhhaFByMUF5a2wtT3BsOTR1N0RaVHFwbGlvWHpyYmJuUjBJZkdLR1NkaGZ2djNoS3VyTHdOSFh3VEpUWGFLM2k4bWNFa0ZCcm90Ty10TERfc1hZN0F4UDZ3cnFaeEVFbFVOd2I2N05tSEtMdWptUVdkdTVfUW8zODZ4VE0yWXFVcVNtR0RTN0hqZ2lWYzNhbnRHam5UbnhoczVQaFBaTV9Yb0ZVR1VneFdGQXEybw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
       }
     ],
     "games": []
