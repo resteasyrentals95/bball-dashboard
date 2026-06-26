@@ -1,7 +1,16 @@
 {
-  "generated_at": "2026-06-26T17:04:18.036577+00:00",
+  "generated_at": "2026-06-26T17:19:23.000401+00:00",
   "duke": {
     "news": [
+      {
+        "headline": "Source: Duke Miles Signs With Philadelphia 76ers",
+        "description": "",
+        "published": "2026-06-26T17:05:44+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX0ZhZEJnMkhSTTdfR2N5N25PWjEwMjlCSVJmMTdFNEd4LVo2enVvblNDSDV0R255VjdRQlRRVENKQ1JteTVIWWNzRW5BenRSMjNZaW9FVW83aWpPV0J6cTl5azlVY2ViWk9mUEhwMkI2cUdVMTl0TVBJYzFvY2dkZHZJZ2RONDFuZXl3T0xiVGFtV2RlMzdGUVU2U2s?oc=5",
+        "image": null,
+        "recruiting": true,
+        "source": "Sports Illustrated"
+      },
       {
         "headline": "Way-too-early 2027 NBA mock draft reveals one potential concern for Jon Scheyer, Duke",
         "description": "",
@@ -147,15 +156,6 @@
         "source": "The Fayetteville Observer"
       },
       {
-        "headline": "Nightmare Scenario for Duke's Isaiah Evans Realized on Draft Night",
-        "description": "",
-        "published": "2026-06-24T18:32:07+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQdE1xajJwb21PYVRrZFVlUzVsNFFROTVYNnhkczUtanM3U1J4WUt4bm5Ed2tNaHBiTktlV1g1dnNZc2tPWGhJV2owRW9JNVI4TEZPeVRxVnA4Q2F3VHZhaWpLVGpZN04xdFZxS2lXVVBxbW5tUlZpWlhGV1h2TXJiOTBudDYycE1zTUZBeUhtYw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "2026 NBA Draft fallout: Duke's Isaiah Evans, UNC's Henri Veesaar leave millions in NIL money on the table",
         "description": "",
         "published": "2026-06-24T16:56:00+00:00",
@@ -210,6 +210,15 @@
         "source": "Sports Illustrated"
       },
       {
+        "headline": "Nightmare Scenario for Duke's Isaiah Evans Realized on Draft Night",
+        "description": "",
+        "published": "2026-06-24T03:39:11+00:00",
+        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWGk4VDVjSkF0ekdRcVYtLVpkM0ZtbGpRVlN3Z3l1bnVPWXhwV3BQZjh4TVROclpTcmR6ODYwTmJXTXdiNzh2Q05xVTNaYzF3d2lBZm1xdXJWc0hjMXA3TXRVWXRMbWUtOFgzSXFmMGJnXzc4Umwyd1FQX21jeFhPQ253a0EycTdQX3VfOFdsUVdVczJfbHE4NllJdUg?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
         "headline": "Which colleges have produced the most No.1 NBA draft picks?",
         "description": "Each year, the NBA draft attracts top notch talent from college basketball institutions. Which programs have produced the most No. 1 draft picks?",
         "published": "2026-06-24T03:06:58Z",
@@ -241,15 +250,6 @@
         "description": "",
         "published": "2026-06-23T12:00:03+00:00",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHAwTUxVZHpZZ1lZdmhEZ2hOSkYtMHFjcllqUDVaVEV2LTVKb1k2LUdScUZvUnJ3VDJZTU1PZjAxY2V4VkVacTMteFRUQVllc2llZk1pWUpSZmlZdTI0R2lEb3JOSTY5YzZKWjJRdDNZU3ItZFc0OVJFaDdJNjhYY3ViMnBhLVo1RW9CU3NYeDlEOGlYdmtVbmlneWJoTmw1?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Worst-Case Scenario for Duke Basketball Next Season",
-        "description": "",
-        "published": "2026-06-23T11:00:03+00:00",
-        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS2MtQ1N6V2NORW83dnZ3d2wxa0xDcHFnQkVCRGhjaktRZXNEdkhmbnp1cFdVZjJzQ1hfcGI3WnFWajRHbXlGTzlDUjNRVTNPQkx1emIwN2hGTWFJQnk3cFZ6LXdzM1A1N3lpVHdzVE4yczlOTWlSamdGM0RNODBNNU8tNWh6ZUFpMVNqMEFGYw?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Which former Buckeyes have been acquired by NBA teams this summer?",
+        "description": "",
+        "published": "2026-06-26T16:35:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPT0s3N0h3WU1jNnVBOWNEY21iSUFVUFhoT2tOa05kYnRIUEplZVRGVlkxNENmcWxJb3NfS3JiOWV4TDNlN1B2NWFMakZ2Nnp2dFJZcXNoWDF1bTIxN3IxVTczSWRxdEdqQVh4Z2VlVnd6SlpvazlMZVVuWjgtbFFRM0RnME5McXlQdFJNa1REUVJHNm9lQ3oyVUc1NWFFYklibUVDdXladHlIU3kwRUlYaEl2UDBfOVByLWVZUTdxUlhTQWNvMGhGczJ4RHE2TTFSVXc2eE1XTzBRVy10OFRTX2tsWQ?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Columbus Dispatch"
+      },
+      {
         "headline": "Sources: Pistons to land Isaiah Joe in trade with Thunder",
         "description": "The Thunder are trading Isaiah Joe to the Pistons for two second-round picks, sources told ESPN's Shams Charania.",
         "published": "2026-06-26T16:20:11Z",
@@ -583,15 +592,6 @@
         "image": null,
         "recruiting": false,
         "source": "Hypebeast"
-      },
-      {
-        "headline": "With 3 players taken in NBA draft, UH's success is motivation for next group",
-        "description": "",
-        "published": "2026-06-26T11:08:31+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNd0UxVHRheUdneS03Z1Zmb1JVLUpIMlVVMzY5ZHVDNmwtLWtRbVJTUmpYRDM4VmlSU2MxWnEtempXYnIxcU5nMXI3OHdoOTQxVGQxZnRBMEttMVVzeU1oaWRzUEJXUUpwaDh2c0UzaU9Qem9seEVDcnlDVUVvRzltZGFrcTNTZUNBNXFQTExpdEZ3eXZRbkpxSG00OEstcFYwY181bGRSS09PUE5pMVA0ZlBZb3pydw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Houston Chronicle"
       },
       {
         "headline": "NBA free agency 2026: How all 30 teams can ace their offseason",
