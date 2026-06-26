@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T16:03:57.506803+00:00",
+  "generated_at": "2026-06-26T16:19:02.732594+00:00",
   "duke": {
     "news": [
       {
@@ -168,7 +168,7 @@
         "headline": "Kentucky maintains lead over Duke in all-time NBA 1st-round draft picks after 2026 draft",
         "description": "",
         "published": "2026-06-24T15:13:19+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUlQxR2RmRlB1SlBpbTE5cmd6Mllmd3lxT1FmM1B2UHdKTzFDQzZDclptV05qNWwwbzhhalVTT0RRWm9lZERjSzdwdFhaMnZWWDQ3dUprbGxieGdKQXlpRE1ITl84V0FpdW0xSkZRWW9OektiVHFpWWtMaVlxUmpIM2lGU3A2eVY2QnQxRzd1ck53UHEyZnlPVmptQ1Nkc2E4YUNpZUtVcU9FS1lGQkhjQV9ISUc4N2MzQkE3TERzUkdnWGVvOGZUTzdraDdjaDhORmR6Vlp30gHbAUFVX3lxTE5EZlJWci1oU3pIaU1tQXVqSGN5N3pwVm5Ed0NFNGJUeS02RU9mQ3oxWFFqX09Mc3FUUExuWXR1Wk9KZFR2VFhZdzE3VUItMkhSUDRBU1BSWkpuMnFjWHA0VWEtRk16dXdtQVRVZ0hSUDdBZGd1TjhKOUg3UVowbUdZVlE3SmNobVg4NDRkd0hXclgyYjdQbVZNNWNCYmpRRlp0R0d0a1dLQThlbUlfMkRRT18xcVFLWUpoOHF0RmM5eUJPWmJPTzY5emZLRVUydFZJek1sTi1kcmM3MA?oc=5",
+        "link": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNUlQxR2RmRlB1SlBpbTE5cmd6Mllmd3lxT1FmM1B2UHdKTzFDQzZDclptV05qNWwwbzhhalVTT0RRWm9lZERjSzdwdFhaMnZWWDQ3dUprbGxieGdKQXlpRE1ITl84V0FpdW0xSkZRWW9OektiVHFpWWtMaVlxUmpIM2lGU3A2eVY2QnQxRzd1ck53UHEyZnlPVmptQ1Nkc2E4YUNpZUtVcU9FS1lGQkhjQV9ISUc4N2MzQkE3TERzUkdnWGVvOGZUTzdraDdjaDhORmR6Vlp3?oc=5",
         "image": null,
         "recruiting": false,
         "source": "NCAA.com"
@@ -486,38 +486,47 @@
   "nba": {
     "news": [
       {
-        "headline": "Sources: Pistons to land Isaiah Joe in trade with Thunder",
-        "description": "The Oklahoma City Thunder are trading Isaiah Joe to the Detroit Pistons for two future second-round picks, sources told ESPN's Shams Charania.",
-        "published": "2026-06-26T15:58:15Z",
-        "link": "https://www.espn.com/nba/story/_/id/49187821/pistons-land-isaiah-joe-trade-thunder",
-        "image": "https://a.espncdn.com/photo/2026/0626/r1679956_1296x729_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "2026 NBA offseason trade grades: LaMelo Ball, Isaiah Joe deals",
         "description": "We're grading the biggest NBA trades of the offseason, including the blockbuster deal that sent LaMelo Ball from Charlotte to Minnesota.",
-        "published": "2026-06-26T15:44:15Z",
+        "published": "2026-06-26T16:15:40Z",
         "link": "https://www.espn.com/nba/story/_/id/49135150/2026-nba-offseason-trade-grades-contracts-new-deals-rosters-teams",
         "image": "https://a.espncdn.com/photo/2026/0417/r1644929_608x342_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
       {
-        "headline": "Making Sense of Recent Reporting Regarding Narcisse Ngoy's NBA Draft Situation",
+        "headline": "Sources: Pistons to land Isaiah Joe in trade with Thunder",
+        "description": "The Thunder are trading Isaiah Joe to the Pistons for two second-round picks, sources told ESPN's Shams Charania.",
+        "published": "2026-06-26T16:14:35Z",
+        "link": "https://www.espn.com/nba/story/_/id/49187821/pistons-land-isaiah-joe-trade-thunder",
+        "image": "https://a.espncdn.com/photo/2026/0626/r1679956_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "NBA trade tracker: Updates for every deal of the 2026 offseason",
+        "description": "We have the updates, including players and draft picks, for every NBA trade made this summer.",
+        "published": "2026-06-26T16:08:41Z",
+        "link": "https://www.espn.com/nba/story/_/id/48957844/nba-trade-tracker-details-every-deal-2026-offseason-draft-free-agency",
+        "image": "https://a.espncdn.com/photo/2026/0626/r1679961_608x342_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "BYU Signee Bruce Branch Is Already Generating NBA Draft Buzz",
         "description": "",
-        "published": "2026-06-26T15:25:28+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNbVN5emdjV3dtNXMwWVB6NmlsaGItWFlFbG4tSU1GSjZvdVkzUHdVQ2RqSFppYTktMVlIeGdzTzFkcXNya2IzOUdGRkdUUzdJTTVLWXZxWGU1cjh6dm11SVZaNGFEakpYd1phVTd6WjU2dExJQWFEQVRsX2ROUDRUMXRWdWt3blZLeDZqYVBzaGk0UzV1Zm9Dd1ZOcjY0Z243MGxGS3NoZTVJc2NQWkExd09WU3ZXTHktS0pQVEhKTzBiREZkVHJnUlhPUFNQWWFMNnJTR0ZvQ3VNZw?oc=5",
+        "published": "2026-06-26T16:03:27+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcHlFLVZWdE9sNkszdUk5OTIzWTM0M0pMTmdxRDVtcl9ySzRhcnhKbm9wVGdWdkQ3cDRtV3NpUUhFSUl2N21BcHJVRTlHZFhZUTZsdnRUVEhCRjBnZjJiVkg3c0RSdUxqLTcwMkxjTVFnbngtbl9NRkRWR21CQ0NkZ2hPOXFMb0h1OEM2ajNPdGhHM1B4U2tuQ19MaFZtV0xvcWIyZQ?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
       },
       {
-        "headline": "NBA trade tracker: Updates for every deal of the 2026 offseason",
-        "description": "We have the updates, including players and draft picks, for every NBA trade made this summer.",
-        "published": "2026-06-26T15:24:04Z",
-        "link": "https://www.espn.com/nba/story/_/id/48957844/nba-trade-tracker-details-every-deal-2026-offseason-draft-free-agency",
-        "image": "https://a.espncdn.com/photo/2026/0626/r1679961_608x342_16-9.jpg",
+        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
+        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing ahead of free agency.",
+        "published": "2026-06-26T16:02:11Z",
+        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+        "image": "https://a.espncdn.com/photo/2026/0414/r1643527_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
@@ -531,13 +540,22 @@
         "source": "USA Today"
       },
       {
-        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
-        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing ahead of free agency.",
-        "published": "2026-06-26T15:11:05Z",
-        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
-        "image": "https://a.espncdn.com/photo/2026/0414/r1643527_1296x729_16-9.jpg",
+        "headline": "Predicting where the top NBA free agents will sign",
+        "description": "",
+        "published": "2026-06-26T15:15:21+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPSG5tQlFZTExzZHNWa1lvRjNVNUxIOWdQNnNQRGx0QnNoMTZncy1ONG9NcFg5TVlwYW8yVFg3WnkzZDYwRXhUZjBjMG4xdVdpczdoUDBwY0UzVnJvbXB1UmZ4V2dYUDkwUlo0TnRibVZnVXpMSlF1MmFDNTRxZ0dzQ1VHVUw?oc=5",
+        "image": null,
         "recruiting": false,
-        "source": "ESPN"
+        "source": "Yahoo Sports"
+      },
+      {
+        "headline": "SHOCKER: BYU Basketball Faces Another Big Man LOSS | Xu Xin May SKIP College, Join San Antonio Spurs | Richie Saunders & Keba Keita in Good NBA Sports",
+        "description": "",
+        "published": "2026-06-26T13:44:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNVHN3UUlBVlpaVDdGaE95S1Z1ZFdfYnRrN0p3ZWZ0c2RCZ1V5TjVSQUR3U1V4Mm8wQXhfUVlTbUZobHZSQ1FQdzhXT2dRajdIaW9EdjI5WGtGUWU4Y1JGRUtiZWJDNjdjQjVCcXFDcDZjWWNkN3hTVklySHJaOHJLd3NPSm9XdlF5NmE0S2pKTEEwX2FNWHNWTnhKOWhUZXV1Y3N0d0xjWVZRUVQ1c1pjaDBXVFhjb28tb3BrWGJUSEx6R1JhdmhKcWdXdzZ5UVJoclhsemNaNGF4LXVmMGNyRlhHbG1uR1RyUS1mT2FaNDZST0JzTFpnUVlGOW5kMzRkMW1MOXFnNjZqMERhbldYNVFwbzRoWDlWbUkyX0hXdWpjdnhtSkQydDVqdGN3QkloSl9mbHRmTGF4Y0labFFqUUJBTENlcW92XzF6LXdTdGNuMlhQZmVZcEVnYVFXQkNmTDV2VVkyZEdWQXZFcGc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "KUSA.com"
       },
       {
         "headline": "Wisconsin Basketball: Nick Boyd finds NBA home after going undrafted",
@@ -603,15 +621,6 @@
         "source": "Basketball Network"
       },
       {
-        "headline": "KSR Happy Hour: Kentucky Basketball player interviews, NBA Draft, USA!",
-        "description": "",
-        "published": "2026-06-26T07:39:37+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWGliU21KdkZyNS0wMEF2UW45ei1NZU5mU0w1bFJ1WUhxODZrMldLLVZMbXJOS3hHVXhlTzZCazNiOWJjYkc5bUE2SXdaQ1dfSHNjTlpyb25ydnFibzFUa3NzMFZNNU5WZnBxNnJkZzRDUEJSN3o2b3NBUDFRaHN0aGxZV1JiRG5pbGtEaHlYMUJCWU1FWmN6RHhrM2E0dU5iaTEzVEd5bzNVdWR1TkR5X1VIRkVUVmc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "On3"
-      },
-      {
         "headline": "NBA targets Asian resurgence with technology and talent push",
         "description": "",
         "published": "2026-06-26T05:48:54+00:00",
@@ -621,6 +630,15 @@
         "source": "CNBC"
       },
       {
+        "headline": "Ohio State freshman projected as lottery pick | Way too early 2027 NBA mock draft",
+        "description": "",
+        "published": "2026-06-26T01:56:55+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTUZzZXFHeEFnX0MwRUNuSEVUbEhnanNzd211bEpWWHlLRXZLR1h3NXp0MDJpa251T21JM0pDc1ZycVJKdEF3SXIwam91UXoySlpUYlQ0T3Q5cm5aeTFmVHkwV3hlanZHZGFjRHhJVEdkNE84eW5rNEtscmx0bE5SMkZ2Yld6QUJWb0Q3N2pGbURNcXAwc0ZGUGtyMk1vLXdaNjRUSk96M1FvWHdXanZCNTRsXzVqMlp4OWR1X1VJa0pBa3RiRUplZW5makVHcjJBbm1iU3B2YmpHaEdWN3VBbmZCekk?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "247Sports"
+      },
+      {
         "headline": "\"He almost killed a guy with one punch\" - Dominique Wilkins recalls the 'most frightening' in-game fight in NBA history",
         "description": "",
         "published": "2026-06-26T01:31:00+00:00",
@@ -628,6 +646,15 @@
         "image": null,
         "recruiting": false,
         "source": "Basketball Network"
+      },
+      {
+        "headline": "Four Tar Heels Included in Early 2027 NBA Mock Drafts",
+        "description": "",
+        "published": "2026-06-26T01:16:19+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOa3ZaeVNOMTNEdERRcWZDaUgxZ2YyV29YRWpMZzYzQmVwUHgya1J4bEt0UUR3cWlwMzQ5VGpNUHEzQkFkc3hCYnhsbW9DNnphUmxQTHJQWWVvWW01c2JEN3BlenUxUm14MEV6V1E5enBMNFBWM3NpaWd5cFdaZXdkLWZrTVhDejg0cVJmSFBMQ0dNX0cwcUhsdjBGS1JUZ1B1UThn?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "On3"
       },
       {
         "headline": "2026 NBA Draft shines light on Basketball Without Borders' impact",
@@ -646,15 +673,6 @@
         "image": null,
         "recruiting": false,
         "source": "NBC Sports"
-      },
-      {
-        "headline": "Texas basketball sees multiple players land on 2027 NBA Mock Draft boards",
-        "description": "",
-        "published": "2026-06-25T21:18:26+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOa2VzQ2dwRjc2TUtZZF9hUUVuR0lLYnVGMFBtaGE1a2JSX0ptMFVHUjhwZ0pzZkxXaGZMQThwV3lmY2piQ0FjTVc1MWZnQ29tMDQzUEZKYVo4eE5jTnBvS2FqMDJ2aHd6ekM4Rjl4N1VzVWcyekRjejlZZGxEMFpPcXl6U3hTaDlPaVJqWXM4UnVHYm9XQWhIQ1g3VnU4OXpnR0xBZE4wSEVlRnhlSEdDV2VTdjFCWW9KYmpfUlV0SHhrZXE0ZzlB?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "247Sports"
       },
       {
         "headline": "Former BYU Stars AJ Dybantsa and Richie Saunders Select NBA Jersey Numbers",
@@ -693,15 +711,6 @@
         "source": "Deseret News"
       },
       {
-        "headline": "Purdue stars Fletcher Loyer, Oscar Cluff sign contracts to join Braden Smith, TKR in the NBA",
-        "description": "",
-        "published": "2026-06-25T17:21:32+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNR1hSUzE5aXhxS0E2cWtoUGJCUzJ1S0xGM1lvYTYzSzdJcUhXT2swU2lLYmlpdmFsLUtUVmUtQzczRWROMUx3ZmJ1RWF5bkJ2c3hrU2ZBbk5BYzE4WDVkcGxGcGxkU3JXdV9udEgtbWJ4OHBZRERnb0NlQWFWNVVRNHIzS296REZJOTVheTV1Y1l4RDVwa3psODhwd2EwTjUtT0pGUEZiQkpiNjhKLUFncHRRLXRYUFXSAbwBQVVfeXFMUHJ0TEp3RUNkdjhqTnhZSWN0UG8xQ3RyV2dkamJxdEx5TkktQklQZ0ZJNnRwVDJzRnRCcXhORTRtZTFSMGpOM3VZby1COVZ5WUIwbmlHTnlQWkVsWnRvWElqZFIzaDFaeW5YWHNpY1dUS2ZHc29NTFU4d2JqSm11VFBmRmVsVko5NTUxR1daS3lDaTR2TV91enlWcmJDRGM1a0hwNmFsbmR6eUFhbFU5UVdGVElMREtUUTVaQjk?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Fox 59"
-      },
-      {
         "headline": "Las Vegas NBA expansion attracts ownership groups; possible arena sites emerge",
         "description": "",
         "published": "2026-06-25T16:00:00+00:00",
@@ -718,15 +727,6 @@
         "image": null,
         "recruiting": false,
         "source": "NBA Big Board | Rafael Barlowe"
-      },
-      {
-        "headline": "2027 NBA mock draft: Early projections for top 60 prospects",
-        "description": "",
-        "published": "2026-06-25T10:45:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWlVJR0tiNi1iSEMzTjc1TTF6c05WUHRFbDJjTkpoOXN5NlVPT2FPS3JoNjU3Q2FKV21VVFF6aWZDaG5YbE1qT2FlZzR5dzdTM25zOVJKQW1ZRTlqdzdTbzlRZjZtNXUweVU1UUNEd3YyQjdIczlpYU1HazZjQmw5VlE5Q2s4T2tPUkVEMUxleE8zLVp1Y1lyLWExUWwtNjMyM3B3bEVlek4?oc=5",
-        "image": null,
-        "recruiting": true,
-        "source": "ESPN"
       },
       {
         "headline": "Spurs and Thunder go big, Acuff-Brown is a matchup to watch and other takeaways from the NBA draft",
