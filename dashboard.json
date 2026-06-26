@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T16:19:02.732594+00:00",
+  "generated_at": "2026-06-26T16:34:07.278728+00:00",
   "duke": {
     "news": [
       {
@@ -486,20 +486,20 @@
   "nba": {
     "news": [
       {
+        "headline": "Sources: Pistons to land Isaiah Joe in trade with Thunder",
+        "description": "The Thunder are trading Isaiah Joe to the Pistons for two second-round picks, sources told ESPN's Shams Charania.",
+        "published": "2026-06-26T16:20:11Z",
+        "link": "https://www.espn.com/nba/story/_/id/49187821/pistons-land-isaiah-joe-trade-thunder",
+        "image": "https://a.espncdn.com/photo/2026/0626/r1679956_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "2026 NBA offseason trade grades: LaMelo Ball, Isaiah Joe deals",
         "description": "We're grading the biggest NBA trades of the offseason, including the blockbuster deal that sent LaMelo Ball from Charlotte to Minnesota.",
         "published": "2026-06-26T16:15:40Z",
         "link": "https://www.espn.com/nba/story/_/id/49135150/2026-nba-offseason-trade-grades-contracts-new-deals-rosters-teams",
         "image": "https://a.espncdn.com/photo/2026/0417/r1644929_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "Sources: Pistons to land Isaiah Joe in trade with Thunder",
-        "description": "The Thunder are trading Isaiah Joe to the Pistons for two second-round picks, sources told ESPN's Shams Charania.",
-        "published": "2026-06-26T16:14:35Z",
-        "link": "https://www.espn.com/nba/story/_/id/49187821/pistons-land-isaiah-joe-trade-thunder",
-        "image": "https://a.espncdn.com/photo/2026/0626/r1679956_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
@@ -531,6 +531,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "Detroit Pistons Send NBA Clear Message Amid Jalen Duren Trade Rumors",
+        "description": "",
+        "published": "2026-06-26T15:59:29+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZU9uZEkwTTZTSjN6ZTFnZXMwWUNDRUREYmdIT2E1M3pZV2pWV242ZjVJQi1Bc1hZSC1oZHZMYUFtMXRjZHJqMWhkYVNFLXRaM25rQ3JnM3dfYU04LXFpOHBadjM4ZVk5OERHZ0dfZmNoTlNWQTVablpLdldJQ2JnM0VCV0Rvdw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "Michigan president sounds off after Dusty May leaves for NBA",
         "description": "",
         "published": "2026-06-26T15:22:00+00:00",
@@ -549,13 +558,13 @@
         "source": "Yahoo Sports"
       },
       {
-        "headline": "SHOCKER: BYU Basketball Faces Another Big Man LOSS | Xu Xin May SKIP College, Join San Antonio Spurs | Richie Saunders & Keba Keita in Good NBA Sports",
+        "headline": "2026 NBA Draft Winners & Losers (Fantasy Basketball)",
         "description": "",
-        "published": "2026-06-26T13:44:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxNVHN3UUlBVlpaVDdGaE95S1Z1ZFdfYnRrN0p3ZWZ0c2RCZ1V5TjVSQUR3U1V4Mm8wQXhfUVlTbUZobHZSQ1FQdzhXT2dRajdIaW9EdjI5WGtGUWU4Y1JGRUtiZWJDNjdjQjVCcXFDcDZjWWNkN3hTVklySHJaOHJLd3NPSm9XdlF5NmE0S2pKTEEwX2FNWHNWTnhKOWhUZXV1Y3N0d0xjWVZRUVQ1c1pjaDBXVFhjb28tb3BrWGJUSEx6R1JhdmhKcWdXdzZ5UVJoclhsemNaNGF4LXVmMGNyRlhHbG1uR1RyUS1mT2FaNDZST0JzTFpnUVlGOW5kMzRkMW1MOXFnNjZqMERhbldYNVFwbzRoWDlWbUkyX0hXdWpjdnhtSkQydDVqdGN3QkloSl9mbHRmTGF4Y0labFFqUUJBTENlcW92XzF6LXdTdGNuMlhQZmVZcEVnYVFXQkNmTDV2VVkyZEdWQXZFcGc?oc=5",
+        "published": "2026-06-26T13:31:48+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOdzQtR3RkMGVEaDJCZ0JwdG1WY2NFMDY2UjRWT013STJYV3JYR1hmeVE4ZnUzMVpCQWJxWXBnTWp0amJKRURnMjFIZ3RFYmtVTWNzcWtsb21RNHduT01PcV9GTkV5ZGpkOGdpWldZTjhTbkZhclFyYnJFcERaQ0Y2WURKTnJyN0pBRENWd1lR0gGTAUFVX3lxTE9WQmRTdjBxNkFGOVhvc2ZwbUNIc1I5VDVsNldiX0hJUjlLTm1wQXZBbHlkVndNekxYQS13SWJvWlBvWEZSVGU4cUw0U1FFRWdUQ3hVamRMbGVlSkJiMUY2TjJWdDJrTWdhNVBjSzhvV1Z4aDJuNk9fcll5LUE1SF91UzhmbnhnRkhfMy1lZlFHMjdtOA?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "KUSA.com"
+        "source": "FantasyPros"
       },
       {
         "headline": "Wisconsin Basketball: Nick Boyd finds NBA home after going undrafted",
@@ -594,15 +603,6 @@
         "source": "The Times of Israel"
       },
       {
-        "headline": "2026 NBA draft recap: Best picks, execs buzz, ROY prediction",
-        "description": "",
-        "published": "2026-06-26T11:10:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOU0Q3MGgtY1RQRGZ3c3lnSTZnQlVET05HSHR4SFdzdTQzRXZkMVVDYVhXRkM1V0N3aFpTa3psNFFHREdVeVZ2NjJqaEtoRGdva0k5WE5iMWFZQmtlTGhBcXJyd3g1MXpWQ2NZc1I0MG1lRVU4am10XzFWQVBFTGJkT2Q1ZGxURXphaDBNdkdvQ3VyMnpSSjhIVlZSWWJWZ0V2X2MyU3g4S1JONF9rekZaN01ZanFGSFhGUjE0?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "NBA free agency 2026: How all 30 teams can ace their offseason",
         "description": "",
         "published": "2026-06-26T11:00:00+00:00",
@@ -610,15 +610,6 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Channing Fry explains why the LaMelo Ball trade signals a major shift in the NBA",
-        "description": "",
-        "published": "2026-06-26T10:08:45+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOalNhNVBnMTdCWVdtS1MzQk1OSklCOWNYN21ZNEJHRUZTdjU2aF85Mks3c0pFZnh0T25VMHZUVVZaN2U1SmFXUlZPR0xVRkZ3Yi1YMFZXTTNtSzRXZWRlRnppWGNVUEF5NUJrV0xCY3FVU2FFbjlzRDljZzMwMFVsMGY1ckxwYl9wblJrMExLSUEybVhkUjVaWGNDZ2RwaVhtM082Q2k4LXBKMUtvY2N0YWdNUmcxUml0TXJNY3FUZWh0Tm5N?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Basketball Network"
       },
       {
         "headline": "NBA targets Asian resurgence with technology and talent push",
@@ -657,15 +648,6 @@
         "source": "On3"
       },
       {
-        "headline": "2026 NBA Draft shines light on Basketball Without Borders' impact",
-        "description": "",
-        "published": "2026-06-26T00:01:22+00:00",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVQVE3cXMwYUFQT1llNVUzMVJ4alY3OXkyVU1WUEdrOHFGaGtudTVyUG5aY2V0bFZlNTFIbmZkd0lUWTdEeFYwME1BTi1QWTBoX3NFT210ZEhHa3B2Y0VaMlNXTzZKSjlxS1hXVU1nZjZWYlN6?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBA.com"
-      },
-      {
         "headline": "Loaded NBA draft class continues successful year for Big Ten men\u2019s basketball",
         "description": "",
         "published": "2026-06-25T22:09:04+00:00",
@@ -673,15 +655,6 @@
         "image": null,
         "recruiting": false,
         "source": "NBC Sports"
-      },
-      {
-        "headline": "Former BYU Stars AJ Dybantsa and Richie Saunders Select NBA Jersey Numbers",
-        "description": "",
-        "published": "2026-06-25T19:30:31+00:00",
-        "link": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOT05WTWc0UVlLY19JdVluYjdpTEVTWEtZcmFOdG5UWl9yOWxRRmIydmxTOFdPbkNwdEs2RDU4VmxsVGRsZk9DZXJxVG9VNFJ3S01UQVJjM0F3NFc2eVpITFh4TlNJeUh3VUg3UGx5U21Ea0ZxZUhzQVZXSWF3ZnozQTJaM0tFRE1yZ0xjUF9URjl5ZzQxNTQyX2IxUjBjelhpNVRwTk54SUdCZEkwUHBoRVdBRzJ0Qnc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
       },
       {
         "headline": "Former Alabama basketball star inks deal with NBA\u2019s Charlotte Hornets",
@@ -736,6 +709,33 @@
         "image": null,
         "recruiting": false,
         "source": "AP News"
+      },
+      {
+        "headline": "2026 NBA draft grades: Winners, losers for all 30 teams",
+        "description": "",
+        "published": "2026-06-25T02:49:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVndEcXQ4aEp1ZlZISnNBaDlGNGJLRjBmQWlQWEVoa2N2MkR4c2VLTEF2ZHdCSy1qQjhBVE1LTFNCcmZSZ1BLcXFuZlVEclJnVTBPNnhhTWtUVTR0ak9fcm5jOEdFNFVmY1pQZk51R1UzSUdpc1NzM0ZVNVVpU0o5Q090ejQwVUZVTVp6cjFlS2hQdFVCNnBNUE5PclhZNFRaN3VSVGdyWmRfOXpkS2JqSGZWYmFaclVCeENRR2x5VGFyV0N1RGZndnZzaEVhZzF6UFE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Isaiah Evans, Maliq Brown Chosen in Second Round of NBA Draft",
+        "description": "",
+        "published": "2026-06-25T02:34:23+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOdS1rSFJIX2FqSElGejl5dTNHNEdrQzF4bFN1QTd4RDlTNEMwY2thb01BcjZfRkN0bVY0RmxEa0hNd3RUTUJ6eE5DSnFRQ2Nrb1Rwb2JkWkN2bG5TWXhXaG41TWI3S0xsWkVFYXhTOWdWVjBxN1BaUlgxb0E5TWFPUFRweWE1MUxKYnVsN0lUNFNNV0V3bmVyZE51UzQ3dWEyaEc5Sk1ZQ3VLLWNuYVB3?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "goduke.com"
+      },
+      {
+        "headline": "NBA Star Derrick White Named \u201cPresident Of Basketball Strategy\u201d For CU Men\u2019s Basketball",
+        "description": "",
+        "published": "2026-06-24T16:14:47+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdmk4ZTkzU2h4ZE9RaEI2NmVIejZiMVlRQTdFajdGZnByckFKZnN3UVR0Y1Y1ZmhGU3NneG5jSzkwcHFMUFVIVnNUZFV5dEkwaFJCZFluMkwwSHpRX0dkYWZockJQNUhEekttcmpoQ1VDd0Zpdmg1Nk8xTm82VlFZUlhndG96Smh2bjRna3pRaDZzWUphbFN0MFdJd2JrRWRlRDJleUI0QlhoMEhnOG9aLXo0cjZ6emtIWVl3bzZtbWw4OEp2cEs5aGctQllBdzZj?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "University of Colorado Athletics"
       }
     ],
     "games": []
