@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T18:46:54.737023+00:00",
+  "generated_at": "2026-06-27T19:01:59.621455+00:00",
   "duke": {
     "news": [
       {
@@ -61,6 +61,15 @@
         "description": "",
         "published": "2026-06-26T11:00:03+00:00",
         "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPR2ZJU084Y0s3b3Z0RjVDWGRPMzZBUU1Ob2tlXzNKN2lmZXlIQ1FNRWtORTBzYkU4YnJnLTVBMHBzcmkxNTBWaW9pXzNYT2dHWUJIS0I5dk1xV1lrYnNUaFhoRTRDd29qT2pfaDBUem5zVWJKeWhVQTNoUEloUXVkMXBfOC14YXE4R2duOWhKdjB0REI4dW9qTHZ3?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Duke Basketball Guard Jacob Theodosiou Ready to Compete in Chile",
+        "description": "",
+        "published": "2026-06-26T00:18:34+00:00",
+        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxPQXNzR0JEN1NxcktHNURTN1V3UkZ3dWFiUHkyLWtDZXZHSUhmeHZMUEpGR18tOHpQWjlEbUNyT25ZUExMaFd4S3dqNHd4Wjd5M1N0Z2o0QXRlQ09jUm5YZ3pkLUxqQ2JtUUJPaFZqbkpxOFdDZ09Ub2R3VG5RelEwbDYwUWFWWXpGMjJrQ2tqNDVUWFdjNC12MDBWNUd2Zw?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
@@ -244,15 +253,6 @@
         "image": "https://a.espncdn.com/photo/2026/0618/nba_draft-100-rankings_16x9.jpg",
         "recruiting": true,
         "source": "ESPN"
-      },
-      {
-        "headline": "One Michigan Player Duke Should Target After Dusty May Departure",
-        "description": "",
-        "published": "2026-06-23T13:00:03+00:00",
-        "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVXI4eG9kbXR3U0lYbFluWTVRUVZzaWlJSGUtem9MRGtjcW1jRkZKN3AtZU52c0dHTk83d21Dc3N2M1VNVXl6VVFIX3oyZ3B2ZVFQbktMN2hxWDNoUFFNemZDdmpZY0lRM0xNeHR0NVJTWlA0azhIb2FtdWtQNVZSM09BQ0pPX3ViczZiLVZDMFVkdmN4N0V4Q3dRNHAydw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
       }
     ],
     "games": [
@@ -486,20 +486,20 @@
   "nba": {
     "news": [
       {
+        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
+        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing ahead of free agency.",
+        "published": "2026-06-27T18:59:25Z",
+        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+        "image": "https://a.espncdn.com/photo/2026/0414/r1643527_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "Jimmy Butler shares update on ACL recovery, future with the Warriors",
         "description": "Butler, who tore his right ACL on Jan. 19, told ESPN he expects to still be \"a top player\" when he returns from the injury.",
         "published": "2026-06-27T18:41:13Z",
         "link": "https://www.espn.com/nba/story/_/id/49198925/jimmy-butler-shares-update-acl-recovery-future-warriors",
         "image": "https://a.espncdn.com/photo/2026/0627/r1680545_608x342_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
-        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing ahead of free agency.",
-        "published": "2026-06-27T18:20:56Z",
-        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
-        "image": "https://a.espncdn.com/photo/2026/0414/r1643527_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
@@ -729,13 +729,13 @@
         "source": "Deseret News"
       },
       {
-        "headline": "2026 NBA Draft: Fantasy basketball winners and losers",
+        "headline": "2026 NBA draft grades: Winners, losers for all 30 teams",
         "description": "",
-        "published": "2026-06-25T17:32:35+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU0ZNWWZoODM1OXItYU56TzQ0MXJSYldXaFROdjFTdThwYm82bXhPVWI0MDJwbHBJVkU1ZUxzdU96a3FwZGJmcUVpd0dHWlg1X2k4N0kxSnJkOW9TdUZCUG93bDd4SjkyUnR3cEpzaG4zckIzazFueVRmRXVvNWJHeU5ROHQ1dnMzSDJmZFNwTDQ5TlBERmU5akdvSW9QVGRwVEJuVmNuNDdEX0JN?oc=5",
+        "published": "2026-06-25T02:49:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVndEcXQ4aEp1ZlZISnNBaDlGNGJLRjBmQWlQWEVoa2N2MkR4c2VLTEF2ZHdCSy1qQjhBVE1LTFNCcmZSZ1BLcXFuZlVEclJnVTBPNnhhTWtUVTR0ak9fcm5jOEdFNFVmY1pQZk51R1UzSUdpc1NzM0ZVNVVpU0o5Q090ejQwVUZVTVp6cjFlS2hQdFVCNnBNUE5PclhZNFRaN3VSVGdyWmRfOXpkS2JqSGZWYmFaclVCeENRR2x5VGFyV0N1RGZndnZzaEVhZzF6UFE?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Yahoo Sports"
+        "source": "ESPN"
       }
     ],
     "games": []
