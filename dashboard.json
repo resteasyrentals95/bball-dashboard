@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T23:14:31.725009+00:00",
+  "generated_at": "2026-06-27T23:29:36.817053+00:00",
   "duke": {
     "news": [
       {
@@ -19,6 +19,15 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
+      },
+      {
+        "headline": "Duke Basketball: The Explosive 1990s.",
+        "description": "",
+        "published": "2026-06-27T11:23:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNcWV0bk04Rk1kZmJHNk5ZQ0ptTTNVNFdfQU4ydjZkMkhnaHRrWldUbjhQLWZlNHNyaTFOM3gtajJRZXIzVHhNcVJuZW1MVldtbEVsZGZKWjJzMEYtakMtMTF2YTVtcF9YNy1YM2NQZWRxTUt3QVE3VjhMa3VJV3RVT2hwU0xqQTdHclJz?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Duke Basketball Report"
       },
       {
         "headline": "Duke's Maliq Brown Makes Perfect First Impression Ahead of NBA Career",
@@ -241,15 +250,6 @@
         "description": "",
         "published": "2026-06-23T13:00:03+00:00",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVXI4eG9kbXR3U0lYbFluWTVRUVZzaWlJSGUtem9MRGtjcW1jRkZKN3AtZU52c0dHTk83d21Dc3N2M1VNVXl6VVFIX3oyZ3B2ZVFQbktMN2hxWDNoUFFNemZDdmpZY0lRM0xNeHR0NVJTWlA0azhIb2FtdWtQNVZSM09BQ0pPX3ViczZiLVZDMFVkdmN4N0V4Q3dRNHAydw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "How Scheyer Rejecting Mavericks Saved Duke Basketball's Season",
-        "description": "",
-        "published": "2026-06-23T12:00:03+00:00",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHAwTUxVZHpZZ1lZdmhEZ2hOSkYtMHFjcllqUDVaVEV2LTVKb1k2LUdScUZvUnJ3VDJZTU1PZjAxY2V4VkVacTMteFRUQVllc2llZk1pWUpSZmlZdTI0R2lEb3JOSTY5YzZKWjJRdDNZU3ItZFc0OVJFaDdJNjhYY3ViMnBhLVo1RW9CU3NYeDlEOGlYdmtVbmlneWJoTmw1?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "NBA free agency 2026: LeBron James' Lakers decision looms; What's next for Kawhi Leonard?",
+        "description": "",
+        "published": "2026-06-27T23:00:25+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSFJNcUduUVRydDNEaDNnWTV5azRxZUl0ZUxrZjZTTmQ2YjJzLUp4ajZHcDBaeVFYMEtqeVRSZ1ZuM3QwOW1FMWxZcDhFem1ac0pJNTlUbHB2RjZHU1lnc3BMUDdXWTRaeVpJMnZjeWR2RTBxZDVIT1FXZFp6TFA5U3JubFdMdHlVaFN2dVNnY1ZNODBPVXpfZlhMQkUyVGZZTmVXMmswQkFFc012aEgzejc3UEZiczE1NEVUellWWDAxSERzM1huOXlBNXQtdw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "Orlando Magic waive forward Jonathan Isaac",
         "description": "The Magic on Saturday waived forward Jonathan Isaac, which will save Orlando $6.5 million, according to ESPN's Bobby Marks.",
         "published": "2026-06-27T22:34:10Z",
@@ -504,24 +513,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "NBA free agency 2026: LeBron James' Lakers decision looms; What's next for Kawhi Leonard?",
-        "description": "",
-        "published": "2026-06-27T20:30:16+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPSFJNcUduUVRydDNEaDNnWTV5azRxZUl0ZUxrZjZTTmQ2YjJzLUp4ajZHcDBaeVFYMEtqeVRSZ1ZuM3QwOW1FMWxZcDhFem1ac0pJNTlUbHB2RjZHU1lnc3BMUDdXWTRaeVpJMnZjeWR2RTBxZDVIT1FXZFp6TFA5U3JubFdMdHlVaFN2dVNnY1ZNODBPVXpfZlhMQkUyVGZZTmVXMmswQkFFc012aEgzejc3UEZiczE1NEVUellWWDAxSERzM1huOXlBNXQtdw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
-        "headline": "An irreverent put-down from a rookie to an NBA star: \"He plays as if he had a refrigerator on his back\"",
-        "description": "",
-        "published": "2026-06-27T18:51:37+00:00",
-        "link": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQTmZoWkQ0UG5xcXI2dVZGeUNSc1FsQnp5aTNMNHNuT1pOM2NSTkpYX29aSU0zV0s5V3d1eW1ncnhZdzd2NWw0OG1MaTBYSUxDcmlxZkpmaWVaa01nX1plald5dm1jQlBvSWhzeGZCdDFQTnRwTGM3a3NpbDFXdnRRZVo5TDctS1RueWRqT1Y0YU1jU3JSWmNhcUNBcS1LZUwxT245Q2dfY3FZTkRHQ21HSjhCV2dsVGk2c0ZJZ1RsbWJ6ZjdSWEtJOXc3MmMzbzc5V2xkQ0pzRHZsWGFmdXhTWWQyUUJLVkU0bDl0bWZESGp2ODRvUXFYSUU4bGFubzEwYUVpVmh30gGGAkFVX3lxTE52QWVrdVdIbkdPOFRZTFVLZ1VIdzItaUZHNlliNzVYWkRFNmZaMkVxTDFBZ1lqMVRkejJUbXJSUWNqWUtkaklqaEZwWndJbElHMW90cWxPVDY2TjBiY3NJeHZNdFZueGx2dXRUcXc1ZjVOdHFDb1RZVzdFYWJ6bGdMc3ZmVXlSdjVrb1g3NEs0N0doaVhkd3NGV2lzaHRhR3Z6SXBzdVlQUnpKUDNDc2tDTl83TzVyejBjbWxJWEoyUjU2NmxFU1JOSFo2Ni1qSXR2bExuWkhsZXNsRjdsb3VURER2UURxNTNjX1lPT2lGWlBEUzJzOUVrb0JmYzNKV09uc2VFYlE?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "MARCA"
-      },
-      {
         "headline": "Jimmy Butler shares update on ACL recovery, future with the Warriors",
         "description": "Butler, who tore his right ACL on Jan. 19, told ESPN he expects to still be \"a top player\" when he returns from the injury.",
         "published": "2026-06-27T18:41:13Z",
@@ -538,6 +529,15 @@
         "image": null,
         "recruiting": false,
         "source": "Channel 3000"
+      },
+      {
+        "headline": "NBA free agency 2026: Power forward market is solid, but LeBron James is lone star",
+        "description": "",
+        "published": "2026-06-27T17:19:07+00:00",
+        "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOVVhjdVdDYmViUk1HOENTWkVVa0tUOVRQc1FCeUJtUkVCV3ViQmhRdi1BUTh0UHVrNm80LXpZMFFXYlZsRjBLSlNzMVRBc0xFbWNWLUhha2FUMEJnQ05qcmx3NEFQbkx4N19uUV9SNWdCLTZlN25BUWppTlBGU0lUYlF0elRLQTZtYzUtS3VwYlJmV25JNS11ZmhQaHppc1F6b2FBc3Jn?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The New York Times"
       },
       {
         "headline": "Josh Hart, NBA Champion",
@@ -630,6 +630,15 @@
         "source": "South China Morning Post"
       },
       {
+        "headline": "NBA sets summer league matchups of top 4 draft picks, Heat-Bucks",
+        "description": "",
+        "published": "2026-06-26T19:01:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNZ1FqZ2JOS0dmbVJ0dlI0RFVxczVuZnRRNFpaWG9QdFAxc0tmUThLN3IyVE9zNVU4UWJTaHNsUk1iMV9pS0pCVmJ1NmY4b0RGanhSWXRIQVB4RnJtcEpoQjRGNTdORWlxOFhRU09Rd052NWtxcU40bzJueUFVSjRDTjI0R3Z0RXdzQXd6dVBHaDg2MkxmWmNqVm9ackh4VFYwUkk2VS10Y2I?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "Mike Dunleavy ready to alter Warriors' script with Lajae Jones NBA draft pick",
         "description": "",
         "published": "2026-06-26T18:12:09+00:00",
@@ -673,15 +682,6 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Channing Fry explains why the LaMelo Ball trade signals a major shift in the NBA",
-        "description": "",
-        "published": "2026-06-26T10:08:45+00:00",
-        "link": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOalNhNVBnMTdCWVdtS1MzQk1OSklCOWNYN21ZNEJHRUZTdjU2aF85Mks3c0pFZnh0T25VMHZUVVZaN2U1SmFXUlZPR0xVRkZ3Yi1YMFZXTTNtSzRXZWRlRnppWGNVUEF5NUJrV0xCY3FVU2FFbjlzRDljZzMwMFVsMGY1ckxwYl9wblJrMExLSUEybVhkUjVaWGNDZ2RwaVhtM082Q2k4LXBKMUtvY2N0YWdNUmcxUml0TXJNY3FUZWh0Tm5N?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Basketball Network"
       },
       {
         "headline": "Kevin Young wanted to turn BYU into an NBA pipeline, and the early returns have been historic",
