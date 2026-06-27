@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T21:04:58.363753+00:00",
+  "generated_at": "2026-06-27T21:20:07.085139+00:00",
   "duke": {
     "news": [
       {
@@ -82,6 +82,15 @@
         "image": "https://a.espncdn.com/photo/2026/0624/nba_mock_draft_26_1296x729.png",
         "recruiting": true,
         "source": "ESPN"
+      },
+      {
+        "headline": "Duke Takes Over ACC Network Friday",
+        "description": "",
+        "published": "2026-06-25T18:03:41+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNTEFtZG5JeG9zWld3TlJuVGVJd2t5dGRhd0VvY2duejdNT2JBOXc5T0FEOUNFMU5xSE9ITXdySWEyTXFYVEZuZ3B0eFMyYjhjdXJ1MXE3dk4zRWxVMXROY0dGbDQ0UVFXc2owT0tkYjdkUFpIVEplV2ZhMXRlUjFqTG8yVFg?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "goduke.com"
       },
       {
         "headline": "Duke's Isaiah Evans among those to land on Night 2 of NBA draft",
@@ -241,15 +250,6 @@
         "description": "",
         "published": "2026-06-23T13:00:03+00:00",
         "link": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVXI4eG9kbXR3U0lYbFluWTVRUVZzaWlJSGUtem9MRGtjcW1jRkZKN3AtZU52c0dHTk83d21Dc3N2M1VNVXl6VVFIX3oyZ3B2ZVFQbktMN2hxWDNoUFFNemZDdmpZY0lRM0xNeHR0NVJTWlA0azhIb2FtdWtQNVZSM09BQ0pPX3ViczZiLVZDMFVkdmN4N0V4Q3dRNHAydw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "How Scheyer Rejecting Mavericks Saved Duke Basketball's Season",
-        "description": "",
-        "published": "2026-06-23T12:00:03+00:00",
-        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHAwTUxVZHpZZ1lZdmhEZ2hOSkYtMHFjcllqUDVaVEV2LTVKb1k2LUdScUZvUnJ3VDJZTU1PZjAxY2V4VkVacTMteFRUQVllc2llZk1pWUpSZmlZdTI0R2lEb3JOSTY5YzZKWjJRdDNZU3ItZFc0OVJFaDdJNjhYY3ViMnBhLVo1RW9CU3NYeDlEOGlYdmtVbmlneWJoTmw1?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
+        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing ahead of free agency.",
+        "published": "2026-06-27T21:17:31Z",
+        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
+        "image": "https://a.espncdn.com/photo/2026/0414/r1643527_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
         "headline": "NBA free agency 2026: LeBron James' Lakers decision looms; What's next for Kawhi Leonard?",
         "description": "",
         "published": "2026-06-27T20:30:16+00:00",
@@ -509,15 +518,6 @@
         "published": "2026-06-27T19:29:05Z",
         "link": "https://www.espn.com/nba/story/_/id/49190706/jose-alvarado-returning-new-york-knicks-new-3-year-deal",
         "image": "https://a.espncdn.com/photo/2026/0626/r1680149_600x400_3-2.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
-        "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
-        "description": "We're tracking the latest news, rumors and buzz across the NBA, including what we're hearing ahead of free agency.",
-        "published": "2026-06-27T18:59:25Z",
-        "link": "https://www.espn.com/nba/story/_/id/48377855/2026-nba-buzz-latest-live-updates-news-intel-nba-draft-offseason",
-        "image": "https://a.espncdn.com/photo/2026/0414/r1643527_1296x729_16-9.jpg",
         "recruiting": false,
         "source": "ESPN"
       },
@@ -565,6 +565,15 @@
         "image": "https://a.espncdn.com/photo/2026/0626/r1680192_608x342_16-9.jpg",
         "recruiting": true,
         "source": "ESPN"
+      },
+      {
+        "headline": "Former Virginia guard Malik Thomas to play for Toronto Raptors in NBA Summer League",
+        "description": "",
+        "published": "2026-06-27T14:00:05+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbTF3aE9LMllGMGJDSXZGLVhCTWU4Q3BKNV9ySHdkMk1NNHRDdzctMUkydVVfVTc0dV95YTJBMTFKNTV3S3RIUXY0VjhjNGRGMEF5ZW5DOUFKY091TkdyRDF5QUtfenkwS2J3cV8tSmF4UU44SU1mbjNhQjlveXB2M2NIWm1tazZjbUxwbW03YW1UWFk3TU9LRHhuYl9qMXNSM0hGc3Awa3V4MkJja1RHY044MUkyTUVlZkFBeGp5VFZDUHc1eFFKRVhmVVlSR2FaSnpNMGdoLXh0dTA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
       },
       {
         "headline": "Thunder to keep Hartenstein on new 3-year deal, sources say",
@@ -657,6 +666,15 @@
         "source": "NBA.com"
       },
       {
+        "headline": "NBA Draft grades: Grizzlies, Kings, Bulls earn raves, while the Knicks disappoint",
+        "description": "",
+        "published": "2026-06-26T13:36:57+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNbTBoYm5Nbzk4d182dEJzcFVNM0R3Mmo2T3lZZnljdTVVUW81LVpCYjhSQjh6SWltcnVFLUtyblBRc0I3QWlYMnZmVUlSclotVGlZek1LV2hTemRCNWxxVW5ybkJqeEtXV20tLVZRWE9RQXExdHltUGY5dVJpRWpDbm9CSWUweE9KbzRCUmdlVUU?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The New York Times"
+      },
+      {
         "headline": "2026 NBA draft recap: Best picks, execs buzz, ROY prediction",
         "description": "",
         "published": "2026-06-26T11:10:00+00:00",
@@ -718,15 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "kuathletics.com"
-      },
-      {
-        "headline": "NBA draft withdrawal decisions that could impact NCAA basketball",
-        "description": "",
-        "published": "2026-05-19T07:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcGNUQjFsZWVMVll5emQwQnlWS1VxZVhhaFByMUF5a2wtT3BsOTR1N0RaVHFwbGlvWHpyYmJuUjBJZkdLR1NkaGZ2djNoS3VyTHdOSFh3VEpUWGFLM2k4bWNFa0ZCcm90Ty10TERfc1hZN0F4UDZ3cnFaeEVFbFVOd2I2N05tSEtMdWptUVdkdTVfUW8zODZ4VE0yWXFVcVNtR0RTN0hqZ2lWYzNhbnRHam5UbnhoczVQaFBaTV9Yb0ZVR1VneFdGQXEybw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "ESPN"
       }
     ],
     "games": []
