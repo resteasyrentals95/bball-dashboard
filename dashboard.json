@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T02:36:27.023952+00:00",
+  "generated_at": "2026-06-27T02:51:30.977698+00:00",
   "duke": {
     "news": [
       {
@@ -558,6 +558,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "Knicks NBA Finals hero expected to leave team as heated rival set to make major move for fan favorite",
+        "description": "",
+        "published": "2026-06-26T20:43:11+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPLWF2T2JCeU0zbm1ha0NIOHRQZ0RCWEJTOUhtVFJHX29hMHRaeUEwbnYyaG5PaEZvVTZpLTZDak0xYXlrS0Q5X1JONXBjR1htSFE5MmJ6bFNTaHN4U21mLTh1WmNFTlRsTHY1bEJ0M0lJd29heHpmVExMQ1FmM1YwV2FZQlhhTmQyOWp4UjZsODUxRVJIUjVIa2hR?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "the-sun.com"
+      },
+      {
         "headline": "NBA Free Agency Best Fits: Zach LaVine Stream of National Basketball Association",
         "description": "",
         "published": "2026-06-26T20:24:25+00:00",
@@ -619,15 +628,6 @@
         "image": null,
         "recruiting": false,
         "source": "Arizona Daily Star"
-      },
-      {
-        "headline": "\"Because... He Has Tattoos\": NBA Legend Sounds off on LaMelo Ball's Reputation After Timberwolves Move",
-        "description": "",
-        "published": "2026-06-26T17:24:41+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNbERKR2g5ckpoVVBQaUpneHhPajZoWnNrRFA4SkhLX0ZVMl9QYmY0SVNGUmdReU5SaXhpYzNUWEVrRnI3ZjFXSy1HVHFJWi1mQzFQYU9yWWZDMGNIOFVmQ1RZT1pkSzYtZldwRkJ1SkpKTTBFZXNRVVdiS3lJVlk4U3lnMG5GWVNVamc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
       },
       {
         "headline": "NBA unveils 2026 NBA Summer League Schedule",
@@ -720,15 +720,6 @@
         "source": "CNBC"
       },
       {
-        "headline": "Ohio State freshman projected as lottery pick | Way too early 2027 NBA mock draft",
-        "description": "",
-        "published": "2026-06-26T01:56:55+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTUZzZXFHeEFnX0MwRUNuSEVUbEhnanNzd211bEpWWHlLRXZLR1h3NXp0MDJpa251T21JM0pDc1ZycVJKdEF3SXIwam91UXoySlpUYlQ0T3Q5cm5aeTFmVHkwV3hlanZHZGFjRHhJVEdkNE84eW5rNEtscmx0bE5SMkZ2Yld6QUJWb0Q3N2pGbURNcXAwc0ZGUGtyMk1vLXdaNjRUSk96M1FvWHdXanZCNTRsXzVqMlp4OWR1X1VJa0pBa3RiRUplZW5makVHcjJBbm1iU3B2YmpHaEdWN3VBbmZCekk?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "247Sports"
-      },
-      {
         "headline": "\"He almost killed a guy with one punch\" - Dominique Wilkins recalls the 'most frightening' in-game fight in NBA history",
         "description": "",
         "published": "2026-06-26T01:31:00+00:00",
@@ -736,6 +727,15 @@
         "image": null,
         "recruiting": false,
         "source": "Basketball Network"
+      },
+      {
+        "headline": "Ohio State freshman projected as lottery pick | Way too early 2027 NBA mock draft",
+        "description": "",
+        "published": "2026-06-25T22:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxOTUZzZXFHeEFnX0MwRUNuSEVUbEhnanNzd211bEpWWHlLRXZLR1h3NXp0MDJpa251T21JM0pDc1ZycVJKdEF3SXIwam91UXoySlpUYlQ0T3Q5cm5aeTFmVHkwV3hlanZHZGFjRHhJVEdkNE84eW5rNEtscmx0bE5SMkZ2Yld6QUJWb0Q3N2pGbURNcXAwc0ZGUGtyMk1vLXdaNjRUSk96M1FvWHdXanZCNTRsXzVqMlp4OWR1X1VJa0pBa3RiRUplZW5makVHcjJBbm1iU3B2YmpHaEdWN3VBbmZCekk?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "247Sports"
       }
     ],
     "games": []
