@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-27T04:21:58.131039+00:00",
+  "generated_at": "2026-06-27T04:37:03.054972+00:00",
   "duke": {
     "news": [
       {
@@ -120,15 +120,6 @@
         "source": "ESPN"
       },
       {
-        "headline": "Why Duke Basketball Has Absolutely Dominated the NBA Draft",
-        "description": "",
-        "published": "2026-06-25T10:30:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeW9jSkEtalpHSFVKMFRZMDh4TTZDNDM3LW5OVHdzWUVCM0hJbFpnZURNOWViczhvcV9NdzRrQlYyTmxnUnp0WGJMVjBrazE3M293TEF1ZnppM1RDQVdZVW5TM2tmTXVLcG53ejVFbkdydnJ3SjBGdC00cjFpcDFfYUxTUkxDeUNRQjlPSXdzOXB5Njg?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
         "headline": "Here are 3 Duke basketball players to watch for 2027 NBA Draft",
         "description": "",
         "published": "2026-06-25T08:05:00+00:00",
@@ -228,15 +219,6 @@
         "source": "Sports Illustrated"
       },
       {
-        "headline": "Duke's Isaiah Evans among top talent still available after sitting through Round 1 of the NBA draft",
-        "description": "",
-        "published": "2026-06-24T10:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPUjJzNUdOVXdRSWsyUHdJVWhnbnkySFBFNHpwZjJjaDU4YjNoOHJqUFZldlBmTlNyTHJ4d25rT1pXQndfZGVjWmdfaFhNWDU0QzFLS0FQSXNKMkNubnd0Vm5jV1FHeTFYbjBvQmdfaVNmN2ZWWkloaGM3SjBtTE5RaEZ4VWNaQVNoOXdsQTUtclJ2ZzE1b3lR?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "AP News"
-      },
-      {
         "headline": "Which colleges have produced the most No.1 NBA draft picks?",
         "description": "Each year, the NBA draft attracts top notch talent from college basketball institutions. Which programs have produced the most No. 1 draft picks?",
         "published": "2026-06-24T03:06:58Z",
@@ -253,6 +235,24 @@
         "image": null,
         "recruiting": false,
         "source": "The Fayetteville Observer"
+      },
+      {
+        "headline": "Instant Breakdown of Duke's Cameron Boozer's Fit With Grizzlies",
+        "description": "",
+        "published": "2026-06-24T00:24:45+00:00",
+        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd2VlS1hHcnBPSlNuLVozRm9ndGJMbzhTdklubDdqdmJxazdzZlMwNnJjNjJPSGJzUkNIclZyTnVKUFluU0YwaXROcDBiNDZXU003M1BMbURtQWk1bUppREwwa29NRG9mN1psTXk2UjE4X01oSGcxWUxmY1FBTmZ4V25UMGFrSGQ1VW1pZDg5MzVVSmdl?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Duke Basketball: Cameron Boozer believes he will be best player in 2026 NBA Draft",
+        "description": "",
+        "published": "2026-06-23T21:22:45+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRXY1VjNnSXNPek81TUJsb0dWVXlhSDRxMXVKN25RU1BhOHBwd2tjVnJOYWkxRUpyTkQ0ZHgtVXNaSS15NXNnblVnNUxybzhlZVJ3VFhPUFNobUtNSjdfOGVYZFVsWmNaeFkxeEIzeHEzUHFvZmE2YV9qNDJ1OU16RTFNN0R1eFdyZml3OGsyQXAweFVsMkF1eHVycw?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "roundtable.io"
       }
     ],
     "games": [
@@ -513,15 +513,6 @@
         "source": "Yahoo Sports"
       },
       {
-        "headline": "ESPN's 2027 NBA Mock Draft Projects Multiple Illini \u2013 But Here's What It Missed",
-        "description": "",
-        "published": "2026-06-27T00:53:47+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxON25LdFFYaVJyY1hBYTlYVU94UGo1aVVKYnV3TEhyU3pkYTFqYm5sbHRITzNQWk9xSkxzbkNQOGRETFFQTUE5dWdfMko4M21sMlZYMGhsTS1rTGhIZFh2NzRUUTlscXVaQWJNV09MTlBHRFVvOEw2STlDXzJsUTlTQW8xaTRaVTBraFQzM0dNOFdfbGRNYWZSajR3?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
         "headline": "2026 NBA free agency: Grades for offseason signings, extensions",
         "description": "We're grading the biggest NBA free agent signings and extensions, including Austin Reaves' new deal with the Lakers.",
         "published": "2026-06-27T00:05:01Z",
@@ -529,6 +520,15 @@
         "image": "https://a.espncdn.com/photo/2026/0626/r1680192_608x342_16-9.jpg",
         "recruiting": true,
         "source": "ESPN"
+      },
+      {
+        "headline": "History of players going from Montana to the NBA",
+        "description": "",
+        "published": "2026-06-26T23:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNaS1Ob3lvLWFhWVhFZ3RsVHVKVXN0cHpqNm92ZDktNzk3THBNSk1adFJDaFJXZHVLX3ltX25OYjN1eEVleUh4UUJnYm1DUHlDeWxJYTBrcjlMTzN0RnZvZV9KamlMSHlhSVhqU2dfNnU5Z2gzUUxZd0Q3MXRhSTZLcTZsZEJ2RHJCelFoN0FlWm9BZy13bU1uZ1Q1YzFmMGhJejEyaTBiLWttTk5CY1hBalp6ZzNtYXBoaFoyVnl4NnNfSm9mejRB0gHMAUFVX3lxTFA2VjhxcDdCYmlCaVg4U19lM1JNMUw1VzNjSEJlSVJ3NTdCcl9UU3JVbG1WVF9KZUtLWGNOajlJUTlMbXpxNnNIaV9GdVdyQ1F3SjYzcG5mVVpLWVhjU3pKMHBFbFk0ZDFKLWJnejQzeDl1NVE1Y0p3ejV0WDBhbVluRjNzWmNBLXp6M0VWQzhqMFpfaXZma0JrNUdSejZ5MDViSzJjTVhRMmRiR1ZVc2daa1B0YlBTbW9DdENNMnp3TW9iOXlTejNSM0hMTg?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "406 Sports"
       },
       {
         "headline": "Sources: Jose Alvarado returning to Knicks on new 3-year deal",
@@ -612,15 +612,6 @@
         "source": "NBA.com"
       },
       {
-        "headline": "BYU Signee Bruce Branch Is Already Generating NBA Draft Buzz",
-        "description": "",
-        "published": "2026-06-26T16:03:27+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNcHlFLVZWdE9sNkszdUk5OTIzWTM0M0pMTmdxRDVtcl9ySzRhcnhKbm9wVGdWdkQ3cDRtV3NpUUhFSUl2N21BcHJVRTlHZFhZUTZsdnRUVEhCRjBnZjJiVkg3c0RSdUxqLTcwMkxjTVFnbngtbl9NRkRWR21CQ0NkZ2hPOXFMb0h1OEM2ajNPdGhHM1B4U2tuQ19MaFZtV0xvcWIyZQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
         "headline": "Israeli-American Emanuel Sharp, son of Maccabi TA legend Derrick Sharp, gets drafted to the NBA",
         "description": "",
         "published": "2026-06-26T14:29:12+00:00",
@@ -702,15 +693,6 @@
         "source": "Basketball Network"
       },
       {
-        "headline": "2026 NBA Draft shines light on Basketball Without Borders' impact",
-        "description": "",
-        "published": "2026-06-26T00:01:22+00:00",
-        "link": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBVQVE3cXMwYUFQT1llNVUzMVJ4alY3OXkyVU1WUEdrOHFGaGtudTVyUG5aY2V0bFZlNTFIbmZkd0lUWTdEeFYwME1BTi1QWTBoX3NFT210ZEhHa3B2Y0VaMlNXTzZKSjlxS1hXVU1nZjZWYlN6?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBA.com"
-      },
-      {
         "headline": "Kevin Young wanted to turn BYU into an NBA pipeline, and the early returns have been historic",
         "description": "",
         "published": "2026-06-25T18:00:00+00:00",
@@ -718,6 +700,15 @@
         "image": null,
         "recruiting": false,
         "source": "Deseret News"
+      },
+      {
+        "headline": "2026 NBA Draft: Fantasy basketball winners and losers",
+        "description": "",
+        "published": "2026-06-25T17:32:35+00:00",
+        "link": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQU0ZNWWZoODM1OXItYU56TzQ0MXJSYldXaFROdjFTdThwYm82bXhPVWI0MDJwbHBJVkU1ZUxzdU96a3FwZGJmcUVpd0dHWlg1X2k4N0kxSnJkOW9TdUZCUG93bDd4SjkyUnR3cEpzaG4zckIzazFueVRmRXVvNWJHeU5ROHQ1dnMzSDJmZFNwTDQ5TlBERmU5akdvSW9QVGRwVEJuVmNuNDdEX0JN?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Spurs and Thunder go big, Acuff-Brown is a matchup to watch and other takeaways from the NBA draft",
@@ -736,6 +727,15 @@
         "image": null,
         "recruiting": false,
         "source": "USA Today"
+      },
+      {
+        "headline": "2026 NBA draft grades: Winners, losers for all 30 teams",
+        "description": "",
+        "published": "2026-06-25T02:49:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPVndEcXQ4aEp1ZlZISnNBaDlGNGJLRjBmQWlQWEVoa2N2MkR4c2VLTEF2ZHdCSy1qQjhBVE1LTFNCcmZSZ1BLcXFuZlVEclJnVTBPNnhhTWtUVTR0ak9fcm5jOEdFNFVmY1pQZk51R1UzSUdpc1NzM0ZVNVVpU0o5Q090ejQwVUZVTVp6cjFlS2hQdFVCNnBNUE5PclhZNFRaN3VSVGdyWmRfOXpkS2JqSGZWYmFaclVCeENRR2x5VGFyV0N1RGZndnZzaEVhZzF6UFE?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "ESPN"
       }
     ],
     "games": []
