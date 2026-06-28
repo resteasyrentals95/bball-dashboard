@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T17:01:17.608208+00:00",
+  "generated_at": "2026-06-28T17:16:22.842031+00:00",
   "duke": {
     "news": [
       {
@@ -237,15 +237,6 @@
         "source": "The Fayetteville Observer"
       },
       {
-        "headline": "Instant Breakdown of Duke's Cameron Boozer's Fit With Grizzlies",
-        "description": "",
-        "published": "2026-06-24T00:24:45+00:00",
-        "link": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNd2VlS1hHcnBPSlNuLVozRm9ndGJMbzhTdklubDdqdmJxazdzZlMwNnJjNjJPSGJzUkNIclZyTnVKUFluU0YwaXROcDBiNDZXU003M1BMbURtQWk1bUppREwwa29NRG9mN1psTXk2UjE4X01oSGcxWUxmY1FBTmZ4V25UMGFrSGQ1VW1pZDg5MzVVSmdl?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
         "headline": "2026 NBA draft big board rankings: Top 100 prospects",
         "description": "Who made big jumps in the top 25? Where do Dybantsa and Peterson land? Here's our final big board of 2026.",
         "published": "2026-06-23T15:28:32Z",
@@ -253,6 +244,15 @@
         "image": "https://a.espncdn.com/photo/2026/0618/nba_draft-100-rankings_16x9.jpg",
         "recruiting": true,
         "source": "ESPN"
+      },
+      {
+        "headline": "How Scheyer Rejecting Mavericks Saved Duke Basketball's Season",
+        "description": "",
+        "published": "2026-06-23T12:00:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHAwTUxVZHpZZ1lZdmhEZ2hOSkYtMHFjcllqUDVaVEV2LTVKb1k2LUdScUZvUnJ3VDJZTU1PZjAxY2V4VkVacTMteFRUQVllc2llZk1pWUpSZmlZdTI0R2lEb3JOSTY5YzZKWjJRdDNZU3ItZFc0OVJFaDdJNjhYY3ViMnBhLVo1RW9CU3NYeDlEOGlYdmtVbmlneWJoTmw1?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
       }
     ],
     "games": [
@@ -488,11 +488,11 @@
       {
         "headline": "Which KU players could be selected in the 2027 NBA Draft?",
         "description": "",
-        "published": "2026-06-28T15:02:14+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOWXJ0X1RwRm9KV1p3bFhnZzQyWmVwTklGeWV4RWhNZUNROHlFWV84cEZBZlhDTENSaktHeHdxTzF3a3NQa2ZSc0tscnBqTWZsbWZkdEdKcFE4NldfQzdOX1lyQ3JUTVo3MVFpbVRuVlY4RFFnbXBCZDltaHdscTQxQkhJbHBZejJxY1JhQnVELTBDMzJHcjl0bUtKZWNKSlJ2cGtEZWUzc2E0RU9vQ2h2WG80aFNKeVF4QmdhZUdZcm1LYU0?oc=5",
+        "published": "2026-06-28T15:01:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWUdjZDdjNHQ2Z2pDby1FTmVES0lSSWd3aHYyUFMzMVNjNXBBVVdieUEzeVRtYllReUpXbDk1QWJFX0hqWVFRQWNhQ1NwNWM5QlVPbzdyQU5ZQXdxVjB6em5vRGk5RDNfVVZWcENkVXhoYjZhNWlpYmN0U2x2a0c3OXF6THZNRUxBX1RaME84UlNkTUNaYkF5b3RYcVJCWk8xWGhhR1NLcGhWZFd1Y1p3cUJ2TlN2TlFkTEphLQ?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "KU Sports"
+        "source": "Lawrence Journal-World"
       },
       {
         "headline": "Orlando Magic waive forward Jonathan Isaac",
