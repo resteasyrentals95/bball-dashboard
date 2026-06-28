@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T04:46:32.119641+00:00",
+  "generated_at": "2026-06-28T05:01:37.256152+00:00",
   "duke": {
     "news": [
       {
@@ -27,15 +27,6 @@
         "link": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPaUdMT2pYdXpNdTZUb291dkRER1p0Y3c4TV9ma3BEYl9TRVhHYzlqeXpOR3J2a0xlOTZiOUJGNWttV1h6andlMWg3cVBMTFRZbGcxY1BqZjE1N0hqR1Y2VTcyVk1kSjZ2Ym1yUVd4aVRVd0N3Ul9oanlidFpZSXJScDBmS010X3YwRHpCLXlRT2FQaTM0c1NaS2tGSm1BMFktYVNsb2VB?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
-        "headline": "Source: Duke Miles Signs With Philadelphia 76ers",
-        "description": "",
-        "published": "2026-06-26T17:05:44+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQX0ZhZEJnMkhSTTdfR2N5N25PWjEwMjlCSVJmMTdFNEd4LVo2enVvblNDSDV0R255VjdRQlRRVENKQ1JteTVIWWNzRW5BenRSMjNZaW9FVW83aWpPV0J6cTl5azlVY2ViWk9mUEhwMkI2cUdVMTl0TVBJYzFvY2dkZHZJZ2RONDFuZXl3T0xiVGFtV2RlMzdGUVU2U2s?oc=5",
-        "image": null,
-        "recruiting": true,
         "source": "Sports Illustrated"
       },
       {
@@ -250,6 +241,15 @@
         "description": "",
         "published": "2026-06-23T12:00:03+00:00",
         "link": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNdHAwTUxVZHpZZ1lZdmhEZ2hOSkYtMHFjcllqUDVaVEV2LTVKb1k2LUdScUZvUnJ3VDJZTU1PZjAxY2V4VkVacTMteFRUQVllc2llZk1pWUpSZmlZdTI0R2lEb3JOSTY5YzZKWjJRdDNZU3ItZFc0OVJFaDdJNjhYY3ViMnBhLVo1RW9CU3NYeDlEOGlYdmtVbmlneWJoTmw1?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Sports Illustrated"
+      },
+      {
+        "headline": "Worst-Case Scenario for Duke Basketball Next Season",
+        "description": "",
+        "published": "2026-06-23T11:00:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQS2MtQ1N6V2NORW83dnZ3d2wxa0xDcHFnQkVCRGhjaktRZXNEdkhmbnp1cFdVZjJzQ1hfcGI3WnFWajRHbXlGTzlDUjNRVTNPQkx1emIwN2hGTWFJQnk3cFZ6LXdzM1A1N3lpVHdzVE4yczlOTWlSamdGM0RNODBNNU8tNWh6ZUFpMVNqMEFGYw?oc=5",
         "image": null,
         "recruiting": false,
         "source": "Sports Illustrated"
@@ -513,15 +513,6 @@
         "source": "BasketNews.com"
       },
       {
-        "headline": "Check out the NBA Summer Leagues TV schedules for 2026",
-        "description": "",
-        "published": "2026-06-28T00:07:03+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOEFGUXV0WTJRZUt0UHY4bVVzR0wwaDB2UElkbTBpUTdiQmpLUXFLZV9CUnpIV3paaU1lZjY3TWJyTFRBNEttMXJDZG14UlJFVkxtOVlnWE1oUHFNcjZTQjBMQzFfMGpDYTNQVXV4a19zVVdhNjNaVFRROTFXREhGMlVB?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Yahoo Sports"
-      },
-      {
         "headline": "John Calipari predicts Darius Acuff will make NBA teams regret passing on him in draft",
         "description": "",
         "published": "2026-06-27T23:34:00+00:00",
@@ -547,6 +538,15 @@
         "image": "https://a.espncdn.com/photo/2026/0627/r1680659_600x400_3-2.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "NBA No. 1 pick AJ Dybantsa throws first pitch before Yankees-Red Sox game, lobs eephus pitch for a strike",
+        "description": "",
+        "published": "2026-06-27T22:02:30+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTUVuRVA5QzlOM01qNV9lWGJxQWFjcmFmTlluSzNMTW1scnp3S2p6NGNUY190ZU9LV0NOS2hreEVQLXlIcXB5SVItV0drTTZrei1iR3FzU0ttTlFvbmpuU3A2eDI5QXdPb18wc25yM3hDeHZhQ240UzIzUEFIZ2QtNjZZWW9QeGg5WVJYSEhRTmpXUWNtekJmS1ZSTmIweWRfNE9Deno2TjEyTy1rU1lDNW5EazdHeEh6a3Y3VzZ3T0lnYkttRmpFRXUzSUVfNjdyMWpYOWNidlh6SVF6c2ZBYzRBZWFubzVzUnhN?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
