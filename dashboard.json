@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T22:24:52.018216+00:00",
+  "generated_at": "2026-06-28T22:39:57.557100+00:00",
   "duke": {
     "news": [
       {
@@ -37,15 +37,6 @@
         "image": null,
         "recruiting": false,
         "source": "Duke Wire"
-      },
-      {
-        "headline": "After three picks in the 2026 NBA Draft, Duke's 2027 draft haul looks even larger",
-        "description": "",
-        "published": "2026-06-28T16:35:38+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY3Z2U25ZV0hUbjVVRUREUUMzM29rLXEySTN0MUduUHBxcVE5WHZfMVFPVXRNa25qaDdXcWZSaE0yVW1rUUZWbm9wRnh2d2N2anEyTzhBdmo2WnpWQXVPd0JUVWtKQ2tsdEZzMkY4NmFISGtwQk5EcWhkbEVtRGdSYl92c2NzYXc5UVFxMHJIRlZ1WGhmVUlLU3NDeXhKajBqQ2dxdTVxME1JcWk0RGJfaEtFQ2JTT0NvNlBHeGpIeVByNGdjdU85SW92UDI3dw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "247Sports"
       },
       {
         "headline": "Duke Recruiting: Kager Knueppel Update",
@@ -253,6 +244,15 @@
         "image": "https://a.espncdn.com/photo/2024/0624/r1350010_600x400_3-2.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Here's what Duke basketball\u2019s Cameron Boozer brings to Memphis Grizzlies",
+        "description": "",
+        "published": "2026-06-24T00:49:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU21UYTRjUzhvWU4xQ3BfazJDeHQyRmdmNDlIcnpOWUZ4bFNOeVluUzB2b0h1dWh6STFyaFg0NTNpQk5xaVVxWVZ3WXRIbzQ4aUg2U1VUV2VNR3RPWEkxdjFiamVfaHRrYjNjakZpMlRaWk5FS3JoLXNIYzBMRjVjUVlJMFQzcE54UjdtVkx1VFBYUkpFRkdyMDQxTFN3UkxuSjR6Smx3NzRqcmFobVFaSWhUVmY4cE12MTJWNktaYl9Sc3lqVDVKRzViWjBiLWFSLXJKanFxUWdpY3oyM1NIMA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Fayetteville Observer"
       }
     ],
     "games": [
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Former Ohio State teammates wish Bruce Thornton well in the NBA",
+        "description": "",
+        "published": "2026-06-28T21:45:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxNRnNtM1ViaWRENGREY2J0ME93Q3UwQTlxWDFlM091MEQ5U3RrNEM5RjBMNWtobXNncVdRU0laaGhLaVl0allybDd1dlU1YTJjdk5ScXFzazV6TGg1eXY4QW9hWHM2MnVyb0wybzBFNVRGMTFnVzc3ald4U085Tk1lbmpsQlNJZGxJU2t4dU9zRThBR2FTa2tObnBrNmtQVGU0d2Y3ZU5rb05Zb2V1VGFsYjZYR2JuUkllVmpSWF9VdktTaHAwSFNOU3ZrdlZ6Yl9wVnpRbk5HcGhDSmtTTWdkWXJuaDEtZVpuWU9MM0F6WUZneTdDUnVV?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Buckeyes Wire"
+      },
+      {
         "headline": "NBA Offseason Trade/Free Agent Rumors 2026: Seven teams eyeing Jaylen Brown, Kawhi to Toronto for Ingram?",
         "description": "",
         "published": "2026-06-28T20:06:37+00:00",
@@ -513,13 +522,13 @@
         "source": "ESPN"
       },
       {
-        "headline": "NBA free agency: Whom the Knicks can target and 10 players to watch",
+        "headline": "Former Tar Heel Henri Veesaar Addresses NBA Draft Slide",
         "description": "",
-        "published": "2026-06-28T18:42:10+00:00",
-        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3ZFA0WmZqa1lnS0tBRU1US0I1dTNTUVZwY24tbWZaVEEtSnN5LXhOb0xoWUZoM24xdXZLelA5MUdCOEczenczT2ZTXzBEX2h4MVRsV1BYV0E4d0wwaDlVanJvaXJlVjNuOGlRSnRmaEJ6MU1sZlNrZA?oc=5",
+        "published": "2026-06-28T18:30:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNnVVenAwYjZlME55VEhvNmF1aHFrOWx6aVhveWUtMko2dVBIUldnQXNkVHhiNWhoZmVGVVBiazVxUVEwUC0ydVFQeDRMR1JGSFlzQkFnODBXZ1ZQbVRGMHhsbmtjdkFWZUpmdVFMUFcxenQ1OWdUcmNNZTRic0tGRlJaal9KbVkzaTNvNEppVFY?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Newsday"
+        "source": "Sports Illustrated"
       },
       {
         "headline": "NBA trade tracker: Updates for every deal of the 2026 offseason",
@@ -585,15 +594,6 @@
         "source": "KU Sports"
       },
       {
-        "headline": "3 Houston Players Who Could Get Selected in 2027 NBA Draft",
-        "description": "",
-        "published": "2026-06-28T13:55:28+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRVJEazc2Vl8yb3RLRDJSYjg2MTQ1RFIwSF94RXB4QzlULTBxRnBqT2xISEtxeUc3OHRWNUVjcDc1b1FXenVjTmx5T1Q5UFE5RUluX0FXdnFZRUlTaklHRWthYTdSeHFBQnVCQ3RXVE9zZ1RQSVJjMndNUnVkSkZoUXlqQVRRaUhOMTdIVFVRTGVFNEFMOE1VVm9xbHJxVjhBcnJqa202SQ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
-      },
-      {
         "headline": "Orlando Magic waive forward Jonathan Isaac",
         "description": "The Magic have waived forward Jonathan Isaac, which will save Orlando $6.5 million, according to ESPN's Bobby Marks.",
         "published": "2026-06-28T12:20:05Z",
@@ -648,13 +648,13 @@
         "source": "RealGM"
       },
       {
-        "headline": "John Calipari predicts Darius Acuff will make NBA teams regret passing on him in draft",
+        "headline": "NBA free agency: Whom the Knicks can target and 10 players to watch",
         "description": "",
-        "published": "2026-06-27T23:34:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQdWp3NndnbXhQVVAyNHFhSTFONzE5cGhXTDJfTm9jZlluRnpId0dWWW5mTlFRXzQ4dW9mSU1LQ0QtcHdrNEZZZVE5MV9FUXN1c3MxOVBxQ1Y3WW55WUc1UXY2MkhPclg0QnBaU1dCYmQ3LVNXZWdETGlCX1RhbERKLU9WaGVlT2haN3Z0M3VjVURmclpKc045bm5UM0ZNd1M5Q2ZGUy0tb05tSUdTRnZsNDVqdDQ0ckh2N09ISENMMUNzaFJTaEtRT0pIc20?oc=5",
+        "published": "2026-06-28T00:03:36+00:00",
+        "link": "https://news.google.com/rss/articles/CBMieEFVX3lxTFA3ZFA0WmZqa1lnS0tBRU1US0I1dTNTUVZwY24tbWZaVEEtSnN5LXhOb0xoWUZoM24xdXZLelA5MUdCOEczenczT2ZTXzBEX2h4MVRsV1BYV0E4d0wwaDlVanJvaXJlVjNuOGlRSnRmaEJ6MU1sZlNrZA?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Whole Hog Sports"
+        "source": "Newsday"
       },
       {
         "headline": "Report: Former Clemson guard to play in NBA Summer League",
@@ -720,22 +720,13 @@
         "source": "ESPN"
       },
       {
-        "headline": "NBA draft 2026: Pick-by-pick recap with analysis and stats",
+        "headline": "NBA draft withdrawal decisions that could impact NCAA basketball",
         "description": "",
-        "published": "2026-06-25T02:34:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNc2ZOTlM1VFR1YWwyeEdabzZickdXb2Y0Z3h4MnJ3VEdZUlBsTjV5TzNRY09nMmNJNWFXT1BzZmptQXYtUVpiUmJyZDJUbC1NQWM1SHZZbzFJUXVtVTJOdlRlMkVkTVZxR3FvUEQyamlNVUNPczZOa1d3WWdMTzZPVGkwX2R2eVdscGhVMmZNal90RzJHMnMxQlhzWQ?oc=5",
+        "published": "2026-05-19T07:00:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPcGNUQjFsZWVMVll5emQwQnlWS1VxZVhhaFByMUF5a2wtT3BsOTR1N0RaVHFwbGlvWHpyYmJuUjBJZkdLR1NkaGZ2djNoS3VyTHdOSFh3VEpUWGFLM2k4bWNFa0ZCcm90Ty10TERfc1hZN0F4UDZ3cnFaeEVFbFVOd2I2N05tSEtMdWptUVdkdTVfUW8zODZ4VE0yWXFVcVNtR0RTN0hqZ2lWYzNhbnRHam5UbnhoczVQaFBaTV9Yb0ZVR1VneFdGQXEybw?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Los Angeles Times"
-      },
-      {
-        "headline": "2026 NBA draft highlights: AJ Dybantsa, Darryn Peterson, Cameron Boozer go 1-2-3",
-        "description": "",
-        "published": "2026-06-24T03:42:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tSUZ3TzBKbjRmRXRHY1FFZTFKaDd3emxpR2ZMUlR1Ylk2cERWZmMxNHN3NXpNMnM3ZG83MU5ydU51WFRzSnM2dzk5Q2dZSExmalVITnhKUm0yblU4ZDJfX1ZR?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "AP News"
+        "source": "ESPN"
       }
     ],
     "games": []
