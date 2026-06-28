@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T23:35:19.708922+00:00",
+  "generated_at": "2026-06-28T23:50:25.541325+00:00",
   "duke": {
     "news": [
       {
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Hamilton Heights basketball coach weighs in on Felix Okpara's NBA journey",
+        "description": "",
+        "published": "2026-06-28T23:46:11+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMGhtRUtLY2RsdmJDX2lOQUVROUJ5Q1N2U0U4bkliWWZMRFJvNWp6VEdNNDZsTEJ1V2dnalpYMHN5ZUhWNWdkTEV1RC1zUkIzOWpzMUtLMmxIdllHMkQ5WTNuTklFS2NIa0JRT29VNFAzdEtrUXFEYjhzQUJjZkxWclZiRkstRWxTS3BwR0haeXNFdFZCTHlYSmUzeDhaU3BEMEhzZXdoWExnay1LTW5BaFhhY0dyWVdGMmRHVGpUekZSRFB3Q3ppb0VFRzNYWVdmVUh4QkhuQXFpQWkwZnNxUHZxUVhNRXRkbmo2UGdIdmM?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "WTVC"
+      },
+      {
         "headline": "Sources: Hornets trade veteran Miles Bridges to Suns",
         "description": "The Hornets are trading Miles Bridges, a 2029 first-round pick and a second-round pick to the Suns for Grayson Allen, Royce O'Neale and a 2033 first.",
         "published": "2026-06-28T23:06:32Z",
@@ -531,13 +540,13 @@
         "source": "ESPN"
       },
       {
-        "headline": "Former Tar Heel Henri Veesaar Addresses NBA Draft Slide",
+        "headline": "New South Carolina men's basketball assistant bringing NBA experience to team",
         "description": "",
-        "published": "2026-06-28T18:30:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQNnVVenAwYjZlME55VEhvNmF1aHFrOWx6aVhveWUtMko2dVBIUldnQXNkVHhiNWhoZmVGVVBiazVxUVEwUC0ydVFQeDRMR1JGSFlzQkFnODBXZ1ZQbVRGMHhsbmtjdkFWZUpmdVFMUFcxenQ1OWdUcmNNZTRic0tGRlJaal9KbVkzaTNvNEppVFY?oc=5",
+        "published": "2026-06-28T18:30:59+00:00",
+        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOdkt4WnJhbFpRX29QVThiU3ZVanhEUmV6dHBLdEh3eGdmSUlyenJVWm9zMkRjRzIxNUlZekI1bFlBaS1SaGJmZGVqeWQxQnpwbDlvbEpvcVZMSm5vakRseXVhS1hNQ0JmOHVFQVJINldxYnpkWG5aZkJneHA4UG5XSXJLdk8yeGNiOEs4UWdiQi1GazBOci1OTnMwYzcxSVVwb2c5bi1KbThRZ2RQVWhiMm11bkx6RUthZXJmYWxPQVR4cWZ4ZzBoVmtPbWQxdw?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "Sports Illustrated"
+        "source": "On3"
       },
       {
         "headline": "NBA trade tracker: Updates for every deal of the 2026 offseason",
@@ -727,15 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "2026 NBA draft highlights: AJ Dybantsa, Darryn Peterson, Cameron Boozer go 1-2-3",
-        "description": "",
-        "published": "2026-06-24T03:42:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE4tSUZ3TzBKbjRmRXRHY1FFZTFKaDd3emxpR2ZMUlR1Ylk2cERWZmMxNHN3NXpNMnM3ZG83MU5ydU51WFRzSnM2dzk5Q2dZSExmalVITnhKUm0yblU4ZDJfX1ZR?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "AP News"
       }
     ],
     "games": []
