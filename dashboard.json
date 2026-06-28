@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T00:29:57.742906+00:00",
+  "generated_at": "2026-06-28T00:45:03.301838+00:00",
   "duke": {
     "news": [
       {
@@ -138,15 +138,6 @@
         "source": "Yahoo Sports"
       },
       {
-        "headline": "Spurs select Tennessee's Ja'Kobi Gillespie, Duke's Maliq Brown in second round",
-        "description": "",
-        "published": "2026-06-25T02:15:11+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMGNyNFlzemF0S2xfRUFBTktGVWNGLS13T2RDbk1zd0pLSUxVbXZ1a01uWEh5ajFULWVoV21lYWg0MFVKcHl6VzA3TFRaZXFOenRpakgwelpMOHhUYnAtbnZhTEJjYVNkLVU1MHBQbzZmYnVHbl82TzJTZHo5cEZzLThJd2l6bVdUSUJVdWtaMDdEOUlSZmtkY2FCX25BU3FCaFAtNkxoelpyUW5GSlJR?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "San Antonio Express-News"
-      },
-      {
         "headline": "Here's what Duke basketball\u2019s Maliq Brown brings to San Antonio Spurs",
         "description": "",
         "published": "2026-06-25T01:27:00+00:00",
@@ -172,6 +163,15 @@
         "image": null,
         "recruiting": false,
         "source": "Yahoo Sports"
+      },
+      {
+        "headline": "2026 NBA Draft fallout: Duke's Isaiah Evans, UNC's Henri Veesaar leave millions in NIL money on the table",
+        "description": "",
+        "published": "2026-06-24T16:56:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUnhYSFpVNmRKcG9BY2tDNEtNV3FRb2dVdHpKMmZBRFJkNFJ1UkVvem5VTkNJcUpIQTB5bnd1Nklvd2laSmpoeVNrRWNfSG9FTUxnaG16WmRPUXZVT0dibUdCamM4dF9jNHRYZEotZ3VlZ3JPT1FMMXV3RHVXd2kwd1BpOVhVb0xadkJTcTBEbkY0ckhUYmc2V1dB?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "CBS Sports"
       },
       {
         "headline": "Kentucky maintains lead over Duke in all-time NBA 1st-round draft picks after 2026 draft",
@@ -486,6 +486,15 @@
   "nba": {
     "news": [
       {
+        "headline": "Check out the NBA Summer Leagues TV schedules for 2026",
+        "description": "",
+        "published": "2026-06-28T00:07:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOEFGUXV0WTJRZUt0UHY4bVVzR0wwaDB2UElkbTBpUTdiQmpLUXFLZV9CUnpIV3paaU1lZjY3TWJyTFRBNEttMXJDZG14UlJFVkxtOVlnWE1oUHFNcjZTQjBMQzFfMGpDYTNQVXV4a19zVVdhNjNaVFRROTFXREhGMlVB?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "NBA free agency 2026: LeBron James' Lakers decision looms; What's next for Kawhi Leonard?",
         "description": "",
         "published": "2026-06-27T23:00:25+00:00",
@@ -502,6 +511,15 @@
         "image": "https://a.espncdn.com/photo/2026/0627/r1680659_600x400_3-2.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "NBA No. 1 pick AJ Dybantsa throws first pitch before Yankees-Red Sox game, lobs eephus pitch for a strike",
+        "description": "",
+        "published": "2026-06-27T21:52:06+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTUVuRVA5QzlOM01qNV9lWGJxQWFjcmFmTlluSzNMTW1scnp3S2p6NGNUY190ZU9LV0NOS2hreEVQLXlIcXB5SVItV0drTTZrei1iR3FzU0ttTlFvbmpuU3A2eDI5QXdPb18wc25yM3hDeHZhQ240UzIzUEFIZ2QtNjZZWW9QeGg5WVJYSEhRTmpXUWNtekJmS1ZSTmIweWRfNE9Deno2TjEyTy1rU1lDNW5EazdHeEh6a3Y3VzZ3T0lnYkttRmpFRXUzSUVfNjdyMWpYOWNidlh6SVF6c2ZBYzRBZWFubzVzUnhN?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "2026 NBA buzz: Latest news, injuries, league intel, updates",
@@ -718,24 +736,6 @@
         "image": null,
         "recruiting": false,
         "source": "ESPN"
-      },
-      {
-        "headline": "Isaiah Evans, Maliq Brown Chosen in Second Round of NBA Draft",
-        "description": "",
-        "published": "2026-06-25T02:34:23+00:00",
-        "link": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOR0dDdk5ma2h1cUlNY2FDQ2FiZ2t0ZUlwWFVwcDA2U2FfTGMtVTJ4ekp1ekxJTWZXNnhPVFJtcEFENks0RkRNS2IyeGRzNFY3WWhwZ1JsTU1nVzQ5amlYeDVaQXNLTGpHUzhEOGdMZVIxbFd0RGtnMTRQU25zTTZDaW5CYk1jaHJrZHBmbmJjbDJkQUZlVGhVaUhxd0J2VFdfNEVLcnBXallrRk9IODhZ?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "goduke.com"
-      },
-      {
-        "headline": "Darryn Peterson Goes No. 2 in 2026 NBA Draft - University of Kansas",
-        "description": "",
-        "published": "2026-06-24T01:02:41+00:00",
-        "link": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRlFpaVMtTFVXWXVjVzByRFRycjZmaGp6MHkwbFIzR1FiVlF6aTNZaGY3c1h3d2NQa0NDYUxpVnhlZHhNeEREQ0RHVXIyV3ZvaFdkc2JVdnVOSnZRaE5WbVB4WWpndXF3c0ZGUGppM256TWMzTndGcE5jMjI3ZUNQMFFLa3JhdVc5NkpZVzdiRXUya2J5X3RXR09KaS1pZHc?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "kuathletics.com"
       }
     ],
     "games": []
