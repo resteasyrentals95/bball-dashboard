@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-28T03:15:57.508969+00:00",
+  "generated_at": "2026-06-28T03:31:02.918820+00:00",
   "duke": {
     "news": [
       {
@@ -486,6 +486,24 @@
   "nba": {
     "news": [
       {
+        "headline": "NBA free agency 2026: How much all 30 teams can spend this summer",
+        "description": "Which front offices boast the most spending power? Which are battling to avoid the second apron? Bobby Marks examines all 30 teams.",
+        "published": "2026-06-28T03:08:21Z",
+        "link": "https://www.espn.com/nba/story/_/id/49190331/nba-free-agency-2026-salary-cap-tiers-lakers-thunder-nets-bulls-knicks-30-teams",
+        "image": "https://a.espncdn.com/photo/2026/0403/r1638124_1296x729_16-9.jpg",
+        "recruiting": false,
+        "source": "ESPN"
+      },
+      {
+        "headline": "Check out the NBA Summer Leagues TV schedules for 2026",
+        "description": "",
+        "published": "2026-06-28T00:07:03+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNOEFGUXV0WTJRZUt0UHY4bVVzR0wwaDB2UElkbTBpUTdiQmpLUXFLZV9CUnpIV3paaU1lZjY3TWJyTFRBNEttMXJDZG14UlJFVkxtOVlnWE1oUHFNcjZTQjBMQzFfMGpDYTNQVXV4a19zVVdhNjNaVFRROTFXREhGMlVB?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "John Calipari predicts Darius Acuff will make NBA teams regret passing on him in draft",
         "description": "",
         "published": "2026-06-27T23:34:00+00:00",
@@ -549,6 +567,15 @@
         "source": "ESPN"
       },
       {
+        "headline": "Social Media Reacts to Three Former Illinois Players Earning NBA Opportunities",
+        "description": "",
+        "published": "2026-06-27T18:32:05+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZElpZ1BaT0ZubVItOHZPeENCUGhKM05OS05DU3ZFekFOemRPeUFRT1lQajdCSG4zU3EwOVQ3d2kwTXRFUTNrZGEza0lqcTlQalNBLWo4T1hGR2NhbEN1aFNzZG1pblNuV0g1LTVFY1hCMjZZOXk0S01BaXJvbW9aV1dIU0hDVnhI?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "Angel Reese on why Shaquille O'Neal's proposal wouldn't fix WNBA: \"They're always gonna not give us the same value as a man\"",
         "description": "",
         "published": "2026-06-27T18:11:00+00:00",
@@ -585,15 +612,6 @@
         "source": "Bryant University Bulldogs"
       },
       {
-        "headline": "NBA free agency 2026: How much all 30 teams can spend this summer",
-        "description": "Which front offices boast the most spending power? Which are battling to avoid the second apron? Bobby Marks examines all 30 teams.",
-        "published": "2026-06-27T15:48:05Z",
-        "link": "https://www.espn.com/nba/story/_/id/49190331/nba-free-agency-2026-salary-cap-tiers-lakers-thunder-nets-bulls-knicks-30-teams",
-        "image": "https://a.espncdn.com/photo/2026/0403/r1638124_1296x729_16-9.jpg",
-        "recruiting": false,
-        "source": "ESPN"
-      },
-      {
         "headline": "2026 NBA free agency: Grades for offseason signings, extensions",
         "description": "We're grading the biggest NBA free agent signings and extensions, including Austin Reaves' new deal with the Lakers.",
         "published": "2026-06-27T14:47:50Z",
@@ -601,15 +619,6 @@
         "image": "https://a.espncdn.com/photo/2026/0626/r1680192_608x342_16-9.jpg",
         "recruiting": true,
         "source": "ESPN"
-      },
-      {
-        "headline": "Former Virginia guard Malik Thomas to play for Toronto Raptors in NBA Summer League",
-        "description": "",
-        "published": "2026-06-27T14:00:05+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQbTF3aE9LMllGMGJDSXZGLVhCTWU4Q3BKNV9ySHdkMk1NNHRDdzctMUkydVVfVTc0dV95YTJBMTFKNTV3S3RIUXY0VjhjNGRGMEF5ZW5DOUFKY091TkdyRDF5QUtfenkwS2J3cV8tSmF4UU44SU1mbjNhQjlveXB2M2NIWm1tazZjbUxwbW03YW1UWFk3TU9LRHhuYl9qMXNSM0hGc3Awa3V4MkJja1RHY044MUkyTUVlZkFBeGp5VFZDUHc1eFFKRVhmVVlSR2FaSnpNMGdoLXh0dTA?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "Sports Illustrated"
       },
       {
         "headline": "Thunder to keep Hartenstein on new 3-year deal, sources say",
@@ -646,6 +655,15 @@
         "image": null,
         "recruiting": false,
         "source": "NBA.com"
+      },
+      {
+        "headline": "Arkansas basketball NBA roundup: Where former Razorbacks are in the league following draft, trades",
+        "description": "",
+        "published": "2026-06-26T16:52:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxPM3NiX2lCdGFLa2ktTDRDNUR5Z29DemVNWE91RUtKWHNkVm1vYWZoa3Y1T2R5VXF3TnM5UzBXRHVhSzV3NUw1UXQ4ZTAyNzZUVmN6dmZFMUFBa3lDT1VtNi10N2ZTYU5CTnlhNWhsM1d3TlAteHNnZnFWM0dVZ2hITk1raVJHVHVLV1B3SjZfc0EtLWZWTjJJU2VOVDVtdDJqM2NieVBKaE5UUHc4bmRaZGI5bkc1WDQ1bjI0NGtEM0JJUHFyWTRadGVxdFlTd1RmOFNSdW0wMjdRbGJsLXc?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Whole Hog Sports"
       },
       {
         "headline": "MSU's Carson Cooper, Jaxon Kohler sign contracts with NBA teams",
@@ -711,31 +729,13 @@
         "source": "Ohio State | Official Athletics Website"
       },
       {
-        "headline": "NBA Star Derrick White Named \u201cPresident Of Basketball Strategy\u201d For CU Men\u2019s Basketball",
+        "headline": "\u2018Super blessed\u2019: Karim L\u00f3pez makes NBA history as first Mexican-born first-round draft pick",
         "description": "",
-        "published": "2026-06-24T16:14:47+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQdmk4ZTkzU2h4ZE9RaEI2NmVIejZiMVlRQTdFajdGZnByckFKZnN3UVR0Y1Y1ZmhGU3NneG5jSzkwcHFMUFVIVnNUZFV5dEkwaFJCZFluMkwwSHpRX0dkYWZockJQNUhEekttcmpoQ1VDd0Zpdmg1Nk8xTm82VlFZUlhndG96Smh2bjRna3pRaDZzWUphbFN0MFdJd2JrRWRlRDJleUI0QlhoMEhnOG9aLXo0cjZ6emtIWVl3bzZtbWw4OEp2cEs5aGctQllBdzZj?oc=5",
+        "published": "2026-06-24T19:44:02+00:00",
+        "link": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa2VEekJqcGhRWV83RHU2cXI2cE9MN3JQd3VIZi1FWUVQNF9OVWIxZlUtRjZWRmhMYkZBOEtBN2JVbW5OTEl5RGV5OWFSMExtT0h2MmNWcThlVENSa19HbXZBQ1djaUtsQTkxblQyU0d1NGlSaVNIZFNSWk13bTVFY3VWaDVQaDRlcXRXMmdRRlNBSk1DYVhXWnVHck9BcVRaNkMzaUhMNHRfeHBhZ2M3MUVfSC1fcUh5V2ppaTg1a2Q?oc=5",
         "image": null,
         "recruiting": false,
-        "source": "University of Colorado Athletics"
-      },
-      {
-        "headline": "Key dates for 2026-27 NBA season",
-        "description": "",
-        "published": "2026-06-24T07:00:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMiSkFVX3lxTE4xNVlRRHFIc2c1RldBanIwV1hmaWk4QUcxU1hNSm1CLVpqck1jWkl6UXRRSTZWb2dybDdDaHdDS0hYN3Uxa0xOcERR?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "NBA.com"
-      },
-      {
-        "headline": "2026 NBA draft big board rankings: Top 100 prospects",
-        "description": "",
-        "published": "2026-06-23T15:30:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQU283QlM2Z3VGWUVMQS1tUnFQeXNJX29seFZEM3FTbWdiVjY0MEZoQ0VCSkI0cnhveDBuT195eld5a1pUQk1JaEFJSjl0Y0dwVjJpVWxNTnN6cWxmQ25RSGNySFBMbUh6NW5KOS1vTG4tUUgxQzhqdDNYVnVfM0RGOXZqelZEaUlyN3padUpjOEUzVUpfVURsZ3BJOFd1N3k2VGVVZnV3NA?oc=5",
-        "image": null,
-        "recruiting": true,
-        "source": "ESPN"
+        "source": "Los Angeles Times"
       }
     ],
     "games": []
