@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-29T01:51:09.104305+00:00",
+  "generated_at": "2026-06-29T02:06:15.061879+00:00",
   "duke": {
     "news": [
       {
@@ -73,15 +73,6 @@
         "image": null,
         "recruiting": true,
         "source": "Yahoo Sports"
-      },
-      {
-        "headline": "After three picks in the 2026 NBA Draft, Duke's 2027 draft haul looks even larger",
-        "description": "",
-        "published": "2026-06-27T16:09:00+00:00",
-        "link": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNY3Z2U25ZV0hUbjVVRUREUUMzM29rLXEySTN0MUduUHBxcVE5WHZfMVFPVXRNa25qaDdXcWZSaE0yVW1rUUZWbm9wRnh2d2N2anEyTzhBdmo2WnpWQXVPd0JUVWtKQ2tsdEZzMkY4NmFISGtwQk5EcWhkbEVtRGdSYl92c2NzYXc5UVFxMHJIRlZ1WGhmVUlLU3NDeXhKajBqQ2dxdTVxME1JcWk0RGJfaEtFQ2JTT0NvNlBHeGpIeVByNGdjdU85SW92UDI3dw?oc=5",
-        "image": null,
-        "recruiting": false,
-        "source": "247Sports"
       },
       {
         "headline": "The Explosive Rise Of Duke Basketball In The 1990s.",
@@ -253,6 +244,15 @@
         "image": "https://a.espncdn.com/photo/2024/0624/r1350010_600x400_3-2.jpg",
         "recruiting": false,
         "source": "ESPN"
+      },
+      {
+        "headline": "Here's what Duke basketball\u2019s Cameron Boozer brings to Memphis Grizzlies",
+        "description": "",
+        "published": "2026-06-24T00:49:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOU21UYTRjUzhvWU4xQ3BfazJDeHQyRmdmNDlIcnpOWUZ4bFNOeVluUzB2b0h1dWh6STFyaFg0NTNpQk5xaVVxWVZ3WXRIbzQ4aUg2U1VUV2VNR3RPWEkxdjFiamVfaHRrYjNjakZpMlRaWk5FS3JoLXNIYzBMRjVjUVlJMFQzcE54UjdtVkx1VFBYUkpFRkdyMDQxTFN3UkxuSjR6Smx3NzRqcmFobVFaSWhUVmY4cE12MTJWNktaYl9Sc3lqVDVKRzViWjBiLWFSLXJKanFxUWdpY3oyM1NIMA?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "The Fayetteville Observer"
       }
     ],
     "games": [
@@ -486,13 +486,31 @@
   "nba": {
     "news": [
       {
+        "headline": "NBA Insider Names Western Conference Rising Team 'Front-Runners' To Acquire Jaylen Brown",
+        "description": "",
+        "published": "2026-06-29T01:22:00+00:00",
+        "link": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQajdscGpKYVRpNXhTSUZWcE4wUU9oSlNtaEZUdTBmOG1jdjFhMnFFcVA3T2xIeUJLcTc4QXo0aVVzVXJ3WGNDUHJQSTlPQ21TS2FDMEh5YXh2WHBCRWU0VGxMd3J5bXpLZ0tHSHkzTldndmp5UE9zX1lJWkNlRnQxSFA0ZWhGM2U2WXR1eTdB?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
+      },
+      {
         "headline": "Hamilton Heights basketball coach weighs in on Felix Okpara's NBA journey",
         "description": "",
-        "published": "2026-06-29T00:00:05+00:00",
-        "link": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxNdkxXTklSQ3lpWFVYQjlXbm5SLTZjWTgxd2lvSWU1YmttSEYzVXBZSm1rTmxsWllJdHJ5WjFsUVpmUUpwYTFIU0pOMXg4cXFiYk5wQV9HYlZfUG9DdEU3X1RHV3ZraDZackd4UEJsTjQ1MFpkUGttZVBTazVjUV9TQm9OWGo2b2hfMFVLVHFwUlNfdVNvelZ4Ul9WU3NKUTlNVUZiQ3NDS3JFNGJZdXN1NmpJM014VF9RSlBCUzNmNDlWVmtXZnZlRDAzUmxqUHZ3Uk45QWZhdXlQeGZPWkhyWlNFcC1SQUdaUWRXSDJvTU83RmNwX19zRk1DZw?oc=5",
+        "published": "2026-06-28T23:47:27+00:00",
+        "link": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOMGhtRUtLY2RsdmJDX2lOQUVROUJ5Q1N2U0U4bkliWWZMRFJvNWp6VEdNNDZsTEJ1V2dnalpYMHN5ZUhWNWdkTEV1RC1zUkIzOWpzMUtLMmxIdllHMkQ5WTNuTklFS2NIa0JRT29VNFAzdEtrUXFEYjhzQUJjZkxWclZiRkstRWxTS3BwR0haeXNFdFZCTHlYSmUzeDhaU3BEMEhzZXdoWExnay1LTW5BaFhhY0dyWVdGMmRHVGpUekZSRFB3Q3ppb0VFRzNYWVdmVUh4QkhuQXFpQWkwZnNxUHZxUVhNRXRkbmo2UGdIdmM?oc=5",
         "image": null,
         "recruiting": false,
         "source": "WTVC"
+      },
+      {
+        "headline": "NBA Insider Casts Doubt on Jalen Green\u2019s Long-Term Future With Suns After Miles Bridges Trade",
+        "description": "",
+        "published": "2026-06-28T23:43:34+00:00",
+        "link": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNS01lR3NyaFMwX1B0UHllZ3dzWThVUG1ZYjRRckl2NWZjengtR2ZsUzFrOGJLNzd4ZEVOd3BMYUFJMEpiblUtdTJDUmhxSWdtN0sxQl91ZkRkWnlOTFB5Q2poU09ra1dWR29sNVN3TDdod25hQ2tzMndOU1k3aHNSenZ3ZEo?oc=5",
+        "image": null,
+        "recruiting": false,
+        "source": "Yahoo Sports"
       },
       {
         "headline": "Sources: Hornets trade veteran Miles Bridges to Suns",
